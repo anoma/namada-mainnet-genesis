@@ -1,0 +1,178 @@
+name: Check Pre Genesis Transactions 👨‍🔧
+
+on:
+  merge_group:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - transactions/*.toml
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: ${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
+
+permissions:
+  packages: write
+  contents: write
+
+env:
+  CAN_ADD_VALIDATORS: ${{ vars.CAN_ADD_VALIDATORS }}
+  CAN_ADD_BONDS: ${{ vars.CAN_ADD_BONDS }}
+  CAN_ADD_ACCOUNTS: ${{ vars.CAN_ADD_ACCOUNTS }}
+  RUST_BACKTRACE: 1 
+
+jobs:
+  pr-check:
+    if: ${{ github.event_name == 'pull_request' }}
+    name: Shallow PR check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up python
+        id: setup-python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install and configure Poetry
+        uses: snok/install-poetry@v1
+        with:
+          virtualenvs-create: true
+          virtualenvs-in-project: true
+          virtualenvs-path: .venv
+          installer-parallel: true
+      - name: Set up cache
+        uses: actions/cache@v4
+        id: cached-poetry-dependencies
+        with:
+          path: .venv
+          key: venv-${{ runner.os }}-${{ steps.setup-python.outputs.python-version }}-${{ hashFiles('**/poetry.lock') }}
+      - name: Install dependencies
+        run: poetry install --no-interaction
+        if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
+      - run: |
+          source .venv/bin/activate
+          poetry run python scripts/validate-pr.py
+        env:
+          ALIAS: ${{ github.actor }}
+
+  merge-check:
+    runs-on: ubuntu-latest
+    name: Deep merge check 
+    if: ${{ github.event_name == 'merge_group' }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: sigoden/install-binary@v1
+        with:
+          repo: anoma/namada
+          tag: v0.43.0
+          name: namadac
+      - name: Set up python
+        id: setup-python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install and configure Poetry
+        uses: snok/install-poetry@v1
+        with:
+          virtualenvs-create: true
+          virtualenvs-in-project: true
+          virtualenvs-path: .venv
+          installer-parallel: true
+      - name: Set up cache
+        uses: actions/cache@v4
+        id: cached-poetry-dependencies
+        with:
+          path: .venv
+          key: venv-${{ runner.os }}-${{ steps.setup-python.outputs.python-version }}-${{ hashFiles('**/poetry.lock') }}
+      - name: Install dependencies
+        run: poetry install --no-interaction
+        if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
+      - run: |
+          source .venv/bin/activate
+          poetry run python scripts/validate-merge.py
+
+  main:
+    if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+    name: Rebuild genesis README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ secrets.GH_APP_ID }}
+          private-key: ${{ secrets.GH_APP_SK }}
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ steps.app-token.outputs.token }}
+      - name: Set up python
+        id: setup-python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install and configure Poetry
+        uses: snok/install-poetry@v1
+        with:
+          virtualenvs-create: true
+          virtualenvs-in-project: true
+          virtualenvs-path: .venv
+          installer-parallel: true
+      - name: Set up cache
+        uses: actions/cache@v4
+        id: cached-poetry-dependencies
+        with:
+          path: .venv
+          key: venv-${{ runner.os }}-${{ steps.setup-python.outputs.python-version }}-${{ hashFiles('**/poetry.lock') }}
+      - name: Install dependencies
+        run: poetry install --no-interaction
+        if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
+      - run: |
+          source .venv/bin/activate
+          poetry run python scripts/rebuild.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "[skip ci] rebuild genesis readme"
+
+  can_enqueue:
+    needs: [pr-check]
+    name: Can try to merge
+    if: always() && github.event_name != 'merge_group' && github.event_name != 'push'
+    permissions:
+      actions: read
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          NEEDS_JSON: "${{toJSON(needs)}}"
+        name: Transform outcomes
+        run: |
+          echo "ALL_SUCCESS=$(echo "$NEEDS_JSON" | jq '. | to_entries | map([.value.result == "success", .value.result == "skipped"] | any) | all')" >> $GITHUB_ENV
+      - name: check outcomes
+        run: "[ $ALL_SUCCESS == true ]"
+
+  can_merge:
+    needs: [pr-check, merge-check]
+    name: Can merge
+    if: always() && github.event_name == 'merge_group'
+    permissions:
+      contents: read
+      pages: write
+      actions: read
+      id-token: write
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          NEEDS_JSON: "${{toJSON(needs)}}"
+        name: Transform outcomes
+        run: |
+          echo "ALL_SUCCESS=$(echo "$NEEDS_JSON" | jq '. | to_entries | map([.value.result == "success", .value.result == "skipped"] | any) | all')" >> $GITHUB_ENV
+      - name: check outcomes
+        run: "[ $ALL_SUCCESS == true ]"
