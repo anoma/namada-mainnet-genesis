@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "scripts"
+version = "0.1.0"
+description = ""
+authors = ["Gianmarco Fraccaroli <gianmarco.fraccaroli@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+plotly = "^5.22.0"
+kaleido = "0.2.1"
+jinja2 = "^3.1.4"
+
+[tool.poetry.group.dev.dependencies]
+toml = "^0.10.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
