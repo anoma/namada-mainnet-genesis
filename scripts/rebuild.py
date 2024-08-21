@@ -75,7 +75,7 @@ def parse_validators():
                 'commission_rate': float(validator['commission_rate']) * 100,
                 'max_commission_rate_change': float(validator['max_commission_rate_change']) * 100,
                 'email': validator['metadata']['email'],
-                'alias': validator['metadata']['alias'] if 'alias' in validator['metadata'] else None,
+                'alias': validator['metadata']['name'] if 'name' in validator['metadata'] else None,
                 'website': validator['metadata']['website'] if 'website' in validator['metadata'] else None,
                 'voting_power': target_vp[validator['address']] if validator['address'] in target_vp else 0
             })
