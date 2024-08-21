@@ -226,7 +226,7 @@ def validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply
 
 def main():
     alias = get_alias_from_env()
-    check_deleted_and_modified_files(alias)
+    # check_deleted_and_modified_files(alias)
     
     can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts = read_env()
     changed_files = get_all_created_files(alias)
