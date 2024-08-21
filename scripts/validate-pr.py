@@ -22,7 +22,9 @@ def read_env():
 
 
 def check_deleted_and_modified_files():
-    res = subprocess.run(["git", "diff", "--name-only", "--diff-filter=DM", "origin/main"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    base_ref = os.getenv('GITHUB_BASE_REF')
+    head_ref = os.getenv('GITHUB_HEAD_REF')
+    res = subprocess.run(["git", "diff", "--name-only", "--diff-filter=DM", "origin/{base_ref}...origin/{head_ref}"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     if res.returncode > 0:
         exit(1)
     
@@ -31,7 +33,9 @@ def check_deleted_and_modified_files():
         print("Found modified/deleted: {}".format(file))
 
 def get_all_created_files(alias):
-    res = subprocess.run(["git", "diff", "--name-only", "--diff-filter=AM", "origin/main"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    base_ref = os.getenv('GITHUB_BASE_REF')
+    head_ref = os.getenv('GITHUB_HEAD_REF')
+    res = subprocess.run(["git", "diff", "--name-only", "--diff-filter=AM", "origin/{base_ref}...origin/{head_ref}"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     if res.returncode > 0:
         exit(1)
     
