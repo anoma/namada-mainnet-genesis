@@ -276,3 +276,48 @@ name = "KonsorTech"
 [validator_account.signatures]
 tpknam1qp04kmhvtuy5zhr4q6eh4rm5vry7s4vhmf4wzpyzvhp4leq59w00w0d8ysc = "signam1qq85vv4zkzn7nc0l6ufce5jwgu2mu52fy33vpjqh2cr9s87ml8p9avxfr3u35az2hm0ygz70u4l0u7gvztzsj6effkkcrennssp7gzs0mw5yx9"
 
+
+
+# adding transaction for itrocket-team-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrt77k69kgahp0c9ajskf64z72amkvn3usagulqgluk6vdznxcpx29l9xnn"]
+
+[[validator_account]]
+address = "tnam1q99e0kqh32q6s3f3mr0ds772edyg7862jgj23fhh"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.36.231:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpp9usvn0080f3nnffhkdzv52czu4ykh8eawlw28we8a4jnsvakqyyhlus3"
+authorization = "signam1qrh020ghlu7cpsp7m3whedgae4y33at0rvssm28a2l5twysj3et7wrecmju85ak3gm9rdvxpghrugk06gvqm8ujs9xm4shuusfe3dsc228hz6a"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqv9hlsgrppkywkltpm6wntkkcdnzjy6fuqwvw005c6l3h5zdtcjsw65422"
+authorization = "signam1qr83hzg7yvzl4n8xzd5xkz8ftle2jk45kzxtfgc6snjmsgklj3nj7u5hkhe08e6008m2er5wm9dwpprdgw4ffypznxuzy8ctwy5nnrsw3f0n75"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qztp37zxkfp0wjh9rr7vz7tmzmvlld3k3nxcgvcznwkgnjlldu5mumd4a9y"
+authorization = "signam1qrqcc56mfn8drdxwzdxc2hafpwpax2dshsfcg32wagy2thx64e2p6lqnz5l5m64c5dwhrsufzjlmqphvsppl5rxql3nd5jzavx9sl9qtel3wwy"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypql7qk5qkzgpp5xpqeu2xmse7dpty3puv63c58qcwn7we5claxfjct7jllm"
+authorization = "signam1qy6luys9lyydxd6cgyha68kxzyq03lzvqryc2mp0exr9f60pss7zxeg50xgskcl8nudrqcffqmqgtxx4ryp9ruru6vjdpa4q2zf5pnjrqqaddmd0"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyppvu4ascq5uwkeddfj6ar5ft6rl0maad4qrkahy24lgdkqycsqt4cn3zv2j"
+authorization = "signam1q9hfgxgw7vcgvltay6084vxyqkk43v9srh4cgxel75ff2yxelwk87vmpx9lw6eunnel7sqk6rl8qza7x8fss23s3j4xsqcuhx4kcfsxaqyvkym8e"
+
+[validator_account.metadata]
+email = "fastrpl@gmail.com"
+description = "Trusted Validator & Interchain Utility Provider"
+website = "https://itrocket.net/"
+discord_handle = "itrocket"
+
+[validator_account.signatures]
+tpknam1qrt77k69kgahp0c9ajskf64z72amkvn3usagulqgluk6vdznxcpx29l9xnn = "signam1qp83efyj40d5sqgw8kf03yzsq7rjmk7kn5vuyzqsay98c6cdsyrn32uame6k2yetwu20ke92a9x48mmg3mafk82xrmzl9mdcnx3tcxc0xrh0mu"
+

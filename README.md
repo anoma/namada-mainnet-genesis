@@ -63,3 +63,11 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `validator@konsortech.xyz`
     - website: `https://konsortech.xyz`
 
+- address: `tnam1q99e0kqh32q6s3f3mr0ds772edyg7862jgj23fhh`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `fastrpl@gmail.com`
+    - website: `https://itrocket.net/`
+
