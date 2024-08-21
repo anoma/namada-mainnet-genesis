@@ -10,9 +10,9 @@ EMAIL_PATTERN = r"^\S+@\S+\.\S+$"
 
 
 def read_env():
-    can_apply_for_validators = os.environ.get('CAN_ADD_VALIDATORS', True).lower() in ('true', '1', 't')
-    can_apply_for_bonds = os.environ.get('CAN_ADD_BONDS', True).lower() in ('true', '1', 't')
-    can_apply_for_accounts = os.environ.get('CAN_ADD_ACCOUNTS', True).lower() in ('true', '1', 't')
+    can_apply_for_validators = os.environ.get('CAN_ADD_VALIDATORS', 'true').lower() in ('true', '1', 't')
+    can_apply_for_bonds = os.environ.get('CAN_ADD_BONDS', 'true').lower() in ('true', '1', 't')
+    can_apply_for_accounts = os.environ.get('CAN_ADD_ACCOUNTS', 'true').lower() in ('true', '1', 't')
 
     print("Can add validators: {}".format(can_apply_for_validators))
     print("Can add bonds: {}".format(can_apply_for_bonds))
@@ -188,7 +188,7 @@ def check_if_bond_is_valid(bonds_toml: List[Dict], balances: Dict[str, Dict]):
     return True
 
 
-def validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts):
+def validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts) -> bool:
     balances = toml.load(open("genesis/balances.toml", "r"))
     nam_balances = balances['token']['NAM']
 
@@ -196,27 +196,33 @@ def validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply
         accounts_toml = read_unsafe_toml(file)
         if accounts_toml is None:
             print("{} is NOT valid.".format(file))
+            return False
         is_valid = check_if_account_is_valid(accounts_toml)
         if not is_valid:
             print("{} is NOT valid.".format(file))
+            return False
     elif '-validator.toml' in file and can_apply_for_validators:
         validators_toml = read_unsafe_toml(file)
         if validators_toml is None:
             print("{} is NOT valid.".format(file))
+            return False
         is_valid = check_if_validator_is_valid(validators_toml)
         if not is_valid:
             print("{} is NOT valid.".format(file))
+            return False
     elif '-bond.toml' in file and can_apply_for_bonds:
         bonds_toml = read_unsafe_toml(file)
         if not bonds_toml:
             print("{} is NOT valid.".format(file))
+            return False
         is_valid = check_if_bond_is_valid(bonds_toml, nam_balances)
         if not is_valid:
             print("{} is NOT valid.".format(file))
+            return False
     else:
         return False
-
-    print("{} is valid.".format(file))
+    
+    return True
 
 def main():
     alias = get_alias_from_env()
@@ -236,11 +242,17 @@ def main():
 
         file_alias = get_alias_from_file(file)
         if not alias.lower() in file_alias.lower():
+            print("alias {} doesn't correspond".format(alias.lower()))
             exit(1)
 
         print("{} is allowed, checking if its valid...".format(file))
     
-        validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts)
+        res = validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts)
+        if res:
+            print("{} is valid.".format(file))
+        else:
+            print("{} is NOT valid".format(file))
+            exit(1)
 
 
 if __name__ == "__main__":
