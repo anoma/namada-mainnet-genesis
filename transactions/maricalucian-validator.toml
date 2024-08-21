@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrhxueu3pwap690yfpm4x6wg8w7r0lt5vw5pq42wqhaxksw5s5zmvdkk3nq"]
+
+[[validator_account]]
+address = "tnam1q829u6jedv7y4yek2gfrh77qaz9qe3veduzkdyk4"
+vp = "vp_user"
+commission_rate = "0.03"
+max_commission_rate_change = "0.01"
+net_address = "38.242.244.85:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzkm9rxqfs4gn9f20nddc6j589hcqrm89xcnmaannq230wmvtu00zdcuns4"
+authorization = "signam1qzrs70j0sd7thu0g0lldllslppwxed2md5hnc6mgveqvyp9a4d660plt5c0hzfukc0wut65f5hkj9hpjzlww6d0wzs45lcrdlavv3zspn2dzyl"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpa7xlrjf97tdk4zaru5rh7e5z77ju08qzh5salxzygstu78eprx5gc3x5a"
+authorization = "signam1qr78f8w72q7q7pjwjtd3ztghcykdt8khs0scfy8ahwy0j0rvxf0w7amgy0zarpzdzu72e2f2k0vh3q57ws0pr5wx3zyyrurjyec438c06hj8k2"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr0m72rvdyhcctrxh2dqarqx3vmld00k039nm8mz62lz7cj05hy6zfn0mwh"
+authorization = "signam1qzcxl99p9hcqm7cfvdsr0je5a6tmad423l7x8xh9mqahs5r8gq492ppvm77l3jhg9wm4qqlr2ce90vc7974763m6t7qf9fr5c9tfxdsg4taph7"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypp69js9ghlalr8ez8n6wfq4p30vr6urukutwvhcdkkda7r36s0xjsgs2fgu"
+authorization = "signam1qxs6dedhccmnwvygv2cuz6dejnqh9dyyfgx7c2awu9hpaycxm66gqye4hkcnxctc5e9zqdeet5fkqlhxz6jwt4d9tsthh5ggqrvgjmr9qy504eqm"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyplnyqx5u7p0r0uvfq53uat82l99kahsuh8dtrk7kdhrk0hagmq67c8fknef"
+authorization = "signam1qxypeul4586fesrup45yx6el0qxwx3r77el6p54mwqlql0wt5lrszzfg3dl7dj40ff49gnwancn5ygesg67gp220r7xg5lah9pje5r46qqyl9n8u"
+
+[validator_account.metadata]
+email = "leon@coverlet.io"
+description = "High performance trusted validator"
+website = "https://coverlet.io/"
+discord_handle = "leongameon"
+name = "Coverlet"
+
+[validator_account.signatures]
+tpknam1qrhxueu3pwap690yfpm4x6wg8w7r0lt5vw5pq42wqhaxksw5s5zmvdkk3nq = "signam1qql7sxsnly387lsfc3q5ssrpfsyjgcgy7v6609s3h7vx4qzr0xhyh7h5lspdlmcn75ey7xzqu85hajp9nu6v34mv5tmtsnw5vx4a25szlx9ull"
