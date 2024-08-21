@@ -1,0 +1,21 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzdmsngyxh4lrm6uwegwdqnq566a73twu3khc2kvjny3pg0nz2mv6vjesrw"]
+
+[[validator_account]]
+address = "tnam1qyw3amnxak8hthan0agj8rwrlhwc8r5ztqrvf3pz"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.205.244.152:26656"
+consensus_key = "tpknam1qrzfvyvy5kfj25u0kkepwaqk5d0rw6nt7p3peqmxp992wjlx0f22wl72grn"
+protocol_key = "tpknam1qqakmlspr3j5h9n3jw8546nhmjt6wf572sz2v8wdlf9t48qqw24sc3xz0r2"
+tendermint_node_key = "tpknam1qrqmhhq6nu27nl2vlhcf5nvspq98ua7wvx95na3ekcpkm50ys42yqjstant"
+eth_hot_key = "tpknam1qypgzylz4tchr5tq9d7z27mdagc2vm6wcrqk6c8tjq60r6qlaqqt30sfy9s08"
+eth_cold_key = "tpknam1qypg7sc926rq5ut554pmrsgm990hcc0yv5zecnjk83jpz6e0qz7h4kqysc7p7"
+
+[validator_account.metadata]
+email = "i.dred.one@gmail.com"
+discord_handle = "ches0494"
+name = "rch"
