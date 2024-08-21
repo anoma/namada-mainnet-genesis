@@ -1,0 +1,29 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp5eqyc4k246jlkuzxzdrprla92e7p0urccuyjr7y096grgj7eydct4lxdu"]
+
+[[validator_account]]
+address = "tnam1qyx57588ejm4ltfldr4kvftmcr8plkx7eykxkmsj"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.03"
+net_address = "0.0.0.0:26656"
+consensus_key = "tpknam1qrmn28v97n32lfmnpqrggy0xrampu42j6yyf4rc38jlmda3928y2uczxx8n"
+protocol_key = "tpknam1qzr74rgatqm74p9r2p9vpdrg4yklgpx8faqrq39he0rqhtdnefeuy43mg8k"
+tendermint_node_key = "tpknam1qplg8kvem78htnqsj34twn5hdd0yfsk8jp7r6yl2jlv72swnupm5y8drch7"
+eth_hot_key = "tpknam1qypfrvyyrmc24ncteyvz9jkl6pqx7yz7f4j8em4lsug7utlu7luy79q78msxg"
+eth_cold_key = "tpknam1qyp6g62hd4mmpzl0r8vvdct7mglrnwq9uxygxs0ss8kjk9y0efqe46c5h7lel"
+
+[validator_account.metadata]
+email = "n75pro@protonmail.com"
+description = "Professional validator service"
+website = "https://node75.org"
+discord_handle = "shurinoff"
+avatar = "https://raw.githubusercontent.com/the-node75/about-us/main/resources/logo_128x128.png"
+name = "pro-nodes75"
+
+[[bond]]
+source = "tnam1qyx57588ejm4ltfldr4kvftmcr8plkx7eykxkmsj"
+validator = "tnam1qyx57588ejm4ltfldr4kvftmcr8plkx7eykxkmsj"
+amount = "0.1"
