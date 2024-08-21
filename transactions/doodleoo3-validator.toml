@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp4sxhwzky6pc8dsr0rce9k768e8jf84zh7qk6ct89g5sq46dly0vyqd98q"]
+
+[[validator_account]]
+address = "tnam1q8qkkdq9wvpk0udfaf64cswzpnwe033jpvcmrxz6"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "176.9.183.45:35656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqzwzqs32aevq0q248s9rp8lhxcukjn2xcxdexdkvgjl27z2apacgxn9pe7"
+authorization = "signam1qz4fyyhqqae0wftmgh76thjww5eskln0fe7lkzha7s46xskxw7tqkh3x6ahju4j5af9tuge8v9k9nn5202x2gvvz5edf8qd7h5fgeqc2m63h0z"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp4hz87vgkgplq2xvygamxkw8zg7pgw9s4qdg66502p7f63q2u67g8l8pyg"
+authorization = "signam1qpvc7v4tens6g4wkdsdmdrl4a23jyxs9lnf37se5kdu9d8dzd8ksnqygn6fh09hplre0247zwvwu720pprhv4mm0yeqgnguvr5uje8czwa7n3h"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrv58fwfelzgcuuvd8gmrlg03y0dwlrm3qkd0cg49fjs0g7mm5v0sv4cv2n"
+authorization = "signam1qp9a6sg0ht9f3zunfepe0egazf8ek53c2kjqzw89z9zraaer2szvhmsmeg5hf7yws8t23t79fwaj8m08lk4yk0v209guvj9ttfsmk5gfglun0m"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp0q935yaafx6yxfmcxr6a995tzqu5u08qk4wztdk4fwtam59shk3cyy29kh"
+authorization = "signam1q9ju70cwwn9jh76pe4fftm8d5vnet59zmdrggl239j89s9yn6wxhcnzjftcg9a93r0fpu234amqyxdz4almkhva02nqknjz9txn5deedqqz2pv9r"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyptq62z4evz5csjqwm5nwvkem92ffnpkqyuuzmyctzwcn58xka7n9sexr5l6"
+authorization = "signam1q8pqupql0z2sfsg7ems9e4gvnq69kwcyekr28ad66yk0wrum4j5eq52tm8jazhmsjk404az3pd2wnwgf3mmyjppwwdn2njmp6dz9006jqyvakt79"
+
+[validator_account.metadata]
+email = "contact@dteam.tech"
+description = "DTEAM tries to provide the best and up-to-date services on the market as well as create useful tools for the project community, node operators and developers."
+website = "https://dteam.tech/"
+discord_handle = "doodleoo"
+avatar = "https://raw.githubusercontent.com/DTEAMTECH/identity/main/logo.png"
+name = "DTEAM"
+
+[validator_account.signatures]
+tpknam1qp4sxhwzky6pc8dsr0rce9k768e8jf84zh7qk6ct89g5sq46dly0vyqd98q = "signam1qq246dgvrxqm9fm9sgx2edkcg34jfhnf5rpsvv29vacthws7h8qgwwvtpvmeh5v5zyzw5js80xsuexcuynarx0ym9t5v2kwcfejss5s9ar57dr"
