@@ -31,6 +31,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `admin@validatorvn.com`
     - website: `https://validatorvn.com`
 
+- address: `tnam1q8wldcr49mhm92a69fmf847d8rn48e6gcql2s4ya`
+    - alias: `bitszn`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `bitszn.com@gmail.com`
+    - website: `https://bitszn.com`
+
 - address: `tnam1q8sjkutd5kqwcc555wr77p9fjn66nuuqfuzzc3yc`
     - alias: `Mandragora`
     - commission: `5.0%`
