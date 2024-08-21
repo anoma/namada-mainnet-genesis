@@ -1,3 +1,49 @@
+# adding transaction for mrspir-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqyjgjhdek36tv0urrtxhz7pemvr96tz0ys86qqwrjfhw5ckana87ygmzry"]
+
+[[validator_account]]
+address = "tnam1q8hck7594xqw9dz35m8wwtgtvdxf4xn0mg908r8x"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.101.62:12656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz8ukqu0tj80g3v27azup3aeqdn77e27mvgkn83kj67qlker2gwlqku4576"
+authorization = "signam1qqu5f6vrqzdlxmzrxmfef0g5g4z6w4ugskdj5mglyf0n5myadnurqapndgsgaepkjenyzrx9fwe2grleqmexuzrput9glauqcg5uy4gwwhewqc"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr8qaza9v4dtx8sl5s28wtlfvgx4qtuynqzkysg5j9zftl968694jjp9w98"
+authorization = "signam1qr46sxuq9zq5sgzwe7eee7a44r3rzlj069ctm9svjyeyuutg38xvmyw5hef7nj602wdjqts7s2773v8jctlex6mvafkdmw7qlzy5n0cvsgysr9"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzwrtc64vjuuxgcvmkaljyqcqnzmpfen0k83h77vr3k79xuv5332kwr378q"
+authorization = "signam1qqqenz7y9jgvechegvvf588xa70l06nz0knsqp5555x07eu6c7nc0eydtraj9p0guucm5m0y4rg7nlsn4fwn5s3wr5rsrhe9e9a4v6c05g7478"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypufdcrpum6lff58d4urhyzr7l43f42qcu3u7w5kkq72dhs9e6gp7s47ax7m"
+authorization = "signam1q94pat63z2zkdlw0fjqt7s8p2lekm44yquupve24qp9lnhvtaua72ngz4gt7wu6snza8qu60lsjyklrlf7q3rzvdrergdgfeu95v0k7mqq6a7az4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypezw6qd5zkr0w7w0qm9grnht4rdpnl7qvhq5ymvxnk9hlpnhly25qg3p9h4"
+authorization = "signam1q992wpe2df4hn34uvzuue00cj3jgqsp7la2ys25tm0qnl2eluflkcwlsdzt8x97hnm9u9czw75muj99wp8qy8386wzq2rqxad3p35269qq33395v"
+
+[validator_account.metadata]
+email = "hi@originstake.com"
+description = "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Namada."
+website = "https://originstake.com"
+discord_handle = "mrspir"
+avatar = "https://raw.githubusercontent.com/OriginStake/ogs-media/main/Logo/PNG/OriginStake_Logo_1.png"
+name = "OriginStake"
+
+[validator_account.signatures]
+tpknam1qqyjgjhdek36tv0urrtxhz7pemvr96tz0ys86qqwrjfhw5ckana87ygmzry = "signam1qpuln6xfw2wm5p5d7ujt2mgrucxnsplxzqkkmu0n7equyftnerlxxh028m74rw3mvu3vw495nzw5gt73alfhcz2lpjfsyv0285fdwsgqmv3wv9"
+
+
 # adding transaction for mcdaan-validator
 
 [[established_account]]
