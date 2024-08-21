@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq62aqnyeu3dtsskcynnr2dap33psyq640vhpd6jpjhekskzcc37qgfldnu"]
+
+[[validator_account]]
+address = "tnam1q9mnuc2tkkmglpsf293uzhx8lnvvmem0ygq7qf95"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.56.215:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrd5jjtjcqt8g7t0pyrgl5a8d4cemctdcuv98cvkcvc7rzlgd85zy6ss4e4"
+authorization = "signam1qzlmphmdp5p66g8q7ep7rvxs6pfz636wxlmc93p3z67z4f7rcug6yyjvns0x6nwsp3zpx9kycn2tq4tlt94gyx3suv6sj898awkxercv2m7zf2"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqhq64865gh4e7jh23skzafrm95c0arx682srcfhs67d8jdza7zsszs2r3y"
+authorization = "signam1qqcgkyd4r4rk65tr39h0r59lvsjyja9uv9wrpw3834st45g2q5hcrr2y2djsg678086h8yrnxjp5m3rykduqvppnk5ymvyu4y2qcqmcyumazu0"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqdhr3nat25rs8740srjkm5v5dhmhmw34ac3azqz0gr93s5lzl68k7cx0lg"
+authorization = "signam1qpgguhk648dq6prs7ca32vwqewmw8adwas07ave4laah4ymg048242f4g86hlsrr835u7rsklx8rtgzqycz0fplrfjt6rt06deae54c8d9dssq"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypzdtthz55vjqcl5evwulg0kdtjm36qn0ytpje6rw06x423m2rpj5g6sx6uc"
+authorization = "signam1q9wn2wuxwczp63qn2jrrd5szz7dmkvvmfv2ewxh59e8tjfw0492qwnynzw6uxv0fprzj5lqtnl32r3c8f3ak4g8rhxmu40pvkh3epvrjqyvu4drv"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypeq6xq8pxk4mmc3mdrz0kcvntlhq5ggraxfa40t2nmcl9kdjsny5g6h0fzu"
+authorization = "signam1q8ve2t6xjdpdy90nvatu6hs4vknqnee09gtvj9p2acfs7kpmm4mlxjvscsfsqeca3nf0m5rdf220r9gwj92nrq79hespn6f3u790yhqwqyq2mn4z"
+
+[validator_account.metadata]
+email = "theroadz@proton.me"
+discord_handle = "theroadz"
+name = "theroadz"
+
+[validator_account.signatures]
+tpknam1qq62aqnyeu3dtsskcynnr2dap33psyq640vhpd6jpjhekskzcc37qgfldnu = "signam1qqsqzmn0u28cpn5cyzqt5q0y4rtwatmahvxg5v6dgrs06dlm9nukvd7gjpyzmk45rd324dwfum7hzxuaur42yjyam9hwyzvc96477kq2wmwpre"

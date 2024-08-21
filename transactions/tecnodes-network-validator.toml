@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrh8eya03pyvgqr4qhyavf38986e75vr0j0d9py404a2d3dwvtwfwqz85g9"]
+
+[[validator_account]]
+address = "tnam1q9tf86cusctv2c679ssflsrq0ymd9qxnluuewvt8"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.229.120:36656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrut2avemklfppyjj0r76pdqx4z45sj7jvddx6qwqg76pldnf8we593wxg3"
+authorization = "signam1qze7wu2q65csqwmc7uzkf5yw7tscdew33flw8v2gxrhuu2m2w9ehxc0a7aerh4z5uxzdzwztv70p4xjxxvh04pe6t6kav5crmyt4n9qyt0angs"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq2q6zm8xhtxekzzwmq2v8jc9gc9d9tedmqr67zt8lfx6r3nmqp0zx33jus"
+authorization = "signam1qz26qnl6zca3k849w2g43zshm0hpntj7vem6peurv4v7l0gk443k4zem4frr8xmuepkr6u2ygaru9huqq98f7etmv6vqscmhd0ld7vqv7yqa8d"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpqkxyp8zzkm9s2ayy33mt8svpha6uq9wvlwme4h5a7d6wdl5flhuyg6avs"
+authorization = "signam1qzk7dkncc4hx9hj56e2vnx2tgemnj4kye5mmztsn2ur83x94tzm6gvf9t75mch04aye7pr5r5yggr4hkqvh20ymksw8g4f7pxjaflggt0f96hn"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypr4952sc8yc0ev2umn0d770p4jlw9csy54g6ddq9w38l8zekvsxusac8yqh"
+authorization = "signam1q9sz9rcgjp5ugh95ngu9gdk2dd9x8awfta7y9wkpjvvpe7uxgnfpchvlmfaz872nflds04vfewdk0l7s87a56lk7jfgsnvp4ffensetzqyjs34k6"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypenmvvtyxacmv366vvdf48zhs7feu2m08xn2hwdjuzrjnwkhrqeusj4stvc"
+authorization = "signam1q8rnqvqmn7puxcsf0w7u8lgcegl7zcykc23drfqymq3st2uztjagqu7x779tjtxr5x2eln3yfx6hce3d36sta9jy8zs2zx7hr8xfq743qym5wqks"
+
+[validator_account.metadata]
+email = "tecnodes.network@gmail.com"
+description = "Tecnodes is a forward-looking organization poised at the intersection of technology and decentralized solutions. Our team’s foundation is built upon decades of combined experience in network security, blockchain validation, and high-performance system maintenance. Our passion drives us beyond just being validators; it’s about fostering a more decentralized and collaborative digital future."
+website = "https://tecnodes.network"
+discord_handle = "tecnodes"
+avatar = "https://www.tecnodes.network/src/images/logo.png"
+name = "Tecnodes"
+
+[validator_account.signatures]
+tpknam1qrh8eya03pyvgqr4qhyavf38986e75vr0j0d9py404a2d3dwvtwfwqz85g9 = "signam1qz6fphxp6dssvlgu7t66h3ee3l5cnd2c3j9en0rm3ng5egggcv7r9c4zl2panlp57r2zjn7rmqsr4hlj539cxdkds7kwpkn28lpkejqwlc3u2s"

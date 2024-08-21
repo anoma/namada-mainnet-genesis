@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp04kmhvtuy5zhr4q6eh4rm5vry7s4vhmf4wzpyzvhp4leq59w00w0d8ysc"]
+
+[[validator_account]]
+address = "tnam1qxqj95as4g2hmkuj7uzvklwgch6tvqh8ay84m2jc"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "37.27.71.199:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzh5rqszkrgnu5ka73mq84td4kwt06c4a7r0zv82zvllqx9tz2gc2wh28cg"
+authorization = "signam1qphypfxdc30lag9gztfzs5lm5eragtu8nga2y42upqrasewyznwq4d7584xk2pclt3dhj3juszv8u7w90dvnkjzhk73683tpkyrcz4qpjdrj7k"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpdzdj9kmrnzd954gnr8zewy8r5j30st5e6mtn5peher03gmz8aq5xwp7rc"
+authorization = "signam1qrx8h0c838yfma7ccjjvjvj67w6fd7y5nqy2equfjlftq4ljta0wn7dlg6tjf45lcyhka5jqc2l8xnp0v6srpztpf77gqspc5djla3gqdf5yv5"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqhdpcl30u7xm8rauyz8p3kegd8wefkp5rmx5zkws46pu0ean5c57cakt93"
+authorization = "signam1qrzq9wlngxquzfcrwdr3zmlqldcvplgph2zjakd2ws9drraumkx4mtl4d5ktapm2wtjt97l5fzks760wta92s2ejz2tcnpt0fc73juq0h90z8y"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypkh89m32w78ufcx8j537rhsxa85m6yvyvrfmmwka97tepeanuvdwsls2c6w"
+authorization = "signam1qyd8ez4dvufg944sflhsuczk77rz3rc8x9t9qmq2k3hmqwt7z6g0y6qcazhdqvq6lwa6zlfhnqcu744eyxf6udcq2vkp4dg9urvlsmwlqq5kal2h"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypz8kr40eyljqqn73p9j9fr8wtmvy7veadyzc7excnzp05e0a5za0ssudsxf"
+authorization = "signam1qxacgesru0r8jkrc0z6tf2403sk05khqhrql8qgm4wmezffed9y6wxfqdpajtxa40kl82ygat932dvqdn4w8pjzqtq777hjrsnek4jgnqqgrd2x4"
+
+[validator_account.metadata]
+email = "validator@konsortech.xyz"
+description = "Stake With Us ! Become Professional Stake Provider"
+website = "https://konsortech.xyz"
+discord_handle = "konsortech"
+avatar = "https://ss-namada.konsortech.xyz/namada/profile/konsortech.jpg"
+name = "KonsorTech"
+
+[validator_account.signatures]
+tpknam1qp04kmhvtuy5zhr4q6eh4rm5vry7s4vhmf4wzpyzvhp4leq59w00w0d8ysc = "signam1qq85vv4zkzn7nc0l6ufce5jwgu2mu52fy33vpjqh2cr9s87ml8p9avxfr3u35az2hm0ygz70u4l0u7gvztzsj6effkkcrennssp7gzs0mw5yx9"
