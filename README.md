@@ -55,6 +55,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `official@crouton.digital`
     - website: `https:/crouton.digital`
 
+- address: `tnam1q8qkkdq9wvpk0udfaf64cswzpnwe033jpvcmrxz6`
+    - alias: `DTEAM`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `contact@dteam.tech`
+    - website: `https://dteam.tech/`
+
 - address: `tnam1qxqj95as4g2hmkuj7uzvklwgch6tvqh8ay84m2jc`
     - alias: `KonsorTech`
     - commission: `5.0%`
