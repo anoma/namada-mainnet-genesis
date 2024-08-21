@@ -20,9 +20,9 @@ permissions:
   contents: write
 
 env:
-  CAN_ADD_VALIDATORS: ${{ vars.CAN_ADD_VALIDATORS }}
-  CAN_ADD_BONDS: ${{ vars.CAN_ADD_BONDS }}
-  CAN_ADD_ACCOUNTS: ${{ vars.CAN_ADD_ACCOUNTS }}
+  CAN_ADD_VALIDATORS: 'true'
+  CAN_ADD_BONDS: 'false'
+  CAN_ADD_ACCOUNTS: 'true'
   RUST_BACKTRACE: 1 
 
 jobs:
