@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzj4svh5wvasuwdaau2sm5qs53c0tcu6u2wum7ly05et3w6q00j05ts0e4u"]
+
+[[validator_account]]
+address = "tnam1q8236gr76rrsluvq27j8mkma8u04hz0khszatckw"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "213.239.198.181:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzhnq08fa02yfgv6v7zg7uu4zx6ssc39mv6vndgmdx8dc40z95v7u5skrxt"
+authorization = "signam1qrl7w5vk5486udr4jdqg9rlylnj9kc62f2qens6w290pacavg4jk3ucmn6ef7sqj5zjjur4xkz4ec4m70ulmy5z5xu0mwf9jthqdu3qzhjnq56"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp97wn0l2aggzffeksradn309jjszyxz7gwzvch3h4kqw7xw68nn2nqh5qc"
+authorization = "signam1qzu066h5lpcxkjgdmscxpn6lnsk9gzdq823dkxpc6us5fr83y5gg03l2kp7fxm59kl0r5cy6j5j45qzccay9pe0qjaupku99gl47lvsrpvc6gu"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpxaqpkhx75nu0wlusn7ca24tjdfvanp78azsqm97jxj8fw3nh2axrq4xts"
+authorization = "signam1qz6le7sdq8rd3sm3cphk456v86v0juu00u8gtkfmxvawrqvcda58ge700w6dpxqmxxft094vdpw90m58f7q8gsrpra0sty0vuvudjdgqezrjlv"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyptpmvn3exrf4hlzn6j0hhqtawr9wlrplawkcvxftl06qx0tytldlc3pqv45"
+authorization = "signam1q9j03ve5eyfnhpx06ayyege8ykeyhy62u50yf6uy2nq96lunn3f5v6v6rm3l6qx6kjdrp64r9lchteed04emqz42mn7s996nj95vn2d9qysufy3t"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp77l23zy3t0qlf8ny7d4q92n9ra9jkwfuyr0dg05ct0zgaml40agq7crdc9"
+authorization = "signam1q9rnuajdnwhvpaxexrk24vajd4jxjrdlghdf0g7vdyqvg9e46uw2ymqmu67vadxcllcjyd4ck0xlh8uwazaax97dyfmue6d3v0lqwnvpqqc4t27k"
+
+[validator_account.metadata]
+email = "admin@validatorvn.com"
+description = "Trusted Proof-of-Stake validator & Tendermint chain service provider. Active ecosystem contributor, community manager & moderator"
+website = "https://validatorvn.com"
+discord_handle = "validatorvn"
+avatar = "https://raw.githubusercontent.com/Dymioncloud/Logos/main/SG3ZfSyr_400x400.jpg"
+name = "ValidatorVN"
+
+[validator_account.signatures]
+tpknam1qzj4svh5wvasuwdaau2sm5qs53c0tcu6u2wum7ly05et3w6q00j05ts0e4u = "signam1qz9vlsm5zgys46htj74y0a5pm6eka88yrlq73n96uy3z5m72kd0ptxjk5pgzsgpsy46p7ewed729vjrxl0vvp97ns5hmxr9m5l8l9wcwxe2puv"
