@@ -55,7 +55,8 @@ jobs:
       - name: Install dependencies
         run: poetry install --no-interaction
         if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
-      - run: |
+      - name: Check PR submission correctness
+        run: |
           source .venv/bin/activate
           poetry run python scripts/validate-pr.py
         env:
@@ -96,7 +97,8 @@ jobs:
       - name: Install dependencies
         run: poetry install --no-interaction
         if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
-      - run: |
+      - name: Check PR submission correctness
+        run: |
           source .venv/bin/activate
           poetry run python scripts/validate-merge.py
 
@@ -135,7 +137,8 @@ jobs:
       - name: Install dependencies
         run: poetry install --no-interaction
         if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
-      - run: |
+      - name: Rebuild README.md
+        run: |
           source .venv/bin/activate
           poetry run python scripts/rebuild.py
       - uses: stefanzweifel/git-auto-commit-action@v5

@@ -14,9 +14,9 @@ def read_env():
     can_apply_for_bonds = os.environ.get('CAN_ADD_BONDS', True).lower() in ('true', '1', 't')
     can_apply_for_accounts = os.environ.get('CAN_ADD_ACCOUNTS', True).lower() in ('true', '1', 't')
 
-    print("Can add validators: {}", can_apply_for_validators)
-    print("Can add bonds: {}", can_apply_for_bonds)
-    print("Can add accounts: {}", can_apply_for_accounts)
+    print("Can add validators: {}".format(can_apply_for_validators))
+    print("Can add bonds: {}".format(can_apply_for_bonds))
+    print("Can add accounts: {}".format(can_apply_for_accounts))
 
     return can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts
 
