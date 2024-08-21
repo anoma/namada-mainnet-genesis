@@ -135,3 +135,50 @@ name = "Mandragora"
 [validator_account.signatures]
 tpknam1qqhjp8cjk442f4wfam6zf5pyjlzq5u6pp5cpf0xhvjlwj9ddkmnq6turgdy = "signam1qzf3xruvc6djejzytqcsf7vfzzz4ln845fkra67yjh6kpl9lxhkufqs48u2vgvm7ah8tpmqzefnfm5at6dnswl5ty73nrmfdcj3w8vq8asade7"
 
+
+
+# adding transaction for croutondigital-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz6t9x9qm3fh4a4g2vwyz9x3h8auyakpnruqzs94ukxr8yd2yzfvz4ka36c"]
+
+[[validator_account]]
+address = "tnam1qx64zytr93rjj23ztf32y2rnrxwlm9j6svyznxez"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "139.45.205.58:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpg4xpn38ww2gs0y48tx5gta4sktfvu8mruz94vvgeuq96q27u4p56u98pm"
+authorization = "signam1qpffkppxe6c0d5msvglax0ekzjr40xnvlqplry8lwz5nqqzs5mhfqh0hhqkpslsvthzy2g9k2qprtjnggm6jrzprfagsaqsm7cjchncqpkku5a"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp09duwy0hk0umxu284tjcu0yvc30etsfpxrmgz288kedgef6fhrx8nkgdq"
+authorization = "signam1qrx77yzt6kmvf6ugly47v04g0l93hakmmdsqmajsxh04ajgqqug9lccrngxd8krjquedzxa3tuaqhs7w2wqmk42acx7aajz7tmzcpkcxmjnxza"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrwwyxqq009x8dpjxep3t29qeyk7n7l0qc40wz4xatdy3ledhwnk28vcdak"
+authorization = "signam1qqjr4wwpjqfgyqhz5xwu4j39y7mlu9hntl03jv43ugq4ajt29ljqxksr8n9ev8h3ygxpwafgg0sry6n362raywe89npte532xmy3z0qxqwznat"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp3dxekyvan9a6psc8da3uuuxuddtw83zgcfpwtmvxjcyx27sw6gaq4ylkpk"
+authorization = "signam1q8ec8xtnlmvctymmqq5gf7wwaxdqmqg664f9k8gna77gqa7ugdetyqzkv9t860q55dkm5fgpjngp3hzv4d7kq4fgkl8p6vl8lsyjs5aeqqnzpsua"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypul462px9mcyu4kv4mfwd8pgpakc8djrmfu4lalrhghkljjcwy2lg4s040p"
+authorization = "signam1q8zm3vxs8v7ftdw8ct4qrkslsf7537x72hasckmsl59lu0h7yjfvkhsfkj3pgrar30x56y0tsguppncceph4vnkrt327xuwyq3kt60m4qyh8r3jd"
+
+[validator_account.metadata]
+email = "official@crouton.digital"
+description = "Your everyday crypto partner"
+website = "https:/crouton.digital"
+discord_handle = "ak32821"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/7b282adb3049558dba41acaf0e5c7f05_360_360.jpg"
+name = "CroutonDigital"
+
+[validator_account.signatures]
+tpknam1qz6t9x9qm3fh4a4g2vwyz9x3h8auyakpnruqzs94ukxr8yd2yzfvz4ka36c = "signam1qpwq67a8e3g0mh3sffwlwrq3z7tpgkw42sca3np7lygdf8zzjjqlvt8pg3aze3j3szaz62juhcgmw8zrg79c23qu8zv82fcmthae2lgdg6hqy9"
+
