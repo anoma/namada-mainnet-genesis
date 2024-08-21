@@ -87,3 +87,11 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `fastrpl@gmail.com`
     - website: `https://itrocket.net/`
 
+- address: `tnam1q9tf86cusctv2c679ssflsrq0ymd9qxnluuewvt8`
+    - alias: `Tecnodes`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `tecnodes.network@gmail.com`
+    - website: `https://tecnodes.network`
+
