@@ -188,7 +188,7 @@ def check_if_bond_is_valid(bonds_toml: List[Dict], balances: Dict[str, Dict]):
     return True
 
 
-def validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts):
+def validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts) -> bool:
     balances = toml.load(open("genesis/balances.toml", "r"))
     nam_balances = balances['token']['NAM']
 
@@ -196,27 +196,31 @@ def validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply
         accounts_toml = read_unsafe_toml(file)
         if accounts_toml is None:
             print("{} is NOT valid.".format(file))
+            return False
         is_valid = check_if_account_is_valid(accounts_toml)
         if not is_valid:
             print("{} is NOT valid.".format(file))
+            return False
     elif '-validator.toml' in file and can_apply_for_validators:
         validators_toml = read_unsafe_toml(file)
         if validators_toml is None:
             print("{} is NOT valid.".format(file))
+            return False
         is_valid = check_if_validator_is_valid(validators_toml)
         if not is_valid:
             print("{} is NOT valid.".format(file))
+            return False
     elif '-bond.toml' in file and can_apply_for_bonds:
         bonds_toml = read_unsafe_toml(file)
         if not bonds_toml:
             print("{} is NOT valid.".format(file))
+            return False
         is_valid = check_if_bond_is_valid(bonds_toml, nam_balances)
         if not is_valid:
             print("{} is NOT valid.".format(file))
+            return False
     else:
         return False
-
-    print("{} is valid.".format(file))
 
 def main():
     alias = get_alias_from_env()
@@ -240,7 +244,12 @@ def main():
 
         print("{} is allowed, checking if its valid...".format(file))
     
-        validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts)
+        res = validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts)
+        if res:
+            print("{} is valid.".format(file))
+        else:
+            print("{} is NOT valid".format(file))
+            exit(1)
 
 
 if __name__ == "__main__":
