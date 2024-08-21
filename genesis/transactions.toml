@@ -138,6 +138,50 @@ tpknam1qzdd0ndvtqylxvwj3e53utxcxspfusvrrfmznwhvxs0jaj48thgkwkgnjht = "signam1qpd
 
 
 
+# adding transaction for ryssroad-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq62aqnyeu3dtsskcynnr2dap33psyq640vhpd6jpjhekskzcc37qgfldnu"]
+
+[[validator_account]]
+address = "tnam1q9mnuc2tkkmglpsf293uzhx8lnvvmem0ygq7qf95"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.56.215:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrd5jjtjcqt8g7t0pyrgl5a8d4cemctdcuv98cvkcvc7rzlgd85zy6ss4e4"
+authorization = "signam1qzlmphmdp5p66g8q7ep7rvxs6pfz636wxlmc93p3z67z4f7rcug6yyjvns0x6nwsp3zpx9kycn2tq4tlt94gyx3suv6sj898awkxercv2m7zf2"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqhq64865gh4e7jh23skzafrm95c0arx682srcfhs67d8jdza7zsszs2r3y"
+authorization = "signam1qqcgkyd4r4rk65tr39h0r59lvsjyja9uv9wrpw3834st45g2q5hcrr2y2djsg678086h8yrnxjp5m3rykduqvppnk5ymvyu4y2qcqmcyumazu0"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqdhr3nat25rs8740srjkm5v5dhmhmw34ac3azqz0gr93s5lzl68k7cx0lg"
+authorization = "signam1qpgguhk648dq6prs7ca32vwqewmw8adwas07ave4laah4ymg048242f4g86hlsrr835u7rsklx8rtgzqycz0fplrfjt6rt06deae54c8d9dssq"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypzdtthz55vjqcl5evwulg0kdtjm36qn0ytpje6rw06x423m2rpj5g6sx6uc"
+authorization = "signam1q9wn2wuxwczp63qn2jrrd5szz7dmkvvmfv2ewxh59e8tjfw0492qwnynzw6uxv0fprzj5lqtnl32r3c8f3ak4g8rhxmu40pvkh3epvrjqyvu4drv"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypeq6xq8pxk4mmc3mdrz0kcvntlhq5ggraxfa40t2nmcl9kdjsny5g6h0fzu"
+authorization = "signam1q8ve2t6xjdpdy90nvatu6hs4vknqnee09gtvj9p2acfs7kpmm4mlxjvscsfsqeca3nf0m5rdf220r9gwj92nrq79hespn6f3u790yhqwqyq2mn4z"
+
+[validator_account.metadata]
+email = "theroadz@proton.me"
+discord_handle = "theroadz"
+name = "theroadz"
+
+[validator_account.signatures]
+tpknam1qq62aqnyeu3dtsskcynnr2dap33psyq640vhpd6jpjhekskzcc37qgfldnu = "signam1qqsqzmn0u28cpn5cyzqt5q0y4rtwatmahvxg5v6dgrs06dlm9nukvd7gjpyzmk45rd324dwfum7hzxuaur42yjyam9hwyzvc96477kq2wmwpre"
+
+
+
 # adding transaction for mcdaan-validator
 
 [[established_account]]
@@ -228,6 +272,53 @@ name = "CroutonDigital"
 
 [validator_account.signatures]
 tpknam1qz6t9x9qm3fh4a4g2vwyz9x3h8auyakpnruqzs94ukxr8yd2yzfvz4ka36c = "signam1qpwq67a8e3g0mh3sffwlwrq3z7tpgkw42sca3np7lygdf8zzjjqlvt8pg3aze3j3szaz62juhcgmw8zrg79c23qu8zv82fcmthae2lgdg6hqy9"
+
+
+
+# adding transaction for doodleoo3-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp4sxhwzky6pc8dsr0rce9k768e8jf84zh7qk6ct89g5sq46dly0vyqd98q"]
+
+[[validator_account]]
+address = "tnam1q8qkkdq9wvpk0udfaf64cswzpnwe033jpvcmrxz6"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "176.9.183.45:35656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqzwzqs32aevq0q248s9rp8lhxcukjn2xcxdexdkvgjl27z2apacgxn9pe7"
+authorization = "signam1qz4fyyhqqae0wftmgh76thjww5eskln0fe7lkzha7s46xskxw7tqkh3x6ahju4j5af9tuge8v9k9nn5202x2gvvz5edf8qd7h5fgeqc2m63h0z"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp4hz87vgkgplq2xvygamxkw8zg7pgw9s4qdg66502p7f63q2u67g8l8pyg"
+authorization = "signam1qpvc7v4tens6g4wkdsdmdrl4a23jyxs9lnf37se5kdu9d8dzd8ksnqygn6fh09hplre0247zwvwu720pprhv4mm0yeqgnguvr5uje8czwa7n3h"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrv58fwfelzgcuuvd8gmrlg03y0dwlrm3qkd0cg49fjs0g7mm5v0sv4cv2n"
+authorization = "signam1qp9a6sg0ht9f3zunfepe0egazf8ek53c2kjqzw89z9zraaer2szvhmsmeg5hf7yws8t23t79fwaj8m08lk4yk0v209guvj9ttfsmk5gfglun0m"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp0q935yaafx6yxfmcxr6a995tzqu5u08qk4wztdk4fwtam59shk3cyy29kh"
+authorization = "signam1q9ju70cwwn9jh76pe4fftm8d5vnet59zmdrggl239j89s9yn6wxhcnzjftcg9a93r0fpu234amqyxdz4almkhva02nqknjz9txn5deedqqz2pv9r"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyptq62z4evz5csjqwm5nwvkem92ffnpkqyuuzmyctzwcn58xka7n9sexr5l6"
+authorization = "signam1q8pqupql0z2sfsg7ems9e4gvnq69kwcyekr28ad66yk0wrum4j5eq52tm8jazhmsjk404az3pd2wnwgf3mmyjppwwdn2njmp6dz9006jqyvakt79"
+
+[validator_account.metadata]
+email = "contact@dteam.tech"
+description = "DTEAM tries to provide the best and up-to-date services on the market as well as create useful tools for the project community, node operators and developers."
+website = "https://dteam.tech/"
+discord_handle = "doodleoo"
+avatar = "https://raw.githubusercontent.com/DTEAMTECH/identity/main/logo.png"
+name = "DTEAM"
+
+[validator_account.signatures]
+tpknam1qp4sxhwzky6pc8dsr0rce9k768e8jf84zh7qk6ct89g5sq46dly0vyqd98q = "signam1qq246dgvrxqm9fm9sgx2edkcg34jfhnf5rpsvv29vacthws7h8qgwwvtpvmeh5v5zyzw5js80xsuexcuynarx0ym9t5v2kwcfejss5s9ar57dr"
 
 
 
