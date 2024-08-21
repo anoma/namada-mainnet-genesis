@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpdfc4yjf6e0fpsr3gcxtwhmn0nedaqc3wdq3azv9hl6shwa4celz4nyj73"]
+
+[[validator_account]]
+address = "tnam1q9rq7p4wzy6fea96xs5sr8qnsxsfdr2zugfsvw2n"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "100.64.95.254:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqequ7f394784dmc5dxpzz457ydh9vkh64tktqcq8ukzllkrake2gshmpa4"
+authorization = "signam1qq40ucq79euqvq9y8j4zegtzmlzwduazl4xv88shnvxpayun2aezky82qqckcgf7ucsl9pyk5xyvwartnfu943dc3kzude90220ukqcdchcjyn"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpte60gevzevg3pagd5fs7vwgl7pzjm8ph4ejfv27pwx9p6hqzxn728ezzm"
+authorization = "signam1qqhvvytxs056jq2h4gexech3ch9uurvqffnulwe59cra2d74rmx635v4kxxpceanwj9znpxpa6hfrv6863rrncr4ma4qt9rfqjkyz9gfps72h8"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr74zzhm99euxzlm4250mc6a4wtfjw4xjey4xplrh3htwfe56wz6x8253yq"
+authorization = "signam1qzwschhmhlfuqesdvs4gmcr2vzdesv94njuwkr26w9wv7twj2d43vxqxuzjthc2z6953e9gy4nqged9r6pxyhyf262y7xp0yl7jq3zsx8weg6z"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypjuhy2caqqrlksm648cjmk4llud89g4jsxqnpkvq9gy9u56x82z0cruzwj8"
+authorization = "signam1q8wn7e3egvwkgf6z3h56rmpv7fz2zsrcvsk4c5vjc000x52ax5x95x99gqssudjf8pk7n6juev6lmv2avx45pj28xf3pfgwllyey7h7pqyhyxqy9"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypg6jknpq6wd2r4q3pr6u27y38mhmq8juj3yg2y744nry58x7vzl5gmsu334"
+authorization = "signam1qxurcr3czq8p0xevtl7thyja3h0jkr02nj795htadhg7wmk6uxtckcqe465ha29x267lnxxhj8ezmwdea4v6mgd3h26x2csez0mut42rqqsjgj03"
+
+[validator_account.metadata]
+email = "security@nodes.guru"
+description = "Guru of non-custodial staking. Professional node running, low fees, best uptime and 24/7 customer support."
+website = "https://nodes.guru"
+discord_handle = "0xan_nodes_guru"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/25738b36b7972b94112bc8dc0df13b05_360_360.jpg"
+name = "Nodes.Guru"
+
+[validator_account.signatures]
+tpknam1qpdfc4yjf6e0fpsr3gcxtwhmn0nedaqc3wdq3azv9hl6shwa4celz4nyj73 = "signam1qqs5e6h0axqcejexxedxz55s5e55hmlhe4alw2wya84uzaydxy5w0gl5zng28tez2juzwy69twaugqegw682cwjdrm3v55zqk23rmdgvs4dhss"
