@@ -14,6 +14,8 @@ def is_valid_template():
         print("---------")
         print(res.stdout)
         exit(1)
+    else:
+        print(res.stdout)
 
 
 def main():
