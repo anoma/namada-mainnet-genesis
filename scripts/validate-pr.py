@@ -221,6 +221,8 @@ def validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply
             return False
     else:
         return False
+    
+    return True
 
 def main():
     alias = get_alias_from_env()
@@ -240,6 +242,7 @@ def main():
 
         file_alias = get_alias_from_file(file)
         if not alias.lower() in file_alias.lower():
+            print("alias {} doesn't correspond".format(alias.lower()))
             exit(1)
 
         print("{} is allowed, checking if its valid...".format(file))
