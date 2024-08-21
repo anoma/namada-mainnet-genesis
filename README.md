@@ -23,6 +23,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `hi@originstake.com`
     - website: `https://originstake.com`
 
+- address: `tnam1q8236gr76rrsluvq27j8mkma8u04hz0khszatckw`
+    - alias: `ValidatorVN`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `admin@validatorvn.com`
+    - website: `https://validatorvn.com`
+
 - address: `tnam1q8sjkutd5kqwcc555wr77p9fjn66nuuqfuzzc3yc`
     - alias: `Mandragora`
     - commission: `5.0%`
