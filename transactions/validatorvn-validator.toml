@@ -1,0 +1,24 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzj4svh5wvasuwdaau2sm5qs53c0tcu6u2wum7ly05et3w6q00j05ts0e4u"]
+
+[[validator_account]]
+address = "tnam1q8236gr76rrsluvq27j8mkma8u04hz0khszatckw"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "213.239.198.181:26656"
+consensus_key = "tpknam1qzhnq08fa02yfgv6v7zg7uu4zx6ssc39mv6vndgmdx8dc40z95v7u5skrxt"
+protocol_key = "tpknam1qp97wn0l2aggzffeksradn309jjszyxz7gwzvch3h4kqw7xw68nn2nqh5qc"
+tendermint_node_key = "tpknam1qpxaqpkhx75nu0wlusn7ca24tjdfvanp78azsqm97jxj8fw3nh2axrq4xts"
+eth_hot_key = "tpknam1qyptpmvn3exrf4hlzn6j0hhqtawr9wlrplawkcvxftl06qx0tytldlc3pqv45"
+eth_cold_key = "tpknam1qyp77l23zy3t0qlf8ny7d4q92n9ra9jkwfuyr0dg05ct0zgaml40agq7crdc9"
+
+[validator_account.metadata]
+email = "admin@validatorvn.com"
+description = "Trusted Proof-of-Stake validator & Tendermint chain service provider. Active ecosystem contributor, community manager & moderator"
+website = "https://validatorvn.com"
+discord_handle = "validatorvn"
+avatar = "https://raw.githubusercontent.com/Dymioncloud/Logos/main/SG3ZfSyr_400x400.jpg"
+name = "ValidatorVN"
