@@ -1,0 +1,90 @@
+# adding transaction for mrspir-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqyjgjhdek36tv0urrtxhz7pemvr96tz0ys86qqwrjfhw5ckana87ygmzry"]
+
+[[validator_account]]
+address = "tnam1q8hck7594xqw9dz35m8wwtgtvdxf4xn0mg908r8x"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.101.62:12656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz8ukqu0tj80g3v27azup3aeqdn77e27mvgkn83kj67qlker2gwlqku4576"
+authorization = "signam1qqu5f6vrqzdlxmzrxmfef0g5g4z6w4ugskdj5mglyf0n5myadnurqapndgsgaepkjenyzrx9fwe2grleqmexuzrput9glauqcg5uy4gwwhewqc"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr8qaza9v4dtx8sl5s28wtlfvgx4qtuynqzkysg5j9zftl968694jjp9w98"
+authorization = "signam1qr46sxuq9zq5sgzwe7eee7a44r3rzlj069ctm9svjyeyuutg38xvmyw5hef7nj602wdjqts7s2773v8jctlex6mvafkdmw7qlzy5n0cvsgysr9"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzwrtc64vjuuxgcvmkaljyqcqnzmpfen0k83h77vr3k79xuv5332kwr378q"
+authorization = "signam1qqqenz7y9jgvechegvvf588xa70l06nz0knsqp5555x07eu6c7nc0eydtraj9p0guucm5m0y4rg7nlsn4fwn5s3wr5rsrhe9e9a4v6c05g7478"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypufdcrpum6lff58d4urhyzr7l43f42qcu3u7w5kkq72dhs9e6gp7s47ax7m"
+authorization = "signam1q94pat63z2zkdlw0fjqt7s8p2lekm44yquupve24qp9lnhvtaua72ngz4gt7wu6snza8qu60lsjyklrlf7q3rzvdrergdgfeu95v0k7mqq6a7az4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypezw6qd5zkr0w7w0qm9grnht4rdpnl7qvhq5ymvxnk9hlpnhly25qg3p9h4"
+authorization = "signam1q992wpe2df4hn34uvzuue00cj3jgqsp7la2ys25tm0qnl2eluflkcwlsdzt8x97hnm9u9czw75muj99wp8qy8386wzq2rqxad3p35269qq33395v"
+
+[validator_account.metadata]
+email = "hi@originstake.com"
+description = "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Namada."
+website = "https://originstake.com"
+discord_handle = "mrspir"
+avatar = "https://raw.githubusercontent.com/OriginStake/ogs-media/main/Logo/PNG/OriginStake_Logo_1.png"
+name = "OriginStake"
+
+[validator_account.signatures]
+tpknam1qqyjgjhdek36tv0urrtxhz7pemvr96tz0ys86qqwrjfhw5ckana87ygmzry = "signam1qpuln6xfw2wm5p5d7ujt2mgrucxnsplxzqkkmu0n7equyftnerlxxh028m74rw3mvu3vw495nzw5gt73alfhcz2lpjfsyv0285fdwsgqmv3wv9"
+
+
+# adding transaction for mcdaan-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqhjp8cjk442f4wfam6zf5pyjlzq5u6pp5cpf0xhvjlwj9ddkmnq6turgdy"]
+
+[[validator_account]]
+address = "tnam1q8sjkutd5kqwcc555wr77p9fjn66nuuqfuzzc3yc"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "142.132.135.125:24656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrkuhku5xze2g867097ne8vxh7qjc7tuag8s53p2zy7hssuk7lvfyhfhq7e"
+authorization = "signam1qztlfq6df0u2ehvn73vaxpj97czw0udgrpj8algmjupjy4x44gn64vsh897qvhc3er3w86gv4nwh0jfxskfucqyr2eqdpmng5jgta3gqw835p5"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz43lxlwxhmamr20wf3825etgfgalpnyuev7lprygk52x2yxm7hx6stlxfx"
+authorization = "signam1qrsdgdtqal70pf29mx4c7ahzh7gygda00ckup2qnfrw6hphyjpk9dqthcccpjmkr0sfaqt8dtlx8cf6c7mldy8ype76nswxtn7zrcrgq68dxwd"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qre7xfrvzvxrg7453q0u78ecup26sxjphw9qydrhvem5208w8addxtlevtc"
+authorization = "signam1qzjatnzwuyennzpxygufprdx9prln2c8m2jgxmjtsnj8z8wjf6pvg4z39l92pmtyp0ghdslvtjj7m6va2a3qv8e2kxgjs08xxdc0z7ct623l6p"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp4p9wsg40hzgdygfurfg8jkjq5ya78eryr9enue694q9lvuzetkpggwg65t"
+authorization = "signam1q9ctg6k7x4x376m4j5mg9gsesecyzhhjlqulc8n39r9t9dyqwhexg3s66ejxh4ccjftj7mfqah0cg6ddyj3swv38r23v7lzjs2acsyn3qq6g4wym"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypfyy6s79cru85v35cwzt9r577astx3tsu339fy7jzhl2kv8y32dvgck2028"
+authorization = "signam1q90rm09knnc5cgvpmu0egf5egqm9qzmd404y4g3a7629wuldj44u6sfrrgr4q29v43dzayk7t9ly62mzd2adwgch9qxpcxkv4lt8yhp3qyl20cfw"
+
+[validator_account.metadata]
+email = "support@mandragora.io"
+description = "Stake and Chill Out!"
+discord_handle = "danielmandragora"
+avatar = "https://i.ibb.co/mzWB7tq/photo-2022-10-14-05-18-24.jpg"
+name = "Mandragora"
+
+[validator_account.signatures]
+tpknam1qqhjp8cjk442f4wfam6zf5pyjlzq5u6pp5cpf0xhvjlwj9ddkmnq6turgdy = "signam1qzf3xruvc6djejzytqcsf7vfzzz4ln845fkra67yjh6kpl9lxhkufqs48u2vgvm7ah8tpmqzefnfm5at6dnswl5ty73nrmfdcj3w8vq8asade7"
+
