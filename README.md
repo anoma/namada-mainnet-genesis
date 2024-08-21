@@ -16,7 +16,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - address: `tnam1q8hck7594xqw9dz35m8wwtgtvdxf4xn0mg908r8x`
-    - alias: `Unknown alias`
+    - alias: `OriginStake`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
     - total voting power: `0`
@@ -24,7 +24,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://originstake.com`
 
 - address: `tnam1q8sjkutd5kqwcc555wr77p9fjn66nuuqfuzzc3yc`
-    - alias: `Unknown alias`
+    - alias: `Mandragora`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
     - total voting power: `0`
