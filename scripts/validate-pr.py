@@ -33,12 +33,12 @@ def check_deleted_and_modified_files(alias):
             print(alias, file_alias)
             exit(1)
 
-def get_all_created_files():
+def get_all_created_files(alias):
     res = subprocess.run(["git", "diff", "--name-only", "--diff-filter=AM", "origin/main"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     if res.returncode > 0:
         exit(1)
     
-    return list(map(lambda file_path: file_path.decode(), res.stdout.splitlines()))
+    return list(filter(lambda file_path: "transactions/{}-".format(alias) in file_path, map(lambda file_path: file_path.decode(), res.stdout.splitlines())))
 
 
 def read_unsafe_toml(file_path):
@@ -229,7 +229,7 @@ def main():
     check_deleted_and_modified_files(alias)
     
     can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts = read_env()
-    changed_files = get_all_created_files()
+    changed_files = get_all_created_files(alias)
 
     print("Found {} file changed/added.".format(len(changed_files)))
     
