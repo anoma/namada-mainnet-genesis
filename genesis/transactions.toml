@@ -319,6 +319,53 @@ name = "OriginStake"
 tpknam1qqyjgjhdek36tv0urrtxhz7pemvr96tz0ys86qqwrjfhw5ckana87ygmzry = "signam1qpuln6xfw2wm5p5d7ujt2mgrucxnsplxzqkkmu0n7equyftnerlxxh028m74rw3mvu3vw495nzw5gt73alfhcz2lpjfsyv0285fdwsgqmv3wv9"
 
 
+# adding transaction for romainua-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqtpc56nh4sa9f8epthwc0szzz53wrt8f2vu3gkwk40j2j3h9lcau2fm0c6"]
+
+[[validator_account]]
+address = "tnam1q82fsvmdkjfm7awr04xa0rkn27edztd9fypma6ha"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "162.55.84.47:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzreakfhgduvl3fx8s56kh0cm56uhyu8q5pprmf0a6zwzx0xg0cq7gwaw96"
+authorization = "signam1qp4dwgj3c558ujyuzaelq3zcmfugrddktqagdsze9txqyy9jm99ftkyl5rshlm5yvw6u2zmjzkg73027ek06fgcsceyzag73lzc4wpq87u3lx4"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzkctdmej3verqr3lsa74znkk0g296fwaqfgayee2ezm79pv884j5ntzzrn"
+authorization = "signam1qqv5ee9mfmd22x64nqm99fjmtajek4t5mgv4y69y3ux9f6qmtkkhc6a9ux2xm9kedgee8jq6pdkrwtnw7lfgretn43wfru325sedvlgxjmx75c"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrk70dale2jchs88nezwy846vveyv9j4nmxfz7uwuzsqk2mfd850krl2wyy"
+authorization = "signam1qzd6p5mc2nn38jfuas3chxeeuxmtdjkng8cwrmsvmykuq7vhqa9gam7cxw8ddk4fhnc2zgajt32gsk58txxc7xl9dtz8exljj4rxq2srphqzfn"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp0ufk4d8r70j9s4hww0zcug6m7u73l80szwsdld0t0cspqrnv3wrsdr8h5u"
+authorization = "signam1qyt47ee8d4hftcrgurkzd8sje8vfukcmagg2gncxrzhuphmesfu8cya6lajaqtgg35eypcjujf49rdwvypuss4n3yp28ae2yhgq0rn7uqy4a2upj"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypdkgllsq3p34ncjkcxmhxtkv67lja2cc4j274wq3asnsx8gnnsyug4dzvvs"
+authorization = "signam1q95z44ck2e3vwnkudw80q729c3w7pykngwln25zd6fc0uqa5m3lmv9vq5gff5karpwygmw57vy4kpq7y97smrvt4n8tnajunkfkluzgeqqdvza5g"
+
+[validator_account.metadata]
+email = "hello@n1stake.com"
+description = "Professional validator on PoS networks. DevOps Engineer, Fullstack developer. Reliability, high performance 24/7. Bare metal servers with best performance worldwide."
+website = "https://n1stake.com"
+discord_handle = "Vincagame"
+avatar = "https://n1stake.com/n1stake_logo.svg"
+name = "n1stake"
+
+[validator_account.signatures]
+tpknam1qqtpc56nh4sa9f8epthwc0szzz53wrt8f2vu3gkwk40j2j3h9lcau2fm0c6 = "signam1qzhq7gk29zn2540ljrwlylndj4mtq38a2s8yuky5a035tjwtl6srr5m8ec9dg5fhgyjzclvnx6zgk6uv3th5a4z2yyddt8fjtuvmhxs266z7nd"
+
+
+
 # adding transaction for polkachuintern-validator
 
 
