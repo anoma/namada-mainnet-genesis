@@ -343,6 +343,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `tecnodes.network@gmail.com`
     - website: `https://tecnodes.network`
 
+- address: `tnam1q8vx4sj4myszl7ej847keaurjx4yjhu89cde4530`
+    - alias: `Campbell`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `zhrakivskyiandrii@hotmail.com`
+    - website: `Unknown website`
+
 - address: `tnam1q8xasrt0q8qrkqj5s9r9xw3ee0gx5mqwyukhe699`
     - alias: `Cosmic Validator`
     - commission: `5.0%`
