@@ -111,6 +111,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `boyrdr2@gmail.com`
     - website: `https://github.com/BrainCord`
 
+- address: `tnam1qy07wl9ds2kl4cfew0426jv4qlzx7kh9pqft7ltr`
+    - alias: `ContributionDAO`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `security@contributiondao.com`
+    - website: `https://contributiondao.com`
+
 - address: `tnam1q9mnuc2tkkmglpsf293uzhx8lnvvmem0ygq7qf95`
     - alias: `theroadz`
     - commission: `5.0%`
@@ -118,6 +126,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `theroadz@proton.me`
     - website: `Unknown website`
+
+- address: `tnam1qyfmtehvnrrcwtjueygvvqrwy43dtw3r9uwe5tf7`
+    - alias: `Stake.systems`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `davidthepopescu@gmail.com`
+    - website: `https://stake.systems`
 
 - address: `tnam1q9rq7p4wzy6fea96xs5sr8qnsxsfdr2zugfsvw2n`
     - alias: `Nodes.Guru`
@@ -142,6 +158,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `core@denodes.xyz`
     - website: `https://denodes.xyz`
+
+- address: `tnam1q8g86hqz3rajj5p64pf22zmlvp9lkd976ufpz7mc`
+    - alias: `Igor_Gusarov`
+    - commission: `3.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `igrgusarov@gmail.com`
+    - website: `Unknown website`
 
 - address: `tnam1qyes8z0wyey4s3tcqfe6hrzpfq4wzznsss4pvtdy`
     - alias: `Suntzu`
