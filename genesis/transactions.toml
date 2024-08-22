@@ -786,6 +786,51 @@ tpknam1qzscetsy54ma0x6amzamfuvrvx2lalsms6uz03uayccah7ryytgvv560v68 = "signam1qr4
 
 
 
+# adding transaction for igorgusarov97-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzrw2dyxlh2ftgjka2nrtpeza9l4xzgtk2vcak2raq0fghkhyuu92d86juy"]
+
+[[validator_account]]
+address = "tnam1q8g86hqz3rajj5p64pf22zmlvp9lkd976ufpz7mc"
+vp = "vp_user"
+commission_rate = "0.03"
+max_commission_rate_change = "0.01"
+net_address = "103.241.50.43:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpjg0v9zup3y7utv838t5lqyjuxfd6m7w97nhlcc8c0mlrfdlxs974e0f7f"
+authorization = "signam1qzcmajwy3vetuzner97j527qshzkq403xnm5ta45wzsxks5t087kkpxgs984sa50n2mxydzsc3mavwjcdxqmkywcr4d8m7szjwrg3jswch5p4e"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqddrhqksdxg00tut4yd6pjhfwyhnjf07jvt0z845zusfuajmfg26uptws2"
+authorization = "signam1qq3fxhkse5fmcz2pdd037dgjqlthw8wuxhpx99yqulqzsl0my35vfvmj753qwz8f9dwuj6npc9zmzvsx582llu2fd0vp9tvlx4qs8pgxtww9gv"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrzpmhaf7pl63d3pwg04jfyllac58hfym6jlyct93shjchvj5wt2cj6rh43"
+authorization = "signam1qpdwjk7rcey9k02xckekms357th6gvqldf2wnjdzwdvtd8c4rzqydtzf634d9uaw0d5qanc8wz9hsr2z2dzm5lcsknum7gj63my2ckgxlcf7pv"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyptvkgm6v8unmpg0t2tcppzvtqkm2eqh267mp0493jkj9kfu4jf4nszupuuq"
+authorization = "signam1q87apz6alw9hdymv3uelq0l6shsnqghsvmudul04rc63tpf8pjg6kmw07xa36km8wqrd0yv7wwszn69qc9vjmadmyg9l9w4ekzuj42k2qqjd9tcp"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyplxka9xavnlcak9q6lrzxphuncrg78awdtvc3a0hym8w0ztnujwzcqf34s7"
+authorization = "signam1q8wecmtw3whd7lsyyruzg7gr7m83l6pj0p8ln2p3caxf6n6t7v43uwcytrhzdndtwctegfh0kssvum8rgd2p2uaecqhwdcdz3wddyap3qqj7kam6"
+
+[validator_account.metadata]
+email = "igrgusarov@gmail.com"
+discord_handle = "igorgusarov"
+avatar = "https://pbs.twimg.com/profile_images/1521799022595518465/PIeyV-2g_400x400.jpg"
+name = "Igor_Gusarov"
+
+[validator_account.signatures]
+tpknam1qzrw2dyxlh2ftgjka2nrtpeza9l4xzgtk2vcak2raq0fghkhyuu92d86juy = "signam1qqfcp0c6nune7zccf75gf6jfa2m2f9l4ztgeaw4al2yx0e9un4y9e82v2tuj35akz0pwte0sa9cqj47j7x30rama2chgy06u5qw5hzggky5yud"
+
+
+
 # adding transaction for suntzu93-validator
 
 [[established_account]]
