@@ -970,6 +970,53 @@ tpknam1qrt77k69kgahp0c9ajskf64z72amkvn3usagulqgluk6vdznxcpx29l9xnn = "signam1qp8
 
 
 
+# adding transaction for pa1amar-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzqzfjnntwkvc0evdn0uz3prcfsjdxpw8smr0sclganxnu5s6a2n65uln8q"]
+
+[[validator_account]]
+address = "tnam1q8re97lpfp5kmj5nu3t5sxvlp8yydnfjkuzw76dp"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "213.239.210.154:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz4uh3tg20xxvezpv2exedhq9asguywluyrh9n53qd6fmuc5zv0szllh0nq"
+authorization = "signam1qzkddr83r8w2u085cyy2p8xw32pdv6h0n4fum9z9yc8cu0j02rx6fstu3hk3xj88tcy9lc04nu30el87p5y5ky0fc9p8zksjpfh0tmgxxe2km4"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpmkcduv97tvzt62g566q95dwkjwpq3f7usntq4uulvx7z8q82qvysqm566"
+authorization = "signam1qr0dh7wgedunrygs9wgw5svnuvfksf909swxwr8wjz6qwm6gjq2m78p70z8ws48ywefgpgfpmqkmvnzgeu83x0r453y2rn9mxa9d3qgdm4jegs"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq8w5vsrxj7papptnuqdq52xwlrpy8vlnln78nj7tmpz80h7g33q6mue8c5"
+authorization = "signam1qp3a2s5j3kh7xtdfjyxha7vrg5cfjssnydnjhvzyzrckdhnxerejdec9eh90r9p2s2re7afjzcrwjact8e96ja68ynqj0nf9dxa83rg22c9hec"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypka56yf2hrtdszhzvenqqwyuapp20lv6g4m20vcf55cn5uc2a9etsd2uasp"
+authorization = "signam1q8c587jgj6f06yp0896xkkrgr68g6g7xjetrqypy03pmv8cw42mgv0szea2egdv7a9ydvjn0q3spvtcskncvd22zpncg2u49yxe4mnynqylq0zlx"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp65dvkzunlwttjef8gv45ywc204r69j5um7cl3fd965tav438ftpcf6ytqd"
+authorization = "signam1q9t5yhw49xu83me52twsd7gh2nvx0ty3st82ngdzw4u9nlzs5u0g5z0tmr2pjs9tz63fywmr4w2khpvdt7kn57rs7jzw8pkdv3k2ynahqy6xqv00"
+
+[validator_account.metadata]
+email = "admin@palamar.io"
+description = "DevOps with 9+ years of professional experience"
+website = "https://palamar.io"
+discord_handle = "pa1amar"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/bb9a61b3a3b37918732252337164a105_360_360.jpg"
+name = "Palamar"
+
+[validator_account.signatures]
+tpknam1qzqzfjnntwkvc0evdn0uz3prcfsjdxpw8smr0sclganxnu5s6a2n65uln8q = "signam1qzl23hm0gnpp09u0u4f0wv8ft2uvzjmdjy65w303pvrdfgq3k83vjg49vt78qv8hkpaf60qrtt3q48r67nkrjnquvsxelzhcncqpjgsf0f40ke"
+
+
+
 # adding transaction for tecnodes-network-validator
 
 [[established_account]]
