@@ -111,3 +111,11 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `tecnodes.network@gmail.com`
     - website: `https://tecnodes.network`
 
+- address: `tnam1q9fxma4kqfrgn8ul4fdaexgavlhug746wcvra4f8`
+    - alias: `Synergy Nodes`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `contact@synergynodes.com`
+    - website: `https://www.synergynodes.com`
+
