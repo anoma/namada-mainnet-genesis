@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpxleh3wtgyxdlm6e6ux6m5mfafad6l7jae42r6xvf0yaemerltcjms5d8l"]
+
+[[validator_account]]
+address = "tnam1qysez03jadg5uann2vpr3tdap3ahyfl2hv0kg085"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrahntgu4ewd5y0ezpz6q309p8qz88thnpc2dsejuj9adgusjqr5xjtzg0y"
+authorization = "signam1qq9fwy0xqg5k0mts8lncf88kfyljjc7v4xc027sc8zehpc2sg4ama4zwcsctjgv5smaw9jz7ml06udvup8lpeut684ma2kcpx0v4fqqzh8pjc9"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrs60hk2dj26wh3fslyfraey3cz7rwclth74eq39f2svzfgc4dw25acutgu"
+authorization = "signam1qpz7p9fhl7c9fcc4md36cem5swhmz7gcs3ldf6kemhwnevc8x6ucmu2y2a9zrlm0rpxh8nd9628w0hry7j2vhhxz48krx8upgkcvdpcrn0m2jz"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr9jkpuskaanl6px5u0yuq0j0a5eznm4zrhhr5q3p7lue82j6kezgwn65qa"
+authorization = "signam1qz2ukkfdlcecyndgg2322d3rlgjfzz3ztrulf6dqd3lazkmtktuawhf7x5l3rh8vdflvf9k3ayr4e2e6prfzhalf9ar936r39m7uldcfq5wj8q"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypzw9vszlq0vkmh2scv7tcx4mevxg8ujepvrul3p0ejp2jx4lwq3sckcmf9g"
+authorization = "signam1qyxtlv3j5y2vsaq3e7g557l2xfzg3kmt4w5nmvqcxn85xradkr35ufqha7ur0vl7cr366aljwgyuq82s34cpn8mkesgc95jra36z2kj5qyxtsded"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp023wk7rqjz9ezhmkrdkvcc0hq3waykfmwd6wjneugfy7h74atd8c9ug3er"
+authorization = "signam1q8xkzkjusdtstf56tn4h7x468vtjmqeg4wpaxynl3kydzlgpnu67y772pa3tyf8pphggerac963n4rs32pjndsqxc5608yk5vvqlnvemqyrl8hd6"
+
+[validator_account.metadata]
+email = "sale.laliola@gmail.com"
+description = "To_the_Moon"
+website = "https://github.com/JuliaMoon1"
+discord_handle = "julvinn"
+avatar = "https://github.com/JuliaMoon1/box/assets/92313780/e489e0df-3a5e-4d83-94a8-13e80a3205f9"
+name = "laliola"
+
+[validator_account.signatures]
+tpknam1qpxleh3wtgyxdlm6e6ux6m5mfafad6l7jae42r6xvf0yaemerltcjms5d8l = "signam1qpzedc3ythtlg2k0velmkmdfn06vv3gml4lhxvpz80kqs4jncjrdckjdf4q4z8ywk5tpa7e073g9z2sheq5mwjxkmg74gwkhyys5amqdje8yp7"
