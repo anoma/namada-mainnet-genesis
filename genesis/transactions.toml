@@ -597,6 +597,53 @@ name = "alexit"
 tpknam1qzsmt8lksjezlepf2zcj58uw0s8m43ur8x8j8u6fspzm73xlcysxxa56685 = "signam1qpq80mx5gl38z6s8a36kwszjkmzqv86qrhlxe8lrhu59vjurh37vdufnq2j3t06uu7tydnt022urkv3pttnqrs9uyfv0ns57y4g2xpsr8le9dx"
 
 
+# adding transaction for mnm-is-aleks-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqugy0cu8q6fgfnsp2yla6t699a50cv6ydwqe9nggcuz35d7kuxey9fwkrx"]
+
+[[validator_account]]
+address = "tnam1q8xwyyc9j58w09wqm0z3jjjkt08699t4syfnpgmh"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.198.50.205:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzhkc97rfuwwmu8uuhljpay8egvxkgr2erp34lzp6avmh03q37lxghvpcd9"
+authorization = "signam1qz6seyd463qgnz70fk3lkqrs0yxc9064t6e8f4fzrudwcrggyst2eqdseegafc38wzjur3nq2ytc4v7ckgl5ygp58fw4ye7enacuvkcg36r5kf"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq3yyv94592chg7u82mr2dy8vmpffkzrqszcee6ftpsv4s8wqpxfxgxdvc3"
+authorization = "signam1qzr4tfmt0qjwp7fx9wxr903k6kutjdpkfumlypdd6gukql2t9rfnp76rp5y9facqvancavqaz85phvfg8t57jqx0e0dnjv37k52aj7q8ztqjav"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqd04pnn0g0rgdf33ayp0j7j7wenehedctvcfs03wzhq892pquyn7a26680"
+authorization = "signam1qpmtnyxmvnqe8qzeut3gg4l6hky85n800a355j9r4gyctxz6wrnqa3qwq85udyzuh4tdjlsk5tux0rg00yc98gm6p43p23eentmrdtsvm0tp9u"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyppt37u97vj602x9cu8wxa55xv0m8kxfqstp9y6rgt2n8rfstc06dqdaxlsg"
+authorization = "signam1q82cxayxrf2gct36dv0pg5q6a9zzyfsne444x8e2yeuwvxa8anq0gw8neuc4vad3cttca25yrkt9elg959u4vcqyz4zy6p7jfpm2yaj7qqhcjz96"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypd8u5lm7a5l4k7gnmlwwd5v9hzgk5elkxazysa2yckm7d2d4w003s4nqkz0"
+authorization = "signam1qxm36tgx84hluheytg76m7ppawhl4skyrf3t8fx9u9ck6npwmr38ks98nwl6jc0q9v9z8jffs3u0wm5y0kxqfvzhg2u34mzyeeerj70lqy9fjpcn"
+
+[validator_account.metadata]
+email = "alezz@protonmail.com"
+description = "Nodes Navigator"
+website = "nodesnavigator.xyz"
+discord_handle = "alezz7997"
+avatar = "https://imgur.com/fgA409Q"
+name = "nodes_navigator"
+
+[validator_account.signatures]
+tpknam1qqugy0cu8q6fgfnsp2yla6t699a50cv6ydwqe9nggcuz35d7kuxey9fwkrx = "signam1qzerhm46jmtz8hj88lmx9ved78gc546q79serfwvz65x8dj5xdppc8vnxnh7hx4hua9vk659l5url59937kxeu9fcs2377f73gl562cdz98ztm"
+
+
+
 # adding transaction for mcdaan-validator
 
 [[established_account]]
