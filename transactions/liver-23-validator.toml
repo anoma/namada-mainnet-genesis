@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqkwe6wghcfg2vjn99c8cqeaxv59nfnr67w6sph4f4ejelyjk7dykdjlplh"]
+
+[[validator_account]]
+address = "tnam1qygycq5aejv4aypdppldrar2jnplmyt8ussdvjyr"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "142.132.199.236:33656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qppqu5vzvvpzz3qlq4qtwe2rwdwhvpwdzqpmg2ugp2ad660m4zg4zv36zdj"
+authorization = "signam1qqzpgujafa0rcz2xz4esdl8kgpc2d32d9smje32p6l65jtglp3ctdxe2rwwk8n5fxmpjjlxdpkajl7z63f6hjaq7auyfjdn76nrc9msxjuvrwn"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq02nfg8w76m6xkryca3w6u43kj2g6gnlt7veeuqfzyqwj32367wqpc7k9g"
+authorization = "signam1qrmmqpkklqrjvh6hrs4dt7cvtamvxrdekjc73jn37z5muxpvhg5v9lwt9n0xnqjehxv486wan87frqah0y0ag9jgek6sclpvs0329rsw8hsqe2"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpzw3a069ncfgwx5lrjdfch0ya5lzf7adndma57e5a5n6vxreenjyuq96nq"
+authorization = "signam1qq6qssjnu7lypp4s4ckl3lrmx6v38jfl7xzxll2m3wemsew5v2jmnvcmyyemh99fc2epf9d6hgghe2eg24h6gq8ymaxa2vt6m20867swhswc3m"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyphv7fe0cwetl6zqmtpzpnqdy0t2d0vfewx2c0d4qexv4rz39kgzksdnt66y"
+authorization = "signam1qyugzjje5lcwkpv5f7wpmg83uug3qth3lt2gpt3scp4qjdw7kshgwrlfycyqykzk4z98a00lj0wvapqcw554ezcy7hfqawdzja8sx57nqyd4zvy4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypekmhpdxagkp7q6jhg4fqlrz3rs6p65qx5hy7jgryn3nwzt7umu5cqln3cz"
+authorization = "signam1qy4fgpmjqeqk55awry9qvr6amw2nr7qy3elernp47x8kqc5tjsncqgqt8rqv4rsc06np08ehkzwud058xl2tyh5tx6w46kete2zeeuexqynxux7e"
+
+[validator_account.metadata]
+email = "liver23@protonmail.com"
+description = "You'll Never Stake Alone. Discord: liver23"
+website = "https://services.liveraven.net"
+discord_handle = "liver23"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/d33c27b78d11e9bd65af793637e31a05_360_360.jpg"
+name = "LiveRaveN"
+
+[validator_account.signatures]
+tpknam1qqkwe6wghcfg2vjn99c8cqeaxv59nfnr67w6sph4f4ejelyjk7dykdjlplh = "signam1qz5y7rwnshvyytzjr70cx73y5jn22n99a7ty9fhmpnvx5unjmnek20dn6d6nsktfzl3f9urcrkunfc3l80q4hdr4pzk5uc8uupthp2cd7rr3kn"
