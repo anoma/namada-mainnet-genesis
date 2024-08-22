@@ -167,6 +167,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `admin@nodeify.net`
     - website: `https://nodeify.net`
 
+- address: `tnam1qyl2fc8c358avg47ff5lkc47d4cnk0x8wy96ax9q`
+    - alias: `Unknown alias`
+    - commission: `1.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `contact@stakepool.dev.br`
+    - website: `https://stakepool.dev.br/`
+
 - address: `tnam1q8qkkdq9wvpk0udfaf64cswzpnwe033jpvcmrxz6`
     - alias: `DTEAM`
     - commission: `5.0%`
