@@ -23,6 +23,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `support@gatadao.zone`
     - website: `https://gatahub.zone`
 
+- address: `tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t`
+    - alias: `Stakeflow`
+    - commission: `7.000000000000001%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `team@stakeflow.io`
+    - website: `https://validator.stakeflow.io`
+
 - address: `tnam1qygycq5aejv4aypdppldrar2jnplmyt8ussdvjyr`
     - alias: `LiveRaveN`
     - commission: `5.0%`
