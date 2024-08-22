@@ -303,6 +303,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `m@cryptosj.net`
     - website: `https://cryptosj.net`
 
+- address: `tnam1q9snwwuqau7g2nh9835pjf4uhp69pv8qv5ksefrc`
+    - alias: `JeTrix`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `ilfats559@gmail.com`
+    - website: `Unknown website`
+
 - address: `tnam1q99e0kqh32q6s3f3mr0ds772edyg7862jgj23fhh`
     - alias: `Unknown alias`
     - commission: `5.0%`
