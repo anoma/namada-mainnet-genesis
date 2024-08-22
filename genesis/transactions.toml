@@ -368,6 +368,53 @@ tpknam1qzdd0ndvtqylxvwj3e53utxcxspfusvrrfmznwhvxs0jaj48thgkwkgnjht = "signam1qpd
 
 
 
+# adding transaction for braincord-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp376xvjepdl4n4yywy5p0scvp06tjht7gpuwwrr0k93qmqlag5rk6rz6gv"]
+
+[[validator_account]]
+address = "tnam1q8t4hkv7dqjkka7ns42rramvz0dmj98g7q7zq67m"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqvyj6mdjyt7zzvfg2u8qqwc6vlvcfp36kzyvp4qrlazndj6vhtvvj4s2tc"
+authorization = "signam1qpk98kprdzhthxh5jmxscc73x7vm0ysqhm73qxmk4s9vf0cdxvwplrwdj887ssvp2clzv05nsryt7k3fxe7meev8lx0a9e74r7pa58cr3ssydu"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz95d2slucuk0nh0wyy3zrcysj6j8c5jjrhg896p2eyddmf46edmgjwmefv"
+authorization = "signam1qzl8037rp7r89anpgau6puttux828f55pq3datkyu5ukwqwcdqu9cy29aqzvvmlsshkrllp5rj2sue0xcrsqdepxk2luvgsx8d58dcgqn7nhmz"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp90u22vz2h52tqpmm7llw299zuvke4ju09wp87ew93cpmlph4w2xpscynl"
+authorization = "signam1qpwasjecw5awp4ggwhkn9uclm0v6ef9hgg7j6fqlck7xk6pfrcweepd4wxvxzastemd5cg2u3luw2v8a050rj45h2nr06zac7w74wmsydd92hn"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypq86g6ruga0qqyr5zjq7r8dau5v639m4r0a2tzgmn58ztx224jp6svw43ce"
+authorization = "signam1qx99ed3dpwymndzyy7uum5umflgjxgj9rt5cvmc4mwrgjzlgt9ef592lftxw6vcptdzuzz3as968u4s4lcdgn65fv2rqwhndqngcaj8vqypfzz2t"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp0vlcry6wl5esddkz7c5xqgp0zkfjez6l95hw3gstyzp7m3f7f9pgu3ydhn"
+authorization = "signam1qysm26tgrn0ujcl8gwzlp9lfx303dty5sjr9h9m8zvpzje3rqyrlx2d06ctthkuye8kpe6c42mw6x49tk4cxcxu6gaclwq3sxvrzlzzcqq74r0xs"
+
+[validator_account.metadata]
+email = "boyrdr2@gmail.com"
+description = "High Reliable Validator"
+website = "https://github.com/BrainCord"
+discord_handle = "q.w.e.r.t.y"
+avatar = "https://raw.githubusercontent.com/BrainCord/docs/main/avatar.png"
+name = "owl-validator"
+
+[validator_account.signatures]
+tpknam1qp376xvjepdl4n4yywy5p0scvp06tjht7gpuwwrr0k93qmqlag5rk6rz6gv = "signam1qryh9ufs82pmxhfmuspq3qtfrtvdate6jag8a42cvqr2us5u3knksgwhj9mnz7pa4ezxwtjk9st62ssf44udx72y9dsec56dd7ylrqgpqzdelw"
+
+
+
 # adding transaction for ryssroad-validator
 
 [[established_account]]

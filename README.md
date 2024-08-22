@@ -79,6 +79,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `bitszn.com@gmail.com`
     - website: `https://bitszn.com`
 
+- address: `tnam1q8t4hkv7dqjkka7ns42rramvz0dmj98g7q7zq67m`
+    - alias: `owl-validator`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `boyrdr2@gmail.com`
+    - website: `https://github.com/BrainCord`
+
 - address: `tnam1q9mnuc2tkkmglpsf293uzhx8lnvvmem0ygq7qf95`
     - alias: `theroadz`
     - commission: `5.0%`
