@@ -135,3 +135,11 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `contact@synergynodes.com`
     - website: `https://www.synergynodes.com`
 
+- address: `tnam1q829u6jedv7y4yek2gfrh77qaz9qe3veduzkdyk4`
+    - alias: `Coverlet`
+    - commission: `3.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `leon@coverlet.io`
+    - website: `https://coverlet.io/`
+
