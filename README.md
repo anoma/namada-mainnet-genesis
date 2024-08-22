@@ -159,3 +159,11 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `leon@coverlet.io`
     - website: `https://coverlet.io/`
 
+- address: `tnam1q9xecndf4dpp83v393myhlzzs2g7g7df2c9cdzll`
+    - alias: `StakeArmy`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `stakearmy@gmail.com`
+    - website: `https://stakearmy.com`
+
