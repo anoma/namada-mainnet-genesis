@@ -556,6 +556,53 @@ tpknam1qp376xvjepdl4n4yywy5p0scvp06tjht7gpuwwrr0k93qmqlag5rk6rz6gv = "signam1qry
 
 
 
+# adding transaction for addicola-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qprpwvr4fv8tya4836t9wwy7ly2yr3suf6v0c223tz89805z0hyekazyd20"]
+
+[[validator_account]]
+address = "tnam1qy07wl9ds2kl4cfew0426jv4qlzx7kh9pqft7ltr"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "15.235.216.30:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrzjrdhugwm0krjz7aw9wnyg0mqs33nreq57q2lfk0qh0wwjg5p2cxaxhqg"
+authorization = "signam1qr70nuecl026khesqntuthyjzkun58ft4ewx6evtxx5p67pk8dntu45fyhz08ex3g0aqsxrh42yetmz58rwel5sew9ue5u4fq64h3ectykl2lu"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp4wdrtv2ssmwl2p9fsmdyk24rgcax5egyrauwf9mg0wglfehu9fxhe45gq"
+authorization = "signam1qqjpp96eyhdmq8rt9slt585xgte8p3qr96uppqqe3wmexdwsanuc7e4xkzr5zk6duz5x4tpx33fddz363jja0uptzlqz8fuva2ssp5s03m4cjg"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzfsc0vwqeyp73z68l603w9cre62wxplj3gj9ceeflzuwdsn60xc220w05s"
+authorization = "signam1qzxs69ehghnn9rkasrzgtpn29yezyfy3a50llktwwgljwlzdc5066cmlj9umn2zdq2yxhrd0gy7x9pjl6g8wg02pqjj7kd7ndc7s0cgpfjv7rj"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypkzlrd2cdvz3hq8ekwfuh2uqy4zym4jqpvtk7vayxrftp5eeeq04cylxqay"
+authorization = "signam1q9mlnj955gp5xkkjsfn56r9qfwgdracd63q8vtkvpyx5xt0mm6ndgqdgxar54t263tnc2sat75t75ufr4uwk70p3kg5zrp85j5c4yc6cqy4zsygw"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp6sk4xga5sclwys2f6yd0a9e5lzz6s7vznzva2yyxehge4hwkeepglctg79"
+authorization = "signam1q83mpuywgjepy8mqp6urd0xazufwg98rmzm6f56h6vlvcv70he6u7zj3dye0h3q7szvtaq5h2uuph4lv2ukr2u2x7rgp8sa6vuuk3asyqqqmxj8y"
+
+[validator_account.metadata]
+email = "security@contributiondao.com"
+description = "Secure Network with Institutional-Grade Solution"
+website = "https://contributiondao.com"
+discord_handle = "ntpcontribute"
+avatar = "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway/moniker/archwayvaloper1eze2npmnmu4mu5gklw02rnp6sa6cqysn8kxjsh.png"
+name = "ContributionDAO"
+
+[validator_account.signatures]
+tpknam1qprpwvr4fv8tya4836t9wwy7ly2yr3suf6v0c223tz89805z0hyekazyd20 = "signam1qr7f4djtnu6km20a8j5jcsd3ufw7xgyhlrdqaev258yju7thdcwfygayvf432mneuetczdy36ct80pufhe8p268yq9s2rs5k9e5l7qsr93nqv3"
+
+
+
 # adding transaction for ryssroad-validator
 
 [[established_account]]
