@@ -375,6 +375,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `papadritta@gmail.com`
     - website: `https://github.com/papadritta`
 
+- address: `tnam1qyx57588ejm4ltfldr4kvftmcr8plkx7eykxkmsj`
+    - alias: `pro-nodes75`
+    - commission: `5.0%`
+    - max commission rate change: `3.0%`
+    - total voting power: `0`
+    - email: `n75pro@protonmail.com`
+    - website: `https://node75.org`
+
 - address: `tnam1q99e0kqh32q6s3f3mr0ds772edyg7862jgj23fhh`
     - alias: `Unknown alias`
     - commission: `5.0%`
