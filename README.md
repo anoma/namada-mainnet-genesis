@@ -199,6 +199,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `nguyen@mekonglabs.tech`
     - website: `https://mekonglabs.tech`
 
+- address: `tnam1qxlahm9qqxqhyjezsxvrpkn9ajekrkg2xq5v8rz8`
+    - alias: `forest`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `yarco@pragma.ooo`
+    - website: `https://pragma.ooo`
+
 - address: `tnam1q83z54q574kvzfujk5dt9kpy42a4zpassueswgyq`
     - alias: `alexit`
     - commission: `5.0%`
