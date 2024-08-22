@@ -1710,3 +1710,49 @@ name = "StakeArmy"
 [validator_account.signatures]
 tpknam1qp7leayn9ahpg2c4qg30732g8kzn48ck7vunq8rjnke3mcrnta2rkrzuqwe = "signam1qz3d9ex0ldrxxekp5vztejraq3hv285ma84vvxdaxg5nzp0k055zhzu2rk9zlqqq9nasv2t44e3x0vkfjf6q5k3qsj7mvx4eyv80qjcqx47jum"
 
+
+
+# adding transaction for lyeoeon-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqa5lwdwjlcfh6tu5s3g208g9x84zg6w8a89nkmn3czjhucu287jckg0wrk"]
+
+[[validator_account]]
+address = "tnam1qyswpl4wvk4zq45axze9mdghqr9n9ls9yvm9t66c"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "62.171.161.9:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp9qrelxsmqt28h879axxjnr63ynzts7s395gfa6cxcyjklf7g8fu67znaz"
+authorization = "signam1qp6mag9fktzvlng7f6aaeu3l2dae8g6g8xzs3ddtd7jc6mewp0fw7wma8rskedvamqawgv6hl5un47q3tl8kjefqheecpegtueavdfq8kjmg4a"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzrswtxvcu2zxmqetuhz8j5x36azkyszlnrzqdtst9vwcqh3a74es5yvx04"
+authorization = "signam1qrpfuer0fw4jdryk7c7yech3v75cwnz3c4p6nzspj8g7ullcdzde5qg00ju8jvqr8sm5qrrcrfrx3gzny75d8awn0va8z2sqtxuvqpsxfrjq8g"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzd3zpm6x6f4mgte5wlqs2g2s5levcpnhc002rtkf5ktm6n4uar7u7kvu48"
+authorization = "signam1qpf4dkyjzn5ahnn93yck7xnjjgaxv0mvykkc6xrvys8yx4ys7vsydms5efet06qgtx4jyf6xywyx4yaflkak3yr9nz3vlw955tx25mg0rp0mfc"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyplw8um5u0znuds88n8a08xxhnw88s6ws5c7sa82srgwqtl5q9kqas450fd0"
+authorization = "signam1qy0qjshacwrhq39q6m039ure96p84x2s68l00hx9trshcprm5hlzxspfge7el6mpzfc2haz8frhy5l77sjekwgzj9ewzeqwjxwx3trjeqqe2u64v"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp02yzasjzkkehu4396r726jhnl0un0945dtt0epr9uxyeydv9r2ts6gd9fm"
+authorization = "signam1qxz9vlzzdngpkjrwwp67px5g7zyzze3w8fl09n928audhtl28w3w2h02urtwu5grcj6ffqjkae2lxk4e7uvhzvpqv0zge8pknsdvkvdrqysz8760"
+
+[validator_account.metadata]
+email = "“murphynodeteam@gmail.com   --discord-handle “Lyeoeon#lyeoeon"
+description = "MurphyNode - Reliable Namada validator"
+website = "https://murphynode.com"
+avatar = "https://i.ibb.co/PtFJ5Cq/Murphy-2.png"
+name = "MurphyNode"
+
+[validator_account.signatures]
+tpknam1qqa5lwdwjlcfh6tu5s3g208g9x84zg6w8a89nkmn3czjhucu287jckg0wrk = "signam1qzcze8lqhw4pmezvv2uu9wk8e37x5q5hcqyvyz70uk8ml455h3lcfmuhsaazjnsjqy7jr0pafad44z2wlpf59kzelvc3hfqfg700mdszevqwdr"
+
