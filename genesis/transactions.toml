@@ -1296,6 +1296,52 @@ tpknam1qzf8uzgxst2zfle9528emkvy6vyhjrqn0tdglnacgjl930mmrs90j5umgm0 = "signam1qrc
 
 
 
+# adding transaction for bernatfp-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq35x95uxxt4xrkwnamgwh2n4l7zjt5nn7fnjz0g0xkluy6x0syy5tsvwtj"]
+
+[[validator_account]]
+address = "tnam1qy9htx7f43s3g4220ljzmua65vp5sw9ah5vm6xdu"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.216.248.97:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrw9hjs5q6crfm2zuvcl5t9363nfs7jma47tfnjtr3ccvtmrsygv5cstgsn"
+authorization = "signam1qz6ll0e0hhkrzk0m22qd42j8jcegzladtmmtqua6szdyvtdxqszfk44edalsdy44h6ls09l4fknkxuz9pffsxwrm2wy4zshe8ypwszg8gwx47h"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrwwy2way02dqdk6trjtxm74y3lqcsc67regxysrvzfmqmk2u2ywg26xc86"
+authorization = "signam1qpfmudg2adr88x6r0qv4qw5627pm3anmeqhtwgr0882ddykul2wwryzgrcamgyu2e7tp9nkcvyt932jhe24d533uqg60g44pq45an2qza7cvjr"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq3y5ud0477xrqyt6r5yfxrxupwe0rvynaszcfarf757nhkt5flps8t7yjp"
+authorization = "signam1qpqnpsy58lex76uxxhwry8d5rtnzyqyvcr0k3jpc8efscyxgl0hhauxr3xe0u62pw47up462td23aul2fjxrypf7rqewfgdv8usuqhsgntn2aj"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypf4jn6yxdmg770exzn0l9zp32pr67sct73zex9gw6g4s2423gnnaskcvt24"
+authorization = "signam1qygyykdplza4whqw0plxsh0pyacr70e7nem452m38exdqg5a9dyx5jl63laqav55nxdhpzrtzju73d6k985mjucu74g0uuetxz7jaex4qyulj0tf"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp5hd6znar4zxnlntnvnzf537ccrgqsr4l7w3nnerxkpxm0wvhe3pgdvxxc8"
+authorization = "signam1q8jzwjuf03fll9xhjw9j9px0lc7k86ujjp5zhmm87e09nwc8u7xjk6tn68m7ussdm5x6djrxqhzh2zzrgtxmqnq8dc7pfa5nhe5ah39vqq0y639z"
+
+[validator_account.metadata]
+email = "hi@firstset.xyz"
+description = "Independent validator supporting emerging chains from day one."
+website = "https://firstset.xyz"
+discord_handle = "bernatf"
+avatar = "https://raw.githubusercontent.com/Firstset/eigenlayer-operator/main/logo.png"
+name = "Firstset"
+
+[validator_account.signatures]
+tpknam1qq35x95uxxt4xrkwnamgwh2n4l7zjt5nn7fnjz0g0xkluy6x0syy5tsvwtj = "signam1qrepx9elnhspcsn8jrt668n6mwhhs2j6aq92ktsnhsknamy79zxtyg470a2wkkzpvv9ffp5n600h3ttyfqec5wp8shwc2y5feujm4sgr40secc"
+
+
 # adding transaction for maricalucian-validator
 
 [[established_account]]
