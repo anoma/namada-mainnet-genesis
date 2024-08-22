@@ -2500,6 +2500,53 @@ tpknam1qr5grg59zg97kep7mttzncw28yvpedptykkuh5pavuc7wa832ajx7gr6ntz = "signam1qqa
 
 
 
+# adding transaction for brendan-whispernode-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpa6phv8mx5q54hmjraypfyultwf3ged82fvm97nln2g0nzu8sj8yzxmz46"]
+
+[[validator_account]]
+address = "tnam1q9skz9pj8rac6tnjkcahqw7q68tg5ekgmsxurann"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "78.46.88.125:20056"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrwgxsvt3qmv628x2p2ct54ftpfrwyxe9e3jf5drqhvaf70zj603vjh9cp5"
+authorization = "signam1qq5emn6vjlyu9uqdxyg70w5wf3nu8c89c4h2w8ulrwagmcq8hww5tvnzny39a2mt6u8uha2hd29e22c577rvq8dzukeyx8u2gatmpzcq7mt6a3"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqn4jwjg3anpye7ax2tnf3fadxr85dhfchdar977hr7f9hlhsuuqsv3txdv"
+authorization = "signam1qq2e4m8pdm95pq4svx6vf20f7xe8dng2j98j752ncuazk5uyejlj3acjc6ntghweuv524etnw0nl23y7680mexgqkrdm3v293ltuzxgd3spaas"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpas9nxv48gues8ewv9dx4ys83rdsyylm5w2pldf8vwyxeqvcwvh6mz4053"
+authorization = "signam1qrprjn5zgy4w0jma9ven8rl4yl7s6t8pe77py3gm44jujyfmcdyv4v23zda282rdl6azadsqsazpntmcw4f6ehuwyuf38ellcn5mt2g00p975w"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyprzgqat7vydk7vukvqqur7vfttg9g7x5pznhccw9v5ysrja2p3uygnrlpe7"
+authorization = "signam1q96pv2ul04exutq2y0yp99232zhv830dwetetw6f7e5we3hz4czq2rmgu8sw9dymg7633ulu9v48spm832n43960az5kxvfwd0exvp0zqq7ewlwq"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypmgg885xhedyzx0zf8tn8fggfqtunmkkhujl8r8xjt9h4jt5n5yygtyqaae"
+authorization = "signam1qx8cemp4gfznpn57hh8aawnfptf65l0z8jv60trfety0z8p4h73jgl5j8w49rmu8qk7jczkgq073t2unvsfd8zhcxdpujwfwfa0lavn3qydhgdn3"
+
+[validator_account.metadata]
+email = "security@whispernode.com"
+description = "WhisperNode operates robust, high up-time validators. Auto-compound your rewards with our REStake app. Join our Discord: https://discord.gg/4E5KZsRtjE / tweet @ https://twitter.com/WhisperNode 🐦"
+website = "whispernode.com"
+discord_handle = "whispernode"
+avatar = "https://brandfetch.com/whispernode.com?library=default&collection=logos&asset=idRzwYXa-i&view=library"
+name = "WhisperNode🤐"
+
+[validator_account.signatures]
+tpknam1qpa6phv8mx5q54hmjraypfyultwf3ged82fvm97nln2g0nzu8sj8yzxmz46 = "signam1qzvvy49aadcvq5f5kk0096rju5v67hpn5m5pxzw2sz0fplww46r9kwr6qn8vvar4z0nt9enlh5swp2glnwfpmv2nty0dw8a99pkuaxcxt4r2fz"
+
+
+
 # adding transaction for synergynodes-validator
 
 [[established_account]]

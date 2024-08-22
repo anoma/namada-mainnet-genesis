@@ -447,6 +447,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `snsmlnn@gmail.com`
     - website: `https://github.com/snsmln`
 
+- address: `tnam1q9skz9pj8rac6tnjkcahqw7q68tg5ekgmsxurann`
+    - alias: `WhisperNode🤐`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `security@whispernode.com`
+    - website: `whispernode.com`
+
 - address: `tnam1q9fxma4kqfrgn8ul4fdaexgavlhug746wcvra4f8`
     - alias: `Synergy Nodes`
     - commission: `5.0%`
