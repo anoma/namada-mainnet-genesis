@@ -697,6 +697,52 @@ tpknam1qrh8eya03pyvgqr4qhyavf38986e75vr0j0d9py404a2d3dwvtwfwqz85g9 = "signam1qz6
 
 
 
+# adding transaction for snsmln-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr5grg59zg97kep7mttzncw28yvpedptykkuh5pavuc7wa832ajx7gr6ntz"]
+
+[[validator_account]]
+address = "tnam1q8d0rndpkyx8599wzcasphsqd3st5q3nsyxj7y9j"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.204.205:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzdfjmhmr2lgl4wqjjczd96j6mxm5kej44pse8saacqnxy8d43uhqfrcknk"
+authorization = "signam1qqsnr7tqg7m6avjpvw0tm80qc5t4r8z42e8qt0ccjaum5p4t7pkwxyf9s9rak3f5nvhk49pnavrkwharm3n8z9yaazmglt50rx75krqvrpetx5"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpxp5mvjprgrs4ftlnwahmy0v5meuhu9deqv2k5z8hr38enr9nm0g6wnjl7"
+authorization = "signam1qqfj69g4tlpm2xllmkq0pr3xsns7r32vsp2es4qrsh9a25hkwss9860s7rkdssgwtffg6ryf9ddw37rhylqw8v6f2uzqfy4pk5t238cd45u0ly"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz5z9ppevpg5urfhtftf2klrcgaz5jehj9ftmlwx9f3af8zsvhx3ytrne2w"
+authorization = "signam1qrl0fddd05dv7vnkney84wf3z274gnjm52xx863a695kqxh4k2y0p3gq7h0m8m82umvyrfsst933f6929ynwjtkt8xxawcrxf7texccrs6rn32"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypaty9872pkdq8nq4wsqm3gexg0wqauym0jpuyvqmme2pydaxg7c8sj92d92"
+authorization = "signam1q8ej8wdjws0h8a2nd34lfvepjmp0c4wve6ntqmf8l6ytmy9wkxkpsnp3y5vcgfrf8eqe9v6nf9sqrz9js60jwgpllwm3kyqrwph76u70qyqt4ah5"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyph6m7sxrg8er6j7t64q2dd0zmflk05uv7q5uvg9rl7xd9uuj4mfecjmcdme"
+authorization = "signam1q8wp49fgwt5l6sqza3l8t57wj7nvfjv3sewf7tscquyxuas7ns0txj3kcw3408sgrtt9zn7vad23tgwl04qfgnptxktjdn3sf9aa86n2qqv5ggp6"
+
+[validator_account.metadata]
+email = "snsmlnn@gmail.com"
+description = "Validator with a optimal comission. Our motto - happiness is not a destination...🐈"
+website = "https://github.com/snsmln"
+discord_handle = "@snsmlnn"
+name = "SNSMLNN"
+
+[validator_account.signatures]
+tpknam1qr5grg59zg97kep7mttzncw28yvpedptykkuh5pavuc7wa832ajx7gr6ntz = "signam1qqak45ggshyk9xhz2n7tl9um282330n0y7wkw33tg5cj7m2ggg2qnx308mfj8q9qthrvrry4986y53nvs0muqy00t2zfpm8f25up9ysp3aw0xk"
+
+
+
 # adding transaction for synergynodes-validator
 
 [[established_account]]
