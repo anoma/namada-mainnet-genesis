@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr2dfp2mcdpztwdcc73v4a0geddfkftuqxwmtelk4vldd74r074rwq82yrq"]
+
+[[validator_account]]
+address = "tnam1qy500vdqtcumxzfhjccrhdx9j9wawhsyg536thwn"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqe7jlxd92atlajw5g5h8k5tvkpdlgts8r82j7x2nc5p3phu0vv3kqkrlxl"
+authorization = "signam1qqnwvvezf9hwc93ldx9jz5t8vv6gajpxvhzasrfndrsm0afz7v2shz385q00jxs5r9yuq6uyysc7n488m2dgjudy4kg86h029ky8stswty5jeq"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq6qnhga3g28fqxst23g92qaxzfjltmcjarw0z4wxl5dklw02hphjzu4j0f"
+authorization = "signam1qr9kg5my58s46v8258yhcljay0t75ykjvkw9fjn8n3v46wtk665aqjw9c8r9z5tp6wk0h4hr93mgwfqge0g346a0ly89twfx4vpwgfgw930j6u"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp3eqv7kmud4y0zvyk9ynr4zr44vjvph5u0laxcqjzc4jr98mrswjx0snyz"
+authorization = "signam1qqjzs44wd665ekcccj00795w97m7gzfytwcdq6pwms7tydtarvls3grafufdsgwz4a4rpnqy2q5hnhhkkrh59uctcwn0xcekryrf4rcycc4wdz"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypkwdj2gc389tlwl3lx53lyhtelgee2dj82wm88m3x37lgpysua45c6tqyj3"
+authorization = "signam1q9mfh9lmcf8lje4antvy8ngq0dvx3yx3kmsunkxely2h6uwrl9gcxt6s78z3kmsek7y90ux2x2868wljfu8y6v7p5s8dmj5mkdgghjlhqqkvtun4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypfplt82vttr5pnttak26ks4v6asvqzmehlvmptcasryqgck9h75ms4epklc"
+authorization = "signam1qx9s5rtwfh65nc4kxj0quwk5tmyd3s47j6ckdh73w9j9s7lkkcenc3fl8ygulp27rqlv4mdle5f9z9pjk3945arwh06cjz97u2h3uwwdqqj0e84w"
+
+[validator_account.metadata]
+email = "zenodeapp@gmail.com"
+description = "Zenode, allow for the current to flow, conduct and bring forth thy ode of care to those bonded by trust."
+website = "https://zenode.app"
+discord_handle = "keymasterzen"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/60179596e27614dae7dbaf5223939d05_360_360.jpg"
+name = "anodeofzen"
+
+[validator_account.signatures]
+tpknam1qr2dfp2mcdpztwdcc73v4a0geddfkftuqxwmtelk4vldd74r074rwq82yrq = "signam1qzmutmudtsc8w7t6ml6dvwtvx27pemk74x9gq4h94mffhqkywudnt0cm6lt3ys42wdt6pnteht9hgysupwk6ack0ef6hft86yax69zgx2qwxdm"
