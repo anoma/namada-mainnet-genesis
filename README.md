@@ -119,6 +119,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `admin@validatorvn.com`
     - website: `https://validatorvn.com`
 
+- address: `tnam1qyx8wdefdg9sd6e22xq8ccyqg5peaersvcm20843`
+    - alias: `securesecrets`
+    - commission: `1.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `mohammedp@securesecrets.org`
+    - website: `https://securesecrets.org`
+
 - address: `tnam1q8wldcr49mhm92a69fmf847d8rn48e6gcql2s4ya`
     - alias: `bitszn`
     - commission: `5.0%`
