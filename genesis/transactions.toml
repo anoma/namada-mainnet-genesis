@@ -459,6 +459,53 @@ tpknam1qzscetsy54ma0x6amzamfuvrvx2lalsms6uz03uayccah7ryytgvv560v68 = "signam1qr4
 
 
 
+# adding transaction for suntzu93-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrrw5ht5459gu3lq32thrfryl78hxmcfmp9h6f5mwjk5tc5luwp8ck2d4ul"]
+
+[[validator_account]]
+address = "tnam1qyes8z0wyey4s3tcqfe6hrzpfq4wzznsss4pvtdy"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.5"
+net_address = "37.27.134.76:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr0wafh09g2rj65kae25q8d3n7amzewk350a9th7fmnjdue3gmju2a09y69"
+authorization = "signam1qzjmwettumj96a8tqt5huv2q7nhv2lw9l9xs0wmgexmdn0298hme7sd5cu68xaecr8e8mea3cl9xdrvyfnwatppp4x8ex72yx9mrcwspvx8ypj"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzwgqegwytswwfeq4ttdvmtj2n8j32xr2vrc6ehfrklu5rfsql4qj5fd36k"
+authorization = "signam1qrf794963sk2jfqzr5tzngvqv8w6wntxfhwrm5quptc72dk9wmcrtle5d8hsfk2r85d4tyxzm3jgqaqrug5kk4nhvwdf7rjnzje3s9gxzdrwzp"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzravv0xjdwdm9v7uv8tfevlpa6llmvzj4ruf6ck04el924drul3w64zrwv"
+authorization = "signam1qr3h67l6mgcsd3kz6r554x2pm5sns9dgrkj9jcjrjpmv7qtrt8qn5k6f92ksf0q5l5lcye87snxlega0wnpqdvxzhcxjdx36sm306sg9mdzwpk"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypfk5hnky876ldyhmqd0a3rdcufh9n36g3gcw5rpv62y0pc5a3zy3g78jlg7"
+authorization = "signam1q9crkqhcrezwqjl83j2638f09ghk9efjrg66nfr3km880k2ug4smk9z8gmqtarqpac79lrm3sagj5yr3cjpz0xj863mcl9hqkpyffsykqqresjy6"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp8l9l77vd8fcj5q2zn24y820us57jek03z7y8yt5ymlvzyufg3hrg9dlzau"
+authorization = "signam1qxjllj3j42vjuxft08u4xwg4hx530frl46xvvfhfkh3900du56xr7yucdhf5qz22042kg29yx55aczw4a5w53ypvhzttfa3rntc3hth4qy8zwgcv"
+
+[validator_account.metadata]
+email = "thanhlv195@gmail.com"
+description = "AZCLUB is a decentralized organization providing you with validation and staking services, blockchain consultation, growth acceleration and investment capital for innovative Web 3.0 projects."
+website = "https://azclub.pro"
+discord_handle = "suntzu_t"
+avatar = "https://raw.githubusercontent.com/suntzu93/logo_chains/main/suntzu.png"
+name = "Suntzu"
+
+[validator_account.signatures]
+tpknam1qrrw5ht5459gu3lq32thrfryl78hxmcfmp9h6f5mwjk5tc5luwp8ck2d4ul = "signam1qzvac2xsyst04l5727h0g2jd5ugnyjc8k0ldy676t7gqp5pl4l9d988rl88ykjdr73whmujsdwg0aedxypep6dp3nx6vnfcapcm3shgxlf9frf"
+
+
+
 # adding transaction for mcdaan-validator
 
 [[established_account]]

@@ -95,6 +95,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `core@denodes.xyz`
     - website: `https://denodes.xyz`
 
+- address: `tnam1qyes8z0wyey4s3tcqfe6hrzpfq4wzznsss4pvtdy`
+    - alias: `Suntzu`
+    - commission: `5.0%`
+    - max commission rate change: `50.0%`
+    - total voting power: `0`
+    - email: `thanhlv195@gmail.com`
+    - website: `https://azclub.pro`
+
 - address: `tnam1q8sjkutd5kqwcc555wr77p9fjn66nuuqfuzzc3yc`
     - alias: `Mandragora`
     - commission: `5.0%`
