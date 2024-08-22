@@ -111,6 +111,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `theroadz@proton.me`
     - website: `Unknown website`
 
+- address: `tnam1q9rq7p4wzy6fea96xs5sr8qnsxsfdr2zugfsvw2n`
+    - alias: `Nodes.Guru`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `security@nodes.guru`
+    - website: `https://nodes.guru`
+
 - address: `tnam1q8d8ypu5j88qqvx89grct795uap82dtlqvjqjh3h`
     - alias: `MELLIFERA`
     - commission: `5.0%`
