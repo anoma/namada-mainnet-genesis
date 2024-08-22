@@ -31,6 +31,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `team@stakeflow.io`
     - website: `https://validator.stakeflow.io`
 
+- address: `tnam1qy6y8ws67ks2p5jl53s6yukre554mhwrugdp8vjh`
+    - alias: `Citadel.one`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `nikita@citadel.one`
+    - website: `https://citadel.one`
+
 - address: `tnam1qygycq5aejv4aypdppldrar2jnplmyt8ussdvjyr`
     - alias: `LiveRaveN`
     - commission: `5.0%`

@@ -89,6 +89,53 @@ tpknam1qzm2l06dmknjdkfrkwvqe88x6wfd7pwd8apcn2zvcl6j037lx3vnshn9llh = "signam1qz7
 
 
 
+# adding transaction for krewedk0-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqggkxzp2skvdclz4an6tyd3tlwvruf93fd4ggkfwaqgd4g4tx7dg9f58xj"]
+
+[[validator_account]]
+address = "tnam1qy6y8ws67ks2p5jl53s6yukre554mhwrugdp8vjh"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "141.95.33.198:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq7wgey85xjtzn9axxn4jsrygkf4hk30hgvz4crec4ey8h4sf50hgx9cavt"
+authorization = "signam1qzdthkyxf8ux3hynyu508849txmeknvgktr7jsem947t47zesnpfxmmkpaanrufekqd2fr4kvxsjsl6w7qrlmfpxn8memzpmzcl8fmgt3c22p5"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrx6hsuxzhxs2fqr7w9ksn8h4eev2f2d67pr0g6zxltjx5wepwa0kn90xej"
+authorization = "signam1qqem8n3p5qfqcwp4gf5rlgvf09txelv26v0lw8pdtlpqwkfgzwzyz05dw2cr47kc5z6tjtuzwskfymmxnx45hnelcpjrwevsy783sac2xhecqh"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpc8sqqvq9ys4hshq923z768uxhgszdwgwun782ldf06djqptwrqc9jvszq"
+authorization = "signam1qptpgch9sm5w8u5rn6awjhm9mdxja58ap3kfqtc52rwqg229cnkhyayuxu037sw39y0wpvdvnlw9czcjqu0u7lv8xe37e6cyn3vhemqxznv4l0"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypr3fmsd6f7mtc5nt3h8nu5um7ktgnfuqr0n494kmm9px5vqc5472sszwkqt"
+authorization = "signam1qyshzzwscqtxa56xgz7nen349pap0cue3glp4yq5fqd0zl2gm8prx90ldpj66wnxsy9evdwu80jh38anca699at6dga5e879r7nqtp73qy5dgduw"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypfqcng23rzu4768h79zwa4f653u6qvjeacc8t5862ljvaklp5xeusgamfhc"
+authorization = "signam1q8t2lfyuvvfze4hghtgxxhhn7d2vgn0d6m0tdn7ftgw5m28pk4xxyd8ynphu8kzfa38erct6wuwultct5gawln3uyljsk84vgjpa4xyeqq6dhjlw"
+
+[validator_account.metadata]
+email = "nikita@citadel.one"
+description = "Citadel.one is a multi-asset non-custodial staking platform that lets anyone become a part of decentralized infrastructure and earn passive income. Stake with our nodes or any other validator across multiple networks in a few clicks."
+website = "https://citadel.one"
+discord_handle = "krewedk0"
+avatar = "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/moniker/cosmosvaloper1lzhlnpahvznwfv4jmay2tgaha5kmz5qxerarrl.png"
+name = "Citadel.one"
+
+[validator_account.signatures]
+tpknam1qqggkxzp2skvdclz4an6tyd3tlwvruf93fd4ggkfwaqgd4g4tx7dg9f58xj = "signam1qqwtxw6er54x73843mvl2stagz3tsa74z3q3fsn9rtet8qczc25078gzp7r966fd9q8fxtpxeeyp5mwscnjry0w4jrpc5mje2vve7dswmqpknh"
+
+
+
 # adding transaction for liver-23-validator
 
 [[established_account]]
