@@ -8,27 +8,27 @@ address = "tnam1qyl2fc8c358avg47ff5lkc47d4cnk0x8wy96ax9q"
 vp = "vp_user"
 commission_rate = "0.01"
 max_commission_rate_change = "0.01"
-net_address = "65.109.158.190:26656"
+net_address = "1.2.3.4:26656"
 
 [validator_account.consensus_key]
-pk = "tpknam1qryz5y00ny5wmwwv36ewl85nunzdak2qhvgetldxn4epf39r8tduqk3dz9v"
-authorization = "signam1qpqk07f8xdc76exx29lpckqvu59968mrrwj50p24s99smemejvyty94g38yjpf596ksn7uvuagyfevaj62dy983prtzsp4mtls76a7s80xu59s"
+pk = "tpknam1qzmmpyrwtu36l5eefaunsq2ca6haul5he6wms66v3tgn9anthevyzc29gxh"
+authorization = "signam1qryxx8yay2zzax00aygwst3pxyfpdnw0w8pr85kyxrwlrcu3estv629cnew50f0l0xg7a3qd852sd9e3tpw5qf5acscl7j5kn7wv79ggz4e0xg"
 
 [validator_account.protocol_key]
-pk = "tpknam1qpf5zswh35rmeslepkstlgev0tnvprha27hmu5rg0zkpyntuswe5zcawrky"
-authorization = "signam1qp40pzup4w735wnhq3swlsen0yjev02f6925an0akfcj29fdcp6ve30h6ynl5892hl6fyufahkelggj4gqwuga4yucccw5uu4rnqkrg02rwtve"
+pk = "tpknam1qr5ervaky9h0c9m8yucm08upmv4upmkd69hq2rhnv7rc2kuj4f3xv5xs24v"
+authorization = "signam1qrddgm76zhnpdk8pzwsesa6kqgtu7drvawk0jdmaxuj4cdef3fw7j6lmkn53wqa6md3d2te9mjq9k6wc8dfn758ujgg0hcy6gdpgyxszap5z39"
 
 [validator_account.tendermint_node_key]
-pk = "tpknam1qrzaeer2hz7tt8dydzwcwqxy2rqeg842zwvzy6gjl4ls0rgs7dxuvvm3l4w"
-authorization = "signam1qpdervhezchh9hv9ctcpztzw0wa62xxpc4n64ct5g4plrdfu6ll0mm72fp8zcrc32845c6wq6l4nw7j999k2v7zjrx3gkguaa0f7eacvecwt2p"
+pk = "tpknam1qzlw7mjnk0xnh7y7nnpwfzsskxkhn3mcjd62drhjj9t8u5xxudl7kuwxdw6"
+authorization = "signam1qzztv7jhm0m9nhvxujlfzezews9w64muqx5x96ut5ygmg0d0966469s9x0edqe7dhmg778l3wu8g0vq2edx9we6gvs2xwfkyf7kekqqyz89nqq"
 
 [validator_account.eth_hot_key]
-pk = "tpknam1qypmk9zplmd5s8dky5rqehzm7u520pu5j908s9f9rq4ny426nxanzyssrm3ug"
-authorization = "signam1qyt5hxdwnz3zcr302hnqt6eczelfkcvnjshqux4es03yhphq0d6q7pdfdmgv9wz8dau88c0r5sx0d5l2mpm4u059um7ufgva2u4u8xnvqya72czn"
+pk = "tpknam1qypvsvu6zh6yqp8ll4twx4h0jtfhcfvgs98sweq6x2dzz28mj6x0dmgke44ka"
+authorization = "signam1q9v9zuga5emaguwy3k5a7pasa4c0kq7anapqzcs7jpkczpldhule7nrq4pp3cegyrnv6nlvpq2uvs7qs2p387vfclhaxfpajqshauymwqq668c0k"
 
 [validator_account.eth_cold_key]
-pk = "tpknam1qyp494mjkcs9c66nlz8s3rkpme0hlda67hlgwnf7wqkjhu7mdxt6uzqx76pmy"
-authorization = "signam1qx3cshldhqfsp3etgxpzyx3ke8khnr5lalx6m25md59wmzzz3ms5j7pklu9th7fnr09rfd373nthxy4j245s2dhvh5kfdjuc60zydtxfqy2egqrv"
+pk = "tpknam1qypu67ck5fux04lu6sefpp5mnqa0uekkt3k0fugtfxqhrvfjl2a8v6clc556v"
+authorization = "signam1q86md06njdass0qajqh6x852dm7prlgu53xsx9789xl58s2fty5qjqugx9qceacjpff6jekps5ya7nn4s2s2cr5rchym286j7f2x4duaqq9sdnem"
 
 [validator_account.metadata]
 email = "contact@stakepool.dev.br"
@@ -37,4 +37,12 @@ discord_handle = "stakepool"
 avatar = "https://raw.githubusercontent.com/Michel-Leidson/logos/main/logo.png"
 
 [validator_account.signatures]
-tpknam1qq5zmdsgjtg5clzdqajr0kmmyud6gs62yw0j9cr52ruk094t43p050hjwtw = "signam1qzxxq0n025vg82ru37pms7j294gxkgja6hj9ff4mtag6luxytlheyn5n8p6n9zh0kvvep0k3ehfudfg3339hf22zuxnmn894tfhqv5c9v8wsly"
+tpknam1qq5zmdsgjtg5clzdqajr0kmmyud6gs62yw0j9cr52ruk094t43p050hjwtw = "signam1qrvng4gh5reru0p4vrnw04wdkdrf785rj9nth73rnr2sx2q542x73y5ddteqpa92d0sjz0a0jfafm005xmf9fhhadmfzqfm9lxapducrfhma86"
+
+[[bond]]
+source = "tnam1qyl2fc8c358avg47ff5lkc47d4cnk0x8wy96ax9q"
+validator = "tnam1qyl2fc8c358avg47ff5lkc47d4cnk0x8wy96ax9q"
+amount = "1"
+
+[bond.signatures]
+tpknam1qq5zmdsgjtg5clzdqajr0kmmyud6gs62yw0j9cr52ruk094t43p050hjwtw = "signam1qpdqvwxqvnghc9unxny6ddl0f08l2mctap6rukzqmlmyglheu8fyrmtqk54uqdm2pp37ghkhnf2prwcxl6awnpuwcqk3ywgn0d84stqyywdlgk"
