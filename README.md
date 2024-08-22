@@ -63,6 +63,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `hello@polkachu.com`
     - website: `https://polkachu.com`
 
+- address: `tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p`
+    - alias: `Kintsugi Nodes`
+    - commission: `2.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `info@kintsugi.tech`
+    - website: `https://kintsugi.tech`
+
 - address: `tnam1q8236gr76rrsluvq27j8mkma8u04hz0khszatckw`
     - alias: `ValidatorVN`
     - commission: `5.0%`
@@ -231,6 +239,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `fastrpl@gmail.com`
     - website: `https://itrocket.net/`
 
+- address: `tnam1qygz4sn400y9g90rt5jx6ja0wrcx3y7u0c0ue6dq`
+    - alias: `Lavender.Five Nodes`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `security@lavenderfive.com`
+    - website: `https://lavenderfive.com`
+
 - address: `tnam1q8re97lpfp5kmj5nu3t5sxvlp8yydnfjkuzw76dp`
     - alias: `Palamar`
     - commission: `5.0%`
@@ -246,6 +262,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `tecnodes.network@gmail.com`
     - website: `https://tecnodes.network`
+
+- address: `tnam1q8xasrt0q8qrkqj5s9r9xw3ee0gx5mqwyukhe699`
+    - alias: `Cosmic Validator`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `info@cosmicvalidator.com`
+    - website: `https://www.cosmicvalidator.com`
 
 - address: `tnam1q9ude2ceqdj8dk6z3rwxnykm446j5lfkwy747kzp`
     - alias: `Chainbase Staking`

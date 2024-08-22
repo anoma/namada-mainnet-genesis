@@ -274,6 +274,53 @@ tpknam1qpx0v964d6cau8gzpw7c8an9wp7k95at9p9dzfu9dm9j69nr53g6zy7krdw = "signam1qz0
 
 
 
+# adding transaction for dimiandre-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq7c36qc2s2ny5qlvynyw6960842w2qrgq6cvflcw74jksgps97h7k236h3"]
+
+[[validator_account]]
+address = "tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p"
+vp = "vp_user"
+commission_rate = "0.02"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz4626umkz0v73td98ctazkpq5wyur48dklnwe3trems5fjg0svskdmajdt"
+authorization = "signam1qp468muw3adanmh9epupz7dypsu9aftt80w5geef0vajz4epffn5tgyv6crckh4pwnf7v3ar3trscm6rcln2mvw2knx6dlk86k29fjsddx8ca8"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzz0yjlpc3vzagav998dwjdr4kv6fspa6rajlz4cx33kj80mua29cfr3997"
+authorization = "signam1qz7erqnt9wkum0mvte7zvzyazlee90q4mcar2j94f28wppmuh96lmml0fn4qlvdx0s3temwzratl9rtjdrhcy65eyzja2vr3k95t6kcyutt3jh"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz3zy6vy2ze80p7utc7gcg2v40qdw5cpvftuc7h5l7gvs3gaxvp3zvqk5yg"
+authorization = "signam1qzkgehgkndtuz4lk23gsqckzf675cx5ffwanu3qp7m6d0p4c4pc4jzj4j2m76ft9wlr77ennr783m9nf56qgdatunf0jts9dh46dj7s2uth0zx"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypn6zdd02pce5rp69h4zgs3rnk3exjc9gf6zp37ecpefxvhx58z6acxar5gd"
+authorization = "signam1q9sec7qk8ydthj25zrl942vtvfs0dz8rqd5jn3h4gu3w8jfcsr0kxd8mcu2qrevwvzmftkck7cwx0uel3x09z0rkgpvl6m49zvpz3pyzqqv2evnr"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp655p3mup7ynr2ed5pcksasu5m7ljufkwmqtw3gg9vzllpj49487sn2wmwc"
+authorization = "signam1q93aez2a24tpug7s89urhuqwgdfclpl0gkrsa3veey7g29qd9tplu3a8plf3pa5h02ehzqc9rjgd9d4g2h6zc8lrlkkqpsek36cr7z0wqyxrkves"
+
+[validator_account.metadata]
+email = "info@kintsugi.tech"
+description = "Your professional, global PoS validator. Delegate, earn, and join our journey to a golden blockchain."
+website = "https://kintsugi.tech"
+discord_handle = "dimiandre"
+avatar = "https://github.com/zaketac/chainlist/blob/main/chain/cosmos/moniker/cosmosvaloper1usvshtypjw57edkwxq3tagme665398f0hf4wuc.png?raw=true"
+name = "Kintsugi Nodes"
+
+[validator_account.signatures]
+tpknam1qq7c36qc2s2ny5qlvynyw6960842w2qrgq6cvflcw74jksgps97h7k236h3 = "signam1qzk78fmdukgygystplhehvns772agusntku8ws8mmz274c0jxdsk7f750kljrrzpfpr2zmnag0cjck553j3x4t0xtpzcuaxlsdnqw3qgr8rtfh"
+
+
+
 # adding transaction for validatorvn-validator
 
 [[established_account]]
@@ -1249,6 +1296,53 @@ tpknam1qrt77k69kgahp0c9ajskf64z72amkvn3usagulqgluk6vdznxcpx29l9xnn = "signam1qp8
 
 
 
+# adding transaction for reversesigh-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqcw5dunxp7jge38qyuhye3jcg3nun5lcuvetasjavdxhakddglfc0mrtf5"]
+
+[[validator_account]]
+address = "tnam1qygz4sn400y9g90rt5jx6ja0wrcx3y7u0c0ue6dq"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "146.59.85.223:20056"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzca8k34jkvx3g09cylj70vgm30zve6pteeej3tm7lerkqra89jp236lmt5"
+authorization = "signam1qz0jlu660lkwf68qx47zy8r3vg9e9tnhmsrtzckjt2207p92zu0n682flj2j4lv0xvt59efp72f0egstgu8z6fnry7862vfgcu56pgg2cna6cx"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqvswvz4sf3j7nn9ggug223pz6ftln3fe2xcz6pm9ay85wcryeswyuuuxmz"
+authorization = "signam1qzvvtcpw6tdqrvs4ek8cv7qhxd9hx7rk4lcehtzx2pup7zu44el3wclt2ne6ne7s3pwdmwlgqka8l350yhldxwf0ru6r8z8wsqyxpzqvvpu7dn"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpuu6ujrmwzmyrh5l6wzk207z3743py9ttpsjmyu8qdw7ev6mz4cw9l4lu0"
+authorization = "signam1qpnzrmcr6plmlzewyce4d70u26udezk56cjnx6rw5fwgpgeezmkkays0epql84g2w6tadj2r40xz4ndy5dca8aq2rq30d5fz4r0vghgrk98yf3"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp6sl5fntz2dyvf6ydwhvmtxdd62x23al7j9pplxtuvsveyzhmethq58y7xy"
+authorization = "signam1qy2rtcchtaemup3suqdp4gp4lqk2yqfx2skn3nrfnhkqhulys6wkx5tp37zn4wznhwx4rctsk7hkmzpnsq3u3vt2vckvhl39pplfc8rnqq43633f"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypdnq0sk6w002l2nzmed3vawzze4q5qpu8e88xczuuns80z2ud32rsxm24qu"
+authorization = "signam1qy8e9ejnlzt5nne5h25zfs5p4xeqw4ja6jzxchunxteh0uy0y2ee6vcp696wjsljfqznjzfjeh5l5907kddrry6kh58frpac2jq5wkyvqq6l9wv8"
+
+[validator_account.metadata]
+email = "security@lavenderfive.com"
+description = "Fortifying crypto networks with Horcrux security, slash insurance, and open source contributions. Connect with us at https://linktr.ee/lavenderfive."
+website = "https://lavenderfive.com"
+discord_handle = "reversesigh"
+avatar = "https://github.com/cosmostation/chainlist/blob/c833d0d26ad55ac15541ace26f2d5c7c027b91b9/chain/cosmos/moniker/cosmosvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zfd832j.png"
+name = "Lavender.Five Nodes"
+
+[validator_account.signatures]
+tpknam1qqcw5dunxp7jge38qyuhye3jcg3nun5lcuvetasjavdxhakddglfc0mrtf5 = "signam1qz8zwv6hutf7dgfn6yx5hx4yhupwz5s8q3lxe8qvjkxunqe06a3gkur5feqr0xn92p6yxu8txfa4e446z7ds0sj3qmm86r5s28cas4qr33myfq"
+
+
+
 # adding transaction for pa1amar-validator
 
 [[established_account]]
@@ -1340,6 +1434,53 @@ name = "Tecnodes"
 
 [validator_account.signatures]
 tpknam1qrh8eya03pyvgqr4qhyavf38986e75vr0j0d9py404a2d3dwvtwfwqz85g9 = "signam1qz6fphxp6dssvlgu7t66h3ee3l5cnd2c3j9en0rm3ng5egggcv7r9c4zl2panlp57r2zjn7rmqsr4hlj539cxdkds7kwpkn28lpkejqwlc3u2s"
+
+
+
+# adding transaction for harish551-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqzvx9gf6zc8p9pqycq7p5jf0rvj49ya8l9de6kz4w99umd05kuswpl02wv"]
+
+[[validator_account]]
+address = "tnam1q8xasrt0q8qrkqj5s9r9xw3ee0gx5mqwyukhe699"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "161.97.142.92:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp7f5048r4fcps6wug2mf9leg04x04s3l6wflx5yl4kzd4lhwwl62kzadw4"
+authorization = "signam1qpdg667qmh3rp607kdsxd6unhe4q4th3v9xzsuk66uh975h82khutsgckexf60djla5x9mnd9eghueyrxpp3fxj7udr8dg2dtg2pllszawt9w8"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrpdep72yuhuqf4zu02wgvm03s5yj4jmslwaglje35s02ctmgqys79a9hc4"
+authorization = "signam1qq5kv9kv0qnclz2ghtapyzx7c5klj6ad2n2lq774um9ya0wc9ffmjqkaavndcm5n3fd30sgt9w6u7tww27uvw28494nh708hfu6gf7sxgvrjcq"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq2dl9ycvtslg8tp66qavn7layfllpyqyhquuwnaf5swsjql5d9g2zkk7qn"
+authorization = "signam1qqukp27vmkz44vxg2mch6kmqx2mezhtp8ss0lr2nx23px5lm48jnmlqra28yf9mlrud4qpaxg2e9chnzzuquemvaupd87lr4zrgtevcdz04ztr"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypj20p75vghcedxwnkgquxjqdgethf4llrmndrcjqrsg9wukjqn5eq3ae3m4"
+authorization = "signam1qxz849mafgdyvh6jmvu0rjjgwc95kxw24mgygyha66zfyvw4fd3nuq0sk609mfr8lr60hvhmknq47krch76p4jryva6rqj00z3a52z3zqq9hhn6z"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp4mlpp9lyfhxuquqcxlsljktxejl7k83k4kqeh07ltfzsnu7e9h2qej9f8x"
+authorization = "signam1qyumnk9xd63fs83mavrpqvqk6ehpch99helf5c85nspyese03n8fy4t4qj6jqqhv4r4xttm0rtyxq32cll2apne8w74nlvdhfr6w6utdqycx547k"
+
+[validator_account.metadata]
+email = "info@cosmicvalidator.com"
+description = "OG #Cosmos validator and supporting since 2017⚛️. 📽Check our bi-weekly Cosmos ecosystem news videos: https://www.youtube.com/channel/UCX7kHUiacI6ycHF8Wd8mGmw"
+website = "https://www.cosmicvalidator.com"
+discord_handle = "harish0x12"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/77f05c9f4479b689156a691b2640f305_360_360.jpg"
+name = "Cosmic Validator"
+
+[validator_account.signatures]
+tpknam1qqzvx9gf6zc8p9pqycq7p5jf0rvj49ya8l9de6kz4w99umd05kuswpl02wv = "signam1qqsh8xxxmelpsv5at7a70a7j3ua4hh5clssmp52l3nexnzjv2r67ea57rah6hpcaznuwjnapza3hhfrncgjdfg7r4vcp57rphyuvggsggzuv0q"
 
 
 
