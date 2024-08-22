@@ -183,6 +183,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `tecnodes.network@gmail.com`
     - website: `https://tecnodes.network`
 
+- address: `tnam1q9ude2ceqdj8dk6z3rwxnykm446j5lfkwy747kzp`
+    - alias: `Chainbase Staking`
+    - commission: `5.0%`
+    - max commission rate change: `2.0%`
+    - total voting power: `0`
+    - email: `staking@chainbase.com`
+    - website: `https://staking.chainbase.com`
+
 - address: `tnam1q8d0rndpkyx8599wzcasphsqd3st5q3nsyxj7y9j`
     - alias: `SNSMLNN`
     - commission: `5.0%`
