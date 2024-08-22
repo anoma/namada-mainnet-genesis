@@ -553,6 +553,53 @@ tpknam1qr8ppul2enz4g3w5tg7nr6kp4ngu33468pxj3e4xgzx2l8ru5y86x6w6r4c = "signam1qqk
 
 
 
+# adding transaction for mekong-labs-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrjdgfn0uhpv6je3cddsamg42s4f7tefh84x338l8fqawp8cw8l4sw2cd0q"]
+
+[[validator_account]]
+address = "tnam1qyp32zcympg4vlkmu72u33szdgv6qcf3vgrr8w3j"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "135.181.139.249:11656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp3eraqk0j43js2pec4jj7seg3g40xy2cwgq3n23vq5z09penfz3wgt8att"
+authorization = "signam1qpe60cul6lrr8xplpq7zegmvg8azxwplje0zehwca0kx3xse993xf4fge2qgvrcqjua2q0jtxnuyzqw0h0hp5tqksx45lgl5znc79pgtdavtt5"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpngg3yq028jh45jxex03fkte3raxsd3m9fw7wtv4m4ljwwfxqspsxcpau7"
+authorization = "signam1qra452e2lcskpg4ehqw0tqar75rsxpct2l583qs7kgv5l6ngh29j7dvf79266dnnj4yearj86xuusa9k8etsmau6rdmsl96ww8d2ulgd33atta"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp3qexm8mk9y2c2lxljtedcqkup8p3lvhx9rplpv8kxvcqvw9dg9ka9ud4t"
+authorization = "signam1qzahxyhms5kzcu2edg8utnxvpc4255xpvndkgevq0f80fkhlrujhfwjr584n64p42z6yc9vc6a5uc3tnkclp8tv8aaskjqhsysgc0usw03k2x6"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypklmxdvljmyta2e4med4uyxpzjyn0suhzvwgvey7dzykj8syqug7spzrqta"
+authorization = "signam1qyalhlsw04xtq6redrf8tfhlqnekt9x6mykymcvdzwsaxt8tvcwqc9jfwq4m3txdf0g6wn27xdrq62wy6kl30ndaqfgsmtn89x5rx9x6qq6fkdjw"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypynezn09zfuftwdcctmnktdpssflgmepy0hcrrv4myhtz2pmr0qssm6tw2n"
+authorization = "signam1q9uwzz2pagcpajwdfezyvejfd5da0tymn9p79x2t08y6te37fuwecydjmvreqtzj3se86mgf839hrjp4v4gm6srulmsnn584xhh9cwtqqqvl0ghf"
+
+[validator_account.metadata]
+email = "nguyen@mekonglabs.tech"
+description = "Professional trusted Validator"
+website = "https://mekonglabs.tech"
+discord_handle = "nguyenthenguyen"
+avatar = "https://raw.githubusercontent.com/Mekong-labs/NodeGuide/main/MEKONG.png"
+name = "MekongLabs"
+
+[validator_account.signatures]
+tpknam1qrjdgfn0uhpv6je3cddsamg42s4f7tefh84x338l8fqawp8cw8l4sw2cd0q = "signam1qq59qtfkmdjqxvj6uk6dsng7dx4n70usnlu2gsjkyzejs5x58ju5c056c9878an9rp8c746adp0hph8cskq5sxcq7fh2sp583jhmpjc8w6qxqz"
+
+
+
 # adding transaction for alexitprof-validator
 
 [[established_account]]
