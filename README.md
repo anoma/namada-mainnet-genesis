@@ -167,6 +167,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `core@denodes.xyz`
     - website: `https://denodes.xyz`
 
+- address: `tnam1qx635ya9l2yz3ua92kckrad4v2p59madpspm9dtg`
+    - alias: `Disperze`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `blocks@disperze.network`
+    - website: `https://disperze.network`
+
 - address: `tnam1q8g86hqz3rajj5p64pf22zmlvp9lkd976ufpz7mc`
     - alias: `Igor_Gusarov`
     - commission: `3.0%`
