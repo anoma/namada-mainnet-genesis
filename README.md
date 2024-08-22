@@ -207,6 +207,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `contact@stakepool.dev.br`
     - website: `https://stakepool.dev.br/`
 
+- address: `tnam1q8qt5qy99fvuhltq3pg20k223crauw6phulv0kfj`
+    - alias: `EmberStake`
+    - commission: `5.0%`
+    - max commission rate change: `3.0%`
+    - total voting power: `0`
+    - email: `contact@emberstake.xyz`
+    - website: `https://emberstake.xyz`
+
 - address: `tnam1qygyng6guhgj7jy4cfe2pxmsle6sakcvqv3cnlg6`
     - alias: `Cosmostation`
     - commission: `5.0%`
