@@ -1759,6 +1759,53 @@ tpknam1qqm7v8rcsz2fce2xf8x36edm7vj97xjs7qk98q0s85h6xqjegahsw065att = "signam1qpj
 
 
 
+# adding transaction for papadritta-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpgff9uw9km6f34957xptf3v86sack0p894gfl8lkfr77a3rmqn96lwfl8k"]
+
+[[validator_account]]
+address = "tnam1qy8470ge8g608l69t0qt0g6ulmxnsckr9s74ew4j"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz7rqj6jhwj9gln67kc3awldjyj9x7skcuzs8pxz2fudk579sc2fqtcxg6f"
+authorization = "signam1qpyf4hayfuz7j22xzu5wrl8c2777jjj8y6lxqa03nkfuxhqg9y95z6xnfqv5q8zvu8pvfgrggwx6jgc739cvyntd97gxakk8wfud4rqxw0lflg"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrp88a0w52aepf7ugh2zcesgdgeeghyz0v6dapx4mgq4tzfa4z5nwkzedgg"
+authorization = "signam1qp3cpaq3tqex7equ7g95at66qv4a9a6rre2c6s5cn4qclluw63uyyzqqx4h5rnm4xd0p8d00y4rgtqmnhn87huvkdx6fr6v4fdjgg5cpsh09m4"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq46l5uwmpmhw5tzjvrzpted9t6xh8twg7us52hrdun95whea2t6vn60q4p"
+authorization = "signam1qqs3p7xdp380s28ne6gjt3lvdula6y95a8he26xg6fr70drv6z484hktq7fugfl34s8uzrm4ag94f2jf5gq86khy0svnngm0rzc8jnsw9mxt5u"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypqhldsnd5m3053vkaun7sakvcg6r3t9f6ss3jlkv8q7p49hxj40qc9kvycr"
+authorization = "signam1q938g79w9rl04nyerm3zxqwmq6lwuverhke5hlz8cv4l57glxcgc7htrcckfvnzrktufp3tgzd2t6cyvklvew0ydkp34v0njzz9hehr9qqf553zp"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp2mqv6yfekrnkx8ke0xna4r2ufdr7p64xkhfzvx39vm2hycmqs8nq0m56je"
+authorization = "signam1q880q0z4ngnlguhxwuuug7tp5nc0wlc2ugp6r6wtlarrd97l65dvkyzrmkcla8f50pdcr4047z0af9t9dl40jrq3y0yt8qauxpurf7ygqyc3j42j"
+
+[validator_account.metadata]
+email = "papadritta@gmail.com"
+description = "✅Feeling_the_Blockchain_Beat✅"
+website = "https://github.com/papadritta"
+discord_handle = "papadritta"
+avatar = "https://github.com/papadritta/scripts/assets/90826754/13dac9bb-0658-4406-9808-9cdad14aa905"
+name = "papadritta"
+
+[validator_account.signatures]
+tpknam1qpgff9uw9km6f34957xptf3v86sack0p894gfl8lkfr77a3rmqn96lwfl8k = "signam1qqhfl847dzkkn58lv78kv0qmc09vl5szpztg55xh75m4ffw3zf9y0az5lq9jw8cplsu6je90fe45vmxxdy9evs2wm6vhlghx2zdzk4c0cmp4a5"
+
+
+
 # adding transaction for itrocket-team-validator
 
 [[established_account]]

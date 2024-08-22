@@ -319,6 +319,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `ilfats559@gmail.com`
     - website: `Unknown website`
 
+- address: `tnam1qy8470ge8g608l69t0qt0g6ulmxnsckr9s74ew4j`
+    - alias: `papadritta`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `papadritta@gmail.com`
+    - website: `https://github.com/papadritta`
+
 - address: `tnam1q99e0kqh32q6s3f3mr0ds772edyg7862jgj23fhh`
     - alias: `Unknown alias`
     - commission: `5.0%`
