@@ -971,6 +971,51 @@ tpknam1qq8ufplw0ktjuckmd0rv0y0gku2f6rh24hhrzk2ecxd24ul05daeqndld6j = "signam1qrf
 
 
 
+# adding transaction for haild-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz9f7f3kes7vx3amc34w2ju42a48zw62pm8hzz392xgv3c3cktd4sdqta0e"]
+
+[[validator_account]]
+address = "tnam1q8wp34dknmcl84t46pk7syjwz7ys36ppksxg6xsc"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "176.103.222.92:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr5qn40zhlls0wuex4klpy9avy2e307hnxhaky46253rl54v955tykvtxln"
+authorization = "signam1qqs87wmx28pgehutge5zs5nml5ry4n5xrtgysnym5kwxq0tezzarma9s7slq3uxw74l6sqkh946asxkzz87lfrmknmzw3aq35dp376s2k3hu9n"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrldec804t0zjhq7w6l9e29la2m7rvhfrrmqr02yzzzhurev5uul6697r39"
+authorization = "signam1qrazkk556wcjhms886h3m4mq8056uv73h04dhxhwhcmudplex4apscjh45yevnfawhzhas7temzvek7ps6gv4x3axkc6rql82893fcgrj7pt6k"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzg35kfh9qyydxvj5mkejnurl3907ce6aljxpp7ws9e4n0upu9ry56pykq3"
+authorization = "signam1qzv73j2cr42x9slfe6cl0qnpfzwsa5elthrhyvns75fdf8m464q84dqrl5p0v3jn2v6vtlgmgcca2yhjpk0hkxgqn93eaddkuuupngcpk5k043"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypcdanyet5gplc5f0qpan0d0eh6u0k3hsry87dz82lxlnn886rrt9c4gzqks"
+authorization = "signam1qy84fvzugmty6stkrt2ew6ys2g3cj7fhcpsh6pvzjxn47tchlrwx2znrftcdmlq084wuwh4hnvj4slefc7fq57mskj2sjgzkh6g22wttqqzf9vd5"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qype6rnt8gj4s63vn9c3gf8ck6qsuq4ptgqqegyk7g5sfssg2ra6anslt2f8l"
+authorization = "signam1q9lzsgxwjqw5llsyh0v0sa6tlhvftkmxkc9lws7r5lhfdvpdyfggc9sqd8j9yly95djuall60yfkqwmxdnwa6eaafdkue0kc7f96zs48qq9wtq8d"
+
+[validator_account.metadata]
+email = "hello@chainlayer.io"
+description = "Secure and reliable validator. TG: https://t.me/chainlayer"
+website = "https://chainlayer.io"
+name = "ChainLayer"
+
+[validator_account.signatures]
+tpknam1qz9f7f3kes7vx3amc34w2ju42a48zw62pm8hzz392xgv3c3cktd4sdqta0e = "signam1qrpt99qfftpd5hp5x8mklqw5tf9am0mh5cuazv2raaxva360cuee05ejwu8dluwcde07e8dndr0yxz9ljrw0q87srn80vvgzfj0mwkcxfe6ytx"
+
+
+
 # adding transaction for denodesxyz-validator
 
 [[established_account]]
