@@ -119,6 +119,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `security@contributiondao.com`
     - website: `https://contributiondao.com`
 
+- address: `tnam1qysez03jadg5uann2vpr3tdap3ahyfl2hv0kg085`
+    - alias: `laliola`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `sale.laliola@gmail.com`
+    - website: `https://github.com/JuliaMoon1`
+
 - address: `tnam1q9mnuc2tkkmglpsf293uzhx8lnvvmem0ygq7qf95`
     - alias: `theroadz`
     - commission: `5.0%`
