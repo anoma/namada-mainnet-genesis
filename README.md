@@ -239,6 +239,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `zenodeapp@gmail.com`
     - website: `https://zenode.app`
 
+- address: `tnam1q9krl9ltzmwj6m4q60ugnmrz3uwnm450ayt42h7v`
+    - alias: `PowerStaking`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `an0drei83@gmail.com`
+    - website: `https://powerstaking.tech`
+
 - address: `tnam1qy3m25cx7gd67vyz5px5wjj5gcy4pfhnnux9mhcr`
     - alias: `CryptoSJnet`
     - commission: `5.0%`
