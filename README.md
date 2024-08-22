@@ -15,6 +15,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ## Validators
 
 
+- address: `tnam1qy7u3y3sqltmd68a43lsr0khu8c9y8uyyuzy7sck`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `support@gatadao.zone`
+    - website: `https://gatahub.zone`
+
 - address: `tnam1qygycq5aejv4aypdppldrar2jnplmyt8ussdvjyr`
     - alias: `LiveRaveN`
     - commission: `5.0%`
