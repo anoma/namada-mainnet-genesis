@@ -182,6 +182,53 @@ tpknam1qq62aqnyeu3dtsskcynnr2dap33psyq640vhpd6jpjhekskzcc37qgfldnu = "signam1qqs
 
 
 
+# adding transaction for ruslanglaznyov-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq8ufplw0ktjuckmd0rv0y0gku2f6rh24hhrzk2ecxd24ul05daeqndld6j"]
+
+[[validator_account]]
+address = "tnam1q8d8ypu5j88qqvx89grct795uap82dtlqvjqjh3h"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qra48j23vfvvuxxsk0dz8krc7w9adpcv75v2c7gawg3p4ghe62zkymx4v5h"
+authorization = "signam1qqqxqfrz3g3u7m2z57pjurs4tejdysx8ns9s82psgkt8ywy5kp6r26qpcst84tpj66pqtan6gjmgps9dgytnygrput93yk8aypvl4ws0dlz7ud"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpnyvunnnp0whtv2z9tctqxkwej59gthjwcrhp7d4njpu9nv879rk4t7rhq"
+authorization = "signam1qpjlqcklq7dtjejmyuaqc5nkrjstdpeklxu4yd8prp2te56p7umvpzm070ztnd968dwldyckjv6g0zgfzjqs3ax35k5tjm5gjcedz0gxd4es2a"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq3vfnuw83emtck8895pgr0hxjh30s9as8dm0vrf7veuz4vhw4232uglsyn"
+authorization = "signam1qz9gk3xvyayl8tnfl76pmkhlrjm0mlyh2q89f8dxw894sv5a6ycpntk3ar208tn3eeq6qkljf64l7euedatarh8xvha086z9uuywu5g9ac2ja8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp7ae398kw4k6dpjlkqahvdmxa26ptwhnv97gg49u9r74sqfgzw52gsy7645"
+authorization = "signam1qxd0u7j2r5yx88p7x3dslqjgymggts28pfvj3lp9u0uadczsdxpjsfvn9ru4ckgczyxrscjjv7ryvdpjdev9razv8335p4hlayu6k42vqqtnvttc"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypaw8jal9pdx8m5vl7x20duu2efhkldlcad99559gce9426qpw3hdgve46dh"
+authorization = "signam1qxklcj0zg0veekjwca4g6razn9gjlu729qymsu4kdjcjdspaf6uqylyvdy552606kyymewj0vkyzhfqcdkmhv6g63h848sy3h672a34tqq3s3sa4"
+
+[validator_account.metadata]
+email = "team@mellifera.network"
+description = "Empowering blockchain security and contributing to cosmos ecosystem with technical expertise, proudly from Ukraine"
+website = "https://mellifera.network"
+discord_handle = "ruslan_mellifera"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/e86fec4890dc435ba14cb684ab658e05_360_360.jpg"
+name = "MELLIFERA"
+
+[validator_account.signatures]
+tpknam1qq8ufplw0ktjuckmd0rv0y0gku2f6rh24hhrzk2ecxd24ul05daeqndld6j = "signam1qrfjycus7ftr49yrlg0h7m54n4wq6zkc202psdh5nehts4ctq96wk4qcwr0dq9dfkh9lp27cedhazk8lpca8wh5qazgjexs9rlvp35gff4xn73"
+
+
+
 # adding transaction for mcdaan-validator
 
 [[established_account]]
@@ -369,6 +416,53 @@ tpknam1qp04kmhvtuy5zhr4q6eh4rm5vry7s4vhmf4wzpyzvhp4leq59w00w0d8ysc = "signam1qq8
 
 
 
+# adding transaction for zenodeapp-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr2dfp2mcdpztwdcc73v4a0geddfkftuqxwmtelk4vldd74r074rwq82yrq"]
+
+[[validator_account]]
+address = "tnam1qy500vdqtcumxzfhjccrhdx9j9wawhsyg536thwn"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqe7jlxd92atlajw5g5h8k5tvkpdlgts8r82j7x2nc5p3phu0vv3kqkrlxl"
+authorization = "signam1qqnwvvezf9hwc93ldx9jz5t8vv6gajpxvhzasrfndrsm0afz7v2shz385q00jxs5r9yuq6uyysc7n488m2dgjudy4kg86h029ky8stswty5jeq"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq6qnhga3g28fqxst23g92qaxzfjltmcjarw0z4wxl5dklw02hphjzu4j0f"
+authorization = "signam1qr9kg5my58s46v8258yhcljay0t75ykjvkw9fjn8n3v46wtk665aqjw9c8r9z5tp6wk0h4hr93mgwfqge0g346a0ly89twfx4vpwgfgw930j6u"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp3eqv7kmud4y0zvyk9ynr4zr44vjvph5u0laxcqjzc4jr98mrswjx0snyz"
+authorization = "signam1qqjzs44wd665ekcccj00795w97m7gzfytwcdq6pwms7tydtarvls3grafufdsgwz4a4rpnqy2q5hnhhkkrh59uctcwn0xcekryrf4rcycc4wdz"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypkwdj2gc389tlwl3lx53lyhtelgee2dj82wm88m3x37lgpysua45c6tqyj3"
+authorization = "signam1q9mfh9lmcf8lje4antvy8ngq0dvx3yx3kmsunkxely2h6uwrl9gcxt6s78z3kmsek7y90ux2x2868wljfu8y6v7p5s8dmj5mkdgghjlhqqkvtun4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypfplt82vttr5pnttak26ks4v6asvqzmehlvmptcasryqgck9h75ms4epklc"
+authorization = "signam1qx9s5rtwfh65nc4kxj0quwk5tmyd3s47j6ckdh73w9j9s7lkkcenc3fl8ygulp27rqlv4mdle5f9z9pjk3945arwh06cjz97u2h3uwwdqqj0e84w"
+
+[validator_account.metadata]
+email = "zenodeapp@gmail.com"
+description = "Zenode, allow for the current to flow, conduct and bring forth thy ode of care to those bonded by trust."
+website = "https://zenode.app"
+discord_handle = "keymasterzen"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/60179596e27614dae7dbaf5223939d05_360_360.jpg"
+name = "anodeofzen"
+
+[validator_account.signatures]
+tpknam1qr2dfp2mcdpztwdcc73v4a0geddfkftuqxwmtelk4vldd74r074rwq82yrq = "signam1qzmutmudtsc8w7t6ml6dvwtvx27pemk74x9gq4h94mffhqkywudnt0cm6lt3ys42wdt6pnteht9hgysupwk6ack0ef6hft86yax69zgx2qwxdm"
+
+
+
 # adding transaction for itrocket-team-validator
 
 [[established_account]]
@@ -411,4 +505,51 @@ discord_handle = "itrocket"
 
 [validator_account.signatures]
 tpknam1qrt77k69kgahp0c9ajskf64z72amkvn3usagulqgluk6vdznxcpx29l9xnn = "signam1qp83efyj40d5sqgw8kf03yzsq7rjmk7kn5vuyzqsay98c6cdsyrn32uame6k2yetwu20ke92a9x48mmg3mafk82xrmzl9mdcnx3tcxc0xrh0mu"
+
+
+
+# adding transaction for tecnodes-network-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrh8eya03pyvgqr4qhyavf38986e75vr0j0d9py404a2d3dwvtwfwqz85g9"]
+
+[[validator_account]]
+address = "tnam1q9tf86cusctv2c679ssflsrq0ymd9qxnluuewvt8"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.229.120:36656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrut2avemklfppyjj0r76pdqx4z45sj7jvddx6qwqg76pldnf8we593wxg3"
+authorization = "signam1qze7wu2q65csqwmc7uzkf5yw7tscdew33flw8v2gxrhuu2m2w9ehxc0a7aerh4z5uxzdzwztv70p4xjxxvh04pe6t6kav5crmyt4n9qyt0angs"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq2q6zm8xhtxekzzwmq2v8jc9gc9d9tedmqr67zt8lfx6r3nmqp0zx33jus"
+authorization = "signam1qz26qnl6zca3k849w2g43zshm0hpntj7vem6peurv4v7l0gk443k4zem4frr8xmuepkr6u2ygaru9huqq98f7etmv6vqscmhd0ld7vqv7yqa8d"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpqkxyp8zzkm9s2ayy33mt8svpha6uq9wvlwme4h5a7d6wdl5flhuyg6avs"
+authorization = "signam1qzk7dkncc4hx9hj56e2vnx2tgemnj4kye5mmztsn2ur83x94tzm6gvf9t75mch04aye7pr5r5yggr4hkqvh20ymksw8g4f7pxjaflggt0f96hn"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypr4952sc8yc0ev2umn0d770p4jlw9csy54g6ddq9w38l8zekvsxusac8yqh"
+authorization = "signam1q9sz9rcgjp5ugh95ngu9gdk2dd9x8awfta7y9wkpjvvpe7uxgnfpchvlmfaz872nflds04vfewdk0l7s87a56lk7jfgsnvp4ffensetzqyjs34k6"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypenmvvtyxacmv366vvdf48zhs7feu2m08xn2hwdjuzrjnwkhrqeusj4stvc"
+authorization = "signam1q8rnqvqmn7puxcsf0w7u8lgcegl7zcykc23drfqymq3st2uztjagqu7x779tjtxr5x2eln3yfx6hce3d36sta9jy8zs2zx7hr8xfq743qym5wqks"
+
+[validator_account.metadata]
+email = "tecnodes.network@gmail.com"
+description = "Tecnodes is a forward-looking organization poised at the intersection of technology and decentralized solutions. Our team’s foundation is built upon decades of combined experience in network security, blockchain validation, and high-performance system maintenance. Our passion drives us beyond just being validators; it’s about fostering a more decentralized and collaborative digital future."
+website = "https://tecnodes.network"
+discord_handle = "tecnodes"
+avatar = "https://www.tecnodes.network/src/images/logo.png"
+name = "Tecnodes"
+
+[validator_account.signatures]
+tpknam1qrh8eya03pyvgqr4qhyavf38986e75vr0j0d9py404a2d3dwvtwfwqz85g9 = "signam1qz6fphxp6dssvlgu7t66h3ee3l5cnd2c3j9en0rm3ng5egggcv7r9c4zl2panlp57r2zjn7rmqsr4hlj539cxdkds7kwpkn28lpkejqwlc3u2s"
 
