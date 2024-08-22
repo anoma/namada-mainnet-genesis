@@ -40,11 +40,3 @@ name = "pro-nodes75"
 
 [validator_account.signatures]
 tpknam1qp5eqyc4k246jlkuzxzdrprla92e7p0urccuyjr7y096grgj7eydct4lxdu = "signam1qrlw8qqz5tm3djdlr7dr5c64fxcf8ra4tmwfw38ghjm3makxcyret0pkqszwkyp5fwrjn6a62xrdm4guhnp8daj5gh4e6zccv0gld3c26j8up9"
-
-[[bond]]
-source = "tnam1qyx57588ejm4ltfldr4kvftmcr8plkx7eykxkmsj"
-validator = "tnam1qyx57588ejm4ltfldr4kvftmcr8plkx7eykxkmsj"
-amount = "0.1"
-
-[bond.signatures]
-tpknam1qp5eqyc4k246jlkuzxzdrprla92e7p0urccuyjr7y096grgj7eydct4lxdu = "signam1qql702n47wy6ed2dj9a40jrep05ayrj3p3zmr8skk08fg3acyn8auvu73llk0nj68fwqk7ew9u57c2qy9jmyqn4kxl5qyem3mt9vfqqdzacxtm"
