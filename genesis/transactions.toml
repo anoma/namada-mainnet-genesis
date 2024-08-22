@@ -368,6 +368,53 @@ tpknam1qq7c36qc2s2ny5qlvynyw6960842w2qrgq6cvflcw74jksgps97h7k236h3 = "signam1qzk
 
 
 
+# adding transaction for richardstakingcabin-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpc0ttndlxaegeas0z80pu5fdlj32j3k64elshmdq5tgq33t2xk6uptyle7"]
+
+[[validator_account]]
+address = "tnam1q8590sez2sxwta6f6fsydwjxgkctvtu0lsgu7702"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "141.95.65.179:56656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqqpswec683egfyqwc9f8eyun8jhq5lxgywu9vepuj7ky68gukp4w5fm4lk"
+authorization = "signam1qpa2qv44jx35j53p0m6jnzy9crku98xekjxy0j8um08fpct0ynt4haw2r6d2v552twnxmw6kza0ex50e5tlmde9tph098dc755hqz2sy28d5ny"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrlkf85aa47na3skpaz4zcsmrd7ygpvjn892dczusl9e4hn6uxg0xcqt7ye"
+authorization = "signam1qqysvtsrj24fjdpxzlq85eu688h87rz3jzexkw0939zchftseatq7fy2ucde9zxqyu842fqdqs8dv0sngajygz8nqkglmn93jsg3q5sgemamx4"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq8nh0nevf9lxf3leg4vddvla5gw2lexl57r6mmzhg2d5y02hclpjtu8f7l"
+authorization = "signam1qp6unc3w0njlca7phkg3qetajje64mhw7plu95grjtvndf7fjcet5kcp52xcw89pjs5t24a9mkv9s9n6sl9hdctwxljas4fvrv82zcc9lg74cd"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp0zc50wdj0cxkqcm5s559kmdc5k9n8ftezsj5tac909efn8nfyulgv72hac"
+authorization = "signam1qy46dt7562nfyfp7zn55f0lsz7czv0sunp3vfhzp9gh58fephspvqgqxvwngj5vq80g8lsvjufhfmwy7gpqp00lhra5vgc3dxs6wfzrfqy080h29"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp5u0nxfxzk56gyrc6k0z5xy7wwxh2sgntm82a35uj5d77w7uwgnegyrxvqd"
+authorization = "signam1q95d3rv4w3f4jvj9gtwszvr2y9lvy5d8e05rxxlz6qajysfxm88jvph50mvauzmcgmnvfjcg60zuq9u78z2vt0lw02vnlfyxenk5kasxqqjm07u9"
+
+[validator_account.metadata]
+email = "richard@stakingcabin.com"
+description = "Next generation of the internet by staking assets safely."
+website = "https://stakingcabin.com"
+discord_handle = "richardstakingcabin"
+avatar = "https://www.stakingcabin.com/img/purelogo.png"
+name = "StakingCabin"
+
+[validator_account.signatures]
+tpknam1qpc0ttndlxaegeas0z80pu5fdlj32j3k64elshmdq5tgq33t2xk6uptyle7 = "signam1qq5x27tx38wdgh4rdcscf5es4kysltz7h3qddd6uaq6xwty2mw0kp2sqxsr99ssft2t57cvqgjz4skqzl5h7t3z3lq9zrqde0dgjk0qt0ej0tv"
+
+
+
 # adding transaction for validatorvn-validator
 
 [[established_account]]
