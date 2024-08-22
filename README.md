@@ -111,6 +111,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `info@swiss-staking.ch`
     - website: `https://swiss-staking.ch`
 
+- address: `tnam1q83z54q574kvzfujk5dt9kpy42a4zpassueswgyq`
+    - alias: `alexit`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `alex.it.prof@gmail.com`
+    - website: `https://github.com/AlexITProf`
+
 - address: `tnam1q8sjkutd5kqwcc555wr77p9fjn66nuuqfuzzc3yc`
     - alias: `Mandragora`
     - commission: `5.0%`
