@@ -42,6 +42,53 @@ tpknam1qpwzqyhlm93rqgt5swj4j2yaf2xxlx274dw9f35nheuaxlehr5d9q495yrl = "signam1qze
 
 
 
+# adding transaction for ivanovblizznikita-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzm2l06dmknjdkfrkwvqe88x6wfd7pwd8apcn2zvcl6j037lx3vnshn9llh"]
+
+[[validator_account]]
+address = "tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t"
+vp = "vp_user"
+commission_rate = "0.07"
+max_commission_rate_change = "0.01"
+net_address = "65.109.85.203:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqq30ekem9dcc8pp2vcfv3nmfh7f3nhr359tl0nl0m3f3f0w86uxj2ax89s"
+authorization = "signam1qqklhd4spk5ezpumhs2aprrje92rpgqf0ywau07zade4hk7596fa9u54ky7cfaaqnwz99xk5xhtt4zmqx0f06wv6v2qzd2uyu2vzw0g2twxfgf"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrydfx707zez6fstaqds6u3wxpqdf4p5nuv9fcsctp5wcz84w255zq79f5h"
+authorization = "signam1qzp0qhxmqvulpgnqgy8shrkwusr3dv5tqmn0g9z8jt7gsj25xpkce4r2ua5jnfqqvggctlflxgx6eelpa634aujvupcfn95fnfjakxcgqvpxg7"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrktvq62mhklqwf4lnj0kud0h5zgdhtl0hnn4m5437j9jcs8q8jqv2t7c8r"
+authorization = "signam1qz05xhzlxvct83g36svyrgc6hd5van37d2ju9h4q33dzcyc5j8gsxgm6kuatqt0h3maulqvn7vfyw69gfdppfeuf0mxx79dnsl3yf3sy0k3u7r"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypp8n787upe50s5ap34tjtxjxp2485hk3ymp3950zdulg0tgtg2hzgecnpx7"
+authorization = "signam1qywzkdkd7k2r7uhtqptddra6vpx2h8pkxldcxd8vzjed0nwgq6ykytkp8s2rlsmsw8k9pp7an8vjdfuqt650dmg3g8age2yjcyl0dch7qy4jadd9"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypdaw4jduxnvw4zktu234wy8hcx2z99dydk5dv2clssnv9zaapwnnsd5pr88"
+authorization = "signam1qym7jrhu7cm8jgwmc2hj4wt4t3pclfgksk26fc5z3lt809shr4q5jf0u62u6e3un7pu0xnh3xcktfw3xfnfrtzdzty2lsvrnlevxwyqaqy7f0qtd"
+
+[validator_account.metadata]
+email = "team@stakeflow.io"
+description = "Stakeflow is a reliable and secure non-custodial validator that has been running since 2018. We focus on providing public goods for our delegators and supported chains. Check our block explorer https://stakeflow.io and website https://validator.stakeflow.io for more information."
+website = "https://validator.stakeflow.io"
+discord_handle = "ivanovblizznikita"
+avatar = "https://validator.stakeflow.io/img/validator-logo.png"
+name = "Stakeflow"
+
+[validator_account.signatures]
+tpknam1qzm2l06dmknjdkfrkwvqe88x6wfd7pwd8apcn2zvcl6j037lx3vnshn9llh = "signam1qz7f5wyk37zq9z3yzf5rgh3a6zvprq7en2ve3d7dt6uukn5dqejd42kuw3m2wetzcujvvrt6vckmhp4jskkjd34wwg8rzsrh0ln6meqfu4kmff"
+
+
+
 # adding transaction for liver-23-validator
 
 [[established_account]]
@@ -1294,6 +1341,52 @@ name = "localhost"
 [validator_account.signatures]
 tpknam1qzf8uzgxst2zfle9528emkvy6vyhjrqn0tdglnacgjl930mmrs90j5umgm0 = "signam1qrca05m42nzg2paggmhyery6x37d7z24n9nmzeeg7je0sw6y4naxvpry3t7lk7zu59gddzqdycap6cnp2hpmyj204p35epadtpthl4gxp5yunu"
 
+
+
+# adding transaction for bernatfp-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq35x95uxxt4xrkwnamgwh2n4l7zjt5nn7fnjz0g0xkluy6x0syy5tsvwtj"]
+
+[[validator_account]]
+address = "tnam1qy9htx7f43s3g4220ljzmua65vp5sw9ah5vm6xdu"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.216.248.97:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrw9hjs5q6crfm2zuvcl5t9363nfs7jma47tfnjtr3ccvtmrsygv5cstgsn"
+authorization = "signam1qz6ll0e0hhkrzk0m22qd42j8jcegzladtmmtqua6szdyvtdxqszfk44edalsdy44h6ls09l4fknkxuz9pffsxwrm2wy4zshe8ypwszg8gwx47h"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrwwy2way02dqdk6trjtxm74y3lqcsc67regxysrvzfmqmk2u2ywg26xc86"
+authorization = "signam1qpfmudg2adr88x6r0qv4qw5627pm3anmeqhtwgr0882ddykul2wwryzgrcamgyu2e7tp9nkcvyt932jhe24d533uqg60g44pq45an2qza7cvjr"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq3y5ud0477xrqyt6r5yfxrxupwe0rvynaszcfarf757nhkt5flps8t7yjp"
+authorization = "signam1qpqnpsy58lex76uxxhwry8d5rtnzyqyvcr0k3jpc8efscyxgl0hhauxr3xe0u62pw47up462td23aul2fjxrypf7rqewfgdv8usuqhsgntn2aj"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypf4jn6yxdmg770exzn0l9zp32pr67sct73zex9gw6g4s2423gnnaskcvt24"
+authorization = "signam1qygyykdplza4whqw0plxsh0pyacr70e7nem452m38exdqg5a9dyx5jl63laqav55nxdhpzrtzju73d6k985mjucu74g0uuetxz7jaex4qyulj0tf"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp5hd6znar4zxnlntnvnzf537ccrgqsr4l7w3nnerxkpxm0wvhe3pgdvxxc8"
+authorization = "signam1q8jzwjuf03fll9xhjw9j9px0lc7k86ujjp5zhmm87e09nwc8u7xjk6tn68m7ussdm5x6djrxqhzh2zzrgtxmqnq8dc7pfa5nhe5ah39vqq0y639z"
+
+[validator_account.metadata]
+email = "hi@firstset.xyz"
+description = "Independent validator supporting emerging chains from day one."
+website = "https://firstset.xyz"
+discord_handle = "bernatf"
+avatar = "https://raw.githubusercontent.com/Firstset/eigenlayer-operator/main/logo.png"
+name = "Firstset"
+
+[validator_account.signatures]
+tpknam1qq35x95uxxt4xrkwnamgwh2n4l7zjt5nn7fnjz0g0xkluy6x0syy5tsvwtj = "signam1qrepx9elnhspcsn8jrt668n6mwhhs2j6aq92ktsnhsknamy79zxtyg470a2wkkzpvv9ffp5n600h3ttyfqec5wp8shwc2y5feujm4sgr40secc"
 
 
 # adding transaction for maricalucian-validator
