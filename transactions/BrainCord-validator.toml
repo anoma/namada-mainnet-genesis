@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpgx22sxganjefyl3gsx9w6etrk76r4wvrrmpwduugpst664jlccuzpak3e"]
+
+[[validator_account]]
+address = "tnam1qxs70yqdwstq6pyyvy0xmavwrmhxz70fqvxqr4c4"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzejvtddevnqtx7fzzte9rhvqxmtvkdlmwke3v84ngyq302sxs5ux2hm23u"
+authorization = "signam1qpgkydjlyq7037fpa6anmxww42qdk3q27dewm68zp7gyk2t437mqr8zgssenfcsnf30f7ulsea5ywt63deg4mmwjq2292626yudxzkgd5cgjmv"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrtjp3tdnmy0jtv2v6hky2yjwqvfrhg6cngjzyfjw0e7efu5v9w6ve54686"
+authorization = "signam1qp2zjmtvg7s8jd4ttx7pggly9e6cg84y3cz70smlpnega0as8c7sda2ttv6y6a7da9hhj89fzkwvq3zwewa0tnxrmhkhvyf5x390c5cvxaawrq"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpu2edct0fgnuscwx7t0f3dnt2jr5c39v5dvh7p3fusgtgqs35exseywjch"
+authorization = "signam1qrm5n4eugacv72uzu7ezzg3yyhtj9syc2804xvqmg0yhuqdxtg70r0fnaaqjc9j26cn7ttsg9mugwcmcgvuc5qjltjry8gquxx496sgwh8xev0"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypj6awmuvluvadqz9hn7e9hzjvv5zn7mwf94pj48dfxqn2qxdl8pmcz0454l"
+authorization = "signam1qx0l7nvc8x0nwt9qtrh7z44v3hzjxk4xv3gj88dfyyykfmyya09rutq925gdmcstl5j5ht6f44gs8flclaszqqeh8qsch43746wrx5s4qq85tq4q"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypfw4w8225q30l42zrqqw86v9xwls7tf29e9ddgn9z8thtnryv8dgcq688c2"
+authorization = "signam1qxp8wqccwzpcu5v96axjpx9wy0t8hdl9pfv67mjgsdtkdl4la4e97k6zddnzc7h9r30vmctcdylq4pvsx6y8qcq0vfwzukfd6fcug2t3qq9v3fsr"
+
+[validator_account.metadata]
+email = "black8deer@gmail.com"
+description = "High Reliable Validator"
+website = "https://github.com/BrainCord"
+discord_handle = "q.w.e.r.t.y"
+avatar = "https://raw.githubusercontent.com/BrainCord/docs/main/avatar.png"
+name = "owl-validator"
+
+[validator_account.signatures]
+tpknam1qpgx22sxganjefyl3gsx9w6etrk76r4wvrrmpwduugpst664jlccuzpak3e = "signam1qr2gg6tnnwmksuryq4v25m5tn7gv0q5k9wx5ddkwm5vrq8ysjntae8zgzf4qqzpnxgxf43m0kxlk7q99azdza7wzead83wdtrvhpezgp3nhh3r"
