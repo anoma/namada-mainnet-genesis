@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz6mn6dwv0vmcjaqrg8fsxprhmg7mrc888ueky94kx492zqfh43f5su7dx3"]
+
+[[validator_account]]
+address = "tnam1q9vdxnkrqwnw5vrgfypqz6ndejp6sy2sfgc9pk5d"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.71.210:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp07nk8al0t45nq90fl8hu3dm8lsg6t7cuud8x9q6ntm9nj2rktcsa46ldt"
+authorization = "signam1qqu4mvd74lqllarxv9cxkx5j7jlnd0d4pdax4h3mu2prwldmxqtv3qnph9sfqyy6q2p5zce9wa9yd20j8rps6rgjw4ys0ysm7we4m5gfkpu42v"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqg8wppal6tr4grjduyua09hyml55ge7n2gvv6pgtu8ke7a9jyq7uzccxw5"
+authorization = "signam1qq7ts248y6c84dtkdsyvrz68vch92pe9qyutw2p9h2zwq27fufaurlhqr9jergltmew8hpnaycwesut2ldf5x0u8zv5jgptqlc9cclc8l2trsy"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzzpsyvpd0z6npnpwa3d53yue6042jjzagdhcvgg9f9g4p4aww8ux7hzj87"
+authorization = "signam1qrkgl3f4av0lrsdtflmckddr3n24s3laywpjacs2ppruukpn4lctndez72694c895xp5eugpeah0hupnedcu3gn5efunp9pswc7cu5qvt30en3"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypptph3pxqrwgduyrg3r35fe3t5y44vkh4ukfvtythnt9lhryfsr8g3jused"
+authorization = "signam1q9790nwdhwmda2hq0tf90esc6lm295fvj2kjfa0yny09hk03ckavufkugecrwsv6qzt3l33f6rhp8aavtzxtmqurz6n4dwuhjp0na0qyqyw7jfqh"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qype69agn48kavwzy2wla2z4wemr6cfkppnpck0j56e2tupsdllm59cjddx7r"
+authorization = "signam1q8ppeh3pvv506jzpgrcg4ulgjtywjg5w0t7t3zlf9c0aas3aufq7zx80hn8m6z08al83zwhcev8zuu80q9hesx7vm2n36yqf2ysqa0qdqqht3pl4"
+
+[validator_account.metadata]
+email = "admin@nodeify.net"
+description = "Strengthening Networks, Securing the Futures."
+website = "https://nodeify.net"
+discord_handle = "kw1k"
+avatar = "https://ipfs.filebase.io/ipfs/QmWs2W7dpw6AQpywNJbLgAKeG5KQWFnHocGQLLNKUEnBYL"
+name = "Nodeify"
+
+[validator_account.signatures]
+tpknam1qz6mn6dwv0vmcjaqrg8fsxprhmg7mrc888ueky94kx492zqfh43f5su7dx3 = "signam1qpxxqklluxnncdr4dtes5xeq5h5j2xg4w9hh2669swfy30n4wu0605mjuv5g3tx5ha3v8u8ckksusnufyj8zu4rjsuhucc9rvjnhxqgxzjlrwf"

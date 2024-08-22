@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq5zmdsgjtg5clzdqajr0kmmyud6gs62yw0j9cr52ruk094t43p050hjwtw"]
+
+[[validator_account]]
+address = "tnam1qyl2fc8c358avg47ff5lkc47d4cnk0x8wy96ax9q"
+vp = "vp_user"
+commission_rate = "0.01"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpmja5h5ztsqp0q048x2eqy57sum9grvr7snywgwvayw4fkv4f4sqf2v0f0"
+authorization = "signam1qqkxtrag9q7u763c8w70qx7d065kxhsgf4fpmm4dag9knhpcdgwfku728acq2fxv4qhmytkye600c65qsf0v9pzgagguw4ta3gez4acfgry6ds"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzcndmfmqtcz7959pl0pkfldtqukjmfer6d8zkvtynt74zjd3lezcjk06dt"
+authorization = "signam1qqgcn2kqpsfman5zq624435fm8l999txmk0lq0ewmnlwktl6zx2aw3nzxzp956cumfr6gdwft96squ6dq3gfyzhzx0sxpc3x34uqufqr7th3y6"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqafazy4pf3cy8a0jjxgl9uyvk3e4r9apq4wu4xdyy2q54whm546yrtncj5"
+authorization = "signam1qqn2q0jywdx5a6t45awgc5zsxkrwxxrd2plvhsa93088tdwg925h6q6pk3sysxwmuyasvf83vhqu9ugd4fy2nfdv8k6q5heqg853zjgfgyez4s"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypdv58njta87nlptk82kzzvhh9mvu4a7rmkz8ywejeuypw7t2h3accusnh7t"
+authorization = "signam1q9qjrcg3d996nrnsdsesuwfyhxk2lu5cavuac0terzwqj4uyahxlwseqx3mmdsggqt2dpc2l7p0j4pjeah3u3elupveduvhrqtt6aflcqqzlp9fx"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp8shdyc9me82ynqdr6y96xezdg0seessartk30tankxm8j66lgmecawqqrr"
+authorization = "signam1qxte0c4c4pmctvlksq80j8rualz2zjfxfvezxpp7zr6gvzyjt2xy2wj0u3j9lykrmrhhdt9cncx0nfptdvrr77jddup4uqa8a80kklzlqy9g7gsa"
+
+[validator_account.metadata]
+email = "contact@stakepool.dev.br"
+website = "https://stakepool.dev.br/"
+discord_handle = "stakepool"
+avatar = "https://raw.githubusercontent.com/Michel-Leidson/logos/main/logo.png"
+
+[validator_account.signatures]
+tpknam1qq5zmdsgjtg5clzdqajr0kmmyud6gs62yw0j9cr52ruk094t43p050hjwtw = "signam1qpvswdap05nankfdj7u236e7y28zrplhx6e3f4mmdmtxtv5kxtwy4dsek8z0zlk9dk96kqehlgtj4myv7rq7uqpkn06c45fc2xa02hggqmr8dj"
