@@ -970,6 +970,52 @@ tpknam1qq5zmdsgjtg5clzdqajr0kmmyud6gs62yw0j9cr52ruk094t43p050hjwtw = "signam1qpv
 
 
 
+# adding transaction for carameleon-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrkw0u7j7n7rxexxwpy0nve0tvhxrcv6lqaz20rgpd9qax09zpcaqpwaklk"]
+
+[[validator_account]]
+address = "tnam1qygyng6guhgj7jy4cfe2pxmsle6sakcvqv3cnlg6"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.1"
+net_address = "0.0.0.0:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrqq33j6qhh2ep2mllp732fc7jyfquwv4w27d8vkg5p36fqs2xjwq608wda"
+authorization = "signam1qrd8tg3l3dfc79pstxqtszlet8a3gq84lz3deyfmqtw9qp52t8j9auweee0993esr3wrvwfnh3zmgwh6eahklpx0a63nsfsvu278n7s052s9vz"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzdv6wdzdamlfyyq2rwtmr7gg0lraqj22p8ruzk2aeemz4cgujykcggnn0p"
+authorization = "signam1qzs0mv36kl24xw4xmt276rterwck8lh2nvqeq0zzwds7lrr2zlu6aale0plpt6jw5js0tkyaytdwqul83hkt0dhkqu3q59x5jxutzfgxqd3fke"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq5s0jvkjg024e3sl7x63nj5fxwnupg56mtx0zx5ur7v82snfprksg44hks"
+authorization = "signam1qqxq8rq2jeccx88z843uxhhznfcvxj8nkjg5vqdqw5p84syrtfxf8h9dkmpnemn9chntfmjukpe4w3fc9asnmuxpzdcgppjt3yl2mvcqd6vww6"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyphev9eec2yxfz609m92ru67jgv7uq0rnvtjfuaaqjfh3ymxhrtg3chsdde4"
+authorization = "signam1q8dr7n2ka683xj5l3vmkjpxh3q0c660y6g9f2c7sm5las7rg8wl2vtux3npg3kn5kjnsfzm95yuuuvht40edqhqggj2mfwm9uaz54lkmqylhk6ag"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypprp9x54zcyqzc4k4jstj0h9psdwct0j0tm6ruh59x8388zyj4wvs7jgvpm"
+authorization = "signam1q9k4udgnj42zzfhssdt2nj9jmme8lt7unqwwf9c70w92nt805jsfz08gcf26ca9yfde3r6ckn7spus4eutsfh9dn5mdhmlm42054feehqqtjs4yp"
+
+[validator_account.metadata]
+email = "node@stamper.network"
+description = "Cosmostation is an institutional-grade cryptocurrency infrastructure provider, managing billions of dollars across 70 protocols. Since 2018, we have served more than 500k users globally, providing products that enable protocols to scale."
+website = "https://www.cosmostation.io"
+avatar = "https://raw.githubusercontent.com/cosmostation/chainlist/main/resource/cosmostation/cosmostation_black_bg(256x256).png"
+name = "Cosmostation"
+
+[validator_account.signatures]
+tpknam1qrkw0u7j7n7rxexxwpy0nve0tvhxrcv6lqaz20rgpd9qax09zpcaqpwaklk = "signam1qq90tc0eysxmzhrjvh94y330llkdv5czkjcjtmzdtn0ynxew2ddrfttlmkx8rjsgnsqr5kpray84pvdurxs3rcglvnqj90k2gm8r2es2nfcphv"
+
+
+
 # adding transaction for doodleoo3-validator
 
 [[established_account]]
