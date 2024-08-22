@@ -439,6 +439,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `contact@tdrsys.com`
     - website: `https://www.tdrsys.com`
 
+- address: `tnam1q8wq9ns3v5fhxeu8uedtfavn07w9wvt4ygp0ajgs`
+    - alias: `Stakeway`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `staking@gateway.fm`
+    - website: `https://stakeway.com`
+
 - address: `tnam1qy9htx7f43s3g4220ljzmua65vp5sw9ah5vm6xdu`
     - alias: `Firstset`
     - commission: `5.0%`

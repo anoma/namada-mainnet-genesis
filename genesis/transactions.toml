@@ -2453,6 +2453,51 @@ tpknam1qr44fxhzngza78629f4sfafrkq7alytg3ffdaq4xtg6cvg5fz9zf6mgc4pz = "signam1qqc
 
 
 
+# adding transaction for zheli-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzv9v0nw6rqrg65zd0yvtkala38nvna85xgcarhhwdg795phajw06etuvh6"]
+
+[[validator_account]]
+address = "tnam1q8wq9ns3v5fhxeu8uedtfavn07w9wvt4ygp0ajgs"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "192.168.0.1:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qprf62y4qkyfgacw952drkquks6u3eqp7yr0p6qaq6yly947s9td70xrvpf"
+authorization = "signam1qrc749puq428w2d7anukp06x3mnrn02j202mqu5anmamh8jdl5gegk5peyuxwxeyx5d98zps5qjnn4d0xjt6x32ga0l227qysnpnxyqv975hm7"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqvx34sdf9svztn7tgnm77gnk4rz5rc6md75et4kvsvve3ehnl5vcquk3cf"
+authorization = "signam1qqjhgred8yvlswhcukn5n3lmdpz92v3f3nnelmk69udfe9hslclflkccx4yysrfcrw0j49says4ngqzf54fdhndhu7dcec0sf97lkvsd944knj"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzpjkk9my2qzgsrcnvmxzrnhy5ztf9jelsnxr6am2ln9aur4yqz66ejp0v8"
+authorization = "signam1qpul2ydqdmhc3m5u94s48h9lk9j7xjxy3drply8tecu3qrg7lmrtlt9guusplfj8v59tsms35qhmps70xjm2fqvptl9nflu7tltu73sw6a37sx"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypzyu4nt90jtf22yeq5l92e5x748etns2jryvk3v0u89daysrn6fgqgwc769"
+authorization = "signam1q93qasrqt9u6ucazctc4cr9arlhnsekvt954kqhwacfclt5z5px5625z5vamxyh5pvkguln3q9qyn40t9hvc4568a0yx0pru63zj3j2aqqrugk7j"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypecnplc5f7sjjwaf0866cmgdxdxjv5jjsu6a2y2qhpfjwav20crwqfme58u"
+authorization = "signam1q90lrcv86eazkctn4xxa8dhjcsl4q0j2w2qne6heedd8lz0fh7xss6dekejxqffevf826vek0zua0mzfchldrzae8n3l4rgvmxda2t8hqyth0upm"
+
+[validator_account.metadata]
+email = "staking@gateway.fm"
+description = "Stakeway by Gateway.fm is a premier staking provider offering Enterprise Grade Infrastructure tailored for customers seeking reliable and secure staking solutions. With a focus on performance and trust, we deliver a robust platform. Our services are designed to optimize staking experience, ensuring seamless operation and maximum returns."
+website = "https://stakeway.com"
+name = "Stakeway"
+
+[validator_account.signatures]
+tpknam1qzv9v0nw6rqrg65zd0yvtkala38nvna85xgcarhhwdg795phajw06etuvh6 = "signam1qzkvw5xg7hwuh0jd4x0lr0ufcg55nwtfa6k2na974s20pky3f4xm60sskcept2mms3lh0yvv30hkdxu7na0err6eqk6hwjfv2wclqscdwcrmee"
+
+
+
 # adding transaction for bernatfp-validator
 
 [[established_account]]
