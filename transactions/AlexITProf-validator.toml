@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzsmt8lksjezlepf2zcj58uw0s8m43ur8x8j8u6fspzm73xlcysxxa56685"]
+
+[[validator_account]]
+address = "tnam1q83z54q574kvzfujk5dt9kpy42a4zpassueswgyq"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "193.35.50.208:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqcrl6t6cj5ydj3y38h5vqzye8mczc5fd60cjm28pum3kprnfk7wupqg569"
+authorization = "signam1qq5mq0vwqr49tdu2qs6t6284azzw50u4ycuv3futedfl7f52julsmnl9f3452d7qhcyq73qrganng0tev7m2qnuyyl3up7hksxfl77g0yn9lzg"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpy5mlgw4wrqpj8s5pwcsuk75x40k3vatd9plw4866esf8a0tfa3s6vh6ds"
+authorization = "signam1qqvnzsajqanru0gy9g49s55fxyfqnu5a9pnt25rv6x8ncp9z03fdz4xlemxvl9va039ez82eznf5tap7cpapufd3ukf60tc2cnw9s9g2ea5rg6"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz36fnnjcqrjakzppsthe2zklpfquu95cqt7535qdls22zk4svvaj5qw2zf"
+authorization = "signam1qpqg3slvtz803dqn2djrmzvkfpxdmk7y33swfxspa5m6xxz8juyu6lxqsyps6l32x2w2tn73rrek870sp7zem0zyya99leyft6k62xgd75c6hl"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp02a87m49xnv6kvlugwcfeh9rhjpw4v28upz6d05qnkyfcsslgnuc3ajyv8"
+authorization = "signam1q8yw88a8tan85ycuxlmkaaznfnvzrmcnqwdw6ns69thjvjjqvg23s9nc4fddc5qkjxfpvkp6vmzxj9h68f9wy9s8d0aef070tc4g0l4vqqv870aa"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypeempjgvphkuzt865vl6vmwyrzpatwten26cr2q392hzdkrdhcdygm9f39h"
+authorization = "signam1qx0ffd08zc2c93lsv547wm7q7xce55267asmyycxd3v6xv0zzpja2508z32aspuwsea5lkkel58c437cmjvv6ay6xu6fdqh6k5778rfhqq999n0w"
+
+[validator_account.metadata]
+email = "alex.it.prof@gmail.com"
+website = "https://github.com/AlexITProf"
+discord_handle = "alex_it_prof"
+name = "alexit"
+
+[validator_account.signatures]
+tpknam1qzsmt8lksjezlepf2zcj58uw0s8m43ur8x8j8u6fspzm73xlcysxxa56685 = "signam1qpq80mx5gl38z6s8a36kwszjkmzqv86qrhlxe8lrhu59vjurh37vdufnq2j3t06uu7tydnt022urkv3pttnqrs9uyfv0ns57y4g2xpsr8le9dx"
