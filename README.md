@@ -655,3 +655,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `89686697888@mail.ru`
     - website: `https://namadascan.io`
 
+- address: `tnam1qzyu9e9dr8w45lnp5g0j9tjs2s7v2knk2qgcmmrd`
+    - alias: `BlackOwl`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `blackowltr@gmail.com`
+    - website: `https://services.blackowl.tech/`
