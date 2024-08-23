@@ -583,3 +583,11 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `stakearmy@gmail.com`
     - website: `https://stakearmy.com`
 
+- address: `tnam1qy24smlm8tdg8vawx8xh30fxa8kcwnudkvufz9zn`
+    - alias: `888Tnso`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `89686697888@mail.ru`
+    - website: `https://namadascan.io`
+
