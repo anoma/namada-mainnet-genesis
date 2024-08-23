@@ -455,6 +455,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `fastrpl@gmail.com`
     - website: `https://itrocket.net/`
 
+- address: `tnam1q8yksf6xqm6u8e2axhy7wyx0elslnh7tdsrp2y9m`
+    - alias: `HadesGuard`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `truongquoctuan61@gmail.com`
+    - website: `Unknown website`
+
 - address: `tnam1qygz4sn400y9g90rt5jx6ja0wrcx3y7u0c0ue6dq`
     - alias: `Lavender.Five Nodes`
     - commission: `5.0%`
