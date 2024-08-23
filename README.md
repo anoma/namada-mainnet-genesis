@@ -631,6 +631,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `leon@coverlet.io`
     - website: `https://coverlet.io/`
 
+- address: `tnam1q8qr408fvssqpqaht2qspryq2yfu7lds0urktcam`
+    - alias: `Simply Staking`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `staking@simplystaking.com`
+    - website: `https://simplystaking.com`
+
 - address: `tnam1q9hafe0nf5k7pnkcmzp4tezgux6v7a6r25yqfe60`
     - alias: `Oneplus`
     - commission: `5.0%`
