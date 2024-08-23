@@ -111,6 +111,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `hello@n1stake.com`
     - website: `https://n1stake.com`
 
+- address: `tnam1q8dtazgc7y9xx00lq4d2pnacvtz29p5mvcxwat74`
+    - alias: `Staking4All`
+    - commission: `1.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `info@staking4all.org`
+    - website: `https://www.staking4all.org/`
+
 - address: `tnam1qxzwta6uhcsv40a8l4g5t07q0ey50c9dlyt3s272`
     - alias: `polkachu.com`
     - commission: `5.0%`
