@@ -431,6 +431,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `office@noders.team`
     - website: `Unknown website`
 
+- address: `tnam1q92xh4k7acxegvlgm3nfgg584f3hx0xalgxyjrh8`
+    - alias: `cryptobtcbuyer`
+    - commission: `5.0%`
+    - max commission rate change: `10.0%`
+    - total voting power: `0`
+    - email: `cryptobtcbuyer@gmail.com`
+    - website: `https://github.com/cryptobtcbuyer`
+
 - address: `tnam1qyqm3r6kn73ey8mmrc7w34wrkasrnd5wls9ptrwk`
     - alias: `Niloki`
     - commission: `5.0%`
