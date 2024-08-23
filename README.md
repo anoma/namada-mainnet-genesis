@@ -471,6 +471,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `n75pro@protonmail.com`
     - website: `https://node75.org`
 
+- address: `tnam1q8hfzffj0ckxumqgvu3thal3wprzt4c7eypss6ts`
+    - alias: `Centauri`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `79nicolas79@gmail.com`
+    - website: `Unknown website`
+
 - address: `tnam1q99e0kqh32q6s3f3mr0ds772edyg7862jgj23fhh`
     - alias: `Unknown alias`
     - commission: `5.0%`
