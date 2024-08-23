@@ -639,6 +639,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `hi@firstset.xyz`
     - website: `https://firstset.xyz`
 
+- address: `tnam1qya90eeuaxn47ajfjp08f8zzgjtmhy0lmyxn26gu`
+    - alias: `TuDudes`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `node-alerts@tududes.com`
+    - website: `https://tududes.com`
+
 - address: `tnam1q829u6jedv7y4yek2gfrh77qaz9qe3veduzkdyk4`
     - alias: `Coverlet`
     - commission: `3.0%`
