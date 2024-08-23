@@ -279,6 +279,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `alex.it.prof@gmail.com`
     - website: `https://github.com/AlexITProf`
 
+- address: `tnam1q9nnw09fl7a3f2nzmu6dtqea9txthjevnvruc38g`
+    - alias: `HashKey Cloud`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `admin@hashkey.cloud`
+    - website: `https://www.hashkey.cloud/`
+
 - address: `tnam1q8xwyyc9j58w09wqm0z3jjjkt08699t4syfnpgmh`
     - alias: `nodes_navigator`
     - commission: `5.0%`
