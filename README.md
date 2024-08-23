@@ -487,6 +487,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `m@cryptosj.net`
     - website: `https://cryptosj.net`
 
+- address: `tnam1q9mnn2qkg3fzuw8hzwgnuxa42rvdjhkn5s065aa3`
+    - alias: `stake-machine`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `iam@stake-machine.com`
+    - website: `https://stake-machine.com`
+
 - address: `tnam1q9snwwuqau7g2nh9835pjf4uhp69pv8qv5ksefrc`
     - alias: `JeTrix`
     - commission: `5.0%`
