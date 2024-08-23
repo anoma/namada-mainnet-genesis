@@ -359,6 +359,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `zenodeapp@gmail.com`
     - website: `https://zenode.app`
 
+- address: `tnam1qyqm3r6kn73ey8mmrc7w34wrkasrnd5wls9ptrwk`
+    - alias: `Niloki`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `niloki555@gmail.com`
+    - website: `niloki.xyz`
+
 - address: `tnam1q9krl9ltzmwj6m4q60ugnmrz3uwnm450ayt42h7v`
     - alias: `PowerStaking`
     - commission: `5.0%`
