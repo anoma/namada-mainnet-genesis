@@ -375,6 +375,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `niloki555@gmail.com`
     - website: `niloki.xyz`
 
+- address: `tnam1qxyx90jvjew6ng5tgpfgfhwrt4g4atg7kq9u7wly`
+    - alias: `IONode Vietnam ✅`
+    - commission: `5.0%`
+    - max commission rate change: `10.0%`
+    - total voting power: `0`
+    - email: `ionodeonline@gmail.com`
+    - website: `https://IONode.Online`
+
 - address: `tnam1q9krl9ltzmwj6m4q60ugnmrz3uwnm450ayt42h7v`
     - alias: `PowerStaking`
     - commission: `5.0%`
