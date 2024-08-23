@@ -135,6 +135,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `admin@validatorvn.com`
     - website: `https://validatorvn.com`
 
+- address: `tnam1q8ev9tdg3v9hgm3y4muy7xy7tnmd9ne8ngctj9th`
+    - alias: `Moonlet`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `contact@moonlet.io`
+    - website: `https://moonlet.io`
+
 - address: `tnam1qyx8wdefdg9sd6e22xq8ccyqg5peaersvcm20843`
     - alias: `securesecrets`
     - commission: `1.0%`
