@@ -47,6 +47,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `nikita@citadel.one`
     - website: `https://citadel.one`
 
+- address: `tnam1q86ydne27sxc4tzgzy5wcv9mwrwa0gwtqg4rfuue`
+    - alias: `Moonode`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `bngq323@outlook.com`
+    - website: `Unknown website`
+
 - address: `tnam1qygycq5aejv4aypdppldrar2jnplmyt8ussdvjyr`
     - alias: `LiveRaveN`
     - commission: `5.0%`
