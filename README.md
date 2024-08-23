@@ -415,6 +415,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `zenodeapp@gmail.com`
     - website: `https://zenode.app`
 
+- address: `tnam1q8tzr86aw8kh2f66vukkhnghppkp0xckdy3xzrgx`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `office@noders.team`
+    - website: `Unknown website`
+
 - address: `tnam1qyqm3r6kn73ey8mmrc7w34wrkasrnd5wls9ptrwk`
     - alias: `Niloki`
     - commission: `5.0%`
