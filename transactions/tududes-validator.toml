@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpngf2w7n5vwzkh0tqrm0ql4zwyu5c37ay9xmtvek7lrezdlzuxsutlp4a8"]
+
+[[validator_account]]
+address = "tnam1qya90eeuaxn47ajfjp08f8zzgjtmhy0lmyxn26gu"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "74.50.93.254:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqcaxkrdlcwrcgm8e59t2r5crhl4gvlyltaau6aguna3yt5c28umxs6d55c"
+authorization = "signam1qzf4yurdmrt2n0a2lhmctmmm0h3acynhkgu0qj3wsjhrn04v36h60mntcz2wmm8e42xw7lq990rzr62m9vtnsq63vv5sz56z06a7z5sxq464d8"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpthd5u8aycq9rz423yla29dqkvrt2jtld0zwf2kuejl2whhtjthsaywlmq"
+authorization = "signam1qp5899dhs67j0sp7xzymezgxdr7khh46ke9me39shtnpgnuh7fsrqvpsua5gkw9kkwv7rgn48g494n7qt7nemaljhtrpln3s584yl0qz0fug84"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrqy6t8uhvwuy95lrr0jpvtdjhejlez0dg537nn5wpdqcyzp6wm2yt7j886"
+authorization = "signam1qrqydpamlwvtq2p3m968dv6h60xp95xjyk5aqxpf2cgde6e62w5xyu04pdxkapqhakgau3p2m4mxqhkhfpcvpteke89l82tf55ze6lcyrcxxfc"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp9rgzhf9f038cnrj2gzmdq4w5q5jq8ecy76gyx9299zaqrarkdplsm86rxg"
+authorization = "signam1q8vh2uz2hvh08tqjqun07fs2fqme75lj30puswxme36n89grnazhv6lj78vdh39lg6wyefv85q3y8l78addr5guw63rtla34sr3svmnuqqlr7h3a"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypx0qxym0q2377td7kh2rw3yn3uh6ar2lhvvlawm3gqqela6ghm3kgxsn72x"
+authorization = "signam1qxjae5m9l5vrfl930k7nnmclp6xec5g8ehymvvrk7egr0z4r6vszyy7cftv5g3l32ekdllqvpu4s3d7zvkq6znkhe53cvx69czkuh025qqlp7lqu"
+
+[validator_account.metadata]
+email = "node-alerts@tududes.com"
+description = "TuDudes is a team consisting of sirouk, veight, and friends. We are a team of developers and blockchain enthusiasts who are passionate about the future of blockchain technology. We are committed to the success of the Namada network and are excited to be a part of the community."
+website = "https://tududes.com"
+discord_handle = "sirouk"
+avatar = "https://www.stakingrewards.com/_next/image?url=https%3A%2F%2Fcms.stakingrewards.com%2Fwp-content%2Fuploads%2F2023%2F08%2FyLy-tzWV_WLrP2eVoLA5-jeKaLZHVEbjUp9QpFQPL55SjGeHtL-ihE0EfgEIKO-JbX6TM2kM41TD7fhXf4L57JFiC084NMY08dNOXZozDIIXwQ-CLH55gvj1l6zr1ySj7nJW4C2deyidhOgLqiwoGykAS0aS4XYCU-e84DFBNmg.png&w=828&q=75"
+name = "TuDudes"
+
+[validator_account.signatures]
+tpknam1qpngf2w7n5vwzkh0tqrm0ql4zwyu5c37ay9xmtvek7lrezdlzuxsutlp4a8 = "signam1qp4kvnr4s7q5jnueez4u64xuxrvawpeejtut8ln59acga953plgtp05ap2nd7xrmj2vju2u3xvl2m5tamzv93f8uzpg06nc5xpq7phsfytgklq"
