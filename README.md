@@ -143,6 +143,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `richard@stakingcabin.com`
     - website: `https://stakingcabin.com`
 
+- address: `tnam1q8munsehazrlgm65g7dpu0c2qfnxxg93tu0c6nm6`
+    - alias: `F5 Nodes`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `core@f5nodes.com`
+    - website: `https://f5nodes.com`
+
 - address: `tnam1q8236gr76rrsluvq27j8mkma8u04hz0khszatckw`
     - alias: `ValidatorVN`
     - commission: `5.0%`
