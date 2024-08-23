@@ -183,6 +183,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `sale.laliola@gmail.com`
     - website: `https://github.com/JuliaMoon1`
 
+- address: `tnam1qyswpl4wvk4zq45axze9mdghqr9n9ls9yvm9t66c`
+    - alias: `MurphyNode`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `murphynodeteam@gmail.com`
+    - website: `https://murphynode.com`
+
 - address: `tnam1q9mnuc2tkkmglpsf293uzhx8lnvvmem0ygq7qf95`
     - alias: `theroadz`
     - commission: `5.0%`
