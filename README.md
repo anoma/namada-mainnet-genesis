@@ -415,6 +415,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `contact@emberstake.xyz`
     - website: `https://emberstake.xyz`
 
+- address: `tnam1qxr4zeuljyud03wje45d5xu7vass6w7hsuejen2y`
+    - alias: `Unit 410 [1]`
+    - commission: `20.0%`
+    - max commission rate change: `0.0%`
+    - total voting power: `0`
+    - email: `security@unit410.com`
+    - website: `https://unit410.com`
+
 - address: `tnam1qygyng6guhgj7jy4cfe2pxmsle6sakcvqv3cnlg6`
     - alias: `Cosmostation`
     - commission: `5.0%`
