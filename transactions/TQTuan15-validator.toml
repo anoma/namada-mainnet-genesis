@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqjcs2l8dq5kjdk7fwsefq8wjhpxrpudn8vq59lf8qc5me59xndzj8t0qzs"]
+
+[[validator_account]]
+address = "tnam1q8yksf6xqm6u8e2axhy7wyx0elslnh7tdsrp2y9m"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.21.102.153:19656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpgpq652fyzvh90f9kp8wzwx8lh6nrxa5xeef98mgg0rgx0ntsgcscawhnk"
+authorization = "signam1qrk34u8np7jwzd460ayd72cedwj2mftud4287kw98ucejm0vdpu4a53e2tgm35thnzngx7dletue5znrr9ly7d27dr6cz57l2pnjlpqtd083k2"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp3ngkef76qp9a7cndflru2vdjxv8h8g0w0jujq7jqp7ha8j9f75gv2g5xt"
+authorization = "signam1qzc0treyuzzlvx058jk4cp52l8j76gkpzmrqqr9852r7enwzlexus7vnny699d3kd3wq47pm7a6cu7vjh8uf65qjj4hrr7ezehj86ng8wxy6wl"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzkxc4u2j7j0d85lh784ap2d7ctvmsuv352w233tsvwx8k624tjdcrkx3mz"
+authorization = "signam1qzvcstlk03430s5rytfjs8uhef7qelklvxxph5gk0d5vgkfplkt7hycafjkeeffygqlqcwvlm96hzx0kx0sq6y70r5za5ur8kvxx0xcwpda00f"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypx5gdwddegzy54qsaa8tv3gm3m06t2ct963n620x6aqvetyddhxuqn3trhv"
+authorization = "signam1q8tylzv0l3mugaktd4t0k9s9ksmsac2w544mrqr8v0y0z0dc2e5mj7zr748xj0wqkwempdvklk7j55hnk5g5sv9jg8e2nv8rwpmuv0fnqqy6473a"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypygdxrtyejqwhcmaah0mu5swg4lllq9u99mf383p4pn5n4njh7dkqr0vhf6"
+authorization = "signam1q8yaneht90nrctpdasvyw749jpmkx032kynrrt48vrkrcg865cj3gdq0rvyekfx20r5d3etjkplp0zk4rsqjnaga6hg6wwr9ldm2w2tkqyrsln0t"
+
+[validator_account.metadata]
+email = "truongquoctuan61@gmail.com"
+description = "Trusted Proof-of-Stake validator & Tendermint chain service provider"
+discord_handle = "hades99.hooked"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/3fd94fa5d3e8e84255e906df9a2c5d05_360_360.jpg"
+name = "HadesGuard"
+
+[validator_account.signatures]
+tpknam1qqjcs2l8dq5kjdk7fwsefq8wjhpxrpudn8vq59lf8qc5me59xndzj8t0qzs = "signam1qpnhqg2hte78c979dku9kxtuy6x2dvr0k5gpxyql4ryal3lasuyfxz67lfxwdj0442atgzzr4yfpe993n457y37ra7rs8e5ms34mzfg9jprhme"
