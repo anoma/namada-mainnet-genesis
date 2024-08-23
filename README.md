@@ -463,6 +463,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `aquariusluo@gmail.com`
     - website: `www.staking-power.com`
 
+- address: `tnam1qysxqwyeldesm2cdfhkr86jky5vj5vu8cu9jjqtw`
+    - alias: `cryptech`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `cryptech.nodes@gmail.com`
+    - website: `https://services.cryptech.com.ua`
+
 - address: `tnam1q9tf86cusctv2c679ssflsrq0ymd9qxnluuewvt8`
     - alias: `Tecnodes`
     - commission: `5.0%`
