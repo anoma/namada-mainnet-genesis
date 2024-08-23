@@ -327,6 +327,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `admin@cyphercore.io`
     - website: `https://cyphercore.io`
 
+- address: `tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k`
+    - alias: `Stakecito`
+    - commission: `5.0%`
+    - max commission rate change: `2.0%`
+    - total voting power: `0`
+    - email: `security@stakecito.de`
+    - website: `https://www.stakecito.com`
+
 - address: `tnam1qyl2fc8c358avg47ff5lkc47d4cnk0x8wy96ax9q`
     - alias: `StakePool`
     - commission: `1.0%`
