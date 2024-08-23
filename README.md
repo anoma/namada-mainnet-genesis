@@ -207,6 +207,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `core@denodes.xyz`
     - website: `https://denodes.xyz`
 
+- address: `tnam1q98f4snsa7r5lmkc9d66k29r4m0eqpv2j5f7vw8d`
+    - alias: `Chainflow`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `namada@chainflow.io`
+    - website: `https://chainflow.io`
+
 - address: `tnam1qx635ya9l2yz3ua92kckrad4v2p59madpspm9dtg`
     - alias: `Disperze`
     - commission: `5.0%`
