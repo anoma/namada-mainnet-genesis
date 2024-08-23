@@ -79,6 +79,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `info@mhventures.io`
     - website: `https://mhventures.io`
 
+- address: `tnam1q9smrtxu29qvy90sa9kvelettqkdcr4fesmg3wc9`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `james@namada.bond`
+    - website: `Unknown website`
+
 - address: `tnam1q8hck7594xqw9dz35m8wwtgtvdxf4xn0mg908r8x`
     - alias: `OriginStake`
     - commission: `5.0%`
