@@ -40,11 +40,3 @@ name = "Citizen Web3"
 
 [validator_account.signatures]
 tpknam1qr79jchyyzvxyrynpq2q40auhfl0kn07zxyxawjrl5a5e8ml6p7yqrkvnuu = "signam1qqyjcrylsddd50w8qurfk00k88uepzw6m73sp5l2tpccxp6wwvu7d2qx6y9djfllangczcge3whl5g5ffy25xrammrtk94rkm7v6k3svm82wl4"
-
-[[bond]]
-source = "tnam1qx6k7xv66y58jw2jngtt98x0r9k3wtljxqd7qe2l"
-validator = "tnam1qx6k7xv66y58jw2jngtt98x0r9k3wtljxqd7qe2l"
-amount = "1"
-
-[bond.signatures]
-tpknam1qr79jchyyzvxyrynpq2q40auhfl0kn07zxyxawjrl5a5e8ml6p7yqrkvnuu = "signam1qp9th7g7yv4cnl2qxhwkeg6nsu2lsvpx9grk92gffec2q9my944d9dm4xfndyx8vcsmja6a8d46v98ny3js82vuwrwfjlrv5w4qnksqwk4k5ns"
