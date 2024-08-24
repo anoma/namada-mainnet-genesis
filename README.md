@@ -111,6 +111,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `hello@n1stake.com`
     - website: `https://n1stake.com`
 
+- address: `tnam1q8m8m40w44z9nlstzh37wxssdqd44mq4xypv05e2`
+    - alias: `wb3addctd`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `virtualxgrape@gmail.com`
+    - website: `Unknown website`
+
 - address: `tnam1q8dtazgc7y9xx00lq4d2pnacvtz29p5mvcxwat74`
     - alias: `Staking4All`
     - commission: `1.0%`
