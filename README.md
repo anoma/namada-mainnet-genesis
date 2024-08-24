@@ -303,6 +303,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `blocks@disperze.network`
     - website: `https://disperze.network`
 
+- address: `tnam1qx6k7xv66y58jw2jngtt98x0r9k3wtljxqd7qe2l`
+    - alias: `Citizen Web3`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `citizenweb3@protonmail.com`
+    - website: `citizenweb3.com`
+
 - address: `tnam1q8g86hqz3rajj5p64pf22zmlvp9lkd976ufpz7mc`
     - alias: `Igor_Gusarov`
     - commission: `3.0%`
