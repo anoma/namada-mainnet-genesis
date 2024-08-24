@@ -103,6 +103,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `hi@originstake.com`
     - website: `https://originstake.com`
 
+- address: `tnam1q87f9g34lagl5e6y482fwtad7870rk4vzsqaq7mf`
+    - alias: `L0vd`
+    - commission: `0.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `info@l0vd.com`
+    - website: `https://l0vd.com`
+
 - address: `tnam1q82fsvmdkjfm7awr04xa0rkn27edztd9fypma6ha`
     - alias: `n1stake`
     - commission: `5.0%`
