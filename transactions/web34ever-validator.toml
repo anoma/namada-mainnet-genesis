@@ -40,11 +40,3 @@ name = "web34ever"
 
 [validator_account.signatures]
 tpknam1qplcr82t6y4hnaj4re3k3qw2kfxt6mugmwsvpaw2h4q4z8p4k634ja2htxv = "signam1qree9myg36ndq9s542p0lkfup5mj3ljy7q6g8j7aknx64w66lh29pcgrm7rlr20s9xr27e6egpd2rt87upq60dm6j4re0z0s5tg0pus8d8zxy8"
-
-[[bond]]
-source = "tnam1q9nddtsaw5xeptrdx72ruaxx0ry53sur3gy5cvsq"
-validator = "tnam1q9nddtsaw5xeptrdx72ruaxx0ry53sur3gy5cvsq"
-amount = "0.1"
-
-[bond.signatures]
-tpknam1qplcr82t6y4hnaj4re3k3qw2kfxt6mugmwsvpaw2h4q4z8p4k634ja2htxv = "signam1qzlywdx5549ksch5d0vyvzle5kcfg6l7qmrr24m2k8p6xx86qvkym6xwfzj89kzvu6jj9m3q30g2tfwvnmure6pm444zpq4q4wx6g2qrlz8urf"
