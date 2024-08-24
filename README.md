@@ -303,6 +303,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `core@denodes.xyz`
     - website: `https://denodes.xyz`
 
+- address: `tnam1qyzcm6jay6u624050fucq3uhfe2r9k8e7qhn65l5`
+    - alias: `QuantNode`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `contact@quantnode.tech`
+    - website: `Unknown website`
+
 - address: `tnam1q98f4snsa7r5lmkc9d66k29r4m0eqpv2j5f7vw8d`
     - alias: `Chainflow`
     - commission: `5.0%`
