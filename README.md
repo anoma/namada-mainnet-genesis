@@ -567,6 +567,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `fastrpl@gmail.com`
     - website: `https://itrocket.net/`
 
+- address: `tnam1qxp569pkgds6kzqfe9cuc65mupjwamtghc433m82`
+    - alias: `Decentrio`
+    - commission: `5.0%`
+    - max commission rate change: `10.0%`
+    - total voting power: `0`
+    - email: `contact@decentrio.ventures`
+    - website: `https://decentrio.ventures`
+
 - address: `tnam1q8yksf6xqm6u8e2axhy7wyx0elslnh7tdsrp2y9m`
     - alias: `HadesGuard`
     - commission: `5.0%`
