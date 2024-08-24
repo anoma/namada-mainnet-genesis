@@ -287,6 +287,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `hello@chainlayer.io`
     - website: `https://chainlayer.io`
 
+- address: `tnam1q96m7kwchdgzjk7dpvxkq3dxwzjhyjcggyuua5xf`
+    - alias: `StakeUp`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `info@stakeup.tech`
+    - website: `https://stakeup.tech`
+
 - address: `tnam1qx2xz8ggmzgfgkj5n33fzumq3lept6hf7yqxcrex`
     - alias: `deNodes`
     - commission: `5.0%`
