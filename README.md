@@ -807,3 +807,11 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `89686697888@mail.ru`
     - website: `https://namadascan.io`
 
+- address: `tnam1q85gzuzhu60s7gd3vg4umeccu39fv8c6tqafxaqq`
+    - alias: `0xgen`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `saeedahmad1981@gmail.com`
+    - website: `https://github.com/satman81/`
+
