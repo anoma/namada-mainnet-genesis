@@ -719,6 +719,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `contact@tdrsys.com`
     - website: `https://www.tdrsys.com`
 
+- address: `tnam1qyw3amnxak8hthan0agj8rwrlhwc8r5ztqrvf3pz`
+    - alias: `rch`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `i.dred.one@gmail.com`
+    - website: `Unknown website`
+
 - address: `tnam1q8wq9ns3v5fhxeu8uedtfavn07w9wvt4ygp0ajgs`
     - alias: `Stakeway`
     - commission: `5.0%`
