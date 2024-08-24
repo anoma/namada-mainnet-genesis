@@ -687,6 +687,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `hi@firstset.xyz`
     - website: `https://firstset.xyz`
 
+- address: `tnam1qx405kgvey8wwfcyt7rgsr4nvkrqsnztxs2kz7wv`
+    - alias: `PathrockNetwork`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `pathrock@protonmail.com`
+    - website: `https://pathrocknetwork.org/`
+
 - address: `tnam1qya90eeuaxn47ajfjp08f8zzgjtmhy0lmyxn26gu`
     - alias: `TuDudes`
     - commission: `5.0%`
