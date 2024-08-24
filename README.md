@@ -95,6 +95,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `james@namada.bond`
     - website: `Unknown website`
 
+- address: `tnam1qx4ztg0ca0tu2aw056ksuek5y58tmg454shk6svw`
+    - alias: `5ElementsNodes`
+    - commission: `10.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `security@5elementsnodes.com`
+    - website: `https://www.5elementsnodes.com`
+
 - address: `tnam1q8hck7594xqw9dz35m8wwtgtvdxf4xn0mg908r8x`
     - alias: `OriginStake`
     - commission: `5.0%`
