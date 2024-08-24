@@ -711,6 +711,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `pathrock@protonmail.com`
     - website: `https://pathrocknetwork.org/`
 
+- address: `tnam1qyxp2w0e006nwr3ln9gxcvpnypcx40857ytfgyyt`
+    - alias: `Wave`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `contact@0xwave.com`
+    - website: `https://0xwave.com`
+
 - address: `tnam1qya90eeuaxn47ajfjp08f8zzgjtmhy0lmyxn26gu`
     - alias: `TuDudes`
     - commission: `5.0%`
