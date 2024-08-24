@@ -1,0 +1,38 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp4xlnc595f8087rgkhs7w8exucfrq04zvty2u5faeatjgqzqtcrkj38mxj"]
+
+[[validator_account]]
+address = "tnam1qyzcm6jay6u624050fucq3uhfe2r9k8e7qhn65l5"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqfveu0r7qs5740s9h2ed6e8pts8gzpus3e6m64c2zxeq3dpxg6pwg4gsdj"
+authorization = "signam1qpz0jx5e8drsms7h753xhnpvheefhlesa800za2uwjgc2rcvldma50j2eya7rvq0887yckajn6pgjdgkxv32a56af6hh729hlyznk6gy7t2sqs"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqxmq3wjjecakqlh0aghdsxgla2yg85txqlm24gphhk4art0gwtp6xu98ex"
+authorization = "signam1qqrkxalq5f7shxnx84fy8txhwr472nfwaxvmgfll8d28hurzgumsdv462p675l2etc6q3s5cqyeuhkrk0mqgdyuc4ewxny5lqx7qzzgfxcwqs5"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzgka46jd8kly8duermyngq3nfk3n6u2uw5303wykj6nws3cjapaj63255a"
+authorization = "signam1qpzsdlg89twtdsmgayj3wxr90jl7smqwfu9ndmzulymkg20lkk3em8w3uh0eutjjxqqjz4lju3w5sptswf86gdawdadaxzzn0msaw7g8sju6tr"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypqk5lz3upz8uluc7lp8ggf5wd88evprv8quxk5ve4zeumjjqrknxsz2fmey"
+authorization = "signam1q9ekkchz3pgdh9m5x0wxtz760hgprkskude98k8aqd2787w6kya7jqxfnlmm7ytgqkp404v4aah0ln52fvkqq7n8afwt4rwm5slhrk9hqq4l9jj5"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypmfzjdtzev5m5v9azk4r00kk76z7mvn4ka8ju79kzrhlp3jpg3ukq0s79un"
+authorization = "signam1qyn42v3gw8hsm927auzmg43mtmsgkxl6fh2wwrsc2k3vf859qzu06exdpsdu4z7s7vqtp0xuu38kw3zm5rknv25e30fr3pv045pw89u4qqh698dy"
+
+[validator_account.metadata]
+email = "contact@quantnode.tech"
+name = "QuantNode"
+
+[validator_account.signatures]
+tpknam1qp4xlnc595f8087rgkhs7w8exucfrq04zvty2u5faeatjgqzqtcrkj38mxj = "signam1qqq5at504l5y8dttgla248utkka5gg7n3g3u7vjfs57fm9emjhqty325vx9yalnesk8h7vlat6s23kh75trk432jws5jef5pv0q5uzsx6acnm3"
