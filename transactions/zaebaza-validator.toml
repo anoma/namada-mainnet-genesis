@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqxq4qm5ve4sdz7r6x7sat4yf66pscuhmammeuxfsj35qlky5pyc70ka47s"]
+
+[[validator_account]]
+address = "tnam1q8ww8zgchxju5dr55tl2xqgfh3vwsh8kh53gkp2f"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "46.8.221.126:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqjygnpdsdf3mmz5xfhwqm9d0kxv6nr084den4lmx08gl7x5lpvcx6c8y9n"
+authorization = "signam1qr5v9zj8cpr268m5cm7rvmfdggqm4wjjqh797glun7ehkhfkuh77hg8fs5zsf6gxfpvvlvjy2zj3xjeel56qqujdgec59jcu93s968g0803x5d"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzzf8jt9um70w6qnwyuw698kwjqp38uhsx9k33hjyjz972gwql4xq0cwqhh"
+authorization = "signam1qpfn56fxsxem47vpe7mglaqyedqn389yd3yw4wdqrehnd9tfd8qelgetkjjufslnhj9q0ecfdedpyf5alcuwnecl7y649sxxhjvwsyq2j2j2jc"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qphqf0gr7sqf2u8tkg8cneqvyqqwptej9uq502qksygus629nm2yk0x6rf7"
+authorization = "signam1qzkpe368nxul07d8hjn5vwm783yaj8uevx2zahjft46hkladrzu33hfzmejsz5aylelcu2z4sgduk7x00avjv9flv6w4ufcqkj0kklg9dt7cxp"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp8wj8feg5nsthlpj4twgke9flqfx8val2j94m8lh7ya0ra8v2sewg5psk5l"
+authorization = "signam1qx0awt5uw8q5mzpefu2cw7k8g4z7tmwmuyq50nsmuvjmhrqes5j9wuxafrceewwy0fqz6jlzn9er3a3euv5xhhqjtutzwknp5hgdwp53qyycwhvx"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp73n5rlkkyyjtnp2nckza3ly5qeumxhj8d3j3x8p4jkw8wzsdf67grgcx0k"
+authorization = "signam1qx08eeekusylhl7q7srn7ndfwvnlqdzs58uy5tfqtlwc5ayh6ev0sjgfuhuqjepm8c2td0lkkwvqwftcxl9cqlxy0gjjqjpcd9rax67jqycmtvnf"
+
+[validator_account.metadata]
+email = "zaebaza@rambler.ru"
+description = "Moon"
+website = "private"
+discord_handle = "zaebaza"
+avatar = "https://raw.githubusercontent.com/zaebaza/pic/main/lighthouse.jpg"
+name = "zaebaza"
+
+[validator_account.signatures]
+tpknam1qqxq4qm5ve4sdz7r6x7sat4yf66pscuhmammeuxfsj35qlky5pyc70ka47s = "signam1qqa57x070x0cfcf5wjandpsq0evyzqqwqrny8qqcewue25ssnejedrkxwhdyc0nauhfefm9lxkd5fnnw3sseaqaccfn0aeymh6czqscva5ynrd"
