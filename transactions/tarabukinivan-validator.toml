@@ -40,11 +40,3 @@ name = "taronchain"
 
 [validator_account.signatures]
 tpknam1qpf0pjqet28jfcq9wwjvtha3mefgevmpffwts2ku78mt8xuymkfzygduze6 = "signam1qp5pe5zugtrtd9hum368nsr2kxwskzne4swqhp09lv4ydpgjagqjrx5u3scnt6q7spmac5jd494z0up2j7egmtmadz4z692u9ywt4kct842x3f"
-
-[[bond]]
-source = "tpknam1qpf0pjqet28jfcq9wwjvtha3mefgevmpffwts2ku78mt8xuymkfzygduze6"
-validator = "tnam1q84yp9wy9xmhu9ykf4442k37qlypnvt34upvy9py"
-amount = "10"
-
-[bond.signatures]
-tpknam1qpf0pjqet28jfcq9wwjvtha3mefgevmpffwts2ku78mt8xuymkfzygduze6 = "signam1qpn5wyfgmnmq768pfz7a5vvww3793hqanzh2n9aenyy8vld7trcvxhmsyswgapdyd6y7ve39stpfgjh9hfkdrh07me98enrg4vpyk2sguj6ru7"
