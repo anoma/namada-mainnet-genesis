@@ -55,6 +55,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `security@unit410.com`
     - website: `https://unit410.com`
 
+- address: `tnam1q82gtcy6cpf26zd0pp82ped9phwn523azvy8h3s5`
+    - alias: `cyberalex`
+    - commission: `5.0%`
+    - max commission rate change: `3.0%`
+    - total voting power: `0`
+    - email: `cyberalex14@gmail.com`
+    - website: `https://github.com/CyberAlex14`
+
 - address: `tnam1qy6y8ws67ks2p5jl53s6yukre554mhwrugdp8vjh`
     - alias: `Citadel.one`
     - commission: `5.0%`
@@ -78,6 +86,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `liver23@protonmail.com`
     - website: `https://services.liveraven.net`
+
+- address: `tnam1q8e26wzlfj3e9env64jh2txsxryu5j3hpg9c2fp4`
+    - alias: `Perfect`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `katekrasv@gmail.com`
+    - website: `https://perfect-nodes.com/`
 
 - address: `tnam1q9zvl5nzd2np5mdgfa2lzccaey4xln55ku3mdlws`
     - alias: `maragung`
@@ -303,6 +319,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `info@stakeup.tech`
     - website: `https://stakeup.tech`
 
+- address: `tnam1qxl39v5a88cm0cw842mv7znmygmz4etfa5d5raze`
+    - alias: `Brightlystake`
+    - commission: `7.000000000000001%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `contact@brightlystake.com`
+    - website: `https://brightlystake.com`
+
 - address: `tnam1qx2xz8ggmzgfgkj5n33fzumq3lept6hf7yqxcrex`
     - alias: `deNodes`
     - commission: `5.0%`
@@ -383,6 +407,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `yarco@pragma.ooo`
     - website: `https://pragma.ooo`
 
+- address: `tnam1q8ww8zgchxju5dr55tl2xqgfh3vwsh8kh53gkp2f`
+    - alias: `zaebaza`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `zaebaza@rambler.ru`
+    - website: `private`
+
 - address: `tnam1q83z54q574kvzfujk5dt9kpy42a4zpassueswgyq`
     - alias: `alexit`
     - commission: `5.0%`
@@ -447,6 +479,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `admin@cyphercore.io`
     - website: `https://cyphercore.io`
 
+- address: `tnam1qxypnz2hsgdn6avhz6szk82c6nzxq7gvvvexmnrt`
+    - alias: `Validatrium.com`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `info@validatrium.com`
+    - website: `https://validatrium.com`
+
 - address: `tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k`
     - alias: `Stakecito`
     - commission: `5.0%`
@@ -470,6 +510,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `contact@emberstake.xyz`
     - website: `https://emberstake.xyz`
+
+- address: `tnam1q98q7w76n3hyy5yw9xklm5xvhzeh5gyz7qy0kc2v`
+    - alias: `9527`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `gomerflinkt@hotmail.com`
+    - website: `Unknown website`
 
 - address: `tnam1qxr4zeuljyud03wje45d5xu7vass6w7hsuejen2y`
     - alias: `Unit 410 [1]`
@@ -495,6 +543,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `contact@dteam.tech`
     - website: `https://dteam.tech/`
 
+- address: `tnam1qxdqsqnrf97vnyf5w2ur3fa0f3wxclxapy2lxy4s`
+    - alias: `Lapatylin`
+    - commission: `10.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `alokhinoleksii92@gmail.com`
+    - website: `https://t.me/Lapatylin`
+
 - address: `tnam1qxqj95as4g2hmkuj7uzvklwgch6tvqh8ay84m2jc`
     - alias: `KonsorTech`
     - commission: `5.0%`
@@ -503,6 +559,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `validator@konsortech.xyz`
     - website: `https://konsortech.xyz`
 
+- address: `tnam1q9mgfvqqypw82jk997kzgkkgnf8fxur2qqpa7rlr`
+    - alias: `mdlog`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `adiadi2411@gmail.com`
+    - website: `mdnodes.com`
+
 - address: `tnam1qy500vdqtcumxzfhjccrhdx9j9wawhsyg536thwn`
     - alias: `anodeofzen`
     - commission: `5.0%`
@@ -510,6 +574,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `zenodeapp@gmail.com`
     - website: `https://zenode.app`
+
+- address: `tnam1q9ys6rx7h9d20a5gq0dewx6uze6k2trxayt90zf3`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `mus56@mail.ru`
+    - website: `Unknown website`
 
 - address: `tnam1q8tzr86aw8kh2f66vukkhnghppkp0xckdy3xzrgx`
     - alias: `Unknown alias`
@@ -743,6 +815,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `staking@gateway.fm`
     - website: `https://stakeway.com`
 
+- address: `tnam1qxuv9e6rx0stfz7e842q4uwmpcexh50765qqw9ns`
+    - alias: `kjnodes.com 🦄`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `contact@kjnodes.com`
+    - website: `https://services.kjnodes.com/mainnet/namada`
+
 - address: `tnam1qy9htx7f43s3g4220ljzmua65vp5sw9ah5vm6xdu`
     - alias: `Firstset`
     - commission: `5.0%`
@@ -766,6 +846,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `contact@0xwave.com`
     - website: `https://0xwave.com`
+
+- address: `tnam1q9nddtsaw5xeptrdx72ruaxx0ry53sur3gy5cvsq`
+    - alias: `web34ever`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `web34ever@gmail.com`
+    - website: `https://web3validator.info`
 
 - address: `tnam1qya90eeuaxn47ajfjp08f8zzgjtmhy0lmyxn26gu`
     - alias: `TuDudes`

@@ -225,6 +225,53 @@ name = "Unit 410 [2]"
 tpknam1qz0nznakwzym6qx9x7qnq8zyqpwxq373d9nf7k7lzvqxv2a2nz89ud2rdtu = "signam1qp0q2d088cljqn3f95kluf2lwdt4lt67lh3d84l5eazd7vsq8utcmcr6dp3j9a35nlelhfwuqk3uq3gtud0h8tx2k6terqlsvadlpdcwu2aylz"
 
 
+# adding transaction for cyberalex14-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrtmf07047fpja9u3svg6j95es8yxhx39chylqyfftppgj9jwv6axt3kyeq"]
+
+[[validator_account]]
+address = "tnam1q82gtcy6cpf26zd0pp82ped9phwn523azvy8h3s5"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.03"
+net_address = "51.210.222.82:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqrdlvzvcv6rcv44y3nph66h5s9pdwen463s00mreu2cvxd3leudw0qq2pa"
+authorization = "signam1qqa6tvyuyj9tft2z9yrj43w9trgtn8t2m4l07haucqc95aezt48vyuf066mhtldua3e3vlwd09xrvp5vkupsy47m34hwl75kjryd3jqy3xrttc"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqf6csruu8xkj83grd0a95ljd95d2ccagk65ftpxvwphfrmpmt4dq9rtjye"
+authorization = "signam1qrxarv2eywk60596j3pdlt9ftaxlxptqdk6g8ltr9fp0wasq5qhx0740g8ysyprjz2l3lqhejwhr5v9tnelmtfc3rutjv75lvrq76ngfek6gj5"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpukegvvcurzllksnlpvl3av976zfmkly4jqen72gmcum0n6hvrgg0u4lh3"
+authorization = "signam1qqgqwnuytfs52gaglyggqqm9drrrcjkqqyjz4v46fkay795v6u4ag8xppecedv89fnpuylq7h6h4ylq6a9g6y0xvm9as9hpeqzhhfeqzh2afvc"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypd64jhg8pyw0nehnf942tgtjws0cerjsudmejmce5q5fc3rywx0pc8junsy"
+authorization = "signam1qy4cfq2me2spawwljwmg283r5q0h85w83har990wvrjacx8jytp7yvknwhel4kyp9un5v692968h6dedt5sgqzedg4kte053vshcxt4mqyx3fmfd"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypgt5720jqqjyyhc3nqwqf2m7cgpdz20zr6e3jyxa3vvj9e6jq538c6l07gr"
+authorization = "signam1q8vv90sc93gtkh40y47ffwryamy3vxx3q7mhx47eydl4tjtp42mmve85f0e8gcmtzgyqv5uhd9laf32eyy43xnc5z8dzszyqk9v20mafqydwh8eu"
+
+[validator_account.metadata]
+email = "cyberalex14@gmail.com"
+description = "A professional validator welcomes you!"
+website = "https://github.com/CyberAlex14"
+discord_handle = "cyberalex14"
+avatar = "https://avatars.githubusercontent.com/u/70861928"
+name = "cyberalex"
+
+[validator_account.signatures]
+tpknam1qrtmf07047fpja9u3svg6j95es8yxhx39chylqyfftppgj9jwv6axt3kyeq = "signam1qr8hjgkg654mqp4e6fz3hhwmk3uwwnp0xsdwumhx6hc4hk4qk7vfq5ehphwcplq96w3tqq0vzd6g8udxj38gmatezmhksnl6tcwuupqpjekh4r"
+
+
+
 # adding transaction for krewedk0-validator
 
 [[established_account]]
@@ -360,6 +407,53 @@ name = "LiveRaveN"
 
 [validator_account.signatures]
 tpknam1qqkwe6wghcfg2vjn99c8cqeaxv59nfnr67w6sph4f4ejelyjk7dykdjlplh = "signam1qz5y7rwnshvyytzjr70cx73y5jn22n99a7ty9fhmpnvx5unjmnek20dn6d6nsktfzl3f9urcrkunfc3l80q4hdr4pzk5uc8uupthp2cd7rr3kn"
+
+
+
+# adding transaction for katekrasv-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqa0etypknw6jq64vczdth7z53yqjg9nq4djq9jppu87wjqhny0rcyufapm"]
+
+[[validator_account]]
+address = "tnam1q8e26wzlfj3e9env64jh2txsxryu5j3hpg9c2fp4"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqqe37qntj0a9czz6raw5wnet4lklr72zcalun7uhegwvakxlhetqgtkgqy"
+authorization = "signam1qquxmclwv07wnmfuzajcda0cftzd05cf5zy6jg72lrvg7xj7xjyjar3zunvkhkks3ty34qt586lj842wy3fptwn5vzu4wzc64lhyfgqyrlsn55"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqzlrvmymvn6g8g06wu9x3cht2c8czkwtvhkhlrhth0xmjehej0qy9ls5ue"
+authorization = "signam1qqsj7n3l74swqjp685te7xg9t7sneagz4rn5ev5ezgcsrc9sl5x3sayfkgcx90z0wwf2elqyzqwp3ptp5qfekwws7mpln2yr2mkyfhg0z24zuy"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzstnyzjzz7mq2dadpaen4qqclakxz93kvt6n6ykvwnn45r84nmfw34xjt9"
+authorization = "signam1qrvfw2p6uuqp0qm8ukuv2plfqnrlsfp70fp2ln4ngc5ucfr0hvnahsz2kwzqsphku4wgeegl3c4j6q4q94djayr2a4ym0lael2rsc6g2nahzjw"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypcsnte7zgpalavxhnq0f9fd8cnv5f89uxuz7vz5jpfzfrg3rwz3psxjg9ya"
+authorization = "signam1q8fnugqvl62wyxcjqmlq9l7wsrdef54ec0gktfzxs4h6yjv406k6uwv3y3cnkq5r8jlhpxq6d8w6xvp5em0ccyeul3cm7pma8wsyew35qqe477x4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypvd9qxltqwk8qhtkpnnazt40p225hxx95dv65lhvt8clwlp3n0nggyfu7cn"
+authorization = "signam1q8jpg3pv6adqjv9r6wm0f2fa9xxd6t46as46x259v2lyjxer8smuwz84tt89ggkjt63p6gmxped6r5538tjxfzj7dq264we5jzw73jnzqy05arv0"
+
+[validator_account.metadata]
+email = "katekrasv@gmail.com"
+description = "Security and high-quality PoS/PoW validator!"
+website = "https://perfect-nodes.com/"
+discord_handle = "katekrasv"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/99a37637a07799aa133e458be51b0205_360_360.jpg"
+name = "Perfect"
+
+[validator_account.signatures]
+tpknam1qqa0etypknw6jq64vczdth7z53yqjg9nq4djq9jppu87wjqhny0rcyufapm = "signam1qqt54cmynxu70tn7dnujjw9wl3dpw3mya9rdsvkpkl9c3pztafp8yj0nvn57y5e08lsll38jaf7adgv4mpny7rasrhk4qjkh97cunggzqyqrcy"
 
 
 
@@ -1655,6 +1749,52 @@ tpknam1qzk7veqa02dekd5vpa74f4mxu9vk5w4tmnynqf3zgskwnppr2fsj5sujjzj = "signam1qp9
 
 
 
+# adding transaction for brightlystake-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr3aqe9fjw7xqpleuwjrynka3wpunhscmenuw7al5wqk0p6w6lxj5dtzx0h"]
+
+[[validator_account]]
+address = "tnam1qxl39v5a88cm0cw842mv7znmygmz4etfa5d5raze"
+vp = "vp_user"
+commission_rate = "0.07"
+max_commission_rate_change = "0.01"
+net_address = "127.0.0.1:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq3qgqunj7cx0afxlv83j2n7ep6nvjdmk54l6jma03aaw2apv9kh7dxm8ws"
+authorization = "signam1qq8wm3dvkjqu4jkfdfzh2tnw462ll637y6g3ru7muq79jz92f633ngdrw3z0834x3le94c4spt3hd743vue5mwrqppp2tk5mxqalvts92s85zn"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqtu6f3jplkr6xvcfyxt0sx9mke6rlzf6e3jqzprytzx4ys0uku2c9xg4zd"
+authorization = "signam1qqmp9ma0hqyhjxw3pj4vr6nsfsskmasfkx54xjtrm54j4xf3a549x9t2g0kfam7gpscll6ngtr2v7qtu3es3cvagfkk2lqaepkae68qqqggjv7"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz89fszjs2nddeg9zjuka06w5fs9efsgz05mz9yrt5fh3pf79yenk4lckcr"
+authorization = "signam1qz2hy524hnerk53xxetu2p0l3l69akxuxh5cvgkjjdv0r7glgreze8gdsvv9pwhwnhf87x3quyz3q2394xa8pya4yakaqahjkn8xrusxw609j6"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypmnpmq0ju4e8fk2w8tl20ps6tu2v4zf5q77h9fjdn7nc993dv5vdc8gt262"
+authorization = "signam1q95v388z6nke82crpv56jq4helh8aulcxxe7nkrufrlklacdr8awz74uhk58sfdndmrdccqfexe7dss34sx5slkxen86aav5j887mp02qykkz3pg"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp5mr5y7mwlzct7mxzwpgsmr6zj4mtu2kde84h3wrn5yhscylwyd5qmy90lh"
+authorization = "signam1qyhtrnayweqpv0ctzpuj8ffcg9qq204gtrzc9nvrgwuhmdpsgkkaju4er8yjjvfv5xwa0lkp06q8dz3u99am48myg79svcgfw7z5ymhrqqeah355"
+
+[validator_account.metadata]
+email = "contact@brightlystake.com"
+description = "STake with confidence"
+website = "https://brightlystake.com"
+discord_handle = "crypto_new"
+name = "Brightlystake"
+
+[validator_account.signatures]
+tpknam1qr3aqe9fjw7xqpleuwjrynka3wpunhscmenuw7al5wqk0p6w6lxj5dtzx0h = "signam1qqsefcjjtn3wht0etmp7rwnkxlnnwxzc2d69u72m3e3rnvx9ehsfpgk83xwl4wwgcg2g5sfe5lv6sszwha4lcl970hvlhkq7p7t30dst39qm8x"
+
+
+
 # adding transaction for denodesxyz-validator
 
 [[established_account]]
@@ -2116,6 +2256,53 @@ tpknam1qz7z09ds674wlyfl6upvl2e6jtuus7lfp2rus984g8sy3v23f9qf6v7n638 = "signam1qzz
 
 
 
+# adding transaction for zaebaza-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqxq4qm5ve4sdz7r6x7sat4yf66pscuhmammeuxfsj35qlky5pyc70ka47s"]
+
+[[validator_account]]
+address = "tnam1q8ww8zgchxju5dr55tl2xqgfh3vwsh8kh53gkp2f"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "46.8.221.126:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqjygnpdsdf3mmz5xfhwqm9d0kxv6nr084den4lmx08gl7x5lpvcx6c8y9n"
+authorization = "signam1qr5v9zj8cpr268m5cm7rvmfdggqm4wjjqh797glun7ehkhfkuh77hg8fs5zsf6gxfpvvlvjy2zj3xjeel56qqujdgec59jcu93s968g0803x5d"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzzf8jt9um70w6qnwyuw698kwjqp38uhsx9k33hjyjz972gwql4xq0cwqhh"
+authorization = "signam1qpfn56fxsxem47vpe7mglaqyedqn389yd3yw4wdqrehnd9tfd8qelgetkjjufslnhj9q0ecfdedpyf5alcuwnecl7y649sxxhjvwsyq2j2j2jc"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qphqf0gr7sqf2u8tkg8cneqvyqqwptej9uq502qksygus629nm2yk0x6rf7"
+authorization = "signam1qzkpe368nxul07d8hjn5vwm783yaj8uevx2zahjft46hkladrzu33hfzmejsz5aylelcu2z4sgduk7x00avjv9flv6w4ufcqkj0kklg9dt7cxp"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp8wj8feg5nsthlpj4twgke9flqfx8val2j94m8lh7ya0ra8v2sewg5psk5l"
+authorization = "signam1qx0awt5uw8q5mzpefu2cw7k8g4z7tmwmuyq50nsmuvjmhrqes5j9wuxafrceewwy0fqz6jlzn9er3a3euv5xhhqjtutzwknp5hgdwp53qyycwhvx"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp73n5rlkkyyjtnp2nckza3ly5qeumxhj8d3j3x8p4jkw8wzsdf67grgcx0k"
+authorization = "signam1qx08eeekusylhl7q7srn7ndfwvnlqdzs58uy5tfqtlwc5ayh6ev0sjgfuhuqjepm8c2td0lkkwvqwftcxl9cqlxy0gjjqjpcd9rax67jqycmtvnf"
+
+[validator_account.metadata]
+email = "zaebaza@rambler.ru"
+description = "Moon"
+website = "private"
+discord_handle = "zaebaza"
+avatar = "https://raw.githubusercontent.com/zaebaza/pic/main/lighthouse.jpg"
+name = "zaebaza"
+
+[validator_account.signatures]
+tpknam1qqxq4qm5ve4sdz7r6x7sat4yf66pscuhmammeuxfsj35qlky5pyc70ka47s = "signam1qqa57x070x0cfcf5wjandpsq0evyzqqwqrny8qqcewue25ssnejedrkxwhdyc0nauhfefm9lxkd5fnnw3sseaqaccfn0aeymh6czqscva5ynrd"
+
+
+
 # adding transaction for alexitprof-validator
 
 [[established_account]]
@@ -2486,6 +2673,53 @@ tpknam1qr8g6kcmsna54pp0xr0wtv823xeg6w5vtz4tk42wh45y5zquuqpyqn0pn92 = "signam1qqw
 
 
 
+# adding transaction for validatrium-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr5q3npnaecmpe4hlkl5utgfaefkfe0l0nckz9vy0gd4knf7mzt4wleytyx"]
+
+[[validator_account]]
+address = "tnam1qxypnz2hsgdn6avhz6szk82c6nzxq7gvvvexmnrt"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "23.88.73.158:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qppm8ucy6nzx9z6xdmj6pyv7pqw5dkz4ekvgknh8ytc9m99xdjpzunj8vt6"
+authorization = "signam1qrlldjem757sygu5p7d7s23hs2v3y5ddeveey5qvuunkgvn4pr0y4r0cf2pp04amkanekrye0q3l2eeq25awhta49lt2u64c4shxf5gxpdcf2h"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqq3lph2rj943sazxnv4ddypx2lx85twlqhc8ryzdrtwacyud78usnnz5hr"
+authorization = "signam1qzxuuvchdzptu57ermf43dsxu86mf5eugk2hg2v95uzj5ge5ckcccefndauxtkrutrj2da3lh4j8wvewudgkkhu9k0z2ucxmyqrt26sd26ful7"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz39n5tpknrhs2j9mshjxz0c68ewxp5k6sy7zppavw6lp54svkwlku5n4vw"
+authorization = "signam1qqcwcmnh9gz23t4qd54v2r0e5y4km5gcd52j99es8nht87zahywpe66s8vheh925rl5lfnhdazk68hfsqj6vk6fvkt9x6wu0fwhrpyszr0cfns"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypk2lpr8gz2z08m8psh00vh7dtwux9h26e3py2ppyfpjk590pmfrsck77e8e"
+authorization = "signam1qygn4d8g9r0n22vq0aj7xgt7qwp0qqnp35e6plajtff5dtnct0hvxza7kx0styx4dv92vs3k4uy4zew9wsfplf3j8nhz837329cqd7epqq8y477l"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyppsa6cknfme4ax9tcs7us8rcmsuqxufcz7dsldz4lj9ncfck0xkesr4qv70"
+authorization = "signam1qxny6ct0nymyexrs2rkcpnwjdgc07g3wnrsa8atqlxetslgakhs4sy4u42xxyareweraj3ca2mn3d55rhj9620adckte6qw7qkstttvmqqxlq0mn"
+
+[validator_account.metadata]
+email = "info@validatrium.com"
+description = "Stake"
+website = "https://validatrium.com"
+discord_handle = "validatrium_ndevops"
+avatar = "https://raw.githubusercontent.com/Validatrium/validatrium/main/validatrium.png"
+name = "Validatrium.com"
+
+[validator_account.signatures]
+tpknam1qr5q3npnaecmpe4hlkl5utgfaefkfe0l0nckz9vy0gd4knf7mzt4wleytyx = "signam1qznf55nn492aazhusj30lrep3z9uh09lxchr4h5kdtvcqv7yzagr4t6t4pax8dphnhsvdpm5n5tftw3ek9g3s343yleme5p8s5z58gqrmszrk9"
+
+
+
 # adding transaction for stakecito-validator
 
 [[established_account]]
@@ -2622,6 +2856,50 @@ name = "EmberStake"
 
 [validator_account.signatures]
 tpknam1qrs74l056krjlwl9l2ghwssj4lgh3qjxtgzgrnssnw4e04erh788xhmwxcp = "signam1qrrearrwyqdj8vpc6e9q6n2xwagvmy6g7790jrzfws4dwdwgdslcwd7f2lxp0da9agksht6hd3wmgszzkyrzrq4rcc64usysrnhhssggacm3lz"
+
+
+
+# adding transaction for gomerflinkt-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqcuataznv3cvmkragav09gflg6j288u9tmzedddv5lw2l58c8shg09gyuy"]
+
+[[validator_account]]
+address = "tnam1q98q7w76n3hyy5yw9xklm5xvhzeh5gyz7qy0kc2v"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "144.76.107.182:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqt7l7hn55luhl8cr3yg2jan27drqjllm5y0s8cd2h3uuvftyusfc732yc3"
+authorization = "signam1qr3dyheef9rdtjrtlrrychejqaumjacc9c2dw7fdyxfrjjxqzr92h0p5elasl8wg9umspty60rw52aresjyvuu0fmmqyw5z5sxysy8qdnuu97c"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzywnk4f9ytj9r2gnssl5enuzz6q95y7l6gxfkf494xx230mk5uz6kusnyw"
+authorization = "signam1qzutvsswjyghj3q4enc6h73q8q58yjurtegg9fp90utt3nz3jukfkzc582mrjvz2ye2pa3jfy3jhh7sra3wfpseefy27ajqvkatg3tsdzamtzf"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzca7yp98fr32tz4makgcq98k37xnwu5ajdmvvucregd8uc5nk6xg7wm3c5"
+authorization = "signam1qz0t38hy8g5tvvvaw28kzgv2zkmv45qp2lw4xckdk7l7vl2u4ajfcd6wn24wfm82w64l60k2qa437hx9p86vvhs49sw48ysl7g28n5qxuelskt"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypulxnfed4gqr0rs6j0jhz8x2f4p0q36unqu4cygz7mll4k4qla28c6ca8wg"
+authorization = "signam1qys08ly7zwyj6l4re3vhcq3fs5xe82ps3ma6yhfhdpxdprrsxsajcdpllsdcr99mnk9muf3f9j702aksr2nu2pzwsx4gaupc7z6tn2p5qy23we5g"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypuke2cw9a29jlx0fggttnzlyx88jhs2knsls5z53xfqysgka0udnqsjzg9d"
+authorization = "signam1qxys3wvythykmh0sgj75lfvj0efajgmpry40sz7l69d8af5djzz0zux65p27fhj6syyq423edprkxmuxjttuf2ha4aud00a9gv5a8zqjqyn96w7q"
+
+[validator_account.metadata]
+email = "gomerflinkt@hotmail.com"
+discord_handle = "_implorea"
+name = "9527"
+
+[validator_account.signatures]
+tpknam1qqcuataznv3cvmkragav09gflg6j288u9tmzedddv5lw2l58c8shg09gyuy = "signam1qzf33dqqlvyuax9xtagm7qqkfzj7suh0qpewr827x0qxz50eg78zp7pscqdj85v8qgsu4y7uvz0r37cl4hgvywfd4ndmvjzeqqzvpmsdkzhk6h"
 
 
 
@@ -2763,6 +3041,53 @@ tpknam1qp4sxhwzky6pc8dsr0rce9k768e8jf84zh7qk6ct89g5sq46dly0vyqd98q = "signam1qq2
 
 
 
+# adding transaction for lapatylin-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr7gtl76mdjpenct3vh8wylcqucpletqu7leqyx9flkhl00xckcm2ustv7x"]
+
+[[validator_account]]
+address = "tnam1qxdqsqnrf97vnyf5w2ur3fa0f3wxclxapy2lxy4s"
+vp = "vp_user"
+commission_rate = "0.1"
+max_commission_rate_change = "0.05"
+net_address = "176.9.90.222:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqw520caddmtdf6ddpm570tjgvfugx78z7dpuf7k3tygf3s0jxac644fyqt"
+authorization = "signam1qzazs4ftmne6040d8vw7euet0zsse9m7kalhaecfsznykjx4qrn2kvhc3zcu6r7cl3h3saygk47xxma5chscxx2fpqtc9ct9d46zxyc9qp4vc8"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrunjx2hk37kss7ny4qg4r8unrw30rkh84lxw0z6jqmrt46rjrqxzgu0uuq"
+authorization = "signam1qq4pnjv350v4lxe2rsmqq0ta3lnf8337adl56afy58v9wvrgp6thd4wl39fuv6upq0ty4kkhgplw6n84zq6t8p8mf7l3uymsk8t9j0sdyc9dy3"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrt7e7yczyg44a8qpte4whd9tapyexd9fz9a6d6py8yh4qw3gyxycnp245q"
+authorization = "signam1qqmc30ma4zas3xn4df5x5q83lhtyj04n0xjdrs7l8adul3rl3gq3lqkp97632uy7pfmm8lqzafdgq40hxz98fvtce908m4q0vfuzu9c84paqv8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp6vl5k35zkjxghsy3mzhxvft5v85jdgce2ttj6muh4tqyhxmnng7q3y8h5z"
+authorization = "signam1qyxnn6uzenh5g3eggmnq8p6mnc8xal2vjvk46f7tpvvdzqp3zq6fj67cayzwuckd09mh4vgx6ksgwewd2n7j4422kn4dcdytqdmthr0gqqyaw8q9"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp967s4xadrcyk0ayktqhcnhjjrzkw43qsj4kae8ryvtsfgn9dutus7qqyd2"
+authorization = "signam1qyrs0yewx8grhs44tuqraaymgeu0lwez42xprld78faeu429p9qnzpfpv3kghxn8vlenzg2l84r2kmnc5zn73uagynfpgd3x0kx66uwfqq735x7x"
+
+[validator_account.metadata]
+email = "alokhinoleksii92@gmail.com"
+description = "https://twitter.com/lapatylin | https://github.com/Lapatylin | Independent individual Validator. Monitoring 💬 24/7"
+website = "https://t.me/Lapatylin"
+discord_handle = "lapatylin"
+avatar = "https://raw.githubusercontent.com/Lapatylin/avatar/main/punk_128x128.jpg"
+name = "Lapatylin"
+
+[validator_account.signatures]
+tpknam1qr7gtl76mdjpenct3vh8wylcqucpletqu7leqyx9flkhl00xckcm2ustv7x = "signam1qqzrx6hdaq35stqfja0fxc9rqfe42vrpr5upq2nypqd0748yayrhcj4kzv9jkht8d3y95g7aewde6nqszvya79tc4ukqqzm62rcr0ccd3uqrjr"
+
+
+
 # adding transaction for konsortech-validator
 
 [[established_account]]
@@ -2810,6 +3135,53 @@ tpknam1qp04kmhvtuy5zhr4q6eh4rm5vry7s4vhmf4wzpyzvhp4leq59w00w0d8ysc = "signam1qq8
 
 
 
+# adding transaction for mdlog-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzxu9taxnrrek3ty4mh5gl0rp9s05l5j58tn7kspj22mpp5s8nwywqgdqmv"]
+
+[[validator_account]]
+address = "tnam1q9mgfvqqypw82jk997kzgkkgnf8fxur2qqpa7rlr"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qph7p8x77dz5u496fv93l00muzs60hwec06qwwl3yv0w2pwcwgjwcctuglz"
+authorization = "signam1qz9sztgwc57zps8t22djtgxnppxaux2au7e74vf5mnkmpy8gylxuvfktcg45vx9fssctl6muz5pf09cq7pprxs85zyw4t8v4velup6grv4yanc"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpkns5x4z9gx5r0swtt2xm7e9jd58rxd6asc5rx8cpwjcerxcumcvjfkrdk"
+authorization = "signam1qr54exn46dc27e7qp4tjcaep9fd6rweyswgwlvszmfp4gljel22vfhmmxg6ftafj50z5t97g02jw9m0stjtnleggxhdx0tsxp33qa5g8zhkra3"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpazr37alhskhs2kgtzvnwdksa95686rzaeegdgg5jfdapknrw89vv0ey7e"
+authorization = "signam1qq0p40fd37zljahaezng363urdkqffddcfc0g399mru3z2r7w0qemu5exy7g556n2cyp7km3208959rfhvwgu0ymypu6c888wnzxm9qdqhwfy7"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypg46llth0pssacamch7vs6jtq7feeqtcsuhdtvtxsfewkj2wfzqssajhd5v"
+authorization = "signam1qxeus768zwawvt3uvnk8yj5uktkhntu7fkgal0ux84pk3qcsm3cj54wcmlh7ced35g7t6s387q0v9fpztj5qy0cc4kht57hux84yj20wqquc9yaw"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp8crj5tvul320nveezccs60hdlr9jjwwnnm3ed52evpc4mxdmznjg78cfm7"
+authorization = "signam1qy0jlgtrvc99v0xefv83dz6t7gq7zu855fuu5fyhw4sk7yjttng0c7jsr6grfqylcjtrhms7pf2skhxsy4dzcj5rqzjnxmh549uvtcn3qqx0uh7d"
+
+[validator_account.metadata]
+email = "adiadi2411@gmail.com"
+description = "Node runner Indonesia"
+website = "mdnodes.com"
+discord_handle = "mdlog123"
+avatar = "https://raw.githubusercontent.com/mdlog/chainbase/main/17427126.png"
+name = "mdlog"
+
+[validator_account.signatures]
+tpknam1qzxu9taxnrrek3ty4mh5gl0rp9s05l5j58tn7kspj22mpp5s8nwywqgdqmv = "signam1qpdkuurlw5vpn67car0smd9q7gvtss2fgswzsd2t7ycjt26wp0wrvxr0a46vhqm7vdfek9x2hjjfjcr90fd4rwy5yk057vt9j0dqdjs26zu6ne"
+
+
+
 # adding transaction for zenodeapp-validator
 
 [[established_account]]
@@ -2854,6 +3226,49 @@ name = "anodeofzen"
 
 [validator_account.signatures]
 tpknam1qr2dfp2mcdpztwdcc73v4a0geddfkftuqxwmtelk4vldd74r074rwq82yrq = "signam1qzmutmudtsc8w7t6ml6dvwtvx27pemk74x9gq4h94mffhqkywudnt0cm6lt3ys42wdt6pnteht9hgysupwk6ack0ef6hft86yax69zgx2qwxdm"
+
+
+
+# adding transaction for mus156-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrp72tvh72xuzrqrw6af0s4zgf035nnh3pxtykafl7fmdk777x8equt8473"]
+
+[[validator_account]]
+address = "tnam1q9ys6rx7h9d20a5gq0dewx6uze6k2trxayt90zf3"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "62.171.165.198:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpqtcarceuzcjacgz3y2c9m0h365u7gu25n47hm5f92zmx9rkr542lmcaxc"
+authorization = "signam1qr478n45nr2wzc0zvmgg6g3fp05pt029f46vqun7urzvdctdywe3ektdkd6n0wqvsecvy3u9hs0d2fhsnkhr04p4yuapkqutvfn2xms8dtxx2d"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzp8ddyukj6mdxkf26yvdrfqznfttd4ulhnjazs06vw9np2ufrr5ghcnejx"
+authorization = "signam1qruu5dvjrrnq25tnwvtazh9u3ekfjurs475yuqj43z4ydz969hgef05vgpx3sc84pz3lzeamuwe98v2drgw9kzma93jkpucg2x2vm9gdgy323y"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqsqhrcmkelpghzxdtw9w6a9d5y00c9facymezpts757s0qw0tkdq48ay8f"
+authorization = "signam1qpvrgecq28q74hr4fjap2pufyyqtygnh2q3ql4kmh0jkxrhe5qmr34vc3w599uam88k8gg6nmav7mw8feyl6gzexlmfymtj86fa954gxrtp5uw"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypda4spyakscpqey4n63wudxwwxha6jr246t5u784r9k60gu8paeegrr7gnn"
+authorization = "signam1q85cm3z8ha7684spaya3hfupeevyqsvcj3jnqn4j8aftel95u57k2cwvqdy4u9w2tpy0zncjuga85h84kygnjy6huremkysgj5mxwn8wqy62ja9w"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypc5qcq02j76zc0ulkwjhzh67x6e2lelyq5rd3ewtqk3cmx9n2p23s2qzlr5"
+authorization = "signam1q97cca0qfmdk09u03u8ngd7ersd7s8vddel5crnnmu0l7kcjh4mtyctj5nrtkpp0fuet826cj57943flea9vxvld8a4uc42t7ljp09ctqqan6y5t"
+
+[validator_account.metadata]
+email = "mus56@mail.ru"
+discord_handle = "vladislav7137"
+
+[validator_account.signatures]
+tpknam1qrp72tvh72xuzrqrw6af0s4zgf035nnh3pxtykafl7fmdk777x8equt8473 = "signam1qquxau4nssmdkczn4xe5upgyq8d32pdy6pt4p6y66t0ylckydu8v5a8nlfl56jp8732xzr730mgt4hhlwye666kph00yymmtw03dftgtqkt7m4"
 
 
 
@@ -4192,6 +4607,53 @@ tpknam1qzv9v0nw6rqrg65zd0yvtkala38nvna85xgcarhhwdg795phajw06etuvh6 = "signam1qzk
 
 
 
+# adding transaction for sigv-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrnv634m658zu75ku35nh00qwylmskuc2kl6njn3krkv7pzj4g7x6rn50c8"]
+
+[[validator_account]]
+address = "tnam1qxuv9e6rx0stfz7e842q4uwmpcexh50765qqw9ns"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "0.0.0.0:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrfmqlqgqgg5h74qngwu5tz26ng55j35sjwknp80qqv55z5g5z2nz9quqh0"
+authorization = "signam1qqktn2ma9q3p4r5hxrf7k75agesjecpp6yqm43xgz227esved9rcpyuqc49qzngwpd6xv7khxsg8yr6d7526ds60rpxcxngs3mv0j9sdfdu45g"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpvstkylx6a0lk4sl2qg6pk9dlkrne83stq608su7yqr6k26pjesk5f27pn"
+authorization = "signam1qrukavqwwnqwyveav9k0faedejesksl0uzjjjd4xe5q49r85zlgks3mytnm9e6rev3re7deae2vdlk8aewu9j6dx7gzugg7pep67p4gvdr5yal"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp03kgy8zjkyn5dw57jcyqe898v8azxge52scqewa5yvx3whdt0vyn9e8vz"
+authorization = "signam1qrfgjynzm608ksyzjam7wj9vgdalpm75nmwatnm0zm99qsl4r4mnatpf6cqdp2xy3ztee2m962uea7dc3v7lnqg9q3xr39gqdessqes854lte2"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypzysz5qlgr94k8d48hgafcg66lfz5h5mf37pxec8kkr0rxsfadl7sssznt2"
+authorization = "signam1q90reepff2tyqkv70qua004hzfq9navcrtna5tzkxjlpzj2j7g7x57t9ldjel28lp2evvgnkpsxndnux9w7hfq977cherr0rmq6xv50sqyem5ukf"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypx53xzckmeaccdag0egkhyaq9582an4t2gsetyg2d9jdeggkts20q3xe7t8"
+authorization = "signam1q8t4vvl8whzy3cht8mj59ayqfxscqwy55j84xcqz32gn0yjqzkr6c3583xlu55rym0yk8gkvzzrhjjw9yqwx0yqnp67h4zrfwqvmrgajqqe3f8u2"
+
+[validator_account.metadata]
+email = "contact@kjnodes.com"
+description = "Trusted Proof of Stake validator across Cosmos universe. Active ecosystem contributor, IBC relayer and chain service provider since 2021. We deliver top-notch secure and reliable infrastructure for Cosmos projects. 24/7 monitoring with no slashing history in our track record."
+website = "https://services.kjnodes.com/mainnet/namada"
+discord_handle = "kjnodes"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/d6f1e63ac25d855dad5d1d5915988205_360_360.jpg"
+name = "kjnodes.com 🦄"
+
+[validator_account.signatures]
+tpknam1qrnv634m658zu75ku35nh00qwylmskuc2kl6njn3krkv7pzj4g7x6rn50c8 = "signam1qr45dne62g2zm7zuk3pu0uclm3gxv6033gqzeqrxn4hmqccy6tvgz6n43q9s6f5qmvg3q7nsy56t78ksd2eyunj0ryrtu8kevkupdwcykk3vpk"
+
+
+
 # adding transaction for bernatfp-validator
 
 [[established_account]]
@@ -4327,6 +4789,53 @@ name = "Wave"
 
 [validator_account.signatures]
 tpknam1qznlxfz55q4jyd0ama7cj8jtsl939g3t77va8qwnq5alnnvwrxyhu00s60t = "signam1qq48j92d3sgvnu5wvnpdcauxr2fh05enzzp22u0q8t2vxfh23xg3xxknhc4zh37cqjajt4jucmzjcpvnual8dqsxx8gf3mhjra202ncqzwwz96"
+
+
+
+# adding transaction for web34ever-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qplcr82t6y4hnaj4re3k3qw2kfxt6mugmwsvpaw2h4q4z8p4k634ja2htxv"]
+
+[[validator_account]]
+address = "tnam1q9nddtsaw5xeptrdx72ruaxx0ry53sur3gy5cvsq"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.248.24.33:46656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqhkhq3pvqdwzsmvwk4esg2svwnv6pu5xcddj6dahnumq5j9609x7nlpp5d"
+authorization = "signam1qq3hk4264vtwc82vt5csaden346tya5w9tsxk5rttzcpzspazgyq95fmkrg99deqmdg0fges4rja9vxpx08u9gwg5p3xzul7xdwwz5qp40h3un"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp5ca3mw2762a7akaakaukshjyehu00zn7l7yyetl2usnm9jdxj9ux235gv"
+authorization = "signam1qrj0njhzmugr30w76tcs2c97rarpen9f7k6fg2ftgm46l406d45z6ul33w4daknn2ttlv54ee9cdssa5jgqje4h5s98jhuwsrervgmqplx7wsm"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrt4ue8rjkyuunnqrq3xtagk7z0ej6dd4q6u3fj62772004zegql55dmc29"
+authorization = "signam1qq2t4qmdv0m0zrwnxh5whwq53yk49rfjssdcwvn3vwh2wq2p0r39mdz9mtcz3ggp0zkrvl8q7mnql4y3waqz68uqmak3pkpupvl093q0llnap8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypkt4n85dpemjdkezvzynpypszefgcg38hstlu5ac6lsg0xhtqxtgg50dl0j"
+authorization = "signam1qxq5zflkgaam2jvquhd22eveljh06uw2szaxmzeecpvkndvh9fucsfpf009trg2chzgpccs7473u26vk894zxf3k04yk0h7xf08q6dasqqnfgrd9"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypaxwnqlzduf4eg2l5l2u80jhntf726m0wseuk3sxd9dd2uluz09egj0zet2"
+authorization = "signam1qx588ljrrqwwtxacts60kumy6qwy753mg2s48tru9s9ckwwc8jqmjyx7886p3k9zu9gnp4rm9yrr82egdyycnd8mytsnc4pmjcyjujveqq2qmxvz"
+
+[validator_account.metadata]
+email = "web34ever@gmail.com"
+description = "⚡Infrastructure Validator & Dedicated Contributor🚀 Building a world where your life belongs to you. ⚛️ Great #WEB3 is coming ⚛️"
+website = "https://web3validator.info"
+discord_handle = "web34ever"
+avatar = "https://avatars.githubusercontent.com/u/59205554?v=4"
+name = "web34ever"
+
+[validator_account.signatures]
+tpknam1qplcr82t6y4hnaj4re3k3qw2kfxt6mugmwsvpaw2h4q4z8p4k634ja2htxv = "signam1qree9myg36ndq9s542p0lkfup5mj3ljy7q6g8j7aknx64w66lh29pcgrm7rlr20s9xr27e6egpd2rt87upq60dm6j4re0z0s5tg0pus8d8zxy8"
 
 
 
