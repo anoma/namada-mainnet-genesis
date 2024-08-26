@@ -767,6 +767,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `staking@chainbase.com`
     - website: `https://staking.chainbase.com`
 
+- address: `tnam1qys6lkycftrwxzcge00c3ezgegrqf7pdkqu83zx2`
+    - alias: `DWG`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `nnathantaylor12@gmail.com`
+    - website: `Unknown website`
+
 - address: `tnam1q8d0rndpkyx8599wzcasphsqd3st5q3nsyxj7y9j`
     - alias: `SNSMLNN`
     - commission: `5.0%`
