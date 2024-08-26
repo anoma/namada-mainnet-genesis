@@ -367,6 +367,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `citizenweb3@protonmail.com`
     - website: `citizenweb3.com`
 
+- address: `tnam1q9vjuxuwdv9muek3ekvvjfngyt973agg2c5c7hxp`
+    - alias: `DSRV`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `validator@dsrvlabs.com`
+    - website: `https://dsrvlabs.com`
+
 - address: `tnam1q8g86hqz3rajj5p64pf22zmlvp9lkd976ufpz7mc`
     - alias: `Igor_Gusarov`
     - commission: `3.0%`
