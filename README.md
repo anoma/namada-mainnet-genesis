@@ -71,6 +71,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `nikita@citadel.one`
     - website: `https://citadel.one`
 
+- address: `tnam1qxrm6dyrrmwz5thy565jzzuhgs4m02u9t52v9z3g`
+    - alias: `nodiums`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `nodiums@gmail.com`
+    - website: `https://nodiums.com`
+
 - address: `tnam1q86ydne27sxc4tzgzy5wcv9mwrwa0gwtqg4rfuue`
     - alias: `Moonode`
     - commission: `5.0%`
