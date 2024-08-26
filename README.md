@@ -887,6 +887,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `pathrock@protonmail.com`
     - website: `https://pathrocknetwork.org/`
 
+- address: `tnam1qxxp8yu7ceh7hymkclutkqwhlgcydqzjryflmx32`
+    - alias: `max-02`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `max0476@protonmail.com`
+    - website: `Unknown website`
+
 - address: `tnam1qyxp2w0e006nwr3ln9gxcvpnypcx40857ytfgyyt`
     - alias: `Wave`
     - commission: `5.0%`
