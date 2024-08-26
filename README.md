@@ -39,6 +39,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `team@stakeflow.io`
     - website: `https://validator.stakeflow.io`
 
+- address: `tnam1q8pdrz6p2h8z9m9x9drf3d4r5sqkhw6epv2shrjy`
+    - alias: `Noderunners`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `info@noderunners.biz`
+    - website: `http://noderunners.biz`
+
 - address: `tnam1qyep6245as3ar6a6ymk9tvsd6rhdnkr9rgx8mnwl`
     - alias: `Unit 410 [2]`
     - commission: `20.0%`
