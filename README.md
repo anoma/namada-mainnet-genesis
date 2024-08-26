@@ -575,6 +575,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `alokhinoleksii92@gmail.com`
     - website: `https://t.me/Lapatylin`
 
+- address: `tnam1qyplu8gruqmmvwp7x7kd92m6x4xpyce265fa05r6`
+    - alias: `Grand Valley`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `cobajohnson90@gmail.com`
+    - website: `https://github.com/hubofvalley`
+
 - address: `tnam1qxqj95as4g2hmkuj7uzvklwgch6tvqh8ay84m2jc`
     - alias: `KonsorTech`
     - commission: `5.0%`
