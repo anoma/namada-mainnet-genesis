@@ -40,19 +40,3 @@ name = "Huginn"
 
 [validator_account.signatures]
 tpknam1qrmysgneca7k5gj6uuvu3aaphty3csu78k5xqhelzkej5yyywa5tzh09tg9 = "signam1qzp0zufpy504frk67a6y3xu5lwcktwv86v4yn47telkvaqphcp0q8p06f3p26rp8tevlp4jpruxu8uthjlpuljnph5szq556z4my2xcd3842fa"
-
-[[bond]]
-source = "tpknam1qrmysgneca7k5gj6uuvu3aaphty3csu78k5xqhelzkej5yyywa5tzh09tg9"
-validator = "tnam1q9e2ya0n6d3gaujx5n52qu6clxn4gdqnvshx7uxp"
-amount = "1000000000000000000000"
-
-[bond.signatures]
-tpknam1qrmysgneca7k5gj6uuvu3aaphty3csu78k5xqhelzkej5yyywa5tzh09tg9 = "signam1qrdwwanjq2n923gqk35wle0kwrm4te4gfza3zt40q2lpd3pm6202xsm5zq4kw7kgjvl47d6z67kkvv3f64rt6s3kpwc7pr9kv4gg4wcrpssezs"
-
-[[bond]]
-source = "tnam1q9e2ya0n6d3gaujx5n52qu6clxn4gdqnvshx7uxp"
-validator = "tnam1q9e2ya0n6d3gaujx5n52qu6clxn4gdqnvshx7uxp"
-amount = "0.1"
-
-[bond.signatures]
-tpknam1qrmysgneca7k5gj6uuvu3aaphty3csu78k5xqhelzkej5yyywa5tzh09tg9 = "signam1qpfxmrmj7lhkkcwwh3w7yl43an80mqhsqn2ujassc200xdqnqcpgy3dw03qkczwdpcugqljajdt97hrkawkgq8detaxajagvfmkn2qgqm3hkjm"
