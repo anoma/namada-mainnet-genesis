@@ -359,6 +359,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `info@stakeup.tech`
     - website: `https://stakeup.tech`
 
+- address: `tnam1q8vztqtl5aknthxa3jezezr7amkgz3zp5vz82qe5`
+    - alias: `Validatus`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `support@validatus.com`
+    - website: `https://www.validatus.com`
+
 - address: `tnam1qxl39v5a88cm0cw842mv7znmygmz4etfa5d5raze`
     - alias: `Brightlystake`
     - commission: `7.000000000000001%`
@@ -918,6 +926,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `contact@kjnodes.com`
     - website: `https://services.kjnodes.com/mainnet/namada`
+
+- address: `tnam1qx5psh6xca8n4ezukdy5yynhtr3a6m65lv54ms3p`
+    - alias: `newton-zone`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `namada@newton.zone`
+    - website: `https://newton.zone`
 
 - address: `tnam1qy9htx7f43s3g4220ljzmua65vp5sw9ah5vm6xdu`
     - alias: `Firstset`

@@ -2029,6 +2029,53 @@ tpknam1qzk7veqa02dekd5vpa74f4mxu9vk5w4tmnynqf3zgskwnppr2fsj5sujjzj = "signam1qp9
 
 
 
+# adding transaction for validatus-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrevktceqeqx5ke7j38epyg7wzy8vd5rxsay6gqlv7yv6gg2w84fkk24w9x"]
+
+[[validator_account]]
+address = "tnam1q8vztqtl5aknthxa3jezezr7amkgz3zp5vz82qe5"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "0.0.0.0:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzhnlkyqrfwaxy2lr5ggndt5swl6ku90wdscklq46rnypn24f66mz7sf8ka"
+authorization = "signam1qq2ks8ffq5rjswa8ekjr70ux5w945dyra850ht0p2kgxxp6t8htlwuxgc5flc2uef5qk5cyc3sf8jmp2ser2s8q6nlyeqyhyau7zuqcd74nfz8"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpmjfslwscszfg5asmpv2pdqfftkwgrz6utx8h6ja2njp90sfcsqz5surhn"
+authorization = "signam1qrxvktdk3ltxwfkwudakzq2e59ex5xv9udq4u0phrfl9kdvxxsrf5r9k3ewt7zguget5eehkz2j4zx30a5hpgjz5wpqh0f8d3s7kq7sg47ygy8"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq4mngv4sevz4x52ypm0fe0cs3wlx0krvunhw836ke3nmresyr77x2fnvqr"
+authorization = "signam1qqqu77l7wx9rz8l398uestyqnzq4448hxxvkjseq7276e2y8vqzvg5zjcyjpfhm7z6zwcc5k95p55zn00t7vejanxh03at8yvv772fgrq8g4r4"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypzac8c07hm20n9n7grrcff7dy0u3kz2f8uzewnc9ame20lqvvvm2gc33ytn"
+authorization = "signam1q9u4t5ygnmzvk8m0ua4v78z3vuxqc5rfq36n3rx9zs5nq624n7jnsz64h93sn2apr60fm4v6slh8w0fcfxp8keywvuqqvl43sstdutrcqytzlmcq"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypwprgfnfsy933328nl9gxu082gl3qr4lrhdfc58kh69cylvmchgpcn4axl4"
+authorization = "signam1qxdzkvaj4k35d0sadsvk6zk65eyyymx9tcq0nj0e4ug60h65ugf6sxs4m0hhrs3nfzca8m4a67fc0tpgqnm9kzxpen5393yz4hs4uxswqyk9lhac"
+
+[validator_account.metadata]
+email = "support@validatus.com"
+description = "Validatus - verifying blockchain entries on purely Enterprise Linux based systems with regular security audits. Stay safe. Stake with us."
+website = "https://www.validatus.com"
+discord_handle = "validatus.com"
+avatar = "https://res.cloudinary.com/djhalnnus/image/upload/Validatus-CI/avatar.png"
+name = "Validatus"
+
+[validator_account.signatures]
+tpknam1qrevktceqeqx5ke7j38epyg7wzy8vd5rxsay6gqlv7yv6gg2w84fkk24w9x = "signam1qz9wfflt0x8mcdmwvms2jwc8tvwk69a55aaaf6ee6p73wz0kegwcklhssyyhlfa8m4dwfhg6rnm5np6lsvr208c36332wtk6tdtllqc2g2r703"
+
+
+
 # adding transaction for brightlystake-validator
 
 [[established_account]]
@@ -5251,6 +5298,52 @@ name = "kjnodes.com 🦄"
 
 [validator_account.signatures]
 tpknam1qrnv634m658zu75ku35nh00qwylmskuc2kl6njn3krkv7pzj4g7x6rn50c8 = "signam1qr45dne62g2zm7zuk3pu0uclm3gxv6033gqzeqrxn4hmqccy6tvgz6n43q9s6f5qmvg3q7nsy56t78ksd2eyunj0ryrtu8kevkupdwcykk3vpk"
+
+
+
+# adding transaction for ekhvalov-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzxmyav9k588jayhrrshep4rztfuyyrh0q74nsh93076hxyxcqxrqt42vuw"]
+
+[[validator_account]]
+address = "tnam1qx5psh6xca8n4ezukdy5yynhtr3a6m65lv54ms3p"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrvvyqm4yqc67cxdejye3uqs5nf8vtgs7uv08htfr5vf50vne0n7wkdynya"
+authorization = "signam1qrt432w7zcr97j7nwk7m50vvn0mdr399f8qtasdlaad5s8pwp2ve33saudk7ewq7fv04ncvuc6l7rhadvqm8svxclnug43d8ekjuldgz8jpqmm"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzfdxjp888szd946nhsdwnykpf2rd50f6n7l8w7ealpfdmrf73xp7map3fl"
+authorization = "signam1qrudwnvs6zy3ygfz8wwtsv8lye43xs9nfkm2hxl0xaestr2qegq48pymnmzk5gh369a0hee8xws67yy9yeh77am3deyursp5akywmhqx49xd29"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzh278ds49qf3rf2u9wm2l8lq6cxvw9qsweaktetxsy8p9luvrrfxw2splc"
+authorization = "signam1qpge9xrqmr7jg9vw4mh44w7lfc33uwyqct3zm93tv7ewrfk4z2tu85k23s7x05rqg658gxhdet0wn99x0sy88slrff7v6q739hw5jmgtr2z3z8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp3nhsyc609sf0xdxanm3kesyma0xmdqslzq4qscn7ljup8pgyhtrgcg82q3"
+authorization = "signam1q9g3cdz6nyw6k8mksn76lu8ghvqwx2qw02n6crqw75lsp8aalwgms9h030pd9qfcykhg57qzkldxvcry3pljulhyzv2d0mfkwnc7952nqqw4zrhx"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypg6em7narzajc0sr08yzzgr36yl0cpd30ry3ef5wu5mhelluq6vpgkgznhr"
+authorization = "signam1qygvru6mcqnjxm4tu5y4feqyjxgj0rlpg4ml5lwz3qgg85jn9d0qghwymu2vu76llzssn868vjgmut4hmrcnkw5wuvtqgje5l90qunepqqf6p404"
+
+[validator_account.metadata]
+email = "namada@newton.zone"
+description = "Reliable validator with auto-restake | Handy portfolio tracking app"
+website = "https://newton.zone"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/3b167dd7bd9e1da1ffb86afceec93e05_360_360.jpg"
+name = "newton-zone"
+
+[validator_account.signatures]
+tpknam1qzxmyav9k588jayhrrshep4rztfuyyrh0q74nsh93076hxyxcqxrqt42vuw = "signam1qzlh8007z89jaftg7mm5nfh25amqhvg4asn92vd47syuthsuj29q9wlmet2sgpat2hgup5trhzgp6gr7fc5eg9tcwd9zm88hn6e7yssy72yr9r"
 
 
 
