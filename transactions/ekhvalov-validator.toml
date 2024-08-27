@@ -39,11 +39,3 @@ name = "newton-zone"
 
 [validator_account.signatures]
 tpknam1qzxmyav9k588jayhrrshep4rztfuyyrh0q74nsh93076hxyxcqxrqt42vuw = "signam1qzlh8007z89jaftg7mm5nfh25amqhvg4asn92vd47syuthsuj29q9wlmet2sgpat2hgup5trhzgp6gr7fc5eg9tcwd9zm88hn6e7yssy72yr9r"
-
-[[bond]]
-source = "tnam1qx5psh6xca8n4ezukdy5yynhtr3a6m65lv54ms3p"
-validator = "tnam1qx5psh6xca8n4ezukdy5yynhtr3a6m65lv54ms3p"
-amount = "1"
-
-[bond.signatures]
-tpknam1qzxmyav9k588jayhrrshep4rztfuyyrh0q74nsh93076hxyxcqxrqt42vuw = "signam1qz7r2rwft7dfvsqvlwfac5ttax0srx0pgxeyhwnh4qhtwjufrc2er3gxvy5pjqdzjeknj24rk65yglkj7dxd4dn2ec3khwkd3af2tzqyyvnusg"
