@@ -151,6 +151,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `security@5elementsnodes.com`
     - website: `https://www.5elementsnodes.com`
 
+- address: `tnam1qyg69x0fvth8tl8z7ylxdppq4hud7755cg0z55n3`
+    - alias: `Cryptomolot`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `unlimitedmolotnorilsk@gmail.com`
+    - website: `https://cryptomolotstake.com/`
+
 - address: `tnam1q8hck7594xqw9dz35m8wwtgtvdxf4xn0mg908r8x`
     - alias: `OriginStake`
     - commission: `5.0%`
