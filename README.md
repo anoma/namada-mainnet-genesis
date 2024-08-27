@@ -191,6 +191,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `hello@zkvalidator.com`
     - website: `https://zkv.xyz/`
 
+- address: `tnam1q9e2ya0n6d3gaujx5n52qu6clxn4gdqnvshx7uxp`
+    - alias: `Huginn`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `stake@huginn.tech`
+    - website: `https://huginn.tech`
+
 - address: `tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p`
     - alias: `Kintsugi Nodes`
     - commission: `2.0%`
