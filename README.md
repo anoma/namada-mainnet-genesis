@@ -399,6 +399,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `igrgusarov@gmail.com`
     - website: `Unknown website`
 
+- address: `tnam1qyf80vw4e8aa2efuk4jsg9lpwxrntsj2dql4tssa`
+    - alias: `Crypto Universe`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `contact.crypto.universe@gmail.com`
+    - website: `Unknown website`
+
 - address: `tnam1qyes8z0wyey4s3tcqfe6hrzpfq4wzznsss4pvtdy`
     - alias: `Suntzu`
     - commission: `5.0%`
