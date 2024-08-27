@@ -111,6 +111,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `0xmaragung@gmail.com`
     - website: `https://maragung.com`
 
+- address: `tnam1q90qxzx3ufd5mlqx7fnppjykf8ywz7fjvc3qudc2`
+    - alias: `crazydimka`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `dima.rabecki@gmail.com`
+    - website: `crazydimka.xyz`
+
 - address: `tnam1q98n27gcgnwxxvurcruyvfge0fenczw6nuf7re5n`
     - alias: `MH Ventures`
     - commission: `5.0%`
