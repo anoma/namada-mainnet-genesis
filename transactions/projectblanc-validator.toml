@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrdx0s3puwnewu4w5rq4vtve06qvr4xqnhr0xalk076askhsp7rcxxkp5ey"]
+
+[[validator_account]]
+address = "tnam1qxtfrw9gqfmejfae96gg2wzztj4mwlch2ssmy78t"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "51.178.74.93:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqc85s7czpfrwrygxa9el0hlv6pzx7734hajct7d9khejs0cxf4hkegcah2"
+authorization = "signam1qq08rd3sw9kwhgdf9kepmjw07eehckhlqypcefc6zy4z6akjtgp6rk7vpl98v255e06dj47euct4jpzkz39f59qx7695ef5t3vt0uaczudzqyn"
+
+[validator_account.protocol_key]
+pk = "tpknam1qprcjdpjgmpztxsna8kgjldjt9xrsye037gdznavzuufkgd5wnq5wmklflz"
+authorization = "signam1qqgr3qlp6p66e5akfaf96h8z7mcgxrypgnze496qch238c9ra7pexjyj0xj5sg99pcfu2xk72qpw7k405uzgzzqjn285acsnf2l753sth69mjf"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr5hfgv8u8cpj9g0s4l3z9t4ma0mhw9ly56llq3zwed2nhys5hhdqc0vlq3"
+authorization = "signam1qzdmzwkqv2czt0dggqk23z3lfjy6ycrjh7q4lkglt2dhwf34xm57n9xtar7a354afttypeeum2zr9ng6u7ejhdmrssu74v925waz9xctttfrjj"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypnryx38zj778et6gdqdy5hquezu8wee8hjxq6r5t0f5zekj7xccmcqzrsae"
+authorization = "signam1qy2r32l7h6s8uvkcalvzmetfe0cynyekmd8vjfjjz45nfkcnt24ajg0te23spgdlgjllu4r4kcjfx360jurvyxget9czuwh0c9r5452aqyura8cy"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypl3csyw39cqpyd0wv094pffdyywc6w8xlye9c4v8slxk9tzw4dgrqpez6l7"
+authorization = "signam1qywezwwj78ga5gxh0mwwehkm79k2nrnp3t67r6j4usv7vhsmje2suw75um2xmgh87ev9pwzf6atqhtv6md0x0s5kkece3ec7htdx8n84qqxzxmsh"
+
+[validator_account.metadata]
+email = "it@projectblanc.ch"
+website = "https://blanc.group/"
+name = "project blanc"
+
+[validator_account.signatures]
+tpknam1qrdx0s3puwnewu4w5rq4vtve06qvr4xqnhr0xalk076askhsp7rcxxkp5ey = "signam1qzsd7qjl44r58re82urfqjhqz5g9sgyvn2nkz08kynerjmprph89m3xynvw5epz2dfq8ja8u6yfvze079xr2p7ts9e7knllzuy0sfncvcz24we"
