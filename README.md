@@ -167,6 +167,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `hi@originstake.com`
     - website: `https://originstake.com`
 
+- address: `tnam1qyac9kyffah40tta7xvdlhet5zcc04s46gqfl2ge`
+    - alias: `Forbole`
+    - commission: `5.0%`
+    - max commission rate change: `10.0%`
+    - total voting power: `0`
+    - email: `validator@forbole.com`
+    - website: `https://forbole.com`
+
 - address: `tnam1q87f9g34lagl5e6y482fwtad7870rk4vzsqaq7mf`
     - alias: `L0vd`
     - commission: `0.0%`
