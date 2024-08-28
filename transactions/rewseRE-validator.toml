@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqnvq3hq829ukwkdl5jpqs7kduf7shf62r8mvq8xhljt2evch9hw7cux04z"]
+
+[[validator_account]]
+address = "tnam1q8pdrz6p2h8z9m9x9drf3d4r5sqkhw6epv2shrjy"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:27656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrhdfcasv6gexs8j5uyx8zauj976ltqweya0ug5c38ndavp977spxmj3aaw"
+authorization = "signam1qp5m38spnpr8ngtv3l28a9yxaevey78yu82v0ya23vm83m6kgs3zv72mfsxeyfa009j044qwvf9rfka0x5dehduyey6u2vdjjg9tsxstw9367z"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq46hf3pexxtp9utywtzxgp3s2nwhqv4j4r7fkudgtd5gzmqk3gvq65ds2s"
+authorization = "signam1qrqz7fcrnawsep6x6lzghgjnuuy5ekatu3pgzknrexa9gml0ttsm4a693ev5u5pljjxfq73xkc750hvjq0wqw5ttc6guhtt32p7zu2q020xxj2"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzt0u4tyjw9449fsj62sskrfvj52gpfymdq6eccs4t4dc8rgvrh47l8tapk"
+authorization = "signam1qrj8dcqwzy200yx07p59d6p7z4ct82yur957axsh380k4s94a4822cpyxhemu2rvsgny0u8v8str3ccq80dvmy0xx5a2mx4f2ez57cg0ev3204"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypl5dhrx4lshs6e2mk4233uczevlp6znq3vdlvjjyf8e4fztejfthcvsrj5f"
+authorization = "signam1qxzz2n53tat43sd6dpvma8l77avcextu8fgzmjw7g3r9sr4k4af2wut98xvcplph2cm95jltaqvw7vl0w0y808z3hh8xqun5u2helxe5qqvuv92h"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp8hj4yye3fzk8q55dpg7mnwnh2p0z2uvd7f857q2qfh0yh8jxxj8c7ut88m"
+authorization = "signam1qyw53kenqr9h48z0pv64sph38vehwfekm69kf0qmsdm73udp8tkpv9rj26ay3x36grkew9rjksfwx0fvkg49ks9wr6kjael0f5tqx2y9qq8354ds"
+
+[validator_account.metadata]
+email = "info@noderunners.biz"
+description = "Noderunners is a professional validator in POS networks. Experience, reliability, low commissions, and full support for delegators. Stake with us and start receiving your Namada rewards now!"
+website = "http://noderunners.biz"
+name = "Noderunners"
+
+[validator_account.signatures]
+tpknam1qqnvq3hq829ukwkdl5jpqs7kduf7shf62r8mvq8xhljt2evch9hw7cux04z = "signam1qqexfza5q32mahpzhcpkxlvykjz8fhg62egn9zr9m65fg6q924qj2l354my7w8d0sezl2fndkaxht6pv9x40qt0edq8uj4necg4s6uc8u94t2r"

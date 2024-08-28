@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrtmf07047fpja9u3svg6j95es8yxhx39chylqyfftppgj9jwv6axt3kyeq"]
+
+[[validator_account]]
+address = "tnam1q82gtcy6cpf26zd0pp82ped9phwn523azvy8h3s5"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.03"
+net_address = "51.210.222.82:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqrdlvzvcv6rcv44y3nph66h5s9pdwen463s00mreu2cvxd3leudw0qq2pa"
+authorization = "signam1qqa6tvyuyj9tft2z9yrj43w9trgtn8t2m4l07haucqc95aezt48vyuf066mhtldua3e3vlwd09xrvp5vkupsy47m34hwl75kjryd3jqy3xrttc"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqf6csruu8xkj83grd0a95ljd95d2ccagk65ftpxvwphfrmpmt4dq9rtjye"
+authorization = "signam1qrxarv2eywk60596j3pdlt9ftaxlxptqdk6g8ltr9fp0wasq5qhx0740g8ysyprjz2l3lqhejwhr5v9tnelmtfc3rutjv75lvrq76ngfek6gj5"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpukegvvcurzllksnlpvl3av976zfmkly4jqen72gmcum0n6hvrgg0u4lh3"
+authorization = "signam1qqgqwnuytfs52gaglyggqqm9drrrcjkqqyjz4v46fkay795v6u4ag8xppecedv89fnpuylq7h6h4ylq6a9g6y0xvm9as9hpeqzhhfeqzh2afvc"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypd64jhg8pyw0nehnf942tgtjws0cerjsudmejmce5q5fc3rywx0pc8junsy"
+authorization = "signam1qy4cfq2me2spawwljwmg283r5q0h85w83har990wvrjacx8jytp7yvknwhel4kyp9un5v692968h6dedt5sgqzedg4kte053vshcxt4mqyx3fmfd"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypgt5720jqqjyyhc3nqwqf2m7cgpdz20zr6e3jyxa3vvj9e6jq538c6l07gr"
+authorization = "signam1q8vv90sc93gtkh40y47ffwryamy3vxx3q7mhx47eydl4tjtp42mmve85f0e8gcmtzgyqv5uhd9laf32eyy43xnc5z8dzszyqk9v20mafqydwh8eu"
+
+[validator_account.metadata]
+email = "cyberalex14@gmail.com"
+description = "A professional validator welcomes you!"
+website = "https://github.com/CyberAlex14"
+discord_handle = "cyberalex14"
+avatar = "https://avatars.githubusercontent.com/u/70861928"
+name = "cyberalex"
+
+[validator_account.signatures]
+tpknam1qrtmf07047fpja9u3svg6j95es8yxhx39chylqyfftppgj9jwv6axt3kyeq = "signam1qr8hjgkg654mqp4e6fz3hhwmk3uwwnp0xsdwumhx6hc4hk4qk7vfq5ehphwcplq96w3tqq0vzd6g8udxj38gmatezmhksnl6tcwuupqpjekh4r"
