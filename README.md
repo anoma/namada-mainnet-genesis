@@ -631,6 +631,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `cobajohnson90@gmail.com`
     - website: `https://github.com/hubofvalley`
 
+- address: `tnam1qy7fms2m4kpx5khvp4x7r3pr8e4xdqghpsrsd0pn`
+    - alias: `Keplr`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `node-operator@chainapsis.com`
+    - website: `https://infra.keplr.app`
+
 - address: `tnam1qxqj95as4g2hmkuj7uzvklwgch6tvqh8ay84m2jc`
     - alias: `KonsorTech`
     - commission: `5.0%`
