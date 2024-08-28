@@ -575,6 +575,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `security@stakecito.de`
     - website: `https://www.stakecito.com`
 
+- address: `tnam1q985emxj29hpz3dlye0yfe5hm66pmwqalu0y06p4`
+    - alias: `Encapsulate (fka KingSuper)`
+    - commission: `5.0%`
+    - max commission rate change: `4.0%`
+    - total voting power: `0`
+    - email: `security@encapsulate.xyz`
+    - website: `https://encapsulate.xyz`
+
 - address: `tnam1qyl2fc8c358avg47ff5lkc47d4cnk0x8wy96ax9q`
     - alias: `StakePool`
     - commission: `1.0%`
