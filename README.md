@@ -671,6 +671,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `office@noders.team`
     - website: `Unknown website`
 
+- address: `tnam1qycjura8y6uceeuh4wtlyyt0pam6av9xegxtvrkz`
+    - alias: `BlackBlocks`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `info@blackblocks.io`
+    - website: `https://blackblocks.io`
+
 - address: `tnam1q92xh4k7acxegvlgm3nfgg584f3hx0xalgxyjrh8`
     - alias: `cryptobtcbuyer`
     - commission: `5.0%`
