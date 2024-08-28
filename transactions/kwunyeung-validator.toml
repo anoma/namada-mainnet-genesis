@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpeh2hm6varu4fwgsrmcxwczwkq3wyx0u0eupx8eda3taqe0dv5ugahuj75"]
+
+[[validator_account]]
+address = "tnam1qyac9kyffah40tta7xvdlhet5zcc04s46gqfl2ge"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.1"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpexvqveyh0d0m5deurdevs8eauvkpchvw6qy42y6k056ryyc0ex27lnaup"
+authorization = "signam1qpyh8z2knukf75spqj8rzeyxk4tx2mqta8gu7g3d58szm3aj8wtpazz92swh8lcaa2wzl3d024jrrs0qt9tu4a6u84wtwus5l5flzaggkynpp9"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrdhufpg3jc7ea329y844z04a9rl7hka5treyuzmqpww0kujs7qyk4msxux"
+authorization = "signam1qp2jvnw6gyxysn5e35fnv4gy97kz44gl835alppsdx5q3gt3w4vqujrv6lsqvtk3j2p3f5n7e5zu5zk7l8pjk5rc6g7tzzrmd06wxwct0s2n8z"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrr2ruehzadw6t6rs2w5lgjjq734p9pem65w2uj6xuaq266rk2up2hkmj2k"
+authorization = "signam1qr4p9yezyxa4vyfqtmqz4qc35qaqqrqljm4fea28essykk9fe9rlpjuad4cku8y20hrqmag9jk00x9j7wpguqlnsn6m8xra7t8w7yvggh5g367"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypx82nfndjqr0xq8smj4rr3ndpuk5nl0gck6cp33jdd52w0f5264ns67lvs8"
+authorization = "signam1qygxzcra0l6x33e99xtzce8sddn63aln6qydyw8xmqfhgurtq6mhwpctq66ncf47ckwury8yjhkmgc0kfnmlupfrsu8m8uza67wsf376qqnekp7m"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypyn427sl0dh9d3fzd4nhv39x2d3x58g64pkmph8r29cddkhpksl9qu84ltd"
+authorization = "signam1qyf260l9gc3uyv4z7drj6hgezs0rds2qfya4peqq2jgtwq5eym2qjymtgxzslhg875ea3y5qwch85pf4ql45wfn9jwjp98flu36z0jysqqkusd6d"
+
+[validator_account.metadata]
+email = "validator@forbole.com"
+description = "Forbole is a professional node operator with proven track record running by a group of Bitcoin lovers. We provide enterprise-grade staking infrastructure since 2018."
+website = "https://forbole.com"
+discord_handle = "forbole"
+avatar = "https://forbole-val.s3.ap-east-1.amazonaws.com/profile/forbole-logo-128x128.png"
+name = "Forbole"
+
+[validator_account.signatures]
+tpknam1qpeh2hm6varu4fwgsrmcxwczwkq3wyx0u0eupx8eda3taqe0dv5ugahuj75 = "signam1qqwyvyzrv957ndp6yclyuj4f7jdcsqxzst349rdjkqyxg3rt4cautn04x6w6axqutqcemv77q9r8dfemj7g9e2gapv4hl7xk4v264asywvrept"
