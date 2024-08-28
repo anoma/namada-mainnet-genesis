@@ -711,6 +711,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `an0drei83@gmail.com`
     - website: `https://powerstaking.tech`
 
+- address: `tnam1qxepvwg3c24kv0ltlkaasxscy3fsk89h8vrwzgd7`
+    - alias: `Bro_n_Bro`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `bro.n.bro.foundation@gmail.com`
+    - website: `bronbro.io`
+
 - address: `tnam1qy3m25cx7gd67vyz5px5wjj5gcy4pfhnnux9mhcr`
     - alias: `CryptoSJnet`
     - commission: `5.0%`
