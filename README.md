@@ -23,6 +23,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `support@gatadao.zone`
     - website: `https://gatahub.zone`
 
+- address: `tnam1qxsx2ezu89gx252kwwluqp7hadyp285tkczhaqg0`
+    - alias: `Chorus One`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `security@chorus.one`
+    - website: `https://chorus.one`
+
 - address: `tnam1q96knx9lhndg9749waeqq974zyqxz8yv0slmy39v`
     - alias: `⊤⊥`
     - commission: `5.0%`
