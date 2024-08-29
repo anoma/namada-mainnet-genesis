@@ -311,6 +311,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `boyrdr2@gmail.com`
     - website: `https://github.com/BrainCord`
 
+- address: `tnam1q84yp9wy9xmhu9ykf4442k37qlypnvt34upvy9py`
+    - alias: `taronchain`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `tarabukinivan@gmail.com`
+    - website: `https://tarabukinivan.github.io/personal/`
+
 - address: `tnam1qy07wl9ds2kl4cfew0426jv4qlzx7kh9pqft7ltr`
     - alias: `ContributionDAO`
     - commission: `5.0%`
