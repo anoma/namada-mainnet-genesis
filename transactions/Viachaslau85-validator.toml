@@ -1,0 +1,24 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr5xqf5stdmljlnate00s43plpldwf6c8ufa5z8hy924r732ydx2wqvzply"]
+
+[[validator_account]]
+address = "tnam1q9446mq8ack40w965p7ry6p84fv3kyewxqhknhd0"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "75.119.141.44:26656"
+consensus_key = "tpknam1qr8rfcmz4ufmlyg5xd4uyuqvw4x36tmtzfp85kfu25452qrvyg4ts79lwhj"
+protocol_key = "tpknam1qztpn7fqxce3ujyxznue2tp3j52x67xcvcqr3cad34jkc29h3s9kk2dceyk"
+tendermint_node_key = "tpknam1qp9wj7ckj2h8p4cfhwqlyrslmq3jfw50cefa8np4mxvwcd77j3gezuu8xsc"
+eth_hot_key = "tpknam1qypgajz94yvar0438d4nqvl05dexqallp7suukrk3wq927ntn9mv56shspmun"
+eth_cold_key = "tpknam1qypcx5eml3xpl9a0nc6d260v22vy80ellxypf3t072k3vjg4vym3k4szjhp59"
+
+[validator_account.metadata]
+email = "viachaslau85@gmail.com"
+description = "COSMOnaut"
+website = "https://github.com/Viachaslau85/Portfolio"
+discord_handle = "viachaslaur"
+avatar = "https://x.com/Viachas90390701/photo"
+name = "VirtualReality"
