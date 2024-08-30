@@ -615,6 +615,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `security@encapsulate.xyz`
     - website: `https://encapsulate.xyz`
 
+- address: `tnam1q96k4cmpem5n6tun5qap7vqfxv5fx9hzucp8lqt0`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `infra@poeticte.ch`
+    - website: `Unknown website`
+
 - address: `tnam1qyl2fc8c358avg47ff5lkc47d4cnk0x8wy96ax9q`
     - alias: `StakePool`
     - commission: `1.0%`
