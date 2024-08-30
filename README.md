@@ -303,6 +303,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `bitszn.com@gmail.com`
     - website: `https://bitszn.com`
 
+- address: `tnam1qxkkaflgfr6c7crvj4jwshy99zsdw346nv4ay0rn`
+    - alias: `NomadValidator`
+    - commission: `5.0%`
+    - max commission rate change: `10.0%`
+    - total voting power: `0`
+    - email: `nomad@nomadvalidator.com`
+    - website: `www.nomadvalidator.com`
+
 - address: `tnam1q8t4hkv7dqjkka7ns42rramvz0dmj98g7q7zq67m`
     - alias: `owl-validator`
     - commission: `5.0%`
