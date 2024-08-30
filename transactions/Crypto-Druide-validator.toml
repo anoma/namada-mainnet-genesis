@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrt2hhuzyh7n0xyl6gclem5p38506yg6znslmf7araq29wyxp8khyxtfr7y"]
+
+[[validator_account]]
+address = "tnam1qyf80vw4e8aa2efuk4jsg9lpwxrntsj2dql4tssa"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "135.181.128.23:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzrhyg7cacvekal2x39r83t8gl5wh94pk89347wvee55snrvhpvdj0ha5f2"
+authorization = "signam1qrw4rck4avaa8urnu0kqr4lxdaz9nwdxz7lx2w2y95ylytamhwxxc88nmwrlc6tc8msxvtjntmk3weya2sralww7c3zts522ytkxy2gpkm7kxq"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrfav26era4tj6y8s9jhczyjd4ypw55vmr2kc44rd9jsxt3ph025vlzlhpa"
+authorization = "signam1qrxnwskdcm4q70e9wn6zqm03exdhcp33cwc3udgn52rpzzd7nt00yzupfmtm5szthqx8htkakv046qwhftc52zxfy0h8s75v203el2c08t7e0v"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqv5l4r2ychxnu40zphk6d455zxykxsc3thknngyzn0qu9cj369k7azq7vq"
+authorization = "signam1qr5p3g5e0zk8pgay2ukzj0hpugtzgqslvvrtcadged899snz4ye9n6ljgpyfqjvwh7j0d07t5m4wm3y30tv2a5pfy40mtqe36t8erxqy0wjv0n"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyprax434lkpvacdtd7ysmye9umhpqr2xchw0rr5wd5qp8x5q0y7xrsvhv44l"
+authorization = "signam1q9frzwd4955ccwxxat2nergklthv53s8y5p5udgd4rm9xa0aj24rg5f8a2yswfnpa7zm75lg8qdj2c8xau0lsytp60yshj98m3nywlkvqy9a6cs0"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp328x7x8mws2xwpwhx0t2ezzt3skqmh58yxygd52gwc4r3nh8q7csnae46d"
+authorization = "signam1qyxee3lfpsul86y467sq2u22dak58rd7fkesc37dk35sv9ekukq75msgepga7ffkqqt85umej22zenwcvewltrhgh7e47ft74yulnk9mqq006wy5"
+
+[validator_account.metadata]
+email = "contact.crypto.universe@gmail.com"
+description = "Stake with us & become part of the crypto universe."
+discord_handle = "cryptodruide"
+avatar = "https://cdn.discordapp.com/attachments/1046825960084869151/1277725134001541311/Crypto_Universe-Square.jpg?ex=66ce35c2&is=66cce442&hm=50c358184ad35eafb3039b4fa77fabc9aa6fb5cf40148cbe275e357f015b97d3&"
+name = "Crypto Universe"
+
+[validator_account.signatures]
+tpknam1qrt2hhuzyh7n0xyl6gclem5p38506yg6znslmf7araq29wyxp8khyxtfr7y = "signam1qzv3e4z358zp9465pqne4z7gtmvx7jd3f8hykjp49yza7679uy0aulw96x2gfatrpu8q5xj9da2c2dwa232lmadsw6tumqytsav3jaggh0hh3m"

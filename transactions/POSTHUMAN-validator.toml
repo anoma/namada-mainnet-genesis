@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqhw7lpd3gejy3sgkjk7cwrjd3g8ynmz3g50s0jp9fut84csff7sqk80vcn"]
+
+[[validator_account]]
+address = "tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.104.178:46656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq8r4dy4mmr9tqqg5mxevtluhkn5nn68tjhzrye2c8r2na9gx6z4qlpyas2"
+authorization = "signam1qqmr6dlw0avtgpgtr4tx8fz3cmuy7fx5zcuwendyh59kr8vkr8pl8d3c8hyhu0ypmm99gdeza5wyl5vm9d9hel6q27khatghpqf05rc9qxu40e"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqyr8q8lluqjefaue6ed5nlwtkf3pmzkvwldzpv7eqwmxmchard6gjn0mhn"
+authorization = "signam1qr84juef53zvkutw4utdfxctrepm72ggz7wdesmav6arvkg26hvrp3zy6h7d7vynkeg9e040vdxhk67lz2vwe947glcmd9em2ahh05qw9xflvc"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrqhs4gwkrceu30pfskxf3fvte5rxk5w7t9h7dp7nuetczhpdptuz53ve0a"
+authorization = "signam1qzg96rsezf9gv75pxwjywu5qzn2enjp56jcp7xgtl2lejcg88sdrcgeuzsw89ex89jx6rkqc58ezq8rzktmzg7kn3478qs9ylw2jersr6naru9"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypx7a72wwql0jp86wnxuzvmx5wqasxqh7sy5nzej9zmljqhwcv5f3gg3dc8m"
+authorization = "signam1q9kgwsp9dqzkywe36u7cjknn6t0cxrjk475ewygwvunyvnt4hhgm7mk3cr8f4h9r9uqlp4hjekcxecnf037f589c4c3pfpx6vh5egx44qqnmuqde"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp526jm8nmuqnm7uktn7y33jxq76vxte5rua0kyrk2474rsglm6r3q6cwqzg"
+authorization = "signam1q8vauv6tz28jvpvd9sef7sfzclaetnl5dm7p4qzt0x8plwp7y7xwwrpkzz8k5pj40cgtqjmcp9t37f0xag35hdrg5q88rphurtqpjlcyqyv50qx4"
+
+[validator_account.metadata]
+email = "validator@posthuman.digital"
+description = "PHMN StakeDrop for delegators 100% slashing protection https://posthuman.digital"
+website = "https://posthuman.digital"
+discord_handle = "posthuman_validator"
+avatar = "https://avatars.githubusercontent.com/u/108546933?s=200&v=4"
+name = "POSTHUMAN"
+
+[validator_account.signatures]
+tpknam1qqhw7lpd3gejy3sgkjk7cwrjd3g8ynmz3g50s0jp9fut84csff7sqk80vcn = "signam1qzyzjhes5v8kgcsm0jkh4gsl7q3lehtqky8l5mcusx9pcvfsndte8sphthak0f0s7mvt8ved3sc5em6s20w3k4mmtgg0xnh8aruk82cv8savp2"
