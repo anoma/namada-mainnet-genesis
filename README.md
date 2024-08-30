@@ -1079,6 +1079,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `web34ever@gmail.com`
     - website: `https://web3validator.info`
 
+- address: `tnam1qyd33xrjdpr3hwhy0ckut7lk56gd5gjflgtul8hs`
+    - alias: `AutoStake`
+    - commission: `0.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `support@autostake.com`
+    - website: `autostake.com`
+
 - address: `tnam1qya90eeuaxn47ajfjp08f8zzgjtmhy0lmyxn26gu`
     - alias: `TuDudes`
     - commission: `5.0%`
