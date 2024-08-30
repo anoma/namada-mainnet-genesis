@@ -863,6 +863,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `79nicolas79@gmail.com`
     - website: `Unknown website`
 
+- address: `tnam1q8wsrzk5ntfpw07fzx2uxuhkkrz95f0uuyp2qppr`
+    - alias: `genznodes`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `validator@genznodes.dev`
+    - website: `https://genznodes.dev/`
+
 - address: `tnam1qygn0qw0knlguygtxz6hgrluxhu5kt9a8vqvtj36`
     - alias: `Peach`
     - commission: `5.0%`
