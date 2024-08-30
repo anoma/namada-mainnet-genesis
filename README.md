@@ -703,6 +703,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `zenodeapp@gmail.com`
     - website: `https://zenode.app`
 
+- address: `tnam1q9446mq8ack40w965p7ry6p84fv3kyewxqhknhd0`
+    - alias: `VirtualReality`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `viachaslau85@gmail.com`
+    - website: `https://github.com/Viachaslau85/Portfolio`
+
 - address: `tnam1q9ys6rx7h9d20a5gq0dewx6uze6k2trxayt90zf3`
     - alias: `Unknown alias`
     - commission: `5.0%`
