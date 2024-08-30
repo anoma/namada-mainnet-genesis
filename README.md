@@ -399,6 +399,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `support@validatus.com`
     - website: `https://www.validatus.com`
 
+- address: `tnam1qxfcew76uclxuf5a5qkhwdtt8m6enc58tsqnwupd`
+    - alias: `IRISnet`
+    - commission: `8.0%`
+    - max commission rate change: `6.0%`
+    - total voting power: `0`
+    - email: `bob@irisnet.org`
+    - website: `https://irisnet.org`
+
 - address: `tnam1qxl39v5a88cm0cw842mv7znmygmz4etfa5d5raze`
     - alias: `Brightlystake`
     - commission: `7.000000000000001%`
