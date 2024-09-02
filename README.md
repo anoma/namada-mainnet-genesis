@@ -151,6 +151,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `0xmaragung@gmail.com`
     - website: `https://maragung.com`
 
+- address: `tnam1q9wgwx9zwmcawup0w2tdllt6pwyad87szuc4f7wq`
+    - alias: `Loser Boy`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `loser@loserboy.xyz`
+    - website: `https://loserboy.xyz`
+
 - address: `tnam1qy43rawgevk9jcun495r9sn8pyu7yhxzhgph6e4g`
     - alias: `ArchitectNodes`
     - commission: `5.0%`
