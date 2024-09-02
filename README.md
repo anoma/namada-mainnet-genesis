@@ -143,6 +143,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `katekrasv@gmail.com`
     - website: `https://perfect-nodes.com/`
 
+- address: `tnam1q8vzrsmuy3av4t5354u07350lsyksg6w7s60tr6f`
+    - alias: `redtrie`
+    - commission: `0.0%`
+    - max commission rate change: `2.0%`
+    - total voting power: `0`
+    - email: `joseph@redtrie.com`
+    - website: `Unknown website`
+
 - address: `tnam1q9zvl5nzd2np5mdgfa2lzccaey4xln55ku3mdlws`
     - alias: `maragung`
     - commission: `5.0%`
