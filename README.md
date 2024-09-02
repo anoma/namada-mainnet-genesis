@@ -551,6 +551,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `zaebaza@rambler.ru`
     - website: `private`
 
+- address: `tnam1q8s7jp43sezdmp07g5jn45wd9wdx9ygkgqwr2grj`
+    - alias: `zxx`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `2094174328@qq.com`
+    - website: `Unknown website`
+
 - address: `tnam1q83z54q574kvzfujk5dt9kpy42a4zpassueswgyq`
     - alias: `alexit`
     - commission: `5.0%`
