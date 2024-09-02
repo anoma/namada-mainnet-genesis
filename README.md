@@ -783,6 +783,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `adiadi2411@gmail.com`
     - website: `mdnodes.com`
 
+- address: `tnam1q8pueqy3yqmntt4k25ld5v0ljp87me8flg7pkvde`
+    - alias: `silent`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `silentvalidator@gmail.com`
+    - website: `https://silentvalidator.com`
+
 - address: `tnam1qy500vdqtcumxzfhjccrhdx9j9wawhsyg536thwn`
     - alias: `anodeofzen`
     - commission: `5.0%`
