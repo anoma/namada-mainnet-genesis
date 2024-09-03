@@ -647,6 +647,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `admin@nodeify.net`
     - website: `https://nodeify.net`
 
+- address: `tnam1q9cfj43flxq0tlh4vlaymjcea9g5mm2qhqls99ky`
+    - alias: `Nocturnal Labs`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `connect@nocturnallabs.org`
+    - website: `https://nocturnallabs.org`
+
 - address: `tnam1q8cfpdka8ddcwyxkaf7sjtpdg3xrv5j9pq5rv70w`
     - alias: `encipher`
     - commission: `5.0%`
