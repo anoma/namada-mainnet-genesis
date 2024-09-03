@@ -247,6 +247,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `hello@n1stake.com`
     - website: `https://n1stake.com`
 
+- address: `tnam1q9wqutze9sgfqazjetps5ekjzafeuca8js9d8m6k`
+    - alias: `2pilot`
+    - commission: `5.0%`
+    - max commission rate change: `10.0%`
+    - total voting power: `0`
+    - email: `hello@2pilot.dev`
+    - website: `https://2pilot.dev/`
+
 - address: `tnam1q8m8m40w44z9nlstzh37wxssdqd44mq4xypv05e2`
     - alias: `wb3addctd`
     - commission: `5.0%`
