@@ -1119,6 +1119,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `i.dred.one@gmail.com`
     - website: `Unknown website`
 
+- address: `tnam1q8plan3j4na87g7s8kxu3659gra8ye30evdjrxea`
+    - alias: `blockscape`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `info@blockscape.network`
+    - website: `blockscape.network`
+
 - address: `tnam1q8wq9ns3v5fhxeu8uedtfavn07w9wvt4ygp0ajgs`
     - alias: `Stakeway`
     - commission: `5.0%`
