@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpfy53d9h9sygn777vh6l06cdyl40ttflxjtcu2ykxtqsxcq6u2ucpx7yy9"]
+
+[[validator_account]]
+address = "tnam1q9862p53waknqh6vxxvz7ymwlqlrx5qqqcqxgeeg"
+vp = "vp_user"
+commission_rate = "0.01"
+max_commission_rate_change = "0.01"
+net_address = "95.31.219.35:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpyw0fypwxf3jlt0vk350uf8v9cdmddtxk4j044hty3v5rva5kepguj807z"
+authorization = "signam1qruv30q5e3un804ug0nujkg46jd2087wwcc8cyhj8yu9rmgmdm86vhvs28jvm5afgjhd5nu9qd5u2jnj2lwz2nh3hg9vjt9cmgd8cvs9spg4u9"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq5n3ea9r99d7rnsven5ar09esxe7p2yxe4curkqvll2ucehsxnpgnfzj4d"
+authorization = "signam1qz7hxslmtpr82yrgxzz7krgdcdgmmm6yvfwjemahp8049xptkvacsp5j5xmrkn5htfth4gtfw4hmwj2635lh0s3xdmtxsmgpf363nlsy3dtrhx"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrls9urym2p546kuaf20kz50fl24nljv9zragrp64z90r8e5q6qp5dvw2lz"
+authorization = "signam1qr38sm2er4ljn4vxljp4nt323g7a4f3mmwc4nduw58ulpqx8yq8tysxgcmvfujv4mdk9uefmn4guhuvfrw4svy60dh3c3njmzq3mjgc8frsvle"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypys3jssha24f5uf2cwv8fv5xn4p328h8wgal5c089zynsdc6senqsl7r2a3"
+authorization = "signam1q85jahlpjslk8d3uvaxqwvq97m4dzvesyf0pfd0p558vhsm98dsjs97ln9ptt5mu8leqejxkxx56g0h7d4mcpd0njhxgums9kwmuzcmhqyyt328r"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypvddw6kqwgjrkl5eejcev67kk5mad2ev24wdarmmp3gye6cdj4zmcvntkyq"
+authorization = "signam1qyle7pek37vzyruudu85mk6n8fxs9cl2m3g8gfm9ke2mxckw8kd0uqw2l8h78xhnry8ymd48cyf5xxnr7uuymadykprmsmdru7ucj964qyzfgz0s"
+
+[validator_account.metadata]
+email = "hello@dominodes.io"
+description = "Block by block, DomiNodes provide security and diversity in various Proof-of-Stake blockchains as a node operator, infrastructure provider and Non-Custodial staking service. Enjoy WEB3 and get its advantages with us!"
+website = "https://dominodes.io"
+discord_handle = "igoodvvin"
+avatar = "https://dominodes.io/wp-content/uploads/elementor/thumbs/logo-qh97q50jlrvi6vzqoehhfz4mihffweqduct4dn20xw.png"
+name = "DomiNodes"
+
+[validator_account.signatures]
+tpknam1qpfy53d9h9sygn777vh6l06cdyl40ttflxjtcu2ykxtqsxcq6u2ucpx7yy9 = "signam1qq460aswgssk8r9l6t68g6ntqq3cchucqrjhtcznlwdznpvvyh99yk22vc0sqatz5ccexza9d6490d8t6c46rphm5kp8f4us3wqppmgwmxf9s0"
