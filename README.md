@@ -903,6 +903,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `validator@informal.systems`
     - website: `https://informal.systems`
 
+- address: `tnam1q8usghsv57lyfr26wtpyx9ry8v5h9lq63uakqupt`
+    - alias: `epithea`
+    - commission: `0.0%`
+    - max commission rate change: `2.0%`
+    - total voting power: `0`
+    - email: `admin@epithea.com`
+    - website: `Unknown website`
+
 - address: `tnam1qy6y8ws67ks2p5jl53s6yukre554mhwrugdp8vjh`
     - alias: `Citadel.one`
     - commission: `5.0%`
