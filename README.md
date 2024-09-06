@@ -607,6 +607,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `ops@nodeguardians.io`
     - website: `https://infra.nodeguardians.io/`
 
+- address: `tnam1q9862p53waknqh6vxxvz7ymwlqlrx5qqqcqxgeeg`
+    - alias: `DomiNodes`
+    - commission: `1.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `hello@dominodes.io`
+    - website: `https://dominodes.io`
+
 - address: `tnam1qxl39v5a88cm0cw842mv7znmygmz4etfa5d5raze`
     - alias: `Brightlystake`
     - commission: `7.000000000000001%`
