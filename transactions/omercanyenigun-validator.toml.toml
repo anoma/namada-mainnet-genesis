@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqddmra4shtk6rtr08stl6hf5q0a33evuzvv7u44gayny726qshmz0drf07"]
+
+[[validator_account]]
+address = "tnam1qy4cwq9cqx0urmd23yxkhj80thk34mvkdv087vn0"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzdqe3r3sftv9jrse506gscsz4yfdgu3zvhnt2h0352gqjnrxskljgfftrv"
+authorization = "signam1qr499v2828e7eqeyyatg5uwk75ntv5zc6gvpankkzp9z76mz3x8gkwhayanar78pe7dgrgr2w4mfewt5fvfpmpl9veyjvkpexye6w3g8urn8vx"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrvehlj9f2hxdkegjg362p556fm4d4u33a2arpcgrydmj9seuxsxgex9rmt"
+authorization = "signam1qrv6d67daw6qsqv4wkx8zwenw2saxudceazm95snlaxdvml33hzm43y7zdw8c8ud0p986rds2wwgqtarj04hu0usy2pj7lcryldc78grxqle93"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr32aeffy7dsxmg9q8fhuujncpnmvqmh9ld0ffmez72yncfa5384umjg9tt"
+authorization = "signam1qqj6nga9hwfeyl0k92unh0tse8wmv2alr6h3zu2sv03e5dhmrgkulqv9hzw05mpu8nv2809mvuch6pp8wkwyal6453lrru4pf45lxmgfss9jdu"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp39n4ds4vcuvs072l2xxs64l7es4uc03e8utvf0zvwycwy93kgs6gls884j"
+authorization = "signam1qy9zkvuk3gvyxalauafz0nzvng99e3py05048fgjcc5h8x7w6kl6upxszuavnae6vyh9g7v5sxcyv98tntvlpkucsj05tf6j0gtz4e93qqlcdztc"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp8xv8rd4r9mlt0vlw0kp489wceyanu5fty6m44y6ufdfcx4ams5qgc8kd3x"
+authorization = "signam1qy2yl7effafwk0nx7tus76ma2n4gj89cccznuqmw4el62x7s0ftfs8ff6hk9whrr2g76gaxul7qffvzazg234qh6nvax4697x7zvnze2qqz937xx"
+
+[validator_account.metadata]
+email = "contact@hoodrun.io"
+website = "https://hoodrun.io/"
+discord_handle = "omercanyenigun"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/a1600c5650b26f850982dac401912305_360_360.jpg"
+name = "HoodRun"
+
+[validator_account.signatures]
+tpknam1qqddmra4shtk6rtr08stl6hf5q0a33evuzvv7u44gayny726qshmz0drf07 = "signam1qzx8d2jwtpsf8d48yn749ygfraep0mj8vcwwfzqgaqcmzhfxpwjnppdxanfkf4dxvjn6skdnm75mamlap4ld67gk420xeudqqk2ffsc844rh6w"
+
+[[bond]]
+source = "tnam1qy4cwq9cqx0urmd23yxkhj80thk34mvkdv087vn0"
+validator = "tnam1qy4cwq9cqx0urmd23yxkhj80thk34mvkdv087vn0"
+amount = "0.1"
+
+[bond.signatures]
+tpknam1qqddmra4shtk6rtr08stl6hf5q0a33evuzvv7u44gayny726qshmz0drf07 = "signam1qzvj0d7wssr6yac3suduq5eyv73xwedq6qhwf5ql7antv5pjerzgxwykvwxwpaxuv95p5t630gzwnfz2hhqywmjgfadq4w54xt659agw4nn4zt"
