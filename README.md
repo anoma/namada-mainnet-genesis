@@ -607,6 +607,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `security@chorus.one`
     - website: `https://chorus.one`
 
+- address: `tnam1qyawfu5rjgvhezcx0hrj6dkd0g9p97ldlvvtqvwt`
+    - alias: `EquinoxDao`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `blockcoin1@126.com`
+    - website: `https://www.equinoxdao.xyz/`
+
 - address: `tnam1q9kdhreynpfg5c2wvnwvherfl3jmuz6rlq09yqcp`
     - alias: `Node Guardians`
     - commission: `5.0%`
