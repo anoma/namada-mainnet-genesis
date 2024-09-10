@@ -663,6 +663,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `aquariusluo@gmail.com`
     - website: `www.staking-power.com`
 
+- address: `tnam1qy0zrla88txv244suxaruqgr9g74vr8vyufd8rp7`
+    - alias: `Wavefive`
+    - commission: `4.0%`
+    - max commission rate change: `2.0%`
+    - total voting power: `0`
+    - email: `hello@wavefive.co`
+    - website: `https://wavefive.co`
+
 - address: `tnam1q8xwyyc9j58w09wqm0z3jjjkt08699t4syfnpgmh`
     - alias: `nodes_navigator`
     - commission: `5.0%`

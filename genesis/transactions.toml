@@ -3738,6 +3738,53 @@ tpknam1qztc3kr3m0q9dcm9qce2hg7q9h2vwv8uht7m2su60j8k0xpqfsk827f0rt5 = "signam1qpn
 
 
 
+# adding transaction for cryptovestor21-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrmkwepf3za57jy6lnejqjhcm3ssrv9dcsc4369fjp480hrn66qgxy6yv5a"]
+
+[[validator_account]]
+address = "tnam1qy0zrla88txv244suxaruqgr9g74vr8vyufd8rp7"
+vp = "vp_user"
+commission_rate = "0.04"
+max_commission_rate_change = "0.02"
+net_address = "195.224.80.26:28656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzx6v6fuwt69zswswg6ulkxsuxw2mpsqe9m89uuu8ultysz0u6df6d3nm0m"
+authorization = "signam1qp7rhsyeaptj66n5jx029kunp0u5ftk606q42m23d38ulfy87mp3lk40q69y5s4f4386engwzg9kc276j9c9ke5rlwnsuknu6cshzvgzwhw4r2"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpu48vwl86gfzgke437ucq4ejajtstvuw5v3n7s0x5fha3fqeu92g0w4hvg"
+authorization = "signam1qp7fclw3rm9mt2mg87uvpa9fhrrxy6aez75x9g96g2ljlp8sdtj2900hqtxstf3aymjpe3l78tv2n3f8ml0nf86mmfe2xte2lxg4mwqwqlgq34"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz97a30wp9h290uh3fvggc0uj85auvagz8jm7pttvujnxvyv3mzvc3dhc4q"
+authorization = "signam1qrv84dsnx474hhkx5x7tucn8tdplfvvrhwm2vc2jc5yhzc8vk80pyqwnf6p72smyldhufrk6kr3la6yue5r6l5nfq6vcstdmp9t7r6qf2f5lwp"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypyrwkz9vuletepcc5a96msnwjhxz7dkcve30ys04hdzlryrd6tdcchy5s77"
+authorization = "signam1q923rpgh3w3apvl24dzw9d9qux3y563e5dye8plze7qxlkkhmx39c78nwya3hfmp0vrfyqvqdf07x2lkgt77kehkp37k8efwjvmztfkeqqzmxgma"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypg0z39zhvpedxk76zyac7ce9zz8zft50ae43tvpy290jktzpjscjs08wmuz"
+authorization = "signam1q872qg8le6aetz6j2fk9fwdas02j7f4cwdm3e7k2qvvn4c2qp5h0qdcvnp0dz5prd2efyaht00wa5dn388qeactnlz5mq330sv2w8wc4qqfmrymg"
+
+[validator_account.metadata]
+email = "hello@wavefive.co"
+description = "Wavefive - We work for protocols and protocols work for us."
+website = "https://wavefive.co"
+discord_handle = "cryptovestor"
+avatar = "https://i.imgur.com/1wfrWrY.png"
+name = "Wavefive"
+
+[validator_account.signatures]
+tpknam1qrmkwepf3za57jy6lnejqjhcm3ssrv9dcsc4369fjp480hrn66qgxy6yv5a = "signam1qz3gwsl5rwwpdtm4x02t0nkwxct3c8e89emch7afzx0d7mrgh5hfy9dddvuv3wcagy88ccu8zjzqf0dz0284kwr7npg65c9207temgcv5m6hu8"
+
+
+
 # adding transaction for mnm-is-aleks-validator
 
 [[established_account]]
