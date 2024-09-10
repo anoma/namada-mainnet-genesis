@@ -799,6 +799,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `validator@forbole.com`
     - website: `https://forbole.com`
 
+- address: `tnam1qx7xenrcve38c8lmcmewpk42df6pchlyjg34d3lq`
+    - alias: `SIPALING-TESTNET`
+    - commission: `10.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `sptnode@gmail.com`
+    - website: `https://node.sipalingtestnet.com/`
+
 - address: `tnam1q8ev9tdg3v9hgm3y4muy7xy7tnmd9ne8ngctj9th`
     - alias: `Moonlet`
     - commission: `5.0%`
