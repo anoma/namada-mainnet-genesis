@@ -583,6 +583,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `89686697888@mail.ru`
     - website: `https://namadascan.io`
 
+- address: `tnam1q8a2xwh072herrmlgf06gvrhna775sqjuufnxydn`
+    - alias: `Stake&Relax 🦥`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `stakeandrelax_validator@proton.me`
+    - website: `https://linktr.ee/stakeandrelax`
+
 - address: `tnam1q9hafe0nf5k7pnkcmzp4tezgux6v7a6r25yqfe60`
     - alias: `Oneplus`
     - commission: `5.0%`
