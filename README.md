@@ -631,6 +631,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `ops@nodeguardians.io`
     - website: `https://infra.nodeguardians.io/`
 
+- address: `tnam1q9gvv99t25xam0tq0vg4x77a64tztm320gclvafy`
+    - alias: `Coinage x DAIC`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `office@daic.capital`
+    - website: `https://daic.capital`
+
 - address: `tnam1qx7wyapm8f9ddlukz3p7gdmhjjvck7lmaqjeflra`
     - alias: `BXKelePool`
     - commission: `5.0%`
