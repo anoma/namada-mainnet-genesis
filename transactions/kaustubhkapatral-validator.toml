@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp7m5ncwq3cctuk2t08vpusehernd6jqw4aa0tpw4h0py0d94fxtuqvq0jg"]
+
+[[validator_account]]
+address = "tnam1qxtfny8cngyyf0ms2fl6rcu65lt0da0ns5a3gxrq"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "139.59.100.27:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzx4490v2ngv7xmql9r0rcr5fa2wnuqpsk0vh8s29uraeuqafk26ww7h0hn"
+authorization = "signam1qr9evch68vmt942snatgx9cfvrxh6c8wxuw3cazcengmfy673pdxccnufjgfz5zu3arnnyeh44r02uk7atf6u7542cyudzdpetcr4ws88ecn64"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrqw52px3xjadl8fql46wp20qtqv7yn24rxq9f4l0hewugaw2yz7zf7uk8c"
+authorization = "signam1qzxdwz96scex9r2xg4n4y3phnhz8xk6eadv8e40auvst0uvwdtkzmuejzaf0mz8gsajpk7hdptzxuxdvrhzrvv2r7mzrufcayxxvglgtaawda7"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzt9sapw43f7f5u3fgjtd5k6l8cpd8y5jfpghnlxycjqzts9dkxkkn76kqx"
+authorization = "signam1qzu987t5nnplm9qwtn08ghxf5qefesrysmdgszxgawpdera3yqdvzrdvsdxqzp2ep554am2sa62652330p225lv7wjsyjzk3skgq6ng8vhae67"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypdwh03pqxwaletqkvv0q34mmh8jlttg3st3fqc56tg85an9asv2xswv7nac"
+authorization = "signam1q8rqw6wytgj8j0v56mxy690cqk54p8e3nmtsfjjthx9qd4camdsck6f2k3pcy9k2uyurmlezkyvqjectyjj926nveargdpawdg96fvqvqq30ngz8"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp9aknjsunf0g684qhjz4yp04kyysvf34449k8rh7c2akurq5lnxyq9tgtvr"
+authorization = "signam1q9qtpql79spkd5ufl255kpmcvvqncx4pg63cdlpuut32wc0mv29hylekdfp94d9qlgcp8afyzkasadpdh9fk759264exa3x7ne2ndm8zqqe3jxn7"
+
+[validator_account.metadata]
+email = "validators@vitwit.com"
+description = "Vitwit has been at the forefront of the blockchain industry since 2017. With extensive experience and expertise, we have established ourselves as a reliable validator across more than 20 Proof-of-Stake (PoS) networks, including prominent ones like Polygon, Avail, Cosmoshub, Akash, Osmosis, Passage, dYdX, and Oasis, with staked assets totaling over 34 million USD. At Vitwit, trust is paramount. We have earned the confidence of over 20,000 delegators who rely on our validator services to secure and enhance their blockchain investments. In addition to our validation services, we actively support networks with IBC (Inter-Blockchain Communication) relayers. Moreover, we have developed our own interchain interface known as Resolute which further contributes to the seamless connectivity of various blockchain ecosystems."
+website = "https://vitwit.com"
+discord_handle = "k_kappa"
+avatar = "https://resolute.sgp1.cdn.digitaloceanspaces.com/Vitwit%20Logo.png"
+name = "Vitwit"
+
+[validator_account.signatures]
+tpknam1qp7m5ncwq3cctuk2t08vpusehernd6jqw4aa0tpw4h0py0d94fxtuqvq0jg = "signam1qrem03xwxv0jfzq4fw3ge0sm7d36kfddg4mdnz8rtwdc09vlcud5a8kthj5a66jxma6wp7yuyltjfy4x929xcfx9624dhw0srz98jxgz3q48al"
