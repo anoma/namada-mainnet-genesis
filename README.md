@@ -831,6 +831,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `liver23@protonmail.com`
     - website: `https://services.liveraven.net`
 
+- address: `tnam1q978af0wdx88mdhhzd0ls879jxuctsqk8u52syyp`
+    - alias: `The Validator Company`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `hello@validator.company`
+    - website: `https://validator.company`
+
 - address: `tnam1qylae4e5x3zpsfgsktywngdw943m4t07cqxdu6uy`
     - alias: `WayneWayner`
     - commission: `5.0%`
