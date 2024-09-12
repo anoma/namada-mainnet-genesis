@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrnrrzl6ev54jlklph0jq99lqeyvzdypvx6e2muw3av60ywugzam6fa48n8"]
+
+[[validator_account]]
+address = "tnam1qy7fms2m4kpx5khvp4x7r3pr8e4xdqghpsrsd0pn"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "34.107.71.243:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrsu2t4kc03geu74tlkg3ajdl335setjukmlumukx9x4k9fqxnlwwrmhfk8"
+authorization = "signam1qzycdt7a46mqpladktgj4w5caygl3n2wl0lczfypha4pcm2dkl00kue32hfwsqxwgxtpgx0k4eyj2xwnl5w3dceka0kn0ze6rx32wegfs7qsct"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpmtymllvjp0vhfm3khp0uw2haxpczyxr36xaaa0n7g2j2z4m5hdwfm0a2w"
+authorization = "signam1qrxa0tdgnxtrj3ncmmr0f3zajr84qfsvv49se9un067adrdlr9sp7tz5qf69tlahlkfddw8vkksm5x7c85athc82776z5w4j7lezlvsqr2js3y"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp6a2p9vsvz425k5u9shjgq768y4lq09ht7j3f0z9ftv68926cnl5p5aydj"
+authorization = "signam1qpkxmv9mrkgchyzydqsttp2a2akz83y9kax35y82rf8z767gcs30k4w6gmgpv3mz9tjk0aexk4vg0hacfcpht2pg5q4wrf4yg3tffps8jczxz5"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp79l2l47xhg497uxx4wnean8rgcdnxvta8skflmr63yn03u4kergcvc9vz6"
+authorization = "signam1qy4qg0dv4n4tpp4c8d3hccenr2lqchx6ffzeq7yjx9kgdgkuqrs5v05s4hqyryqv866f3zvsfp4sanqgdkr6w9dlw4tvzfugvsh9nskwqyntxv7r"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypwprhd75n67zxakukvvw7xevktn800xcg639cw6h5w69zwurxq5nqhq8mh7"
+authorization = "signam1q9dlve2klcga3jkz4248jk4teusc2wwpkjgu6gzlphk4s8cxyc3g2c4srqs7u9td8dtq5pltjggk78m865ttgh65250h6v8mhwjcnn9dqyh7qt67"
+
+[validator_account.metadata]
+email = "node-operator@chainapsis.com"
+description = "Keplr Infra handles hundreds of millions of requests every day, providing robust infrastructure for your seamless Interchain experience. We promise to securely protect both your assets and the network. Stake with us and earn rewards!"
+website = "https://infra.keplr.app"
+discord_handle = "daniel_ck"
+avatar = "https://raw.githubusercontent.com/daniel-ck89/keplr_namada_validator_logo/main/keplr.png"
+name = "Keplr"
+
+[validator_account.signatures]
+tpknam1qrnrrzl6ev54jlklph0jq99lqeyvzdypvx6e2muw3av60ywugzam6fa48n8 = "signam1qqv30u6ahq6uxvte4pcdnkggxqj700rptnwcarf2tygwsmv779cpcj38ulc9qf9r4c9vsnm5aznw8rchdx8hyfletl7480rjtlk824qd05k8lf"

@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp6kzpav5f3knu650v3r0q7xu9x35v9lwtc6uvcx95nfkcvmxcfusnttfx3"]
+
+[[validator_account]]
+address = "tnam1q8wsrzk5ntfpw07fzx2uxuhkkrz95f0uuyp2qppr"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "51.195.104.64:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpf25vka8fddhravtuq824xmw9mz8ex3rn4r657cxlhk4x28efyevgtskmz"
+authorization = "signam1qz7swsyafydyzhmqzdukm7emk9uzzatktmjxqlm9hwk3zfupx9nvq303mtzq0pq4jy3atpfw2zhgn3qu07n5r4h3vg0a822prsw8ttqrln227j"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqemf2ktk8w3vftdurxkrxqjftge6uwug8ew0xsgzn6mgkhnh8mm5q593yw"
+authorization = "signam1qqv6a6c7h94haq7cw8pufvwv73zwzrwpmz6ktgz2eawlyg6n2t989hjch4lus4cptfd57g36gnv9sqzvffvks3t0qac99zgrsjlckzc84qvx8e"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrd373kegq6wmadexz6gr90gua0cq9h2570hrvg5cdfh407f2q3y2ad6ex7"
+authorization = "signam1qrvagtrt6y6xj2k70fdzmrtu4nsxhe2jx4lr8pfhrjxm8mkjs6987l35lwxjlp5h5xlvh5amuc0qz93wqzctdhf4dav0zmh6yqeewugr7y8he5"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypqj04065pdj9w2hdz7lrtq25kaqgsqr5g4euyvvhf3v774zt96emgjk8u5a"
+authorization = "signam1q8gfe0932tx5pfdxrnun9td02rpajg6edpulmvd6mtvzpr5lrf9yxlqwyyvgqks9ku0x3se2n2l9uj4fdrp6d2e2sdakxl9c3wupkhtnqych9syd"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypfdgy7jrzz8t2hmnxeq7kx36jtrqjskcv5awcc080z3g5s3stz9usxad5dq"
+authorization = "signam1q9ylawej85qtuq9rkqdag290fsr3xydlh4zufrjqt9fturc9nusrc55cq7f254ve4e86z8j0z4ut699xadntl8fdupqx8qhufnme03jlqqtk5l90"
+
+[validator_account.metadata]
+email = "validator@genznodes.dev"
+description = "Committed to helping build a more inclusive and decentralized Web3 ecosystem."
+website = "https://genznodes.dev/"
+discord_handle = "@genznodes"
+name = "genznodes"
+
+[validator_account.signatures]
+tpknam1qp6kzpav5f3knu650v3r0q7xu9x35v9lwtc6uvcx95nfkcvmxcfusnttfx3 = "signam1qpctw6uqsuur2z0vawchaz5622t5fltma3vasa3qeptsqy93t90tynzqxm059kv824h0a4pqepalgnp758dk3jmv9h8lehum3cs9w3qtqamq3f"

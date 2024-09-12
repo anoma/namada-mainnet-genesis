@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpl2a0jm8zzskvnmrway05and446myuzutnz65y5q5cwxux3uvcquskf062"]
+
+[[validator_account]]
+address = "tnam1q8pueqy3yqmntt4k25ld5v0ljp87me8flg7pkvde"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "127.0.0.1:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrme7xulllqa77l5wemsj4x8km90ghfr4f2cyklhwl8ar0vqy54vy9pkrgd"
+authorization = "signam1qqjpv6zfql8w9sz2053nggk5veffccuynu7muaqfwp0993ypucfrynjlt2k9t8542pu6n2pas3qhmrks3datc8uzrlzvj5aejfdhg8str5hkxg"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqth5qn32feydanfcnqzhj0ts7wultlqy9xwc57aujn3hsxrhnnmva27xcp"
+authorization = "signam1qqxdqne3ascew3rhwtl7y6xt3r0tv399jdh83yje3edlm3t00wx2adh0hr6net30q93ae754we0sdyt2fn3h0ngjkmap0wgrhhzec9gvznzx47"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrg8xlcg9yjtptyh6x3tg27chv9wp7wh054q266mzdhh86teyxq8ktwm6m6"
+authorization = "signam1qrmxd2sn6sq4tmdhpjux9rhg6rgs7ykxqjtlpmxk8auttrhpwthx85w0k7ahfvg8v5daz66hsp2jud5vlyu6va8p4h76td9sfkrc3fsym6ndyf"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypxa8dcrqrzepc8jpm0nxtqf2m6n43cdhjncrj8vds5at0hel3tk7cea0lfc"
+authorization = "signam1q9zplzvlh0f3lqhqmtldasttpjy04psay0mrhfk0utzufm40w6uxyspsqawzxeaj48epfar6g6kxaj8tc6nhgm67f3gdcpqym4grnxe9qq73fkdy"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypepuqpcqdyfqyw27vgsq8hn5f9y6c4y8gdye0nkjyer4zq67c7kzc44ldvt"
+authorization = "signam1q8qyumlf0jnk03ans8cx2e4cnzzn2h5224nse96hh87x54e4f0zl2ncw2874uc7879mfpwxd2l70dne2grccm7ssxtyxrtu3jn5f5herqy5p6k4y"
+
+[validator_account.metadata]
+email = "silentvalidator@gmail.com"
+description = "Silent Validator leverages robust infrastructure and deep expertise to provide highly reliable validation services, enriches the community and furthers the growth of the ecosystem."
+website = "https://silentvalidator.com"
+discord_handle = "silent666"
+avatar = "https://raw.githubusercontent.com/silentnoname/silent/main/images/silent.png"
+name = "silent"
+
+[validator_account.signatures]
+tpknam1qpl2a0jm8zzskvnmrway05and446myuzutnz65y5q5cwxux3uvcquskf062 = "signam1qqzywmqgxfeamwkky40y3myy2gsrc6lsq96zka206lvkjxgdq9vf3m69tnkthfww6hye0v92mq84x4dcywl4r3lk0x7qmx495u48flgyj984fc"

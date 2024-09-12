@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qza64ksqd0n5e5m9j8j66e0r7gnyjcckpsue333hv0rej9pjxlkaw2trslj"]
+
+[[validator_account]]
+address = "tnam1q8qr408fvssqpqaht2qspryq2yfu7lds0urktcam"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.107.82.168:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrg47d0sn0kuxddgc8w3dsaccr7yk7kx0p4a0csdf6mv35d5juu6ghmm3za"
+authorization = "signam1qpwqdfljusf0psjsnaycvmf3nhmwjjcgz3g0fve7e6k08xmttjdaqyk4r7pndjjtkzjtljlljemf9xqwc5kh0k73anmulg264mt3d4gwwehk79"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp9lgk4lmnrsk84lrcz8c8zg3a79mhyh7mrwm4d85f6lhr8egd4pyzm3et4"
+authorization = "signam1qpy3km6gxlvgw2nxg2pycwvpm89xs7wskjk9eshkfhf20hj35x2zpwe62td9sa044jrg4r6s8pmekc9wpr22vzxha8zupr9449a8mdc0u2mldl"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzlxv494zd88y7jxn5vcejdulsm8k36kpt672jae8y0sfhprctqvy2l3llt"
+authorization = "signam1qq2ynd85mx76xhl4vqsl6lvsc8s3xgvaxxecq5sslqrpuqmrhu7pv9s2k5yxv5kzuc6njv4pqa6pxpl7zz2wzesmfs0keceqky43ugcxrw92cr"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypxdlkryplqz5hf9t0s6cq9yl5qewvh3vr7ntxsng2kmmt4pwy6sks8q6ccx"
+authorization = "signam1qya4r8cfzyzs7hdeap5rpm35vhwd0njhuzdmej6sjantd34lpufuxq8f9y7rrjuswapmerpl9a7dwj49ec38gzxa6nhxakd0ntp4uzcaqq3aw9h8"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyps4wqsvm8r4s8k8lm976v26yxw5wxradafn9j0j8q73m0zj9mqv6q954akx"
+authorization = "signam1qy07ldshnr6xwahn0vpg6twcrah8v88wjc7tnmpw53y6n38kej3j55efl95u8vscqgk0apcl4l8u8ywl0mpmpf9326dezrr4ccpdgsadqy6fm8j0"
+
+[validator_account.metadata]
+email = "staking@simplystaking.com"
+description = "At Simply Staking, we are a globally recognised leader in blockchain infrastructure provision and development, dedicated to the advancement and security of decentralised technologies."
+website = "https://simplystaking.com"
+avatar = "4095165BF57B60BE"
+name = "Simply Staking"
+
+[validator_account.signatures]
+tpknam1qza64ksqd0n5e5m9j8j66e0r7gnyjcckpsue333hv0rej9pjxlkaw2trslj = "signam1qztkqwz8lgg03cgts6sx0pjhtje65vlgwf8gv75uek700a5c044t4g5jfmqxyw9am9dlj37pd4qk3uyxpzskc5uckeajzmxfnqmnh6qw2arzxq"

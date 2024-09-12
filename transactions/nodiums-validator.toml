@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzu9enatx5pcdc50nh894t9xe9ws8ter705ze3r8fm63sec7ddfnzcgadmp"]
+
+[[validator_account]]
+address = "tnam1qxrm6dyrrmwz5thy565jzzuhgs4m02u9t52v9z3g"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.22.237.228:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzmwzn73ghcypyjz37gyfvxfx22r3z7x8ksy85lvpu0uf5kj6d6nstqfgef"
+authorization = "signam1qp5c6cgj7l65pevugu3ppndjeq237t5sdxxsqnjvjnwce5qkct00ctp7d5x5vlqam2xwdnxlal2gll50sxrs77g4s4m48dkcxrag7ms0vlx97c"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz2atksylujftj48uqu27kw2p2puz67p8jcazvxrs5vejlruyly3v956hc3"
+authorization = "signam1qpcd4tw3eusx3v09nuymf4qh0s0d5ely7t0lwf7mde6ygr87z89xtufvnjmgzwp0k6h69u7p2d60dffjhc8667dd8d3pp6mdjvcylas065cvhr"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpg9c2u9t29x4rwv2y62u4f6d7459u8n9dthq7ppfe8yvlja7csc5mgr3ez"
+authorization = "signam1qzalzgdu5zkeyhmgzsqtshlkkams8t5mc56ltv67pv7zkcmygwhtl3cxpt7htergemekp8ev9czq9u6mym8yl5ly9m4ehrwg3rkj7gs9jkgrek"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp3vmll0ue8vgmft7twpxvh20mj2dx92ez0vp9mteda6fw7zncs4eq7qkf3v"
+authorization = "signam1q9334lenl3xqyuqwuewr0k70w7gxugahug83cjsykk65wpf02azdzp06r8yucc7gwff4a2mg2nw7dvsya7ndveqkc9s6m8t9j6ru8ucfqyvezx29"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp5dgfqguwr2lps888epnyj4j2409gyjx3sanrfhsyl6l5th3g2pvcamvdcq"
+authorization = "signam1qyr4zwfll6heqc22a0m8h6wfntyp0vtfgqewyu5er9tkrpjhtgzex66k27zpdz83akjw8ylhduswqnxqf7vwr2kuust5vemaqpcdvsxjqye2axvj"
+
+[validator_account.metadata]
+email = "nodiums@gmail.com"
+description = "Nodiums — professional validator. Slash protection."
+website = "https://nodiums.com"
+discord_handle = "nodiums"
+avatar = "https://nodiums.com/wp-content/uploads/2024/01/logo-20.png"
+name = "nodiums"
+
+[validator_account.signatures]
+tpknam1qzu9enatx5pcdc50nh894t9xe9ws8ter705ze3r8fm63sec7ddfnzcgadmp = "signam1qzjgssn0jk63jvs9cwtulnmmgge846vww5t5t7mgqhtw5nxm03j7s82xl4m7ffa2mylsq0yyksmftyq90gg8x55kfvrfpe0wqayl56qzlgn0hl"
