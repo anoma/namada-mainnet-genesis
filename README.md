@@ -511,6 +511,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `adiadi2411@gmail.com`
     - website: `mdnodes.com`
 
+- address: `tnam1qx03fx58wtm6e2g5yt4uu9jpy702h4pjuy9a7653`
+    - alias: `Infraspear`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `admin@infraspear.com`
+    - website: `Unknown website`
+
 - address: `tnam1qyzcm6jay6u624050fucq3uhfe2r9k8e7qhn65l5`
     - alias: `QuantNode`
     - commission: `5.0%`
