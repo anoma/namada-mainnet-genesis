@@ -991,6 +991,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `admin@epithea.com`
     - website: `Unknown website`
 
+- address: `tnam1qy5dqyv2ygrk2sm84mj0pdl0ralx5wurwu8xz3qa`
+    - alias: `cosmowiz`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `cto@cosmowiz.com`
+    - website: `https://cosmowiz.com`
+
 - address: `tnam1qy6y8ws67ks2p5jl53s6yukre554mhwrugdp8vjh`
     - alias: `Citadel.one`
     - commission: `5.0%`
