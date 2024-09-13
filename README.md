@@ -599,6 +599,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `stakeandrelax_validator@proton.me`
     - website: `https://linktr.ee/stakeandrelax`
 
+- address: `tnam1q8jpmstfc07lkj9tu7un9c76h69kfsfsmyqs9clv`
+    - alias: `UbikCapital`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `contact@ubik.capital`
+    - website: `https://ubik.capital/`
+
 - address: `tnam1q9hafe0nf5k7pnkcmzp4tezgux6v7a6r25yqfe60`
     - alias: `Oneplus`
     - commission: `5.0%`
