@@ -12,31 +12,31 @@ net_address = "139.59.100.27:26656"
 
 [validator_account.consensus_key]
 pk = "tpknam1qzx4490v2ngv7xmql9r0rcr5fa2wnuqpsk0vh8s29uraeuqafk26ww7h0hn"
-authorization = "signam1qr9evch68vmt942snatgx9cfvrxh6c8wxuw3cazcengmfy673pdxccnufjgfz5zu3arnnyeh44r02uk7atf6u7542cyudzdpetcr4ws88ecn64"
+authorization = "signam1qzp2jzfhfuhlte7mv8pgeg7wr39nz6676fggljwqpqs2ewujaam9hv7mfvgu0wy79lc77d3dezer460mxnqcncp6c2r7l6ez27yq4tq88ahmt6"
 
 [validator_account.protocol_key]
 pk = "tpknam1qrqw52px3xjadl8fql46wp20qtqv7yn24rxq9f4l0hewugaw2yz7zf7uk8c"
-authorization = "signam1qzxdwz96scex9r2xg4n4y3phnhz8xk6eadv8e40auvst0uvwdtkzmuejzaf0mz8gsajpk7hdptzxuxdvrhzrvv2r7mzrufcayxxvglgtaawda7"
+authorization = "signam1qpcp6v8lzmz7ep7frxm474sdstsg78rehn6fuhwmxpz388m6g43e3ww0dm8xk3ddxxqn5numuek92cu7rnulp78nlvrruvz2vddxmvc03nhtxr"
 
 [validator_account.tendermint_node_key]
 pk = "tpknam1qzt9sapw43f7f5u3fgjtd5k6l8cpd8y5jfpghnlxycjqzts9dkxkkn76kqx"
-authorization = "signam1qzu987t5nnplm9qwtn08ghxf5qefesrysmdgszxgawpdera3yqdvzrdvsdxqzp2ep554am2sa62652330p225lv7wjsyjzk3skgq6ng8vhae67"
+authorization = "signam1qrjsyp0nrg7efus06d8w2rgvwdgkm5tr2r8u0u4qh2ctyml8tjyltjrzc3dg99exdqxumwfe0ydkca0tqvxnnpn5lwmxx8xhu0ls3rqfdkshug"
 
 [validator_account.eth_hot_key]
 pk = "tpknam1qypdwh03pqxwaletqkvv0q34mmh8jlttg3st3fqc56tg85an9asv2xswv7nac"
-authorization = "signam1q8rqw6wytgj8j0v56mxy690cqk54p8e3nmtsfjjthx9qd4camdsck6f2k3pcy9k2uyurmlezkyvqjectyjj926nveargdpawdg96fvqvqq30ngz8"
+authorization = "signam1q9x4tanwlnkce4p9p45rx9xvr96xd4mvkqhu3euxa7d8fueepjq96eestt8nef8yyhqmqp8mhkktq7je09t3lagalvk78taczdfqkjluqqll9cms"
 
 [validator_account.eth_cold_key]
 pk = "tpknam1qyp9aknjsunf0g684qhjz4yp04kyysvf34449k8rh7c2akurq5lnxyq9tgtvr"
-authorization = "signam1q9qtpql79spkd5ufl255kpmcvvqncx4pg63cdlpuut32wc0mv29hylekdfp94d9qlgcp8afyzkasadpdh9fk759264exa3x7ne2ndm8zqqe3jxn7"
+authorization = "signam1qxcueldyaq06ezsg6gntjcflwzy6t4p9xw4ng09g80g0mt52r7knzc9mnlhy907a9j755ehqh29yegxmpquewz0yxhd38ez894h57jf9qypj62qz"
 
 [validator_account.metadata]
 email = "validators@vitwit.com"
-description = "Vitwit has been at the forefront of the blockchain industry since 2017. With extensive experience and expertise, we have established ourselves as a reliable validator across more than 20 Proof-of-Stake (PoS) networks, including prominent ones like Polygon, Avail, Cosmoshub, Akash, Osmosis, Passage, dYdX, and Oasis, with staked assets totaling over 34 million USD. At Vitwit, trust is paramount. We have earned the confidence of over 20,000 delegators who rely on our validator services to secure and enhance their blockchain investments. In addition to our validation services, we actively support networks with IBC (Inter-Blockchain Communication) relayers. Moreover, we have developed our own interchain interface known as Resolute which further contributes to the seamless connectivity of various blockchain ecosystems."
+description = "Vitwit has been at the forefront of the blockchain industry since 2017. With extensive experience and expertise, we have established ourselves as a reliable validator across more than 20 Proof-of-Stake (PoS) networks, including prominent ones like Polygon, Avail, Cosmoshub, Akash, Osmosis, Passage, dYdX, and Oasis, with staked assets totaling over 34 million USD and 20,000 delegators."
 website = "https://vitwit.com"
 discord_handle = "k_kappa"
 avatar = "https://resolute.sgp1.cdn.digitaloceanspaces.com/Vitwit%20Logo.png"
 name = "Vitwit"
 
 [validator_account.signatures]
-tpknam1qp7m5ncwq3cctuk2t08vpusehernd6jqw4aa0tpw4h0py0d94fxtuqvq0jg = "signam1qrem03xwxv0jfzq4fw3ge0sm7d36kfddg4mdnz8rtwdc09vlcud5a8kthj5a66jxma6wp7yuyltjfy4x929xcfx9624dhw0srz98jxgz3q48al"
+tpknam1qp7m5ncwq3cctuk2t08vpusehernd6jqw4aa0tpw4h0py0d94fxtuqvq0jg = "signam1qq99h4nnu35jn298kxwvags954csq7aaz649er4jdujfew8qjzaxv9kzg43canpz9ns8mftquq7qy587ptawanpkl4zd2c269h969fgpjdqtxy"
