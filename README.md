@@ -807,6 +807,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `alex.it.prof@gmail.com`
     - website: `https://github.com/AlexITProf`
 
+- address: `tnam1q8a4rqcrpuw5fxygf468xc24pvptt683rgut9q6r`
+    - alias: `hedonismteam`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `mkhananov@gmail.com`
+    - website: `https://hedonismteam.com/`
+
 - address: `tnam1q9wqutze9sgfqazjetps5ekjzafeuca8js9d8m6k`
     - alias: `2pilot`
     - commission: `5.0%`
