@@ -487,6 +487,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `security@unit410.com`
     - website: `https://unit410.com`
 
+- address: `tnam1qxtfny8cngyyf0ms2fl6rcu65lt0da0ns5a3gxrq`
+    - alias: `Vitwit`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `validators@vitwit.com`
+    - website: `https://vitwit.com`
+
 - address: `tnam1qxdqsqnrf97vnyf5w2ur3fa0f3wxclxapy2lxy4s`
     - alias: `Lapatylin`
     - commission: `10.0%`
