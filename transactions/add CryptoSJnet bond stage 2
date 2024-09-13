@@ -1,0 +1,50 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpeh2v6cg8t7hre03xpjfc8q5uxfcm0fud2z976a4hpf08t85dnr5a4jwfc"]
+
+[[validator_account]]
+address = "tnam1qy3m25cx7gd67vyz5px5wjj5gcy4pfhnnux9mhcr"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "142.132.194.124:19904"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrvsecv5q9584wa0der6e2kdeatez072qqkjhfzk6vyl3qlvfmapg5q4ec9"
+authorization = "signam1qqzxd3eeuuygaanf0wealj29v7sjsmhc3w6qghw3d0defarmc7w3twvu5e6yr8eyz8tt6jp7gmuh7sl0yl9t4763p4u3pdp79430qmqgcsj0uz"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr9lf2c6azrlnn2y2lwy5u76dpcc2pv7j20yt7s4esm54e07t4hp7ueelye"
+authorization = "signam1qpzagr80thfs0vj9aufvyhhnulzux8qaklf0d46s5mgvpeevekz4a4szy08vusfq4tluryz8qaq9w8ptvlep0kaxmz48xah4520eggcwsh50wq"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qptt0a6gsq86a460ywmpc69mkwtkadldr8eylmv5c50rttg4vp2djga0fnu"
+authorization = "signam1qzc73hlkpv6nhlgruh2dwu0944qm2sfvmpq857t9zz9uc3mm3msuupsn0lnry7606xse3g9x409cd6acacsslju9cd220l35znu556s95ysmrj"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypen5uzuafrx46kx7mtryfc9kd30f5jywsw0xlkyc8uu6aet6t2slgchhazv"
+authorization = "signam1qxa3phqautj3dm9f6f2wqgdhyru4xy9nxvpuj9zszfgjweg722k6ce0j7w26w545sp2akfh58yuvpj4u0x250e2s4tee9dgnhh4kfgmvqqnfkv2g"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypu87eaa6ykqqtwh2jv0tgedhyjnwlxrky83tez40aus4vtq5d0jggcl6zus"
+authorization = "signam1qyyntc988pjrrynzpjudk63hr33hk7cakg0affsrdufcuzqexxz9s54g8c5j97nsu8xm06zwjm9d6uny2rz6wr7cnjsgp3l7qnmyy9ddqyew85v6"
+
+[validator_account.metadata]
+email = "m@cryptosj.net"
+description = "High Availability, Secure, Low Fees Staking Service"
+website = "https://cryptosj.net"
+discord_handle = "cryptosj.net"
+avatar = "https://cryptosj.net/images/logo.png"
+name = "CryptoSJnet"
+
+[validator_account.signatures]
+tpknam1qpeh2v6cg8t7hre03xpjfc8q5uxfcm0fud2z976a4hpf08t85dnr5a4jwfc = "signam1qz2ecs4nmdy6chhkghky9aasedg79qxjw6mjl90szuwu3820q87426m3xel75fydylf7g79ktyhxy9xu82j5khuuhf22daz99ea3t0g8zkh798"
+
+[[bond]]
+source = "tpknam1qpeh2v6cg8t7hre03xpjfc8q5uxfcm0fud2z976a4hpf08t85dnr5a4jwfc"
+validator = "tnam1qy3m25cx7gd67vyz5px5wjj5gcy4pfhnnux9mhcr"
+amount = "1000"
+
+[bond.signatures]
+tpknam1qpeh2v6cg8t7hre03xpjfc8q5uxfcm0fud2z976a4hpf08t85dnr5a4jwfc = "signam1qqt27epj4ag6grwq0sg2s8z8v5s97gqsxhq3xq9zqnyz7ea3z24arp6ye7v6yz2895ql5lxgvx3vjjq5fjhdpx9ecga6vqns7trdc0cg3axtz0"
