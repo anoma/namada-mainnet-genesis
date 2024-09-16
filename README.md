@@ -55,6 +55,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `unlimitedmolotnorilsk@gmail.com`
     - website: `https://cryptomolotstake.com/`
 
+- address: `tnam1qyjdzk8gjfvrasuxnxhmcnl2m5uzkad4eqcuuelq`
+    - alias: `rockycrypt`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `namada.raft186@passinbox.com`
+    - website: `Unknown website`
+
 - address: `tnam1qyfmtehvnrrcwtjueygvvqrwy43dtw3r9uwe5tf7`
     - alias: `Stake.systems`
     - commission: `5.0%`
