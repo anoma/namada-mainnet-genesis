@@ -1,0 +1,21 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrm8v70e6uv0gfedlyccecr9f64z8zw997lzffaajxwh3w07gwgczdy2wau"]
+
+[[validator_account]]
+address = "tnam1qy0kk34nh6c0a8lg4cud4krduucn0dlhsstdprzv"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "22.22.22.22:26656"
+consensus_key = "tpknam1qp0m0ttsm6hmsnqarxusm3rjg8lwdhh9r4rjlaumd4xlh2srs7f2zd4catu"
+protocol_key = "tpknam1qr64ry4c6dsxzzpsctzqjekd39vn20nrcta4ky7vgyxg3zcdjx4wvtz33sf"
+tendermint_node_key = "tpknam1qrmk8eyelte36334n8d26e2e9fslpv30ckyst7azevrsdush864u24q82fz"
+eth_hot_key = "tpknam1qypmn05lwz3dp8s3m6cer73w52ak5v4nyzsc97knpul9h79k7w5mk9qgehr3z"
+eth_cold_key = "tpknam1qyprdgdwz5cczs99h87fd7d5d7j0dfrzn396qu469m67l56q88gqz9q82hjsm"
+
+[validator_account.metadata]
+email = "thenamidator@protonmail.com"
+description = "namidator"
+name = "thenamidator"
