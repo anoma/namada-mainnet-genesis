@@ -471,6 +471,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `node-operator@chainapsis.com`
     - website: `https://infra.keplr.app`
 
+- address: `tnam1q9ykk4xex3g36wzzegs9ul5fajkt3uk6zvdjlec8`
+    - alias: `spidey`
+    - commission: `8.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0`
+    - email: `andyroddick6600@gmail.com`
+    - website: `www.spidey.services`
+
 - address: `tnam1q8236gr76rrsluvq27j8mkma8u04hz0khszatckw`
     - alias: `ValidatorVN`
     - commission: `5.0%`
