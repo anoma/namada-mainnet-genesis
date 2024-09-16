@@ -207,6 +207,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `contact@emberstake.xyz`
     - website: `https://emberstake.xyz`
 
+- address: `tnam1q9d42duqyl2flcvcg42urx4d7hsjd6dnxs8z00ve`
+    - alias: `timagixe`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `timagixe@protonmail.com`
+    - website: `https://tmgx.xyz/`
+
 - address: `tnam1qyswpl4wvk4zq45axze9mdghqr9n9ls9yvm9t66c`
     - alias: `MurphyNode`
     - commission: `5.0%`
