@@ -239,6 +239,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `admin@nodeify.net`
     - website: `https://nodeify.net`
 
+- address: `tnam1q98jzz306gldxvtg5quwnej4zvna6pgnquk2t4dc`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `paul@everlasting.nz`
+    - website: `Unknown website`
+
 - address: `tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p`
     - alias: `Kintsugi Nodes`
     - commission: `2.0%`
