@@ -815,6 +815,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `bro.n.bro.foundation@gmail.com`
     - website: `bronbro.io`
 
+- address: `tnam1qyd9xx4cw4knl4accyp2epnrfk6fgc3kgqxrzndv`
+    - alias: `MathNodes`
+    - commission: `3.1399999999999997%`
+    - max commission rate change: `3.0%`
+    - total voting power: `0`
+    - email: `support@mathnodes.com`
+    - website: `https://mathnodes.com`
+
 - address: `tnam1qxzwta6uhcsv40a8l4g5t07q0ey50c9dlyt3s272`
     - alias: `polkachu.com`
     - commission: `5.0%`
