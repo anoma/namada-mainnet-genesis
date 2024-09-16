@@ -487,6 +487,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `security@unit410.com`
     - website: `https://unit410.com`
 
+- address: `tnam1qxtfny8cngyyf0ms2fl6rcu65lt0da0ns5a3gxrq`
+    - alias: `Vitwit`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `validators@vitwit.com`
+    - website: `https://vitwit.com`
+
 - address: `tnam1qxdqsqnrf97vnyf5w2ur3fa0f3wxclxapy2lxy4s`
     - alias: `Lapatylin`
     - commission: `10.0%`
@@ -510,6 +518,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `adiadi2411@gmail.com`
     - website: `mdnodes.com`
+
+- address: `tnam1qx03fx58wtm6e2g5yt4uu9jpy702h4pjuy9a7653`
+    - alias: `Infraspear`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `admin@infraspear.com`
+    - website: `Unknown website`
 
 - address: `tnam1qyzcm6jay6u624050fucq3uhfe2r9k8e7qhn65l5`
     - alias: `QuantNode`
@@ -583,6 +599,22 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `89686697888@mail.ru`
     - website: `https://namadascan.io`
 
+- address: `tnam1q8a2xwh072herrmlgf06gvrhna775sqjuufnxydn`
+    - alias: `Stake&Relax 🦥`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `stakeandrelax_validator@proton.me`
+    - website: `https://linktr.ee/stakeandrelax`
+
+- address: `tnam1q8jpmstfc07lkj9tu7un9c76h69kfsfsmyqs9clv`
+    - alias: `UbikCapital`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `contact@ubik.capital`
+    - website: `https://ubik.capital/`
+
 - address: `tnam1q9hafe0nf5k7pnkcmzp4tezgux6v7a6r25yqfe60`
     - alias: `Oneplus`
     - commission: `5.0%`
@@ -607,6 +639,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `security@chorus.one`
     - website: `https://chorus.one`
 
+- address: `tnam1qyawfu5rjgvhezcx0hrj6dkd0g9p97ldlvvtqvwt`
+    - alias: `EquinoxDao`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `blockcoin1@126.com`
+    - website: `https://www.equinoxdao.xyz/`
+
 - address: `tnam1q9kdhreynpfg5c2wvnwvherfl3jmuz6rlq09yqcp`
     - alias: `Node Guardians`
     - commission: `5.0%`
@@ -614,6 +654,22 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `ops@nodeguardians.io`
     - website: `https://infra.nodeguardians.io/`
+
+- address: `tnam1q9gvv99t25xam0tq0vg4x77a64tztm320gclvafy`
+    - alias: `Coinage x DAIC`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `office@daic.capital`
+    - website: `https://daic.capital`
+
+- address: `tnam1qx7wyapm8f9ddlukz3p7gdmhjjvck7lmaqjeflra`
+    - alias: `BXKelePool`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `winlin@kelepool.com`
+    - website: `https://www.kelepool.com`
 
 - address: `tnam1q9862p53waknqh6vxxvz7ymwlqlrx5qqqcqxgeeg`
     - alias: `DomiNodes`
@@ -646,6 +702,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `aquariusluo@gmail.com`
     - website: `www.staking-power.com`
+
+- address: `tnam1qy0zrla88txv244suxaruqgr9g74vr8vyufd8rp7`
+    - alias: `Wavefive`
+    - commission: `4.0%`
+    - max commission rate change: `2.0%`
+    - total voting power: `0`
+    - email: `hello@wavefive.co`
+    - website: `https://wavefive.co`
 
 - address: `tnam1q8xwyyc9j58w09wqm0z3jjjkt08699t4syfnpgmh`
     - alias: `nodes_navigator`
@@ -751,6 +815,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `alex.it.prof@gmail.com`
     - website: `https://github.com/AlexITProf`
 
+- address: `tnam1q8a4rqcrpuw5fxygf468xc24pvptt683rgut9q6r`
+    - alias: `hedonismteam`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `mkhananov@gmail.com`
+    - website: `https://hedonismteam.com/`
+
 - address: `tnam1q9wqutze9sgfqazjetps5ekjzafeuca8js9d8m6k`
     - alias: `2pilot`
     - commission: `5.0%`
@@ -767,6 +839,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `validator@forbole.com`
     - website: `https://forbole.com`
 
+- address: `tnam1qx7xenrcve38c8lmcmewpk42df6pchlyjg34d3lq`
+    - alias: `SIPALING-TESTNET`
+    - commission: `10.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `sptnode@gmail.com`
+    - website: `https://node.sipalingtestnet.com/`
+
 - address: `tnam1q8ev9tdg3v9hgm3y4muy7xy7tnmd9ne8ngctj9th`
     - alias: `Moonlet`
     - commission: `5.0%`
@@ -782,6 +862,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `liver23@protonmail.com`
     - website: `https://services.liveraven.net`
+
+- address: `tnam1q978af0wdx88mdhhzd0ls879jxuctsqk8u52syyp`
+    - alias: `The Validator Company`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `hello@validator.company`
+    - website: `https://validator.company`
 
 - address: `tnam1qylae4e5x3zpsfgsktywngdw943m4t07cqxdu6uy`
     - alias: `WayneWayner`
@@ -910,6 +998,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `admin@epithea.com`
     - website: `Unknown website`
+
+- address: `tnam1qy5dqyv2ygrk2sm84mj0pdl0ralx5wurwu8xz3qa`
+    - alias: `cosmowiz`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `cto@cosmowiz.com`
+    - website: `https://cosmowiz.com`
 
 - address: `tnam1qy6y8ws67ks2p5jl53s6yukre554mhwrugdp8vjh`
     - alias: `Citadel.one`
