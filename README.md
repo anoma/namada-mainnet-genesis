@@ -1111,6 +1111,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `official@crouton.digital`
     - website: `https:/crouton.digital`
 
+- address: `tnam1qyxd5eh0mf49at77dursxnlsygn5se6d45tj5y47`
+    - alias: `✅ CryptoCrew`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `support@ccvalidators.com`
+    - website: `https://ccvalidators.com`
+
 - address: `tnam1qysxqwyeldesm2cdfhkr86jky5vj5vu8cu9jjqtw`
     - alias: `cryptech`
     - commission: `5.0%`
