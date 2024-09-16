@@ -1223,6 +1223,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `security@nodes.guru`
     - website: `https://nodes.guru`
 
+- address: `tnam1q88jgxj5qhmcwxgn9frngrd30207awvdjgkwn674`
+    - alias: `ByNode`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `q1037573909@gmail.com`
+    - website: `Unknown website`
+
 - address: `tnam1q8qr408fvssqpqaht2qspryq2yfu7lds0urktcam`
     - alias: `Simply Staking`
     - commission: `5.0%`
