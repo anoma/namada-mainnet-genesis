@@ -1263,6 +1263,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `validator@posthuman.digital`
     - website: `https://posthuman.digital`
 
+- address: `tnam1qxe0s20g4anvvkhnm8255nky65gdzmgf0cwavzn2`
+    - alias: `100F`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `vladtrecklo@gmail.com`
+    - website: `https://crypto100f.com`
+
 - address: `tnam1q8tzr86aw8kh2f66vukkhnghppkp0xckdy3xzrgx`
     - alias: `Unknown alias`
     - commission: `5.0%`
