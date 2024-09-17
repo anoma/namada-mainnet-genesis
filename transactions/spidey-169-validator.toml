@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpj57aw6g4y9ec054gxtunqz65jy3w3m22qgedxqpdxfr4xnv4d076xgfm0"]
+
+[[validator_account]]
+address = "tnam1q9ykk4xex3g36wzzegs9ul5fajkt3uk6zvdjlec8"
+vp = "vp_user"
+commission_rate = "0.08"
+max_commission_rate_change = "0.05"
+net_address = "65.108.108.123:26601"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq8nvp828a9cr85uyjjdpw0xepm0fl9wwxtxhcqd73n3fdezslg0yhfyeeq"
+authorization = "signam1qppwkh92amvxsgwfgrld4yfjy0v4vcgczf86cxlu4s0rt78p6m4quzwts74h53pcjm0r4sxhh5u48za79rd8896mjhr2pzlgpmcef7q0xqsulw"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpfqg8v9njaha865mdk9nt2rtwy6zztmd267s7us8z63gc4damz95f3ruxd"
+authorization = "signam1qpywzthff84s7ul2mcd3222e7dgf09yn3kw8fg45vctdurg622a06qsjm0em8gtkhrg3rsp4gp6g8kty7ynew7dj0frtawghhxrh0jg9t7pwxk"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq4jty4mcaa9xk8xna59gpjfvaqww7gtff6kmy2gnzvkj8lgjwkq5fxg8wk"
+authorization = "signam1qrc723wwl4mtt4ykzcv73tvfdzadyqzym96g524hv69shulfx08hjyea2uxthw4v9ynmxmmsdx8mexgt5unc7m8r3hh2mr5tc9hgnvg948edzs"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp8aqkqhcu4dqrhr0h9dtfg8ysl47gcc2hyjrm492p7tczldyfx3hqp49f9z"
+authorization = "signam1q9ldvfdl8dmyze5rasedn8ewnwflwccfc8792vv2hf0ykmfsp5l3zn3fu5pzzerpczllkp3wu789qpep3tj6ezscpzn5nj7zseh6m466qycuws32"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyppgczpu9nsgqs6wtjwdxgvkq6c85u9pz6ph2g0qsnh35hcwthsyggeykr0e"
+authorization = "signam1qxzfs38ta0nzcdz369hen5ug4kzpajrtusya2gywfhkp5mcrpy08c7upnyhfy3m8d9lesn925l098r7c99q0q9mzlzn3vxjkhdew2ph0qqpey3af"
+
+[validator_account.metadata]
+email = "andyroddick6600@gmail.com"
+website = "www.spidey.services"
+name = "spidey"
+
+[validator_account.signatures]
+tpknam1qpj57aw6g4y9ec054gxtunqz65jy3w3m22qgedxqpdxfr4xnv4d076xgfm0 = "signam1qr338ehnq6lrydx9qmxl3n5kdjuqy5ehhqmrhgyr9e0p9jhgcx37lgspq8k7yg98n40lxm3sxf7lc6leup4jandumeure44pkm73fjcpt2uazy"

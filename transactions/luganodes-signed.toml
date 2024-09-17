@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzrwex92xm0rg89jhrkew59pk7px5cq625m9v2jn3j3fvwtthwhrwau7upk"]
+
+[[validator_account]]
+address = "tnam1qx7apjd6puv09zenlgcjg5q9l74y6ax4sqvyhp6y"
+vp = "vp_user"
+commission_rate = "0.1"
+max_commission_rate_change = "0.01"
+net_address = "141.95.124.213:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrzch6wfklerwl5nl77l6t6zmhs8l3rce02z9p5szm58drke36ydjrpzk5k"
+authorization = "signam1qrgpsgqnrue4rudktgy9ncdxv84354rapeehkzlkp38d4vc86tja0d2c7za9yvjnnv8uzcmqywp4g80d8mkepux7pma6ta83f8nl9uq88eeg39"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrtquvhw7vcf764nx4m92zywllmztfaahwfq0j8xc06zetycfsxs7rau8tm"
+authorization = "signam1qq8udv8p467x7cm97g85h6jvfz45h3unvt30sdf0h08pppurg76hewnsm7mth5hl8gggpcwrhpnpds4w48u5z23nysvacz984zmw5zcvt5cnq7"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzmxpe5ugdvej3rk8fu6xzc3w0qy68zn00ntfp7letql7y3q5fw5unvhun3"
+authorization = "signam1qrs5tgrs08n9gakt86unlqjcjw74zcldf4hs6xd6l6m6phtqevvcka2lvv3am5cyyr783gghlejrl0jywhjyhy8arwcpt5v83lqk85czhwymv4"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyprer0u86kjlg0mp2094czq0c5g3e0t9x7twdpcetwmlyefvsqt2tqwrdm33"
+authorization = "signam1qxe2h59780jj3xwjuhpfwls9k04c7yd6qmq6jctatupzacgnc37k7n750hhq4fll6tzqh9mf557y3rsald93kv9ygdd65su2tgnljf7kqydn08pg"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp0wpd6x500xcch28y6lerldk5u2lqyzyk0xx37vewmxrqfdga236qax3mvz"
+authorization = "signam1qycw2jrwdcrtcc9q6x5rf2m0djcwjvrktelpq63vhgwh3tjdnwlqv0qu3c058ljz32esxjzvf7ttzvvxgz8mgatntfvn93vzpnxl903mqykt8dul"
+
+[validator_account.metadata]
+email = "devops@luganodes.com"
+description = "Swiss-Operated Institutional Grade Staking Provider"
+website = "https://www.luganodes.com/"
+discord_handle = "@luganodes_hakai"
+avatar = "https://static.luganodes.com/luganodes-128.png"
+name = "Luganodes"
+
+[validator_account.signatures]
+tpknam1qzrwex92xm0rg89jhrkew59pk7px5cq625m9v2jn3j3fvwtthwhrwau7upk = "signam1qzf3zsuyd6tmksnfrkzz48zy80tt0vn0fg3y7p2qmf4px2st39rahz2knhgww0nlugqzyr8ktfnccrdx6kwmhvqpjjzt6nua3gkc4vqvjjr02s"
