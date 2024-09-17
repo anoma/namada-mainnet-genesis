@@ -1058,6 +1058,18 @@ tpknam1qr5xqf5stdmljlnate00s43plpldwf6c8ufa5z8hy924r732ydx2wqvzply = "signam1qzr
 
 
 
+# adding transaction for zenodeapp-bond
+
+[[bond]]
+source = "tpknam1qzjqatm6lhlrg7nve660e7hh5z6sw4a2lhnqrqx96zp4dl7k8znawqupcy6"
+validator = "tnam1qy500vdqtcumxzfhjccrhdx9j9wawhsyg536thwn"
+amount = "100000"
+
+[bond.signatures]
+tpknam1qzjqatm6lhlrg7nve660e7hh5z6sw4a2lhnqrqx96zp4dl7k8znawqupcy6 = "signam1qraqc5am5af6p3uxeq40hn23k8gqu2vx2mgzvt9p95ywcgd5n0kg7xxe596ctgkangmkkmwltpvgtyqgx9rqmkyzcayeews69g07vrgqr3x45u"
+
+
+
 # adding transaction for t3d3r3-validator
 
 [[established_account]]
