@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzjkssd09k2ft5xf7tkvnr2l29aaxhj3jhjxxkvlyadapaj44asews6fxs6"]
+
+[[validator_account]]
+address = "tnam1qx635ya9l2yz3ua92kckrad4v2p59madpspm9dtg"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp5ss8g6eqlk680lj76fh2ur0l0rp3dh8wrpuzdymhczt2mpjekxznr6x4z"
+authorization = "signam1qrw5qr9d06wj2s4lmuzlty8mrq7d0g7flrw9je267qkxh9yfwp9uacutz4t9euqlkp7ym6teguqmrzh4ju5y9uezhm4mywha574jrlcpfeh5sv"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr2cyqdva8p5hetyd3wgfr9rh9mqrveu27vjwpaxh60j3dleucyaq5pm7ty"
+authorization = "signam1qp8hm090je8qfrzpeyua9yy9q4h6n5wysjwp62qegsxkt7mlrku9fz8wwugxddcaqaydw8hq5vp546kjnve3j9vrdq9shy5r8mn6znqwzexgjy"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz2ms7hh9azleejydq9u2ax8mz59qcj9awdmyhqd3g9dh5dztm8psvcg84a"
+authorization = "signam1qpq7ur052y66swn5yhes69jg7c6mte594e2f3jt2lnk2yu3wjrpattceua46rudn5saq98ha8jwafdp3r3hvq2vp5ak6de8fapj33ac8ex62jd"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp65yyx8vdrnd7vdzyteysut2cdkmsrvdlz2t2evkgnzgpxdjm26csc4jeh7"
+authorization = "signam1qylsvauqrrq7lyj27p0fm229e0jhhp4ypparc2m450zm4mg0p5lmuq8cl80rt6gn9ungsp77977rt4rvua67wt6wpxcx3wg3urtzf5rqqqj7qz3f"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypf32pqnnt8ahfvlc7tky5g3agt0hha4cfd8u63zj0fzvsehsf76ggl8qamm"
+authorization = "signam1qy70je47gwqy88d8u2wg9f0jhyk2teqtvppc4fdltuklkjjqw6m3ks7hk32n0adka4z0jdeg6ypsx0su3wwcqecm37vuwxy0j9a9mmtmqqjfwvj0"
+
+[validator_account.metadata]
+email = "blocks@disperze.network"
+website = "https://disperze.network"
+discord_handle = "giansalex"
+avatar = "https://disperze.network/img/disperze.png"
+name = "Disperze"
+
+[validator_account.signatures]
+tpknam1qzjkssd09k2ft5xf7tkvnr2l29aaxhj3jhjxxkvlyadapaj44asews6fxs6 = "signam1qpq5kjp6jp7tgdj4stufrrxfje4qdj0vd3z8jzg37s6etlstxr92p58w6t7zqcmyf24aczw0r6gryjqr6yerqwm7q2yt8d4938yc7jcdfl2zdv"

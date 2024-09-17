@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqcw5dunxp7jge38qyuhye3jcg3nun5lcuvetasjavdxhakddglfc0mrtf5"]
+
+[[validator_account]]
+address = "tnam1qygz4sn400y9g90rt5jx6ja0wrcx3y7u0c0ue6dq"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "146.59.85.223:20056"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzca8k34jkvx3g09cylj70vgm30zve6pteeej3tm7lerkqra89jp236lmt5"
+authorization = "signam1qz0jlu660lkwf68qx47zy8r3vg9e9tnhmsrtzckjt2207p92zu0n682flj2j4lv0xvt59efp72f0egstgu8z6fnry7862vfgcu56pgg2cna6cx"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqvswvz4sf3j7nn9ggug223pz6ftln3fe2xcz6pm9ay85wcryeswyuuuxmz"
+authorization = "signam1qzvvtcpw6tdqrvs4ek8cv7qhxd9hx7rk4lcehtzx2pup7zu44el3wclt2ne6ne7s3pwdmwlgqka8l350yhldxwf0ru6r8z8wsqyxpzqvvpu7dn"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpuu6ujrmwzmyrh5l6wzk207z3743py9ttpsjmyu8qdw7ev6mz4cw9l4lu0"
+authorization = "signam1qpnzrmcr6plmlzewyce4d70u26udezk56cjnx6rw5fwgpgeezmkkays0epql84g2w6tadj2r40xz4ndy5dca8aq2rq30d5fz4r0vghgrk98yf3"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp6sl5fntz2dyvf6ydwhvmtxdd62x23al7j9pplxtuvsveyzhmethq58y7xy"
+authorization = "signam1qy2rtcchtaemup3suqdp4gp4lqk2yqfx2skn3nrfnhkqhulys6wkx5tp37zn4wznhwx4rctsk7hkmzpnsq3u3vt2vckvhl39pplfc8rnqq43633f"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypdnq0sk6w002l2nzmed3vawzze4q5qpu8e88xczuuns80z2ud32rsxm24qu"
+authorization = "signam1qy8e9ejnlzt5nne5h25zfs5p4xeqw4ja6jzxchunxteh0uy0y2ee6vcp696wjsljfqznjzfjeh5l5907kddrry6kh58frpac2jq5wkyvqq6l9wv8"
+
+[validator_account.metadata]
+email = "security@lavenderfive.com"
+description = "Fortifying crypto networks with Horcrux security, slash insurance, and open source contributions. Connect with us at https://linktr.ee/lavenderfive."
+website = "https://lavenderfive.com"
+discord_handle = "reversesigh"
+avatar = "https://github.com/cosmostation/chainlist/blob/c833d0d26ad55ac15541ace26f2d5c7c027b91b9/chain/cosmos/moniker/cosmosvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zfd832j.png"
+name = "Lavender.Five Nodes"
+
+[validator_account.signatures]
+tpknam1qqcw5dunxp7jge38qyuhye3jcg3nun5lcuvetasjavdxhakddglfc0mrtf5 = "signam1qz8zwv6hutf7dgfn6yx5hx4yhupwz5s8q3lxe8qvjkxunqe06a3gkur5feqr0xn92p6yxu8txfa4e446z7ds0sj3qmm86r5s28cas4qr33myfq"

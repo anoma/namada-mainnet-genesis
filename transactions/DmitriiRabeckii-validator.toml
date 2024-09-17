@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzk6u8wh6qhqc7j9etxdlz9wqczyh2vsm44hgs6dphed3vp0uk2tvl8lcm5"]
+
+[[validator_account]]
+address = "tnam1q90qxzx3ufd5mlqx7fnppjykf8ywz7fjvc3qudc2"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "138.201.21.62:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr47k8n7tc9kwp9l4xcdsf2ar4xxwqplxk6upnk75yh38gmyrxqw2l8j4dy"
+authorization = "signam1qznlzslduje9pxaw6ul8prnh9kva0k6crt5vgyexsen2lqwy8960yc8eznyf05jth2te5nkuznfudp2hj729axfgw0wwyqf8awr7hgq8822va3"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpzqv4uju6egf9ngz7v52k7rs9lknlc72skw9vjuflqswfw32px3kqjwyp3"
+authorization = "signam1qzp8mx882h5trwn9t5yvqpsxufe6fmmzh29v2h0wzsu4hgqxurpurk6taxf8afmfw0jll3kz9h2uwsxhtpfvv8ewz6x4rv47y8m5xrcqc39zdj"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpcm36x9ks7rg6rlntuw35n05dsswm849jrazrqrgrszv75q0wp5xr4q50f"
+authorization = "signam1qrz845u5cemdnam463dfqyywlcsfgxym7708trhusd9uxwc5qlkxnnejtvjd2sz2gdds6hw8c4t44nfmukctvqmk4v0n4ypma2amfhgvs9q3pc"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp3tr6p6w2rww8rwpua3ps4udc8eh2yesjc90z6lsrnrp39zmthymghws2c5"
+authorization = "signam1qy975rc6jyldlc8ehtnltyg6pv9k3c5zy467uyj6af982szekd48x5e64aepjys6yrltf0e0gmzk4a0dney75c9hrtfdjhllpxkvdswsqymqa2qf"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypajrwmcax0gsjutf34em04yl74ss44n9h3jlax9c5ftpj7lcc5q3gxlf2pj"
+authorization = "signam1q9cz7cfxm4z34htn42p3nauzf83ymct89x5aj6yxztsr2yptqesrqshd527xkaccgea8ru5jpxqdj4tmqzyjz39m7c0kw3gw87qmrkupqqsr00lh"
+
+[validator_account.metadata]
+email = "dima.rabecki@gmail.com"
+description = "WEB-developer"
+website = "crazydimka.xyz"
+discord_handle = "crazydimka7"
+name = "crazydimka"
+
+[validator_account.signatures]
+tpknam1qzk6u8wh6qhqc7j9etxdlz9wqczyh2vsm44hgs6dphed3vp0uk2tvl8lcm5 = "signam1qzet5s52rmkrk47gg4zmrfmdhacv3j3440tnqcxr7zwld3a64h4mmzcpg3u3f90hsxlmzzvz5nqdjg974lzrhpl5asx8tr86kqs93ssgldn7nk"

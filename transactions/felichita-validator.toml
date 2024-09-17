@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrkq7h3sdwvmfe5agmhcqkxw428tcegwwg4l6zuhshur9kv5hsf0wr5daem"]
+
+[[validator_account]]
+address = "tnam1q8jrrf8s22cwd22yxhwc38tlvahplh2wyqjzl9gx"
+vp = "vp_user"
+commission_rate = "0.045"
+max_commission_rate_change = "0.025"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq4yzdp3e2hytjdd4nutqz28yjdajvs3xq5yx7zd4f39skukp6fzy3a0p4w"
+authorization = "signam1qrzszpe8dx4gw5yzh60myhalqw6kzcc37rlfn0veuux3424ygdq8n0ken8ny8hgpg9nvdgr7puft5xymqz4zvvwf505gve06a8rk7agqeks0yr"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr2jwn7s23dpvmd4nav8rae9hcgwd52taqmjzf4prckkv96ch3v8skresh8"
+authorization = "signam1qry4pgpcug4jsaaj38vv0f96dzvz8glwsgche0f5s24utc05zmy0gwnwq3tv2etqze2au22akt7ulym2tdrktunrephunqxtmeuhtwg99mcty7"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr3ppn63f9fr4t6h3squjryjsq9rd66zmr7a5rxrh8z4hfhk6k3q22xdy2x"
+authorization = "signam1qpce8kcvr5h6atlwnf9m54rknw3nkpayu6ldcsstu7whz6kk7u2fku303u9fegdc2rr8ydzqmm2dffdtazgsa57xqpazujh5n7y3kgcwxnngz9"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypfpqkcrhys8vjf7pupe854pakhqtwprmlmpycfy9mv7wgfzz02phq2fcywt"
+authorization = "signam1qxvlef9excs0kgc09ctdgtlxk0z6kr0nrd6g7nvwtcl08kv9je35u37ea8r65uvdn6q3xtgcnfmyuwa807434gv5yd3w6ns8mm9hjpqwqyxumsne"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypc5xkevavtxea4c4httlz5su8ghrz2y30tmte2va3nk9vjecuempg5e0fjk"
+authorization = "signam1qxrlg69adyfusuevnkynlg8j6ad7r3vf7v7m8xh5rfdcnnuayxnfwmwvafv65jtqh5tyy5h0z07eqqncdcnypzvf8r6maklhe325vtldqqy6d7vh"
+
+[validator_account.metadata]
+email = "cosmos-security@p2p.org"
+description = "P2P.ORG Validator (P2P.org) - an early contributor & long-time Cosmos Ecosystem participant. Stake with us for a secure, reliable and simple service"
+website = "https://p2p.org/"
+discord_handle = "frodo_p2p"
+avatar = "https://github.com/p2p-org/devops-tendermint-public/releases/download/v1.0.0/p2p_logo_brand_color.png"
+name = "P2P.org 💙"
+
+[validator_account.signatures]
+tpknam1qrkq7h3sdwvmfe5agmhcqkxw428tcegwwg4l6zuhshur9kv5hsf0wr5daem = "signam1qqazfwjhnddsar07he56hrh2ckaxx2wlnp0z2a5uqdw7958qnkkpr36d2n6ag9mulhamk3rn6nlk7jv3l8m35anketqvd4qls9rt2msfkxrthv"

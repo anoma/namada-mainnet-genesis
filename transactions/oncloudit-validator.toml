@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrl70rwczdm70gp59vpfyrvms5z87pa7yw5z3sd6xjxdar88vppmvdfwmqw"]
+
+[[validator_account]]
+address = "tnam1qxfcew76uclxuf5a5qkhwdtt8m6enc58tsqnwupd"
+vp = "vp_user"
+commission_rate = "0.08"
+max_commission_rate_change = "0.06"
+net_address = "34.80.225.203:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp9cu8nrjg6q6z0w0pgsjqfcy289snra2ztszpl8w6hsgu74el6g6tdeldq"
+authorization = "signam1qzslsk0vkfw72d0mcdrqp8quhx7uckqttgdr2ardld7k6hllg3h830s263vyfsl39gr8djqy9cufxrel2lrtt7nmr82vcn3vhd20vygg35fnc9"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrr4rxj4svh2hx2fm632vfg0xwwq2txfdqd9xsnjy9jv3sh562pt7a4p399"
+authorization = "signam1qp7w3uq9ykmdpz9wt8egwd804hrv8nyqu40lhqupmpyes4vucq6keh7urtat3wvtsxdcg9ngmdp7pw554exwld44h6xgjgng98ejvvgy2e28da"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpnk4ng9ydfth9hjsse9kvzt8wmk300c95crm0k57dcf4fjk7hhevuyetue"
+authorization = "signam1qpvgkkf0uu43s0y9rxwrysshyqrl8359vuj4r5a33svzwre2z5z2u2azsp8839emphyh9mtr299fj2r8mkhdnq3rupdvwrukug96kcs22wcqa7"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypxw5alcxj6dz7cak3f2x0604qhjnxlr020ppvamt9y5dllmajqsdczcywz6"
+authorization = "signam1qxgdg0c3564a9ff80l6turhnjynwjt7w6shpquwmvrchscjy3grg5wj2qntle6a4t4athqhln9yxur2jws2thfxpm6wwa3ejfjguryltqq6ha69w"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypy27gcujf7ryknkmxtl8r8958xa54melxm8hxmslzs3vqta6p2dhgdpspth"
+authorization = "signam1q9d523vxpvnwuq47uhqnvq96sn8dagj37kgrsqywdzde05ekqmwrz5260nz7xx79mwhme9hd7qd22tkkq0yeuwhte9umu7958zp8dhzyqyn0gd09"
+
+[validator_account.metadata]
+email = "bob@irisnet.org"
+description = "Interchain Service Hub for NextGen Distributed Applications."
+website = "https://irisnet.org"
+name = "IRISnet"
+
+[validator_account.signatures]
+tpknam1qrl70rwczdm70gp59vpfyrvms5z87pa7yw5z3sd6xjxdar88vppmvdfwmqw = "signam1qphfqupypudkn069drcut4g203adj7zszgjngjythlrstz7au7als3ecjf3wngr28ss80gx4hy7rhl6e4649e7y57kkn575vprc6dtcqxavxmj"

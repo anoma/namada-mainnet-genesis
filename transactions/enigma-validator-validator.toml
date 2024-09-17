@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpnftukzzk2gjp2gwjdvc7zm7rq0f4qw5wrueglkseg852vhlccrsp96v6f"]
+
+[[validator_account]]
+address = "tnam1q89xnpnrfsefr9ynj4v8ngdu35me8xudzgn94afm"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.21.65.254:1610"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrv7xmjgcm8gq0p9eam5qwywe3mqv7j8rkqcz4yz7fcyw6mp20xjqcu407k"
+authorization = "signam1qzvpvcruf342cjttclhpqdr29c9s4tajjckvv3nmwsrwng3xk7esfnyrwwknnlq99s3x0024jdkl32rmvfhp3xp8gf5w5wdewjzwfugz4nhn7n"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr36muwe82jc0fv4lrd48z6sdgjlmnepnhrs52j4q0av0ufvgp4gxcrd6n6"
+authorization = "signam1qqdmlvvxp75q5hjcy83xxdnzyuqny2dk7j3cpseyv70psza8patg3cf93fg5kype5f84xwd9u6ha0s0pdx4k8hg9c0e5sk4ym3whnfq8tlkqtx"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzuu3ef5tard3udggtqv5peppfywp0swul9n4mx0zvw3pkzuqet4z27w7ee"
+authorization = "signam1qp40pa6unevze7fmrkarl2yyp4d98h86k6wuafx2r44hgsk20ss88ys694r358zrq0fg7ge65cjavdzdd7rr8x3cts8647e0lyn7rdq26tk4hz"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyphs7lym5s8f7uxx6s969wcttlgh96th8a5wfcjkz23u6x89924jgskpga0x"
+authorization = "signam1qyzcqc9kv9sy49erqyw3fww3q890jdzm8qaluqycqycdpfdcz4w5st3efu59hdznjft3qse7acuy73qt7vkh59w9gf7unaqv0d2360ujqq8zuzkx"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyprqrrxzcrnu64ghhuww8mjlv64kfmhjsngmr3wfygv3smtadrk6kg8ct0ya"
+authorization = "signam1qy7tymu6tgcqqwa2elzhdq8cxluvnhjf6ku6vvj9lem9eyy26he9294fvt5dmvxy2h8zmj9rehkef8sx0japrjjwu5mfpkcu76ngjayuqyuf7xtu"
+
+[validator_account.metadata]
+email = "contact@enigma-validator.com"
+description = "Highly secure professional validator across 40+ chains - offering a full refund for any downtime slashing - Reach out to us at contact@enigma-validator.com"
+website = "https://enigma-validator.com/"
+discord_handle = "enigma_validator"
+avatar = "https://raw.githubusercontent.com/Enigma-Validator/enigma-assets/main/enigma-logo.png"
+name = "Enigma"
+
+[validator_account.signatures]
+tpknam1qpnftukzzk2gjp2gwjdvc7zm7rq0f4qw5wrueglkseg852vhlccrsp96v6f = "signam1qzx8ye9p8zv6gmyh2znjcuh67y0eqlllhfrggyfw7tmd4xeyn3untay9fveych326sru7xtwtm6lhp0klfpd5fd7m06x24ycta4leyctr25z5w"
