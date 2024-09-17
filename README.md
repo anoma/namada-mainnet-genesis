@@ -983,6 +983,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `bob@irisnet.org`
     - website: `https://irisnet.org`
 
+- address: `tnam1q9ctkntly0ggv796axf4flnz3mgtx42ucuh5xhme`
+    - alias: `edenblock`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `infrastructure@edenblock.com`
+    - website: `www.edenblock.com`
+
 - address: `tnam1q9tf86cusctv2c679ssflsrq0ymd9qxnluuewvt8`
     - alias: `Tecnodes`
     - commission: `5.0%`
