@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq3cqxntn9q0upcgmjkrls43m22qvqk75p4zzcrs3x7gxn526na6jvnqgm4"]
+
+[[validator_account]]
+address = "tnam1q9d42duqyl2flcvcg42urx4d7hsjd6dnxs8z00ve"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "116.202.155.223:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpf5cg3gzp0t3jqketyz54zmuya7ar4gj087r2ux7azdl6grrq3ejhztsyj"
+authorization = "signam1qpn4pxs5tumzgdwxcff7vdnnx9an2w253k2z5ttks6al8fh4gfp8w7yart8vyw24ef7rq0w3v789ts04wewmj86mlqu6x54d5x5p5dc04f7xv7"
+
+[validator_account.protocol_key]
+pk = "tpknam1qztd94z4tuk0u36ld3767qyj9c2dyk4pvc54mrh8yc20f6j62whxkprxkm4"
+authorization = "signam1qpweqha4gv5w73lxjqktv2ecjql2jyr8tsk62cp3cnh3hhpwk954fdkdzdgj9k4wvg2xukaweadenqwz2m42mymetq8w5ecmf8jj94gp6pnefc"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpcx8x3vss93cp3u0fsqnrgx4wgl7m9trlyx3spxmufpgjvyy4jhv4y6msr"
+authorization = "signam1qrr92jr8lcyqpp4kjxwy34qgxxhcdw6yrlc68l9cthzcx4n4s5a5f63q70et52tgflt6c6afnfdvy429g5kqzx53d0y7ywrjtaxpryq8fujd6e"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypw45athxhp0270etacrl3hhuyfp306u53pfg8pt6jvyv0fs4kae2gwak4fl"
+authorization = "signam1q9achh2z0nqhua2252gs4qzrn0cdqr7ssspteqczsrju9yplwpz6c4hf9dm6x3qh5llyrrys2nzftssj6gn28wa7sr9lc9wwk0cd9z3gqq9y9aug"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp5kjrayezlsfm66axxr06gw04w5w0udp6v9c8un2mr3e5u79gy02cuwyp2r"
+authorization = "signam1qya5hhkd00yn5j9l7lf7cdp70tnslc2aeznlxfzh32hk9v2kf3fmsl3y90qxa8gg48xzy7y2muscw55m3fx9jhjgl4kq228q52ltsnp8qy98ltvs"
+
+[validator_account.metadata]
+email = "timagixe@protonmail.com"
+description = "Reliable Proof of Stake validator"
+website = "https://tmgx.xyz/"
+discord_handle = "timagixe"
+avatar = "https://avatars.githubusercontent.com/u/60817786"
+name = "timagixe"
+
+[validator_account.signatures]
+tpknam1qq3cqxntn9q0upcgmjkrls43m22qvqk75p4zzcrs3x7gxn526na6jvnqgm4 = "signam1qplnc8nkt32ceyu8q0rymtr7fsy2vv75sgg60t9z4f9pqn7pk7u93zhxag57g9nx7hfvgw7zg929levsk2ptqtxnfm4nunhl4568nfs8np6zp4"

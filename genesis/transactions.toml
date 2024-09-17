@@ -232,6 +232,94 @@ tpknam1qpt9ms4jhry5nsx7xal2wyvatv8tsyqts96a36ln25wdvf4evtw268pn32l = "signam1qpl
 
 
 
+# adding transaction for namada-validator-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzjvmvyt8jrutxh44ssw4l4jfyzepz2uf533xeq0x4jlrlnpqyws7n8mmtt"]
+
+[[validator_account]]
+address = "tnam1q8s9kj30dhsnw5kvtf0mq2exgyup64l28sxn953p"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq6e0ax9tglv9cw4y4ray2plkyz7cttflgjtuwsfuevwsr7u6ckhu83mc48"
+authorization = "signam1qz3esmu3gfk96s46lk704stapp9dgj30aa6qtevccwk6nl4g8a5lruclsv3p4vca9ykffws6s93ypnrz9szh6262dptjq6kxpm5zm0qq0fxap0"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrpx73zkd5xavkdshflzh6wd0a2pwqjckn04vus66vcu9zejmqqyklhz245"
+authorization = "signam1qzfzss0wrntk69ytja8jmwss3kc83qt0kwwqrs3xtrey444h9crxqdxdlzlsruf5p9e89g9ykkg6q7wxsr50nltsjlc6uwd440qvlxsyuuvmkh"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp78qvfms3vq85fg4ndep2443ehx4lc9f8hggxxtah3gk64604p3yyaeyj8"
+authorization = "signam1qqvfuy7krkh8teya247v972w5xt5kh4v2k5wu3qewf6ajhz78k2ujl8w7sqhng5xygl7qlap5h7zwtlav4c303m9nuark9weuwwt2yqdam6s4m"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp4cn0dmp239nlnl84cctvqvhz6wzmd9cwk5ppceyzqdec9v4xqshcy6sx2g"
+authorization = "signam1qxhepr973l2s6vwandl7ct0yw8jsrna8p2c0538kgy8ts6lymlqncymn7x4y9w2zrfgmprsj07meu2s2c30wwhcj0unujg3z6tm4qeqxqywxgf9e"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypspa08mdgccazudhuy3zegmc5yclafgfhsufty4csv3pyweekjthgsdw45w"
+authorization = "signam1qyl6ne9490nu4m0xv30ze0w97uy7hjz2a6d37j45upd385pe5tecqmkcktt7hhwwke399266vwuqskrsx8a79jz029hps3lvufuvtkp3qqegjj3w"
+
+[validator_account.metadata]
+email = "namadavalidator@protonmail.com"
+description = "A Namada Validator"
+name = "namada-validator"
+
+[validator_account.signatures]
+tpknam1qzjvmvyt8jrutxh44ssw4l4jfyzepz2uf533xeq0x4jlrlnpqyws7n8mmtt = "signam1qqku2d2nducea7zd0u7utyy430njwk2f4cm2mg83jkuukhxqhzkwxrkahp4wl2x7a3825tsg0jgh6dj8ugrp6quuyrytvnrz7p7a0zspqs9nxj"
+
+
+
+# adding transaction for gnosed-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq8yvecxn5y8q8g46zhruekeegnz9mpm30lp20c4aw3462sqwvv9c8w28gr"]
+
+[[validator_account]]
+address = "tnam1qyjdzk8gjfvrasuxnxhmcnl2m5uzkad4eqcuuelq"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "144.76.221.57:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzlmgwr5h9dvcxc7ykm8ysmldr9u0mv26p6x0ezc7rhu9ydnwnt7cvn72r5"
+authorization = "signam1qphxm78y8ek0s9t6c994lhed75ygs8qp3an024aqqdg8nma6gu9nm6cucxax4xymh2zgqduzsznc8qp0x4el7ewqkfvaxcy72ppz8vcdv2mcyr"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqfpjdmn784a2gk5rck6u0najlj2k8ffhf3ccsgeazkry3p7rn5hc63c5fq"
+authorization = "signam1qrusfl9au8d720e46gu92rnzgngmrjdu5msdvqudsfm7ygptqlrxp0lpqxk5t36wn8vda974vk2dhhuy397u6vr5l2tur70nvf49c3grk8ms9a"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr0dh0m67atuc6u8lkkatxgekk50padycxmazhjztmy998qy98pavh0hfx2"
+authorization = "signam1qz52wx3f0q8d6kzt5m8f44wphtk5n20k3ydwylte0y24p9e2adws7tzwkdrqmuhdh6y8nw74xq34wzs8cncn92ylh64y30hdsh5zz5gzh8kprp"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypsntngghemz0qs7d9n6xtymlhjc0pl7jm3zf6ledhtx7weyt8jatckyqtg3"
+authorization = "signam1qxrkx5e5ld4g04vg376562nmxrn4sc9udze4c9z9mhtjwfld2w6c6dl0cphhsq6y7tx34hmhc653d8lyxcgvmsgvta74ymyu8du8x6m5qqp4xate"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypwlasnc4p05we79kmr7rytwp0k4kanmqdrccuktd32mda6lh9tdyqe5ts2d"
+authorization = "signam1qx35q74rz96r7t8m6lwggeg7tl62kn2pf9d3m807g8uhf9hsnr5cz2ad7asfup8rag5w74ncjd4ta3zsk0hfsvjrt926c8h4azuzw4r7qqdu99qx"
+
+[validator_account.metadata]
+email = "namada.raft186@passinbox.com"
+discord_handle = "gnosed"
+name = "rockycrypt"
+
+[validator_account.signatures]
+tpknam1qq8yvecxn5y8q8g46zhruekeegnz9mpm30lp20c4aw3462sqwvv9c8w28gr = "signam1qpuawrfsc9tq4zav09w5upk4aaj72c099y9u68gwv2n8fy79tanaf7a5et7namdjen0fkm3ajup8q44snh2l9352zkdkj9yqcgadlmcdww7309"
+
+
+
 # adding transaction for davidthepop-validator
 
 [[established_account]]
@@ -973,6 +1061,49 @@ tpknam1qr44fxhzngza78629f4sfafrkq7alytg3ffdaq4xtg6cvg5fz9zf6mgc4pz = "signam1qqc
 
 
 
+# adding transaction for smartpaopao-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzmwr4err9g7deksuc453ch83g64ucw96s84lrchd68l7nm7lhexq9xg5es"]
+
+[[validator_account]]
+address = "tnam1q8rrg8slcx6c8z0zq4tdkmtpq6ljmcytxgd3wktz"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qps5jhyy3ly5jp0p5s7amke9t40t9ft2tntnpzvzruyge82d7g6ncv8an08"
+authorization = "signam1qzqlsrflkfvvzl08z7uqwjp8pkmm3fgr26sdryvxxkzv02y0nv4qljss7ynqgkeapl94z47athkjjqqyvh4ms8uvuw08365w654dtesps8vqml"
+
+[validator_account.protocol_key]
+pk = "tpknam1qql3eep9nvdsgr992yzzjmhutkn5dgx55a8g8nslnj0kftm2s7df709x6e7"
+authorization = "signam1qrcwjl46cs3ctmcf6zc85rr5d8wqrnnkwqedh7yzrfyum3qp8e3rzz4dtcmp9f80gz8f5vqt264a8fh06dvh3z85yv7xl2wwzuu8mdgppjc405"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqvdwrf2gatjn5fgskaxgv98vy9w40kavglaqeza6hm8mktrp62yqrarq9x"
+authorization = "signam1qzeer89dnkqe0ra7jx78s32ywne5shjfq6egcfkwhekd49vm52x53jy3awy2c0ns270yzxmvzjh94x3cuqkkyssf9fzwuhaygqelwyswvumud5"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp4lghv4s60yt6gda2r7500gm05xtsfpl8cr2txvdljrappxe49axqzd7yuu"
+authorization = "signam1qxsf56el6pvyrrefmsjewhf7zg2rsyulyqk6qtptsgzmscp8050962c598ywuv0ctyhh7m6k9aj3hmswzqy5xnl3yqegk59590z53negqy8zzeu9"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp3f67tmulfdqfs2gpp53jsc6r4ngfnvydj3dl5k97eu5qfplaq7nsmx6z99"
+authorization = "signam1qyrxsv2e2zl3cuhd859g5umnsa0rx8n8gtkvsm48n5sfhwne2qeujgp8h0pt7w4y6fznkxg367ldragj4j2pwjc43xewk0swmljylyn4qy77skf9"
+
+[validator_account.metadata]
+email = "bigpaopao@outlook.com"
+name = "bigpaopao"
+
+[validator_account.signatures]
+tpknam1qzmwr4err9g7deksuc453ch83g64ucw96s84lrchd68l7nm7lhexq9xg5es = "signam1qrcgd6p0hnat3kyeryrjnvpcsk7llgjre7wnjdj4228ax5mhuhzlaphyt8nuv8ud6wvpg5mvadmmld9ut4qp96w2wwzesa87spa9a4gy0emv0f"
+
+
+
 # adding transaction for 0x4r45h-validator
 
 [[established_account]]
@@ -1017,6 +1148,53 @@ name = "EmberStake"
 
 [validator_account.signatures]
 tpknam1qrs74l056krjlwl9l2ghwssj4lgh3qjxtgzgrnssnw4e04erh788xhmwxcp = "signam1qrrearrwyqdj8vpc6e9q6n2xwagvmy6g7790jrzfws4dwdwgdslcwd7f2lxp0da9agksht6hd3wmgszzkyrzrq4rcc64usysrnhhssggacm3lz"
+
+
+
+# adding transaction for timagixe-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq3cqxntn9q0upcgmjkrls43m22qvqk75p4zzcrs3x7gxn526na6jvnqgm4"]
+
+[[validator_account]]
+address = "tnam1q9d42duqyl2flcvcg42urx4d7hsjd6dnxs8z00ve"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "116.202.155.223:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpf5cg3gzp0t3jqketyz54zmuya7ar4gj087r2ux7azdl6grrq3ejhztsyj"
+authorization = "signam1qpn4pxs5tumzgdwxcff7vdnnx9an2w253k2z5ttks6al8fh4gfp8w7yart8vyw24ef7rq0w3v789ts04wewmj86mlqu6x54d5x5p5dc04f7xv7"
+
+[validator_account.protocol_key]
+pk = "tpknam1qztd94z4tuk0u36ld3767qyj9c2dyk4pvc54mrh8yc20f6j62whxkprxkm4"
+authorization = "signam1qpweqha4gv5w73lxjqktv2ecjql2jyr8tsk62cp3cnh3hhpwk954fdkdzdgj9k4wvg2xukaweadenqwz2m42mymetq8w5ecmf8jj94gp6pnefc"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpcx8x3vss93cp3u0fsqnrgx4wgl7m9trlyx3spxmufpgjvyy4jhv4y6msr"
+authorization = "signam1qrr92jr8lcyqpp4kjxwy34qgxxhcdw6yrlc68l9cthzcx4n4s5a5f63q70et52tgflt6c6afnfdvy429g5kqzx53d0y7ywrjtaxpryq8fujd6e"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypw45athxhp0270etacrl3hhuyfp306u53pfg8pt6jvyv0fs4kae2gwak4fl"
+authorization = "signam1q9achh2z0nqhua2252gs4qzrn0cdqr7ssspteqczsrju9yplwpz6c4hf9dm6x3qh5llyrrys2nzftssj6gn28wa7sr9lc9wwk0cd9z3gqq9y9aug"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp5kjrayezlsfm66axxr06gw04w5w0udp6v9c8un2mr3e5u79gy02cuwyp2r"
+authorization = "signam1qya5hhkd00yn5j9l7lf7cdp70tnslc2aeznlxfzh32hk9v2kf3fmsl3y90qxa8gg48xzy7y2muscw55m3fx9jhjgl4kq228q52ltsnp8qy98ltvs"
+
+[validator_account.metadata]
+email = "timagixe@protonmail.com"
+description = "Reliable Proof of Stake validator"
+website = "https://tmgx.xyz/"
+discord_handle = "timagixe"
+avatar = "https://avatars.githubusercontent.com/u/60817786"
+name = "timagixe"
+
+[validator_account.signatures]
+tpknam1qq3cqxntn9q0upcgmjkrls43m22qvqk75p4zzcrs3x7gxn526na6jvnqgm4 = "signam1qplnc8nkt32ceyu8q0rymtr7fsy2vv75sgg60t9z4f9pqn7pk7u93zhxag57g9nx7hfvgw7zg929levsk2ptqtxnfm4nunhl4568nfs8np6zp4"
 
 
 
@@ -1204,6 +1382,48 @@ name = "Nodeify"
 
 [validator_account.signatures]
 tpknam1qz6mn6dwv0vmcjaqrg8fsxprhmg7mrc888ueky94kx492zqfh43f5su7dx3 = "signam1qpxxqklluxnncdr4dtes5xeq5h5j2xg4w9hh2669swfy30n4wu0605mjuv5g3tx5ha3v8u8ckksusnufyj8zu4rjsuhucc9rvjnhxqgxzjlrwf"
+
+
+
+# adding transaction for everlastingops-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp7hnlgqzu0z022nsd3hcugjf9v97392g7l27h9slqjddsxretpf5esnyhy"]
+
+[[validator_account]]
+address = "tnam1q98jzz306gldxvtg5quwnej4zvna6pgnquk2t4dc"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qphg8mz64unt2xd0ujngrccsk9m25p8ddty378x9xz7y0xq40tmz5r00q2t"
+authorization = "signam1qq4kcnxdapustyfh9s057mqucpp3hvs8vmdmzaaru0l5f8w6tr4937hvhjjf0k5lwtqfkmalfutl65tfhuyltcgat85n06glt6elamsvz8cuz3"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqtcw82punsph5lcmxy6rwgl6duh5ltupq0pegfdvjfd4t47n727uj3l0kt"
+authorization = "signam1qpne3q2eemv7vl34xamrnutp3ec3jsyy5hhrmlnzt2nd44uy2jdt6834nt5xqtm3luyrvxxhy0r7t38rdv9jk9kxr3arw2xssd5h7lcvhwc4k3"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrvuvkq4ccj2y9ca3854a8pu2t54ghkvld2nqlr638k4aef07pw4ww3ldna"
+authorization = "signam1qps7cjthvq3q3hnpkzndyv93uawwhyaehknz6araxqmsggyn56hgxxg5f75azhjeuntjtrvzkem0tfr8flcpk6jvd9j9kzqj6h0grusdupar8u"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypmuphmqpr49qw9dm2jrgsnlk5qrw3pm9vtdsmj5aqdctclrc2lk6qlhmzv3"
+authorization = "signam1q85af8eqs9dmykaps8mfs65kkf3mvq5679ux8lswqhnjp3yruxu5xs3zdq2tr3gulysqf90prdcvdupz27j2w2x8pvlxcj2xql08cxrtqy9qntr6"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp8je0y2d9tsk4hkqerv64jkqlusee5n0fvj2dee2xmmpanjdmu8ng76ht4w"
+authorization = "signam1q9vwffgaqhq74xrw0rg5yjdq6uyh507vsq8v9q6tm0kd3n56q859un3sh2nzlhhvw9tcsakvv6cxp5ulchtp4m48uw2d8qlcukzpkr2fqy9hjc98"
+
+[validator_account.metadata]
+email = "paul@everlasting.nz"
+
+[validator_account.signatures]
+tpknam1qp7hnlgqzu0z022nsd3hcugjf9v97392g7l27h9slqjddsxretpf5esnyhy = "signam1qz48pl58frsk34mx8z6drt2y0qzedq4sz6aa6km3skugy5d44tz2wdppngphmvkuafnq74kl4rhms7hw6t3rx2z82vpa7rz2h6dgaegfy8vhn3"
 
 
 
@@ -2261,6 +2481,53 @@ tpknam1qqzx0trrwat0k6e6x84cw0yemxzeunyd9w6wcyre9zftukla8eeqk45g55v = "signam1qpy
 
 
 
+# adding transaction for shoni-o-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp7vt805k95k52zjkkwqkmj9j353cvvwedggtjadtdwvhnlanydk2sn664h"]
+
+[[validator_account]]
+address = "tnam1q8lzhgzezqew6z20wy64gw6q64vkv84k45ygue6v"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "88.198.27.51:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr62hsvza3zn5zpscrvvsrklh3lelchxj5me69g2qrs9zdv3fduljnsjn0m"
+authorization = "signam1qpqheqya4wzhttnz2hrrjts7y0jzx5g3jlgf6mnvpnlhh3u6vpnn5cztvsp3gy0m2qfvvg0um37var38k0ltl79vt4vkknqwau8wgqgz2gmmq5"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzpsuce956gj4j39snk5zedys74uk8rle5pzk6e82gwev6hr8zhzgs4qet6"
+authorization = "signam1qzjd5q6gmry5yc6rm9phe8qtuh5hgj07mjdnnkc6zd49vuxhhrsulavryxfzvlwjj8v24ag9fxhmlecdvcm04ylkpn42hsawtvxuprsxn3jsza"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq73g907a5rccp6v34q4ngg0ww988hmfz4hfwu8anvz0fz4rjmdayqdw0g3"
+authorization = "signam1qq578xjmcw4vhqjr7xk8qmhzlkwsrmq6zz7r8q58uvc0cw5u4tvcphmdyt50nmng30zhx77rzukvtaqmvrsmd9h4hlgx42msx379vysffrrnw0"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypll4zwfajy3zkypcv42e8c4txuxzdvuqkrntwe24ckwelcd577ulgazwl90"
+authorization = "signam1q9hwzqk72qj8xvdtmcpk774pxt8rsvtjjvf5k8ukdg8n3nq2650qkfdrgseea3pxgg4rwmh9zjyzr2yuhs7pwsf70dmugldzrqedhdunqqk2tjh3"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypuwvadpy53ssvtduyppr4kuylmfkn56y7fjhw2yhkw2r29sjc0yugv3x6q3"
+authorization = "signam1qyh3secw87hcvq7rutcctj6699ucexlvleq7vhxcp94qw7rsez2ayjc3cfehg3dv99segta94wlrpug84j688nujxnkafvsu0ernfvzrqqt3fgvm"
+
+[validator_account.metadata]
+email = "contact@block-pro.net"
+description = "Reliable nodes, reliable staking - we're your trusted Proof of Stake validator"
+website = "https://block-pro.net/"
+discord_handle = "shoni_crypto"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/24e54db75ac85621802ff033a66fec05_360_360.jpg"
+name = "BlockPro"
+
+[validator_account.signatures]
+tpknam1qp7vt805k95k52zjkkwqkmj9j353cvvwedggtjadtdwvhnlanydk2sn664h = "signam1qzd396zuhnh7dx7ucykvdcsqp7nuhpcj7zzps3a2nhx6qv0fqpfzelytstaclskuk9w7yrx5ea03hxkn20u2tsj553su2gy8tx09fxg0seczfj"
+
+
+
 # adding transaction for rchas-validator
 
 [[established_account]]
@@ -2580,6 +2847,50 @@ name = "Keplr"
 
 [validator_account.signatures]
 tpknam1qrnrrzl6ev54jlklph0jq99lqeyvzdypvx6e2muw3av60ywugzam6fa48n8 = "signam1qqv30u6ahq6uxvte4pcdnkggxqj700rptnwcarf2tygwsmv779cpcj38ulc9qf9r4c9vsnm5aznw8rchdx8hyfletl7480rjtlk824qd05k8lf"
+
+
+
+# adding transaction for spidey-169-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpj57aw6g4y9ec054gxtunqz65jy3w3m22qgedxqpdxfr4xnv4d076xgfm0"]
+
+[[validator_account]]
+address = "tnam1q9ykk4xex3g36wzzegs9ul5fajkt3uk6zvdjlec8"
+vp = "vp_user"
+commission_rate = "0.08"
+max_commission_rate_change = "0.05"
+net_address = "65.108.108.123:26601"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq8nvp828a9cr85uyjjdpw0xepm0fl9wwxtxhcqd73n3fdezslg0yhfyeeq"
+authorization = "signam1qppwkh92amvxsgwfgrld4yfjy0v4vcgczf86cxlu4s0rt78p6m4quzwts74h53pcjm0r4sxhh5u48za79rd8896mjhr2pzlgpmcef7q0xqsulw"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpfqg8v9njaha865mdk9nt2rtwy6zztmd267s7us8z63gc4damz95f3ruxd"
+authorization = "signam1qpywzthff84s7ul2mcd3222e7dgf09yn3kw8fg45vctdurg622a06qsjm0em8gtkhrg3rsp4gp6g8kty7ynew7dj0frtawghhxrh0jg9t7pwxk"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq4jty4mcaa9xk8xna59gpjfvaqww7gtff6kmy2gnzvkj8lgjwkq5fxg8wk"
+authorization = "signam1qrc723wwl4mtt4ykzcv73tvfdzadyqzym96g524hv69shulfx08hjyea2uxthw4v9ynmxmmsdx8mexgt5unc7m8r3hh2mr5tc9hgnvg948edzs"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp8aqkqhcu4dqrhr0h9dtfg8ysl47gcc2hyjrm492p7tczldyfx3hqp49f9z"
+authorization = "signam1q9ldvfdl8dmyze5rasedn8ewnwflwccfc8792vv2hf0ykmfsp5l3zn3fu5pzzerpczllkp3wu789qpep3tj6ezscpzn5nj7zseh6m466qycuws32"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyppgczpu9nsgqs6wtjwdxgvkq6c85u9pz6ph2g0qsnh35hcwthsyggeykr0e"
+authorization = "signam1qxzfs38ta0nzcdz369hen5ug4kzpajrtusya2gywfhkp5mcrpy08c7upnyhfy3m8d9lesn925l098r7c99q0q9mzlzn3vxjkhdew2ph0qqpey3af"
+
+[validator_account.metadata]
+email = "andyroddick6600@gmail.com"
+website = "www.spidey.services"
+name = "spidey"
+
+[validator_account.signatures]
+tpknam1qpj57aw6g4y9ec054gxtunqz65jy3w3m22qgedxqpdxfr4xnv4d076xgfm0 = "signam1qr338ehnq6lrydx9qmxl3n5kdjuqy5ehhqmrhgyr9e0p9jhgcx37lgspq8k7yg98n40lxm3sxf7lc6leup4jandumeure44pkm73fjcpt2uazy"
 
 
 
@@ -2907,6 +3218,52 @@ name = "mdlog"
 
 [validator_account.signatures]
 tpknam1qzxu9taxnrrek3ty4mh5gl0rp9s05l5j58tn7kspj22mpp5s8nwywqgdqmv = "signam1qpdkuurlw5vpn67car0smd9q7gvtss2fgswzsd2t7ycjt26wp0wrvxr0a46vhqm7vdfek9x2hjjfjcr90fd4rwy5yk057vt9j0dqdjs26zu6ne"
+
+
+
+# adding transaction for mattharrop-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp0a2qgsgmxuurg8x6ye7na8vf7ec4ckf9kpv24kdch7prxd2feks4v84c8"]
+
+[[validator_account]]
+address = "tnam1qxq08djyzzrhgchwv2datwhk3cghtseg953ruh2y"
+vp = "vp_user"
+commission_rate = "0.1"
+max_commission_rate_change = "0.1"
+net_address = "192.168.1.1:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpfqm5trtfdgtp05kazzh867wqe6gz5hn8e2hmw89zj4jlm7ydeysnkkf6t"
+authorization = "signam1qrfyqk56gjhwvheznwnygx8ekppgx2x7xq8tvks2sfuecehcvzvdq5qyvckvv92t9exa37lxj5cr69vh70f4zdlw7qfnn3lsvpcxkmqvsg8z70"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqsu99qyqqca8dma7w03y5mfx3axsp64rur7e48nyuqgqkqffr0gx36cfsa"
+authorization = "signam1qpnt9gmf7lauhvgtagj0v8ke8wr7gshd6rg360wud3w6kqeck4sk35kg8eexgsfdpxlfwky3cp720qevdc2sut57ukf3asaam4qf0tcrjm4l5l"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr65fjy8wau569vy9tx490372ns2gupmc6ys8nlw6egav4r0930ckatx2fr"
+authorization = "signam1qq2zsd3qh6r3tvlpsqjvlt7c7w7nzm50n25nws5fsjfgjwsn072dcp8d7luwljwtprkw5vnzjphheqz4f06q0cl6l2upt26srkcnnagfr09tm6"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypa2p0lqtujenj3n4nnnzlgkayjuqrq8dv63hr6nzrqwglt43xtmncmfu3yq"
+authorization = "signam1qx37yqfs4ewhl3654q296rd45rwhnnjnyfl62g7t2jh3xv5tc8suvy9ch6jxur0qd93525w4vrpgd65j3r4qncdyzlxptzm9hw7634naqy773aeq"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypvpuw2fevqxmdnmd795zt8m0x88zgyvgdtwdgg6wlnupeglnphyjcux79ew"
+authorization = "signam1qyn5ppn29j7pck98twqakujtave4setrhkd3gwfkqmanx9uk2gk42rasjqhray5nzve57828qc63yp9h8aypnmr2vg7ecd9r7kfl2vytqqzvphdv"
+
+[validator_account.metadata]
+email = "security@figment.io"
+description = "Figment is the complete staking solution for over 500 institutional clients, providing enterprise validators, seamless staking integrations, audited infrastructure, robust rewards data, and more."
+website = "https://figment.io"
+avatar = "https://hosted-assets-container-pbmv.s3.ca-central-1.amazonaws.com/Figment-F-Icon.png"
+name = "Figment"
+
+[validator_account.signatures]
+tpknam1qp0a2qgsgmxuurg8x6ye7na8vf7ec4ckf9kpv24kdch7prxd2feks4v84c8 = "signam1qrq8jjxp0d44l8xsv2lmv9gs9gzynketegzvlqgzpytxmhjfm7cvwgexaayc2n69vpzyj9myqwnuh2ctxea6qvtwswmhmmeyagdvvxq03s2xyw"
 
 
 
@@ -3363,6 +3720,53 @@ name = "888Tnso"
 
 [validator_account.signatures]
 tpknam1qpmfpse3acelyrkvzvptt9506f0qqkfe0valq3h6msuhc3rz74a45sdhr3r = "signam1qrf0trm3cm634eqkl4uk9t4ylu6lrds2ld4s6kpzq8jr06jhj27mu0wrrkgcty06lrczx50dtrylxpygksvxg7sycaqkwcawwwcy4wqglxtsv0"
+
+
+
+# adding transaction for kenneth-xyz-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqflm4kpczfcjtd9d8uj20lw8a6zhlzcffvfpe2slzfjq68hdyr763nvq5s"]
+
+[[validator_account]]
+address = "tnam1q8mqm9s984ldqclk6qn4x3jd5t03vhjp9s60thf3"
+vp = "vp_user"
+commission_rate = "0.04"
+max_commission_rate_change = "0.02"
+net_address = "162.55.85.90:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qra34e75repa0tcsvt0ncc9rvt3mzpa3a82dlerduj024alkfdjhsy7lcdh"
+authorization = "signam1qrypkv3kkt7y08yctj4pwrnefv89qv9pz6kuczf56wvhm8cz2gfqf85dqat6nhyh9mc8yjcc8t6cf7ew86wrxyvsnxnecuuajjllu8qddkyckj"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq2qp23c5ar659hv27jumpw85pfx2vs3lgjgvakww7sykz05s0355u2yd08"
+authorization = "signam1qz2g49zy0kexu60fmr5t0ru2scsaug9xydqcqm0ypngzdv3gmsugnkswqyn8vgh6v03ulhl4yjdkmttup5ss5c476ea5vznu82mslfcqpahhpy"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqky47mkw8rr2sgyk0u4qnjptephd9cckqqed8p847lfqlmffn28w33wr06"
+authorization = "signam1qq5d6y7d382zpndvehm4e6s2e26lxpl56xlqn833x8j7mfx5uzm8vq0m8du5auxja4lshn5lalcj8ltdd2dvtmm6tdvzkret407ksmsxhv0va2"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyphfz5tj7kstnn0l9decu4hyxh9w4m00qaqn5t5g0d48sxekextj4qlml4jc"
+authorization = "signam1q9nzlff70r8meafsv6jzuahgwcq0f4c87srx9lqnu3va4yztvzse6pcfkmmz7lf3l7844mz6fmp5e494w53yv86xlrq9frc9rp72kay3qyesc2kn"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypswwh4ltlqqtsvg9dddcj9zjruj5anwafsqcaevy2knq3a0v5d5asfkguqu"
+authorization = "signam1qyyanuh6eftqm4y3tj6a99nj9rgu33t4ff7cyx3amjghkhuxr4qdkx96kjmtlgeluseps6474nrxx3vh7ckktjdw0rkct3n3rly0vlrfqqy4mcq3"
+
+[validator_account.metadata]
+email = "staking@blocknth.com"
+description = "We provide professional validator services, create impactful content, and\n    develop tools to advance the ecosystem"
+website = "https://blocknth.com"
+discord_handle = "blocknthxyz"
+avatar = "https://pbs.twimg.com/profile_images/1759527520683409408/0cdPzZJm_400x400.jpg"
+name = "BlockNth"
+
+[validator_account.signatures]
+tpknam1qqflm4kpczfcjtd9d8uj20lw8a6zhlzcffvfpe2slzfjq68hdyr763nvq5s = "signam1qp52nry37uuerg6xctd6css4u5c54pwmyx3cxwm3hv87y9xr0w290j6z6rcnzx5jm3hm6avjregk6mnj7jfv2j7600ne7203dzfmlggduxpvvz"
 
 
 
@@ -4509,6 +4913,53 @@ name = "Bro_n_Bro"
 
 [validator_account.signatures]
 tpknam1qzhfasygvalcd627q0el4ykusa8d4nxmns6s45xemys296ch5eky2vnvscd = "signam1qp9kymseyqvjxxhsdgflwl4n6hvpwz5sz4t9d5s4y2p7s835hjdaa27rym4hy5gxfl2zuyep27my8x05fevfx3mfjnp0tq7dxf94jasyrrjdxk"
+
+
+
+# adding transaction for mathnodes-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzxlckdfufq94egp8en4sj9ph46fyg7u5uvkqrwl96wycshdekz2k70v4e0"]
+
+[[validator_account]]
+address = "tnam1qyd9xx4cw4knl4accyp2epnrfk6fgc3kgqxrzndv"
+vp = "vp_user"
+commission_rate = "0.0314"
+max_commission_rate_change = "0.03"
+net_address = "144.217.79.239:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpd745vaes9q5qpjejyghf5rp7arkcxlydl633u2lnurlt7vpvupguv6qt5"
+authorization = "signam1qrg4hcjk7ywpkc2xn7v3333ye5sjgcy57xshjn8vd8warng6h23t7lk4s07lvknhmjkl5z4v9zu8ttp0dafa2kfxh996j790aw4garsptucgqz"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqrx7jfcxpj5p59j69lcf5n7l9h7v523qfyc3xtnzswk9kpwzls9qypl83t"
+authorization = "signam1qp2jcf8azu0c8ntk4ktac5m8hyq8659mem0e6xptuglfdy6jsnzmfk3tznezjx96pec7cvsu4z89dyfrx3zsptdhstqr9mqyn7fhv4g9awpa6s"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp7tp7u3enxa3knkjl2587jhydz2qz3drszastfdaj59ucnxkrgv5z8caca"
+authorization = "signam1qzpqk75lcrmxultl446aufszwc6fu82vhrjz0wxc3p9pwch8zllxucwa54dzhgqmq7gpvqjteszwgzll6mudju55tf7dw3mmd4fevcsxecz2vf"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyph5xf774rhs0xyyuaa6jzmwjwzuk9kquc3jt027gp4mt3flsyznhszrf40c"
+authorization = "signam1q9kkz9l2mljhrl3s2vdkywftuw5gw5l9ru0evtr5v4gmd4thyn7z2cmxc057pyfxfcqxrjwrs5xulthzggyu28ukrjznv4v5txeemq0jqqzgke5p"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypjcjcfrmq9ghuvk0k9dfe2t6nn5kqlwjmsryjvvxauqlrakqvu9vgqkkwvc"
+authorization = "signam1q9a30amu2t8rqvgacpgtufx6xlr9tz20qht7rz7ygkffq9sp6d5lugz978w2pgvfsppvusltx3hf7eyr0n334nu797zs92qc6har0wyjqqppsjz3"
+
+[validator_account.metadata]
+email = "support@mathnodes.com"
+description = "Math is love."
+website = "https://mathnodes.com"
+discord_handle = "freQniK"
+avatar = "https://mathnodes.com/MN.png"
+name = "MathNodes"
+
+[validator_account.signatures]
+tpknam1qzxlckdfufq94egp8en4sj9ph46fyg7u5uvkqrwl96wycshdekz2k70v4e0 = "signam1qzp39hgts3dlpjr6g8mv45kpmmvspuwjsv0d33m6lkex7shm0uffyd4x4znc0m4t36kjhgzz7tmsksgk8hkkheqtaunj6f564k04yxswd2c7ck"
 
 
 
@@ -5854,6 +6305,53 @@ tpknam1qzrwex92xm0rg89jhrkew59pk7px5cq625m9v2jn3j3fvwtthwhrwau7upk = "signam1qzf
 
 
 
+# adding transaction for chillyvee-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqjsj2mapn8k99lzed9mp4u7h0g3pv3zv3a8elz24v5kqugw66tdjt2kjyz"]
+
+[[validator_account]]
+address = "tnam1qymvjx342ns6qqx0cyhxwrqumjphcfuk9yp0eywf"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrm77tnq2hdc2rt8ldcglteplajeu92vddmvd0k589dq52ye9p8swxuksku"
+authorization = "signam1qrvhypxz27w5ezkqxtutjfx5p5jd46jkssfkwfq74z08p0r426p267dhsu36f39s8cg6ygpp0wmvlfskgnggxvku7vy4mpkf4khtdmgwh9pc84"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzp9ltag4vez4wtmfxqc6q4ntdgdz0hy0wypkwmuqjyej2728eafxzwwqg6"
+authorization = "signam1qrkhu9s4r9n60sf36c9te8mqezle2uvqf253wtz3a7qgjvhcvlgaw0v509xjqs4r9v8u0nt7yktp80w9m57jd70q5grlzqpwjzgwuusrv88k8c"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz8qtz9t0apa088la2g4knnkd923l90x9ag8v09uyjr75n2efp33ym2t30x"
+authorization = "signam1qr7seuzrk94wpsufuzy79xnjsjq9e8hhustxa98d4rw4k5fh5h7gz8anepwa05498ps6glkun6j3jupepcrdahmpqe20e6hw3mgyjjsfrrjknk"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypjvjxkpxwjpu33jm43sp8ke3c60e5d8u765pge7hvl0rgdq7hvsusetyyyl"
+authorization = "signam1q95m7uf2zacslfdvut4fthd8x6kquxdnqj22lhr8n363jg38gz0l62qu8yxd47mk8xddq3mux9278ulz5dk6u740f2kmg9g9xvh3wkr8qyqjkhyu"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp26s9dnqdz6dh68xx85xjge4jzu2hxx2dsmgdvrs3c5zqt285mn3qcajep3"
+authorization = "signam1qy0q63pwuuc4dmu7dasq84scjf33mvawuh6mq06phxtfr66r9x5lzng007vcl9nhw70kzpqu29cgwtwykp7x74fp5zszlvnnynndtj3mqqwa2qxa"
+
+[validator_account.metadata]
+email = "chillvalidation@gmail.com"
+description = "Chill Validation Services - We take care of the Validation so that you can Chill :)"
+website = "https://chillvalidation.com"
+discord_handle = "chillyvee"
+avatar = "https://chillyvee.github.io/about/chill360.png"
+name = "Chill Validation"
+
+[validator_account.signatures]
+tpknam1qqjsj2mapn8k99lzed9mp4u7h0g3pv3zv3a8elz24v5kqugw66tdjt2kjyz = "signam1qrmc8p0z69fjv9gkvyfks3yuyg604tzrfm5puj6pwjhelt2ruuf2m53kt7gfp22t37tk4tczrqvsn9yn6ug6438jt6xhg4snsp96x5gpdp2d9u"
+
+
+
 # adding transaction for maricalucian-validator
 
 [[established_account]]
@@ -5898,53 +6396,6 @@ name = "Coverlet"
 
 [validator_account.signatures]
 tpknam1qrhxueu3pwap690yfpm4x6wg8w7r0lt5vw5pq42wqhaxksw5s5zmvdkk3nq = "signam1qzv43np36fclk9zhfe9t8c76z65ejveyj7qjfy6l9z3t6hxxxdkqtfq0qxr2sf6flq9jvnxufgre3cr5mvv8f7t09cpnr6j9u2jmkuqrna6l32"
-
-
-
-# adding transaction for shoni-o-validator
-
-[[established_account]]
-vp = "vp_user"
-threshold = 1
-public_keys = ["tpknam1qp7vt805k95k52zjkkwqkmj9j353cvvwedggtjadtdwvhnlanydk2sn664h"]
-
-[[validator_account]]
-address = "tnam1q8lzhgzezqew6z20wy64gw6q64vkv84k45ygue6v"
-vp = "vp_user"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "88.198.27.51:26656"
-
-[validator_account.consensus_key]
-pk = "tpknam1qr62hsvza3zn5zpscrvvsrklh3lelchxj5me69g2qrs9zdv3fduljnsjn0m"
-authorization = "signam1qpqheqya4wzhttnz2hrrjts7y0jzx5g3jlgf6mnvpnlhh3u6vpnn5cztvsp3gy0m2qfvvg0um37var38k0ltl79vt4vkknqwau8wgqgz2gmmq5"
-
-[validator_account.protocol_key]
-pk = "tpknam1qzpsuce956gj4j39snk5zedys74uk8rle5pzk6e82gwev6hr8zhzgs4qet6"
-authorization = "signam1qzjd5q6gmry5yc6rm9phe8qtuh5hgj07mjdnnkc6zd49vuxhhrsulavryxfzvlwjj8v24ag9fxhmlecdvcm04ylkpn42hsawtvxuprsxn3jsza"
-
-[validator_account.tendermint_node_key]
-pk = "tpknam1qq73g907a5rccp6v34q4ngg0ww988hmfz4hfwu8anvz0fz4rjmdayqdw0g3"
-authorization = "signam1qq578xjmcw4vhqjr7xk8qmhzlkwsrmq6zz7r8q58uvc0cw5u4tvcphmdyt50nmng30zhx77rzukvtaqmvrsmd9h4hlgx42msx379vysffrrnw0"
-
-[validator_account.eth_hot_key]
-pk = "tpknam1qypll4zwfajy3zkypcv42e8c4txuxzdvuqkrntwe24ckwelcd577ulgazwl90"
-authorization = "signam1q9hwzqk72qj8xvdtmcpk774pxt8rsvtjjvf5k8ukdg8n3nq2650qkfdrgseea3pxgg4rwmh9zjyzr2yuhs7pwsf70dmugldzrqedhdunqqk2tjh3"
-
-[validator_account.eth_cold_key]
-pk = "tpknam1qypuwvadpy53ssvtduyppr4kuylmfkn56y7fjhw2yhkw2r29sjc0yugv3x6q3"
-authorization = "signam1qyh3secw87hcvq7rutcctj6699ucexlvleq7vhxcp94qw7rsez2ayjc3cfehg3dv99segta94wlrpug84j688nujxnkafvsu0ernfvzrqqt3fgvm"
-
-[validator_account.metadata]
-email = "contact@block-pro.net"
-description = "Reliable nodes, reliable staking - we're your trusted Proof of Stake validator"
-website = "https://block-pro.net/"
-discord_handle = "shoni_crypto"
-avatar = "https://s3.amazonaws.com/keybase_processed_uploads/24e54db75ac85621802ff033a66fec05_360_360.jpg"
-name = "BlockPro"
-
-[validator_account.signatures]
-tpknam1qp7vt805k95k52zjkkwqkmj9j353cvvwedggtjadtdwvhnlanydk2sn664h = "signam1qzd396zuhnh7dx7ucykvdcsqp7nuhpcj7zzps3a2nhx6qv0fqpfzelytstaclskuk9w7yrx5ea03hxkn20u2tsj553su2gy8tx09fxg0seczfj"
 
 
 
@@ -6217,6 +6668,53 @@ name = "CroutonDigital"
 
 [validator_account.signatures]
 tpknam1qz6t9x9qm3fh4a4g2vwyz9x3h8auyakpnruqzs94ukxr8yd2yzfvz4ka36c = "signam1qpwq67a8e3g0mh3sffwlwrq3z7tpgkw42sca3np7lygdf8zzjjqlvt8pg3aze3j3szaz62juhcgmw8zrg79c23qu8zv82fcmthae2lgdg6hqy9"
+
+
+
+# adding transaction for clemensgg-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzal3x9mr8xpm688s5f83sszmzkvpe59dt9r8jz9gjywadgn3xhe5x6wv7q"]
+
+[[validator_account]]
+address = "tnam1qyxd5eh0mf49at77dursxnlsygn5se6d45tj5y47"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "127.0.0.1:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrs6wmn5ksyc75vp5l8s9jegx67n04nsf9r00hkkkaq3cxdsqcumurwe6lt"
+authorization = "signam1qrquayas9lx4rf8056a3ze9us8n0u5wxm90z736mx8a3r8qjg3j4kez5k34ecyq05f8k22k8val0dkzqlzycyw5q384rrdvw3y4uz4qdheqvmm"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpc4gcw6gzue34z0qk0v792gy4u2t693d9r7d9m9stlpg7338cx7sh0ypm3"
+authorization = "signam1qp3v8sja0ppdn3eugk7mgj8ec2jvkma0e5e8aan6uwc6z370l6gsk3cv5v4pmtpvrss0aehs8z7twg08mqg99x3335xt6hf5avy6q2gy744jpt"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqyw2y637v74wddehjuzglmuj2alr5cxw25fvcjdk4w883yaelel557ngk7"
+authorization = "signam1qpuz4dnwfs55r2deagzuf2s2y22n7q3zsff5gqcedvugknndug977jpfeelh7a2ceurxgjhmxv9vzvzg69t0qdt3gawzd6tu0jjm50spclen45"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypqx4vs84vpek7fga2z6ncuzar5cm2lz9sas53djshu4raz4g5h0tqw7w630"
+authorization = "signam1q8e5j2ac59gc392nm9ynjgewklmhk3huttzwwatvtf4hgk9d52675703aqj4u3z8gepzldrwcjd7mgj5hau2dgfs774w9x847td22l60qyy7kgmf"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp5dhy703pz6umc3hkann3p7aq7nps3nxthj2hkxffhh2ehvpllfdq2v947n"
+authorization = "signam1qykjtzt6a90ttf9xrt4ctnn58r6gfmwf4yycp6j0tl4j4wdp6nvag6mh0q6ft5wjrtq4rtk7jqtm6x4zqfc5l3knkmz7scg5yc3csgn0qq24u2um"
+
+[validator_account.metadata]
+email = "support@ccvalidators.com"
+description = "We power the interchain | ccvalidators.com | t.me/cryptocrew_validators"
+website = "https://ccvalidators.com"
+discord_handle = "@ccclaimens"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/7f4b384472efeccffd7685227f698405_360_360.jpg"
+name = "✅ CryptoCrew"
+
+[validator_account.signatures]
+tpknam1qzal3x9mr8xpm688s5f83sszmzkvpe59dt9r8jz9gjywadgn3xhe5x6wv7q = "signam1qrghgnema92fgdfcce2u3mecp3qyuyd6aeu9ravqny3deuvf3hq27esu5qgwue06thu9guyz69cj2jq6v40kh4mj5pr75xt2se764lqg8ph3re"
 
 
 
@@ -6819,6 +7317,49 @@ name = "Nodes.Guru"
 
 [validator_account.signatures]
 tpknam1qpdfc4yjf6e0fpsr3gcxtwhmn0nedaqc3wdq3azv9hl6shwa4celz4nyj73 = "signam1qr2k6szpgkakpah0lrmdu325fvt5uahpwjh7qgufwlr6cs7tvzm83yk3g60awcwv00zpzfhf53fzcqth2a2nzcppwy98ljc5p96t2zqpkmqt4m"
+
+
+
+# adding transaction for bingyu-cpu-validator
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qps2nwy9rekjx5twknd4ajufyw8kr65tht5atn2g5p8mx3warh2pz3kjnys"]
+
+[[validator_account]]
+address = "tnam1q88jgxj5qhmcwxgn9frngrd30207awvdjgkwn674"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpl47zcaawnc09ea0gwlfq046np8hpkqly4rr46u7y7krn6865agyaempx9"
+authorization = "signam1qzvve0zv3c6gdhxxfknrqzc84fkahc283jfyqz2rksx2w2nvxmgttx76u0u3sn6k3h5zmc6t0ksgyu4gd2x080y5ml9dpsy2j653hpqxxupgpw"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqzxgf4u2scw2gqkuakcdw72h2t260pp609cy976faj5a00pslxtxyq7fet"
+authorization = "signam1qqs89wuhqgeptfp7g6h64mmkwjxf4e2j5eqqq34lh2zd5aqhw3jcvahgmh0y39s6ajjh7uwpesxrtvuyhc587e3uwqhmqjfgg4rrqwcqlackvy"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrw6x7pfyqvmq5m09kmxp2vwk3u50h9mxuhngwrk6mrjvvqk8dy4c74djul"
+authorization = "signam1qrmplul5y6lpm4jwepzlwgqjj4syjeqkvaqrsjgpqkprt6spwvjyh029cd095kecnuj57juy3ddjz3346hss8dvk8ggluk6lfaj3prc0epp6pp"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypqu2e9u5yddsch679n5ut4l7shg82q36ezzve7z6plmmlyuj70ufcchhg7z"
+authorization = "signam1qyzvvjmzvq8hulf6yw4ugmzgslkwy65zn66aqwewzlrs60xesczsw279vq3c3tx0reuqu50wja85mgg3zkew38f4ssm6lwqackx7tspxqqs597df"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp98euys7czxeffxjmhd00h6zvcd7pzv582zp326hj4vatlv3m3z5szaheay"
+authorization = "signam1qxhg4laj6gt3v2p4mrg508j7r9tz5ualv8fnp60fxusy85mdwy836rm8n0hq3c22pfdzf7td3zs0auq55544yqxkgn374fgs9kuycmktqy5lsecs"
+
+[validator_account.metadata]
+email = "q1037573909@gmail.com"
+name = "ByNode"
+
+[validator_account.signatures]
+tpknam1qps2nwy9rekjx5twknd4ajufyw8kr65tht5atn2g5p8mx3warh2pz3kjnys = "signam1qrvl6vnkv3z5h33cyluja9qzlv9p0c8lcxmzyjvhau2gknrqlaygdsc9y5lw3vw4zh4xwhan80y2ylg0mjwgm0f2nwyrcv4kwvrffksv8u4mvz"
 
 
 
