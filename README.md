@@ -15,6 +15,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ## Validators
 
 
+- address: `tnam1q9rq7p4wzy6fea96xs5sr8qnsxsfdr2zugfsvw2n`
+    - alias: `Nodes.Guru`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `200000.0`
+    - email: `security@nodes.guru`
+    - website: `https://nodes.guru`
+
 - address: `tnam1q8xasrt0q8qrkqj5s9r9xw3ee0gx5mqwyukhe699`
     - alias: `Cosmic Validator`
     - commission: `5.0%`
@@ -1310,14 +1318,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `ionodeonline@gmail.com`
     - website: `https://IONode.Online`
-
-- address: `tnam1q9rq7p4wzy6fea96xs5sr8qnsxsfdr2zugfsvw2n`
-    - alias: `Nodes.Guru`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `security@nodes.guru`
-    - website: `https://nodes.guru`
 
 - address: `tnam1q88jgxj5qhmcwxgn9frngrd30207awvdjgkwn674`
     - alias: `ByNode`
