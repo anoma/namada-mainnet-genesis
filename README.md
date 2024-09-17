@@ -895,6 +895,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `hello@polkachu.com`
     - website: `https://polkachu.com`
 
+- address: `tnam1qxhtk95nfg526rxju57djun3eq4yl0fwag0n80qm`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `eudorakelseykj262@gmail.com`
+    - website: `Unknown website`
+
 - address: `tnam1q83z54q574kvzfujk5dt9kpy42a4zpassueswgyq`
     - alias: `alexit`
     - commission: `5.0%`
