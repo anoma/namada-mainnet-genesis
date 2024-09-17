@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzanw7549s295cq8646fv0py2vflt3yuhv9rx86t280wrlkt49jnkfp7wgy"]
+
+[[validator_account]]
+address = "tnam1qylae4e5x3zpsfgsktywngdw943m4t07cqxdu6uy"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqspnpxxdpj78jx2kwgmkc448s7vtsruqacvxe576tahn4a2lewxksxfw9u"
+authorization = "signam1qzzm6jxtscvke3xvf4wcmdxy9q44ppx7k5ku6wppsxuhsmmrcl06fy43087w8hfmuc775898lxusgav6jjfdfqpjkt8qwym7ml6nkjg9hfs8qe"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrhv0k5zdu8xnrdcrmlgh456z0z5zlyc34w8ghwxrj6yspjqu4y75c62wjh"
+authorization = "signam1qp5puywfynuad9ecfjcqm6qwnm6a28qudg5ecgjzh8j6nlx3u7mnuhk9thr6pz5x53dcwmvww6mft8hamne9m9j58vxrh4shqucf76c222mva4"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpga3g45x8zyjx2u2p6nm0wv3dqyp4e8qg8ywwxr3jc2a6c2vvxgxg0nrj6"
+authorization = "signam1qzwjph2p07ckv52y9lqxecwt8mfdjp3htlfzmf6thq4wfytp6k9urp99zja30u3n27lq0lmzrgtj32uzr7q4f327ul30ehymyt8su5ggv8fva2"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyprsqc4e9trs5cjcu65fcqzl5falywn2yr8dfjeju8agzn4ss4zwxg7fg54h"
+authorization = "signam1qxvnn2ueme5zsj3hq9f0mpkrtcllete7c637xjv8auzw6l9p40u7kd62jc0z27cf5gwhjfwqtl57ldq2kyz7n95x97em8qmm6uyzp2wjqyuweyjv"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypqvvlft44wn4vfhx6j7qxgwc9dz9026dkrlrt6v57y9q4cwr4rzvqx9n4dt"
+authorization = "signam1qxv8tdkvg6tppgduhqadl7zgjcwj8yxq683pjx5gef5swzhlyy73z2nqdvp5d0lvd9npyc39clfrrpwz69fyx6xcwmwed53pzec80fjvqqw9vcr3"
+
+[validator_account.metadata]
+email = "waynewayner@protonmail.com"
+website = "https://waynewayner.de"
+discord_handle = "waynewayner"
+avatar = "https://raw.githubusercontent.com/WayneWayner/eigen-da-operator/main/logo_waynewayner.png"
+name = "WayneWayner"
+
+[validator_account.signatures]
+tpknam1qzanw7549s295cq8646fv0py2vflt3yuhv9rx86t280wrlkt49jnkfp7wgy = "signam1qqx3ezulwqn0ywmdxcp52zmnfj50faz758f6hccn7rpj2ap9lzd3gnju6jpm3ljnpvxseerwdygx7ysn6uwmj09k3uk8mwrd2kxxe4qx3pm9pn"

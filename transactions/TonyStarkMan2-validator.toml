@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qztu8sej05l43273crg0drrk8deg289gr8umwv35espcatygs5332sc2jx6"]
+
+[[validator_account]]
+address = "tnam1q9hafe0nf5k7pnkcmzp4tezgux6v7a6r25yqfe60"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "176.9.24.46:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz7e934xuxycp4nzq5geq97q7ut5e6emqx73kaz8ynpjvgsw9tm9q7ys04w"
+authorization = "signam1qz5nll7c26k0zdfepj9hrve46kzsx9lj46ntvm9a7dfffdyedruyl6k69hm2v6suzgz5dqjw9830arltmv6fv645cfnw8k72m4yng2qtwee5xh"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzmntz3uzs32gwkn03u3w8y277ym3y0dkwk9tdzwrj6r39zhcggqywq0dh0"
+authorization = "signam1qpnaqjscvg8a0c07fdpgq5np42fhug6xk8mjlju7ca74mzrlhl9s007w7vy98ntnh8kefdxd4nxme7fskmpvjsnkksjsl3n3a0aauygwzzqk5w"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzqpntk37jwftvrtr8ug6zwsw8aq08xpnf6453z8dt9e8k9fpug4u5wd956"
+authorization = "signam1qqfhrcysjw2efazn6vu66q95fg0avagdcxxjsgm4l8wpd5vtsqfnwuv4ukqkecxt3jjdqy8h09r45xlp2l5qnjtfej0qg93hhr9pf5cy83a4t2"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypgmzalts9una6u900av72ln450trmwx9cjc7s5qm8kmdswvgys8tc0szuc8"
+authorization = "signam1q80ych4cc26gqqs2j23zz5he68zyqgf7fe80r5l3akuu4gee0f5s7hp0s273h392s4yg3xhsrs83n85v98x2we4kjemtv6h57cejm0vwqqu9ad66"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypszymyl3u8sj9nf0hkppl8dr95hgvqnp40f6l7jdww2mq2gth038swzpd7f"
+authorization = "signam1q9rv8ucqacgz5ulv30suzj2l3sjauqlruqvjwkzd5lqhwwlpxxesxtfmy0yxmls2492eglplgekur0l6snndvpnwukyrrfnsugyvyemqqy6cssfg"
+
+[validator_account.metadata]
+email = "oneplus9159@gmail.com"
+discord_handle = "oneplus"
+avatar = "https://raw.githubusercontent.com/TonyStarkMan2/logo/2f38c33186f6553e83369db80c7888f0e6b1f635/zyro-image.png"
+name = "Oneplus"
+
+[validator_account.signatures]
+tpknam1qztu8sej05l43273crg0drrk8deg289gr8umwv35espcatygs5332sc2jx6 = "signam1qrsmrqkyhrjlcvsgnnf0dqvx8wszc7893dcz2w6gjkqsn8j3dcat0pc867gl7sv8r5xsceas5gv28u8lamkswp3l7unjf0r649jtdxqwqj0uz2"

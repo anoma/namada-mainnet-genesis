@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqzvx9gf6zc8p9pqycq7p5jf0rvj49ya8l9de6kz4w99umd05kuswpl02wv"]
+
+[[validator_account]]
+address = "tnam1q8xasrt0q8qrkqj5s9r9xw3ee0gx5mqwyukhe699"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "161.97.142.92:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp7f5048r4fcps6wug2mf9leg04x04s3l6wflx5yl4kzd4lhwwl62kzadw4"
+authorization = "signam1qpdg667qmh3rp607kdsxd6unhe4q4th3v9xzsuk66uh975h82khutsgckexf60djla5x9mnd9eghueyrxpp3fxj7udr8dg2dtg2pllszawt9w8"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrpdep72yuhuqf4zu02wgvm03s5yj4jmslwaglje35s02ctmgqys79a9hc4"
+authorization = "signam1qq5kv9kv0qnclz2ghtapyzx7c5klj6ad2n2lq774um9ya0wc9ffmjqkaavndcm5n3fd30sgt9w6u7tww27uvw28494nh708hfu6gf7sxgvrjcq"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq2dl9ycvtslg8tp66qavn7layfllpyqyhquuwnaf5swsjql5d9g2zkk7qn"
+authorization = "signam1qqukp27vmkz44vxg2mch6kmqx2mezhtp8ss0lr2nx23px5lm48jnmlqra28yf9mlrud4qpaxg2e9chnzzuquemvaupd87lr4zrgtevcdz04ztr"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypj20p75vghcedxwnkgquxjqdgethf4llrmndrcjqrsg9wukjqn5eq3ae3m4"
+authorization = "signam1qxz849mafgdyvh6jmvu0rjjgwc95kxw24mgygyha66zfyvw4fd3nuq0sk609mfr8lr60hvhmknq47krch76p4jryva6rqj00z3a52z3zqq9hhn6z"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp4mlpp9lyfhxuquqcxlsljktxejl7k83k4kqeh07ltfzsnu7e9h2qej9f8x"
+authorization = "signam1qyumnk9xd63fs83mavrpqvqk6ehpch99helf5c85nspyese03n8fy4t4qj6jqqhv4r4xttm0rtyxq32cll2apne8w74nlvdhfr6w6utdqycx547k"
+
+[validator_account.metadata]
+email = "info@cosmicvalidator.com"
+description = "OG #Cosmos validator and supporting since 2017⚛️. 📽Check our bi-weekly Cosmos ecosystem news videos: https://www.youtube.com/channel/UCX7kHUiacI6ycHF8Wd8mGmw"
+website = "https://www.cosmicvalidator.com"
+discord_handle = "harish0x12"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/77f05c9f4479b689156a691b2640f305_360_360.jpg"
+name = "Cosmic Validator"
+
+[validator_account.signatures]
+tpknam1qqzvx9gf6zc8p9pqycq7p5jf0rvj49ya8l9de6kz4w99umd05kuswpl02wv = "signam1qqsh8xxxmelpsv5at7a70a7j3ua4hh5clssmp52l3nexnzjv2r67ea57rah6hpcaznuwjnapza3hhfrncgjdfg7r4vcp57rphyuvggsggzuv0q"

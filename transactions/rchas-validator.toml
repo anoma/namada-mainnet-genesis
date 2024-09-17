@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzdmsngyxh4lrm6uwegwdqnq566a73twu3khc2kvjny3pg0nz2mv6vjesrw"]
+
+[[validator_account]]
+address = "tnam1qyw3amnxak8hthan0agj8rwrlhwc8r5ztqrvf3pz"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.205.244.152:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrzfvyvy5kfj25u0kkepwaqk5d0rw6nt7p3peqmxp992wjlx0f22wl72grn"
+authorization = "signam1qp3k6t0r4xryr660vg07rmhm0ddv7xx2s58f370m3c00v7y8lh4l9h7z4h42l883mycq5uf5fltqkts35kdlevupwcd5zkpzuc7ulxc2tdmng2"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqakmlspr3j5h9n3jw8546nhmjt6wf572sz2v8wdlf9t48qqw24sc3xz0r2"
+authorization = "signam1qqkrpe2e5262q4uu0kqft6l09ucags949wx7h2xdgxz04va0g9eu3h3eey0za8sqdwy8ma29spazc5t6nsa74qz7hp20r6hzl29qasqtqjt00m"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrqmhhq6nu27nl2vlhcf5nvspq98ua7wvx95na3ekcpkm50ys42yqjstant"
+authorization = "signam1qzwkagt76s8da6tf32tu4x6q9rgwwwxt5d0g0mmllkrr86fnzrtrw4y6vk07qutsawf2wd83zsxmkrmnhwehx7hlqs2ax5vvm0je3usylsddlz"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypgzylz4tchr5tq9d7z27mdagc2vm6wcrqk6c8tjq60r6qlaqqt30sfy9s08"
+authorization = "signam1qyzwka2qqv2ndgy00e8z7tukn407yetq93tacul9j2ad7lumhg7xyw6jnmk7ajmtcwckghnns7mpgcqk25p86kfzy52q2dqqnk6z8k6pqyx5e6yh"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypg7sc926rq5ut554pmrsgm990hcc0yv5zecnjk83jpz6e0qz7h4kqysc7p7"
+authorization = "signam1q9lzes4yyju4505f56pm5r7rthkg3j8w968ar7yp7e3ry3ke6cm2kj6jjjdt0ha49qs0q82qxfchxczqyy9cv6ccrwv5rutvufkgjsd8qqwupmsp"
+
+[validator_account.metadata]
+email = "i.dred.one@gmail.com"
+discord_handle = "ches0494"
+name = "rch"
+
+[validator_account.signatures]
+tpknam1qzdmsngyxh4lrm6uwegwdqnq566a73twu3khc2kvjny3pg0nz2mv6vjesrw = "signam1qzlhf3949nkkxmyyc2ccqxy652fd29alaewel2sar78ztu5hzvh6l2cgnhuxw296gca5cl4pwhgwml9tavyl45q4sug40r0awuyzptq8ra3csv"
