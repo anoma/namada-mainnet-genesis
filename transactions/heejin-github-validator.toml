@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq2er57v0dfd665ttchayq9r6auczhx2pv9d7a94z3rpsqy2flvpwuq7989"]
+
+[[validator_account]]
+address = "tnam1q9vjuxuwdv9muek3ekvvjfngyt973agg2c5c7hxp"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "167.172.162.87:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp72jh75ngqe4mev58quxvn20fren7pmxsgqq2sfhud4fqf7vh9acrvty0g"
+authorization = "signam1qq64jkm5lr29m3su354qz9xret78seggrpffs20au6zvcaef04rg2pcw7vrf9z8jjlzqhvyen88kl2q50jufuk7d70vzq8mn555fmscgkz53vq"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz8ynv9tzpy0xj8dzv73shn0cctmsl57ddk7mj0wc3clcy3kslcd6da64n9"
+authorization = "signam1qq53x45gw6uqu67arw84fmues680pc39lwycns9450nj8lhkmy374fp2d4uuvkrqnk42ygt77hlt5nstucukm2znvz33g3d6e90k5zsvuth0n9"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpluk3unre9eqeuzzql2jl25zg4cz2evk6qyym86fvj7l42hq6pmzjtcxyd"
+authorization = "signam1qznnhmaf6pwsltdx8cxf2mwav3y0w0tnqg00jf6am3edtxtg353gldm2gc7aj8a5a2j50kecka2vzerhdr86hpqhkey9c76cznpw4ecrqzgq9s"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypj9ax3v5tu2htjmsxnzv9a8dt9crhq358dv727cspfdmed8ek8gyqcl0vme"
+authorization = "signam1q89u5ngm2rp8csv35n2890w66d7998ls8hfzche0cdgeu0ks9ax7q5m2gq3z0s9rxhxyru3usng7v0vz77uq294pxcp67uqhu2my9ywzqqv2y3w9"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypla2cpfyxd0k9v57d24zkx4tafkmryd0sj2u9js8yuwa8an5kl9tcq5kxfa"
+authorization = "signam1qy6catlngfyfdsffsjg8vt35wzz76wrqd3ustkw8e6umczr998zxcwjj8xt3k47aqks8m6zau6cf673rtht8cjq5qwng85jv6tcj2hylqya5j9xp"
+
+[validator_account.metadata]
+email = "validator@dsrvlabs.com"
+description = "DSRV is an integrated blockchain solutions company with the mission of enriching the crypto ecosystem via stronger connectivity. We strive to be your gateway to a suite of all-comprehensive blockchain services. Everything distributed, served complete."
+website = "https://dsrvlabs.com"
+discord_handle = "heeheejin"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/8349f3ab6852a8419c1987ad9096c605_360_360.jpg"
+name = "DSRV"
+
+[validator_account.signatures]
+tpknam1qq2er57v0dfd665ttchayq9r6auczhx2pv9d7a94z3rpsqy2flvpwuq7989 = "signam1qp3sg9fewuvpk9lx6qdqh3f02ckdf3vxcsuz5fvpclkeavwuj40t4h2mgh42tlqqxjghd7pk3t0u6vjtm609fgjjvs2pa8547q2g2mgyg9czwq"

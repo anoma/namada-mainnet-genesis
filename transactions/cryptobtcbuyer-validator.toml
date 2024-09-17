@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqh9gu556m47vny2h58gfr0zardjl68j57dy4caw6mr9nkvgjes0uuwgz9m"]
+
+[[validator_account]]
+address = "tnam1q92xh4k7acxegvlgm3nfgg584f3hx0xalgxyjrh8"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.1"
+net_address = "194.163.165.176:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqth34cp3ga9dqqms6hzj9a6m242tnnqkvyuc5vyqdx7l8mf2heuxzac8as"
+authorization = "signam1qpc3xxg9fyzynwxsx7pz3pvhzryc69keu8tn9zu9flcthv8z9hwegg49skmgg9dtuqxnzwh0uxl9l0pfkkjrqa5ga0td0cymeztye2cwclksez"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrcrk693vw9czv5rk228j7jdvlzf93tmtxdp6vch68q3pe9yw0kc7yh43mm"
+authorization = "signam1qqt9ls5zxleslh9kju8kn6tgtew4w844gd94gu2w9r662kjnl0ptd2v2wayg42xvjs8npvdn99yv8ve09qjvg2s82ya0hwkepa0awygy60hy77"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpcxlgcaddsdp3kqf67z7jtdan60pzmdxy4sd8mhvs23ndsp2hfhcgksh93"
+authorization = "signam1qr4626d4zggghnj5g2g3qajxlk70vd70ynk834n5gw8fc7w7aqzz5p4zlgvya0yenypuyuftp2lqpk5decz6pcvdh8k45xg3lncxp0c9427lzk"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp89405hnktmt3velpe6h5vl75au325gcfkej8zrs9vjejkvw6626gxvn236"
+authorization = "signam1q9y74qw6l9j98cnhc85a04fa493nx6m0mlp2tdjctk8zde63kjw4wc8vygp3ah2sdszmluyfcw2mwge3yqyj6y439tgsn23rmy7v7rq3qychnxv2"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypysl2m6gd70raz2z9kqlj8frseks2655zevmy4zn6gxcrf55vjucqp9xwtt"
+authorization = "signam1q9w9qxzzj5xaaghlj64vczj8fte27lduzy6v0rmnq6wm7gg8apa5qvfm8l3j3defs9gunggs4m2c524zjnn4tjhn3enn76qxnk9k0rrwqyngwkkk"
+
+[validator_account.metadata]
+email = "cryptobtcbuyer@gmail.com"
+description = "Independent PoS Validator | 24/7 customer support — https://t.me/cryptobtcbuyer"
+website = "https://github.com/cryptobtcbuyer"
+discord_handle = "cryptobtcbuyer"
+avatar = "https://avatars.githubusercontent.com/u/82612353"
+name = "cryptobtcbuyer"
+
+[validator_account.signatures]
+tpknam1qqh9gu556m47vny2h58gfr0zardjl68j57dy4caw6mr9nkvgjes0uuwgz9m = "signam1qptvyrrfs7w5verhxgnpn7qlwcx58djelz67xpnaxhj8xndlnug66406ay4prpz6axhgl7dpc2d507q9g742ryl4rm8n7k6js9cxu9st6whrm9"

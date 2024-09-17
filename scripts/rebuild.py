@@ -8,14 +8,22 @@ from jinja2 import Environment, FileSystemLoader
 def build_graph(validators):
     fig = go.Figure()
     fig.add_trace(go.Bar(
-        x=[validator['address'] for validator in validators],
+        x=[validator['alias'] if validator['alias'] else validator['address'] for validator in validators],
         y=[validator['voting_power'] for validator in validators],
         name='validators',
         marker_color='indianred',
     ))
 
-    fig.update_layout(xaxis={'categoryorder':'total descending'})
-    fig.update_xaxes(tickangle=75)
+    fig.update_layout(
+        xaxis={'categoryorder':'total descending'},
+        autosize=True,
+        width=1500,
+        height=500,
+    )
+    fig.update_xaxes(
+        tickangle=75,
+    )
+    fig.update_yaxes(automargin=True)
 
     fig.write_image("images/validators.png")
 
@@ -75,7 +83,7 @@ def parse_validators():
                 'commission_rate': float(validator['commission_rate']) * 100,
                 'max_commission_rate_change': float(validator['max_commission_rate_change']) * 100,
                 'email': validator['metadata']['email'],
-                'alias': validator['metadata']['alias'] if 'alias' in validator['metadata'] else None,
+                'alias': validator['metadata']['name'] if 'name' in validator['metadata'] else None,
                 'website': validator['metadata']['website'] if 'website' in validator['metadata'] else None,
                 'voting_power': target_vp[validator['address']] if validator['address'] in target_vp else 0
             })

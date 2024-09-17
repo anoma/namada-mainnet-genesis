@@ -1,0 +1,43 @@
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpx0v964d6cau8gzpw7c8an9wp7k95at9p9dzfu9dm9j69nr53g6zy7krdw"]
+
+[[validator_account]]
+address = "tnam1qxzwta6uhcsv40a8l4g5t07q0ey50c9dlyt3s272"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "135.181.57.156:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq9xrgmn4nskwxhkzu3e50nfx0s5c9w4ghxgkmmgwyva7ttzymkr70xxmkr"
+authorization = "signam1qztzet6mytayl6vnfjsfshuqag40hveqzhdj93q5q8nm8nlgsy3fp0yfhg6xtjuyt0pdjk2hpdzvj5j54fxqanx49kre8c3lvuxca9szk6wwex"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrgftrd3w7uq7aqljzel4k9zkc3u5zmnjq7v82e0h2xexpcx6679walpqqg"
+authorization = "signam1qzzl4wvnwr7494lkwlla6lla863g65gyzljq2mu64mp09dchp6m805wx87nrecsz92r820hy83s25e4tq2f8sv88wa3xv4dw6u082rgxvmdh23"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qprd94akmhke7t3pn4vaev6d8jp3pfe58y63jes36vxsnxykqqw5wqx2dq8"
+authorization = "signam1qr26ltmrnme0egg3eqkc2hu8kpw0ksg74jjvvz762qcuuzjrykuk4f467amsx42p7a0vlr8xza3kpj4nx42clfg4p7lfvygh56qfnncr63pm8y"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypj4ljzx9vv73knyzwzeqdh797mlt5cuzz2phfrv3d0yg9z0favldsaz4lw0"
+authorization = "signam1q9u6muhpzvu7jzulw69wdj6ra9ls5gxevtpptr9w4xxdt2kpg9lq62l3eerr5g0y6pawqnuysxq8w7c3j3n4lfy8qk96edssx7hvcaq8qy66h0pz"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypp9epryt46xx6la6palmlmaj9lenkrgq6ka57v0yhs0awwppeh6ac3a7rl3"
+authorization = "signam1qxyjvz5k6m97r6gq4rhgph9ahg8yyq2fwruvsshff0xvensyvjsdypusxtxdwuspkvzappwqnjzzqsw9mzwx7jme6c0zjrrt3m0nj0xyqypa7ev9"
+
+[validator_account.metadata]
+email = "hello@polkachu.com"
+description = "Polkachu is the trusted staking service provider for blockchain projects. 100% refund for downtime slash. Contact us at hello@polkachu.com"
+website = "https://polkachu.com"
+discord_handle = "polkachu"
+avatar = "https://polkachu.com/images/polkachu.png"
+name = "polkachu.com"
+
+[validator_account.signatures]
+tpknam1qpx0v964d6cau8gzpw7c8an9wp7k95at9p9dzfu9dm9j69nr53g6zy7krdw = "signam1qz0phd8xja3kal9wa6xkdlp80qwn96s7p2mywakzdu26lwcks4kc7xqxl4yqkmvfh8tahzd9runednykl0uv63jth2dst63f63w3xmq8sr50hg"

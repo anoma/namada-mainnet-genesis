@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrevktceqeqx5ke7j38epyg7wzy8vd5rxsay6gqlv7yv6gg2w84fkk24w9x"]
+
+[[validator_account]]
+address = "tnam1q8vztqtl5aknthxa3jezezr7amkgz3zp5vz82qe5"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "0.0.0.0:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzhnlkyqrfwaxy2lr5ggndt5swl6ku90wdscklq46rnypn24f66mz7sf8ka"
+authorization = "signam1qq2ks8ffq5rjswa8ekjr70ux5w945dyra850ht0p2kgxxp6t8htlwuxgc5flc2uef5qk5cyc3sf8jmp2ser2s8q6nlyeqyhyau7zuqcd74nfz8"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpmjfslwscszfg5asmpv2pdqfftkwgrz6utx8h6ja2njp90sfcsqz5surhn"
+authorization = "signam1qrxvktdk3ltxwfkwudakzq2e59ex5xv9udq4u0phrfl9kdvxxsrf5r9k3ewt7zguget5eehkz2j4zx30a5hpgjz5wpqh0f8d3s7kq7sg47ygy8"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq4mngv4sevz4x52ypm0fe0cs3wlx0krvunhw836ke3nmresyr77x2fnvqr"
+authorization = "signam1qqqu77l7wx9rz8l398uestyqnzq4448hxxvkjseq7276e2y8vqzvg5zjcyjpfhm7z6zwcc5k95p55zn00t7vejanxh03at8yvv772fgrq8g4r4"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypzac8c07hm20n9n7grrcff7dy0u3kz2f8uzewnc9ame20lqvvvm2gc33ytn"
+authorization = "signam1q9u4t5ygnmzvk8m0ua4v78z3vuxqc5rfq36n3rx9zs5nq624n7jnsz64h93sn2apr60fm4v6slh8w0fcfxp8keywvuqqvl43sstdutrcqytzlmcq"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypwprgfnfsy933328nl9gxu082gl3qr4lrhdfc58kh69cylvmchgpcn4axl4"
+authorization = "signam1qxdzkvaj4k35d0sadsvk6zk65eyyymx9tcq0nj0e4ug60h65ugf6sxs4m0hhrs3nfzca8m4a67fc0tpgqnm9kzxpen5393yz4hs4uxswqyk9lhac"
+
+[validator_account.metadata]
+email = "support@validatus.com"
+description = "Validatus - verifying blockchain entries on purely Enterprise Linux based systems with regular security audits. Stay safe. Stake with us."
+website = "https://www.validatus.com"
+discord_handle = "validatus.com"
+avatar = "https://res.cloudinary.com/djhalnnus/image/upload/Validatus-CI/avatar.png"
+name = "Validatus"
+
+[validator_account.signatures]
+tpknam1qrevktceqeqx5ke7j38epyg7wzy8vd5rxsay6gqlv7yv6gg2w84fkk24w9x = "signam1qz9wfflt0x8mcdmwvms2jwc8tvwk69a55aaaf6ee6p73wz0kegwcklhssyyhlfa8m4dwfhg6rnm5np6lsvr208c36332wtk6tdtllqc2g2r703"
