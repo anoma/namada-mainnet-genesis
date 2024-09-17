@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz7z09ds674wlyfl6upvl2e6jtuus7lfp2rus984g8sy3v23f9qf6v7n638"]
+
+[[validator_account]]
+address = "tnam1qxlahm9qqxqhyjezsxvrpkn9ajekrkg2xq5v8rz8"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "141.94.243.95:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpua0vwm5t3yqj74hkrdj76sa0zvxpgfycq0wu29qrx662a2n686w2z0psm"
+authorization = "signam1qry2rjcyrkmdmfrs35ktd4x8dfzzhh0vyvp5d4tu3vcdsaq8hrhf68rjnss7e5ea7ku7x98s0t7sernf40j00rvn0xr3sl2jywmumgg8mmt568"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpnx5zlrw5hvkzsfxple44eccvdkrw3599k4zg907x7xvn60qg3ax5h2tzy"
+authorization = "signam1qqea6wepc8vsmmy3v9yr8rgxvkmfd62gclkfpdgv8ltekn64kexde0xs2ss38vqe300yls4hnau5h8ezld2m85cjdsatef6nujcu8kqpnfs6tg"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqwx86ccu0hk29kq7zmm37m5tr0llxsp755jzwkmjlj8teswyvh47792s7u"
+authorization = "signam1qzc63kv09z2ruzahqwzl9xzypzndv7rrfsst7kzl070hyuu94lnugvdva7hwlmw3sh47rnn076g35y9luu597eltusl527mahf3tyvsvszwa7n"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qype662xf5gnc5qxlzmf207k68q2slmxqdnchxlmcfk4wn60s5p446qpwgujp"
+authorization = "signam1q8trmwkdmz362rf9qcny3qn4gtfdrce5cqc392l4c5m3ny85g28r67gke8u5ar0ue7la46xhqxhunmc7m9783ardp5383qhx5w6ntxn8qy5dmzhr"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp2hk4mh3vjtx80hua3eqy70vaupxlmnycd40n3e7gzzmz6zpd5nrqrqx2gc"
+authorization = "signam1qx4qa0myr3pacpuahyg4ez7x6rzhha57yydgtpt32pggsvd7v5r46fzpz2t6w8qg3x45w8khc39kz66chxg899sa7nzklfnsnfje4m0jqyxjjjuk"
+
+[validator_account.metadata]
+email = "yarco@pragma.ooo"
+website = "https://pragma.ooo"
+discord_handle = "yaboha"
+avatar = "https://forestnode.xyz/images/pragma128.png"
+name = "forest"
+
+[validator_account.signatures]
+tpknam1qz7z09ds674wlyfl6upvl2e6jtuus7lfp2rus984g8sy3v23f9qf6v7n638 = "signam1qzz6znakhdt8nv4t6h85h95r4mpaqn3vxnf32ad5m53zm086nlnc7fwfq79yak5yl2v27dh6tlpe2hksy9gnme5cs5awk3mntv0x2ug2mcpx99"

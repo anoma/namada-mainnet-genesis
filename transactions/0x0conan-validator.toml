@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqwjefewgdqeds9zf20kvpv6j6qk68vg7dgncvh5ehsv9xmdhlr62sgffhc"]
+
+[[validator_account]]
+address = "tnam1q9ude2ceqdj8dk6z3rwxnykm446j5lfkwy747kzp"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.02"
+net_address = "47.254.140.240:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpl3ettnqeefh2ztsmg97f04gtgpdjv9kqqjxmxquhwhnsqdmf98cz8zg6d"
+authorization = "signam1qpktmrja90lav3k0kdjzvgtyj96tjlpeh6xp5wyvf9k2tudqf7e8vdtn76yrhsqvh4y9g6c382tzcu9rux5npshuq5fnv9937q2f2ugtp8vu45"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz985fxrh20cjz24sgch7gq22meh3hylwtg6dx7g5y6sdtmjqma472pg5m7"
+authorization = "signam1qzyc8c6arx7kku8kq5ntd30eceyj7j9aeujdrshyfstx9ul7rrenuvkgfm4sfs80dytan7g0cgxyphrkwgc7a9cw9wxdqnrq36e4svsdh3jvnt"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzafnsk7wqtpf3vrwttkdg4sgclpxhja24z72rg9askc5fdng24hxrwward"
+authorization = "signam1qqz4y9acmg4dsqpxyqr9cnnwc3fhf9x87cevnv0ks4rxxy0rzgsw94ff5uk0r3qkcrgmu406hx9nc9whuwn2aug7v023wpupd0ur26sxj80ual"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyplesz7regsej6xv0v84jzg4zjfle539rmhd7cy0s2tnx5uxsdksnqwt5cet"
+authorization = "signam1q9f8dll8lr5893j5vcrx6rmp7kggpflz7x5h0hktrms9e74qvhr4qct9tgygkfhrmscq3hr4afd0qwa86qmkjf854lqger6w6ecukgwaqyjcq2f7"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypuqhy2zhdr00xw62703l4yamxgj2ncvntchdrpl3z47u7uzys9w5g9073kw"
+authorization = "signam1qxxe9dvnesdp5pc5pvprvyfgvtxda395v2pfx4g04ymguuhckcqsqnmuuumfq36kmvlkxnnwn8kgmm823l2uh750c50ns0gq7neuv3dgqyzg3dqq"
+
+[validator_account.metadata]
+email = "staking@chainbase.com"
+description = "Chainbase staking are not just a validator provider, we are your powerful ecosystem collaborator"
+website = "https://staking.chainbase.com"
+discord_handle = "conanxyz"
+avatar = "https://static.chainbase.com/logo/chainbase-staking.png"
+name = "Chainbase Staking"
+
+[validator_account.signatures]
+tpknam1qqwjefewgdqeds9zf20kvpv6j6qk68vg7dgncvh5ehsv9xmdhlr62sgffhc = "signam1qzgwnmre5gv8wcf42ref8qch2lt97xdrxkprjhd6d9rmc3qv828ef2df3fpy4k5u8ezf758ju785vem8vylrjzw0suayjjtanrphtssyd7n7ur"

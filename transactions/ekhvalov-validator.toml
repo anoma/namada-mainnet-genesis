@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzxmyav9k588jayhrrshep4rztfuyyrh0q74nsh93076hxyxcqxrqt42vuw"]
+
+[[validator_account]]
+address = "tnam1qx5psh6xca8n4ezukdy5yynhtr3a6m65lv54ms3p"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrvvyqm4yqc67cxdejye3uqs5nf8vtgs7uv08htfr5vf50vne0n7wkdynya"
+authorization = "signam1qrt432w7zcr97j7nwk7m50vvn0mdr399f8qtasdlaad5s8pwp2ve33saudk7ewq7fv04ncvuc6l7rhadvqm8svxclnug43d8ekjuldgz8jpqmm"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzfdxjp888szd946nhsdwnykpf2rd50f6n7l8w7ealpfdmrf73xp7map3fl"
+authorization = "signam1qrudwnvs6zy3ygfz8wwtsv8lye43xs9nfkm2hxl0xaestr2qegq48pymnmzk5gh369a0hee8xws67yy9yeh77am3deyursp5akywmhqx49xd29"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzh278ds49qf3rf2u9wm2l8lq6cxvw9qsweaktetxsy8p9luvrrfxw2splc"
+authorization = "signam1qpge9xrqmr7jg9vw4mh44w7lfc33uwyqct3zm93tv7ewrfk4z2tu85k23s7x05rqg658gxhdet0wn99x0sy88slrff7v6q739hw5jmgtr2z3z8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp3nhsyc609sf0xdxanm3kesyma0xmdqslzq4qscn7ljup8pgyhtrgcg82q3"
+authorization = "signam1q9g3cdz6nyw6k8mksn76lu8ghvqwx2qw02n6crqw75lsp8aalwgms9h030pd9qfcykhg57qzkldxvcry3pljulhyzv2d0mfkwnc7952nqqw4zrhx"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypg6em7narzajc0sr08yzzgr36yl0cpd30ry3ef5wu5mhelluq6vpgkgznhr"
+authorization = "signam1qygvru6mcqnjxm4tu5y4feqyjxgj0rlpg4ml5lwz3qgg85jn9d0qghwymu2vu76llzssn868vjgmut4hmrcnkw5wuvtqgje5l90qunepqqf6p404"
+
+[validator_account.metadata]
+email = "namada@newton.zone"
+description = "Reliable validator with auto-restake | Handy portfolio tracking app"
+website = "https://newton.zone"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/3b167dd7bd9e1da1ffb86afceec93e05_360_360.jpg"
+name = "newton-zone"
+
+[validator_account.signatures]
+tpknam1qzxmyav9k588jayhrrshep4rztfuyyrh0q74nsh93076hxyxcqxrqt42vuw = "signam1qzlh8007z89jaftg7mm5nfh25amqhvg4asn92vd47syuthsuj29q9wlmet2sgpat2hgup5trhzgp6gr7fc5eg9tcwd9zm88hn6e7yssy72yr9r"

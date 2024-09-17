@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq8ufplw0ktjuckmd0rv0y0gku2f6rh24hhrzk2ecxd24ul05daeqndld6j"]
+
+[[validator_account]]
+address = "tnam1q8d8ypu5j88qqvx89grct795uap82dtlqvjqjh3h"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qra48j23vfvvuxxsk0dz8krc7w9adpcv75v2c7gawg3p4ghe62zkymx4v5h"
+authorization = "signam1qqqxqfrz3g3u7m2z57pjurs4tejdysx8ns9s82psgkt8ywy5kp6r26qpcst84tpj66pqtan6gjmgps9dgytnygrput93yk8aypvl4ws0dlz7ud"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpnyvunnnp0whtv2z9tctqxkwej59gthjwcrhp7d4njpu9nv879rk4t7rhq"
+authorization = "signam1qpjlqcklq7dtjejmyuaqc5nkrjstdpeklxu4yd8prp2te56p7umvpzm070ztnd968dwldyckjv6g0zgfzjqs3ax35k5tjm5gjcedz0gxd4es2a"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq3vfnuw83emtck8895pgr0hxjh30s9as8dm0vrf7veuz4vhw4232uglsyn"
+authorization = "signam1qz9gk3xvyayl8tnfl76pmkhlrjm0mlyh2q89f8dxw894sv5a6ycpntk3ar208tn3eeq6qkljf64l7euedatarh8xvha086z9uuywu5g9ac2ja8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp7ae398kw4k6dpjlkqahvdmxa26ptwhnv97gg49u9r74sqfgzw52gsy7645"
+authorization = "signam1qxd0u7j2r5yx88p7x3dslqjgymggts28pfvj3lp9u0uadczsdxpjsfvn9ru4ckgczyxrscjjv7ryvdpjdev9razv8335p4hlayu6k42vqqtnvttc"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypaw8jal9pdx8m5vl7x20duu2efhkldlcad99559gce9426qpw3hdgve46dh"
+authorization = "signam1qxklcj0zg0veekjwca4g6razn9gjlu729qymsu4kdjcjdspaf6uqylyvdy552606kyymewj0vkyzhfqcdkmhv6g63h848sy3h672a34tqq3s3sa4"
+
+[validator_account.metadata]
+email = "team@mellifera.network"
+description = "Empowering blockchain security and contributing to cosmos ecosystem with technical expertise, proudly from Ukraine"
+website = "https://mellifera.network"
+discord_handle = "ruslan_mellifera"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/e86fec4890dc435ba14cb684ab658e05_360_360.jpg"
+name = "MELLIFERA"
+
+[validator_account.signatures]
+tpknam1qq8ufplw0ktjuckmd0rv0y0gku2f6rh24hhrzk2ecxd24ul05daeqndld6j = "signam1qrfjycus7ftr49yrlg0h7m54n4wq6zkc202psdh5nehts4ctq96wk4qcwr0dq9dfkh9lp27cedhazk8lpca8wh5qazgjexs9rlvp35gff4xn73"

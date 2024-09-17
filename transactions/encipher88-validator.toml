@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpf9rgga3jhd5a6e49n23gmljdr4ah9ht8tc0w68y5nk9m4e05z9yy4asnx"]
+
+[[validator_account]]
+address = "tnam1q8cfpdka8ddcwyxkaf7sjtpdg3xrv5j9pq5rv70w"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.39.125:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqtjew438nszual2q7n9t67dcqp7zqqe4mn9dj4fdxa7qlxfrvd7v60d9pz"
+authorization = "signam1qqc5ml3azw63xh4q5pnyglknpr09c7g32a2vfnrs0rqzufl3n390sjy06m0z9gazla682059fs0gx0jysu83vf8p2dqmprnnlean8rqp3djrpk"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrd7kv574vjq9a3653su839ku0tasazurj0as7lgv9asrn2mv4sa64heal3"
+authorization = "signam1qpkcqyawdchzcsen5rk9xkq64n03lrafnsjs4p0j5tn0v8la45pt54u95rdvz6ztu5qupst3hkrsvl2paqn9l3qcjzms8qnfn7ucl0qw82sp68"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqhc0kae8czy922gvawxv4q5wvn7weq242nfxn725r3wk8qez0ghgh6uvad"
+authorization = "signam1qqtz853txd90ny5jn8fcgf0fxsfslfzn2thg3wy8guts7dv7a4zla5suset05474c7zc67tygwd05y37qe3rczs9mq8nflwt747feqg27hsgql"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypdprve9kt703nnw9gjsj93e5f5825g3gyy5wqc6334d498a48s0cc0467yp"
+authorization = "signam1q8hr657w3wr5085e5g74hk77gzahh29zq38e9p3q7g5732nuxwmg52sl88jskacpxryr36ktndhuudpx00hmcj63tcz6vs840qqah8j5qyx2e7r5"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypffahwtdhjca590v3fy7astmgva3s57qtm5c26xuw0qnzzkrhjmss7dy84x"
+authorization = "signam1qy0htdnguzpmn86azgcqyu5cmej5vmyf4tgf5fe4fztumw49jwjquyz5fmrplfccjl4ju45qsfy76pl7svzaxhsxhm6e0w5v2k0a7ut7qy7kwn42"
+
+[validator_account.metadata]
+email = "encipher88@protonmail.com"
+description = "Im an individual validator. 24/7 == Support SE-100 == Community member"
+website = "https://keybase.io/encipher"
+discord_handle = "enbit88"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/193301bab2ec28470efaa2c672146305_360_360.jpg"
+name = "encipher"
+
+[validator_account.signatures]
+tpknam1qpf9rgga3jhd5a6e49n23gmljdr4ah9ht8tc0w68y5nk9m4e05z9yy4asnx = "signam1qzhmwvepzh96h6pu8zv40q7j4ms9sjg0ywmryasduagws2h2tv4qkeu483jtpnm9nh49a2uslyzgcmgky7e3mzyelh5xsn3qn3tqz4qg9vjk6l"

@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpfr02qkj247sc7aswyrj49ts8w6zy2ee3h6nyltd7nykq88lajhs369lkw"]
+
+[[validator_account]]
+address = "tnam1q9krl9ltzmwj6m4q60ugnmrz3uwnm450ayt42h7v"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "144.76.30.36:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr4twhkusl3nmg3rkh5krqg6v33krv7ha2zxlndva5cgjmruzewq7p2zejn"
+authorization = "signam1qpwu2pgygscqqua30vz4lx8z8hdfzw5rdstkv6wx6sp8092j8wr5mnxhvf9je4elfxxq77ds87hxpllv43lr96487n9xrv0ea3zvtqcw2hhl8p"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz4kqrstcfsz3e944kg2rqtfu8ww53j979e4v8375akar7kcmdvw7cyzgcn"
+authorization = "signam1qrq4gep6h6cantmvssdvjyn99u2s6q23tnmy48t32t0950xjxg6xf4nrn3mlm58058l0lk5ysl2klzulnrfmfpk4z84tjz8erfgyuqg2an598m"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qza9ztstpn503na0fneuxv5k87c47tdanda4twrgdc86uj42thm25uu49tj"
+authorization = "signam1qqsdpx53gjzk80jtddgxzqystec76ys3vc3prt904238prgxxxhg9w75tkpygl6l9rcf38wnctkwwq2pdly9e0nzrhlw376xuw7qytg08227z4"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypfh9cxs3g0s6ldnymlrtpyefw7p2zfm2j3sqquqlwesal4x0jv94gr6ge3r"
+authorization = "signam1q8p4ma8m67anl8wwyy2emzhkwd6whrp28qkqv2tqd0lu4k52nw8r5dxj607qx0m5qm3m3nxkrrkk8j57yzjff0su5kd8x4c8cvcamxanqyh7u98w"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypr36wrhlmsne9mawfapgk5k62u0ytjcjknwlaym2h38kr0qqtsfng7cfn2t"
+authorization = "signam1q8drw7atgrq0j6nc77vnlarex020rrasyn6czz383kyenwhzak6f28th99qmyek4ksm02qgwf7wynhqdpwusf8epntcnzc2ph2emm6s2qq2dmtsc"
+
+[validator_account.metadata]
+email = "an0drei83@gmail.com"
+website = "https://powerstaking.tech"
+discord_handle = "an0drei83"
+name = "PowerStaking"
+
+[validator_account.signatures]
+tpknam1qpfr02qkj247sc7aswyrj49ts8w6zy2ee3h6nyltd7nykq88lajhs369lkw = "signam1qr7eudvqfxu0jvfntx3z2e8huh6aclxqfh9xpje6alw3p60nuyate3zewhl6tv8hdgqv5f02h8h09s0fderfqr0x6nuc42c8ernjumgymedmz6"
