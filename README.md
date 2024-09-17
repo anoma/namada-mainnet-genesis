@@ -55,6 +55,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `adiadi2411@gmail.com`
     - website: `mdnodes.com`
 
+- address: `tnam1qx58wny2k2tekhafrnujz7fnn44lg2y24cs8zquu`
+    - alias: `localhost`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `10000.0`
+    - email: `llocallhost@gmail.com`
+    - website: `Unknown website`
+
 - address: `tnam1qyp32zcympg4vlkmu72u33szdgv6qcf3vgrr8w3j`
     - alias: `MekongLabs`
     - commission: `5.0%`
@@ -438,14 +446,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `richard@stakingcabin.com`
     - website: `https://stakingcabin.com`
-
-- address: `tnam1qx58wny2k2tekhafrnujz7fnn44lg2y24cs8zquu`
-    - alias: `localhost`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `llocallhost@gmail.com`
-    - website: `Unknown website`
 
 - address: `tnam1q9krl9ltzmwj6m4q60ugnmrz3uwnm450ayt42h7v`
     - alias: `PowerStaking`
