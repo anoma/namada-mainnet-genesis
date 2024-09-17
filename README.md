@@ -87,6 +87,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `info@staking4all.org`
     - website: `https://www.staking4all.org/`
 
+- address: `tnam1qxlahm9qqxqhyjezsxvrpkn9ajekrkg2xq5v8rz8`
+    - alias: `forest`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `2333.0`
+    - email: `yarco@pragma.ooo`
+    - website: `https://pragma.ooo`
+
 - address: `tnam1qx7xenrcve38c8lmcmewpk42df6pchlyjg34d3lq`
     - alias: `SIPALING-TESTNET`
     - commission: `10.0%`
@@ -1446,14 +1454,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `dima.rabecki@gmail.com`
     - website: `crazydimka.xyz`
-
-- address: `tnam1qxlahm9qqxqhyjezsxvrpkn9ajekrkg2xq5v8rz8`
-    - alias: `forest`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `yarco@pragma.ooo`
-    - website: `https://pragma.ooo`
 
 - address: `tnam1q9sdarpylwxd5vv3e8u6wstrpz052jhls5g4a3wg`
     - alias: `Swiss Staking`
