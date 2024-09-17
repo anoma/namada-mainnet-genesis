@@ -55,6 +55,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `adiadi2411@gmail.com`
     - website: `mdnodes.com`
 
+- address: `tnam1qy3m25cx7gd67vyz5px5wjj5gcy4pfhnnux9mhcr`
+    - alias: `CryptoSJnet`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `13337.0`
+    - email: `m@cryptosj.net`
+    - website: `https://cryptosj.net`
+
 - address: `tnam1qx58wny2k2tekhafrnujz7fnn44lg2y24cs8zquu`
     - alias: `localhost`
     - commission: `5.0%`
@@ -494,14 +502,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `hi@originstake.com`
     - website: `https://originstake.com`
-
-- address: `tnam1qy3m25cx7gd67vyz5px5wjj5gcy4pfhnnux9mhcr`
-    - alias: `CryptoSJnet`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `m@cryptosj.net`
-    - website: `https://cryptosj.net`
 
 - address: `tnam1q9zvl5nzd2np5mdgfa2lzccaey4xln55ku3mdlws`
     - alias: `maragung`
