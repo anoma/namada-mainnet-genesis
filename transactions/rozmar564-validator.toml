@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq6hr9jgzwqypvhr6w5zggjeu9s555dfgppnkqcvjykc4m4pd6vy6alf5zx"]
+
+[[validator_account]]
+address = "tnam1qx304q35wkfd5zd07rgapwsrmg3tsapncsqdcg25"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "173.68.138.242:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qza57wq27llhz439afz0fu9tyqr2snrnrryahknvwl9gjxmhw3j67ewwnt6"
+authorization = "signam1qpgl82zknrfm98q5frwgz748ytr0prkmyqnw2p0tng9tg93kmkwkcje6j2020sgclf94wzhnx3udscuyy759na7mreqvakf4j6xds2sqzphwpl"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzxlyqj5nc35g8zc4kdxykfqzksptyq5ustul6aevpgn0e4l3wntztj2l70"
+authorization = "signam1qp6zf8cca80wxsxy4d6mr4qz3fc7q8u7w9z8jhprcu7dn630agjsfssd4dwhljqphlf7s2wkr4j933ua60jfs2tml2dx7zyhgywpe8cwnm7qaa"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqfw2s4fekup4s9amywsuht5ufhvmgtcpzcyz497qhp6ylmujqaczcfdwwn"
+authorization = "signam1qzd6vpzykwnldfafvgj7c3sjpegqnsmj60yju8vka5rfq5nz046x808r3vprwdw99fasdyxayp40pmppfq9w2fzm43vwz2djzex73zs93s8z2d"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp60ruhvj830c7p3kundc36k7cfudwtz5c8cp3lq35rw52jsseruhqsdxmrr"
+authorization = "signam1q9ch83vtac6jqljkrfgjs7s394h0zjtrpk3hmldvv5350pav9ndwsh97nktdj47zm0t5ugxzukj9td6fl8c7la8kaf7qpjmt5hplugguqqs3hj4g"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypvnf5aze646ruaslnms5qfrqq2984s32pxue6tccpjux6wtttjqzs9cptmt"
+authorization = "signam1qyk2d6e4n498pdueuk6gr9pm8k0q8n7hhntq548d7fqnkm25ar27j2wcztw5ghnv8mvsc92adclfh38dxflgvt4smuhk43s25xh6nh5fqywqj2u8"
+
+[validator_account.metadata]
+email = "info@steadycrypto.solutions"
+description = "Cosmos Airdrop News Twitter @Airdops_one"
+website = "https://airdrops.one/"
+name = "Airdrops_one"
+
+[validator_account.signatures]
+tpknam1qq6hr9jgzwqypvhr6w5zggjeu9s555dfgppnkqcvjykc4m4pd6vy6alf5zx = "signam1qrua6xrauvtn00f9hhsyfpvn6c4vgud7uk3a7xcjyk5m4emedc8w7jtstrfljzhtwjk4srxw6de4v3479wmdlwsg8s036y62lew5wggdeqaqmf"

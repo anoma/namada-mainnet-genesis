@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzal3x9mr8xpm688s5f83sszmzkvpe59dt9r8jz9gjywadgn3xhe5x6wv7q"]
+
+[[validator_account]]
+address = "tnam1qyxd5eh0mf49at77dursxnlsygn5se6d45tj5y47"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "127.0.0.1:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrs6wmn5ksyc75vp5l8s9jegx67n04nsf9r00hkkkaq3cxdsqcumurwe6lt"
+authorization = "signam1qrquayas9lx4rf8056a3ze9us8n0u5wxm90z736mx8a3r8qjg3j4kez5k34ecyq05f8k22k8val0dkzqlzycyw5q384rrdvw3y4uz4qdheqvmm"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpc4gcw6gzue34z0qk0v792gy4u2t693d9r7d9m9stlpg7338cx7sh0ypm3"
+authorization = "signam1qp3v8sja0ppdn3eugk7mgj8ec2jvkma0e5e8aan6uwc6z370l6gsk3cv5v4pmtpvrss0aehs8z7twg08mqg99x3335xt6hf5avy6q2gy744jpt"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqyw2y637v74wddehjuzglmuj2alr5cxw25fvcjdk4w883yaelel557ngk7"
+authorization = "signam1qpuz4dnwfs55r2deagzuf2s2y22n7q3zsff5gqcedvugknndug977jpfeelh7a2ceurxgjhmxv9vzvzg69t0qdt3gawzd6tu0jjm50spclen45"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypqx4vs84vpek7fga2z6ncuzar5cm2lz9sas53djshu4raz4g5h0tqw7w630"
+authorization = "signam1q8e5j2ac59gc392nm9ynjgewklmhk3huttzwwatvtf4hgk9d52675703aqj4u3z8gepzldrwcjd7mgj5hau2dgfs774w9x847td22l60qyy7kgmf"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp5dhy703pz6umc3hkann3p7aq7nps3nxthj2hkxffhh2ehvpllfdq2v947n"
+authorization = "signam1qykjtzt6a90ttf9xrt4ctnn58r6gfmwf4yycp6j0tl4j4wdp6nvag6mh0q6ft5wjrtq4rtk7jqtm6x4zqfc5l3knkmz7scg5yc3csgn0qq24u2um"
+
+[validator_account.metadata]
+email = "support@ccvalidators.com"
+description = "We power the interchain | ccvalidators.com | t.me/cryptocrew_validators"
+website = "https://ccvalidators.com"
+discord_handle = "@ccclaimens"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/7f4b384472efeccffd7685227f698405_360_360.jpg"
+name = "✅ CryptoCrew"
+
+[validator_account.signatures]
+tpknam1qzal3x9mr8xpm688s5f83sszmzkvpe59dt9r8jz9gjywadgn3xhe5x6wv7q = "signam1qrghgnema92fgdfcce2u3mecp3qyuyd6aeu9ravqny3deuvf3hq27esu5qgwue06thu9guyz69cj2jq6v40kh4mj5pr75xt2se764lqg8ph3re"
