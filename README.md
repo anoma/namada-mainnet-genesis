@@ -439,6 +439,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `support@autostake.com`
     - website: `autostake.com`
 
+- address: `tnam1q8lzhgzezqew6z20wy64gw6q64vkv84k45ygue6v`
+    - alias: `BlockPro`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `contact@block-pro.net`
+    - website: `https://block-pro.net/`
+
 - address: `tnam1qyw3amnxak8hthan0agj8rwrlhwc8r5ztqrvf3pz`
     - alias: `rch`
     - commission: `5.0%`
