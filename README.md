@@ -31,6 +31,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `zenodeapp@gmail.com`
     - website: `https://zenode.app`
 
+- address: `tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t`
+    - alias: `Stakeflow`
+    - commission: `7.000000000000001%`
+    - max commission rate change: `1.0%`
+    - total voting power: `81500.0`
+    - email: `team@stakeflow.io`
+    - website: `https://validator.stakeflow.io`
+
 - address: `tnam1q9mgfvqqypw82jk997kzgkkgnf8fxur2qqpa7rlr`
     - alias: `mdlog`
     - commission: `5.0%`
@@ -38,6 +46,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `47726.0`
     - email: `adiadi2411@gmail.com`
     - website: `mdnodes.com`
+
+- address: `tnam1qyp32zcympg4vlkmu72u33szdgv6qcf3vgrr8w3j`
+    - alias: `MekongLabs`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `10000.0`
+    - email: `nguyen@mekonglabs.tech`
+    - website: `https://mekonglabs.tech`
 
 - address: `tnam1q8re97lpfp5kmj5nu3t5sxvlp8yydnfjkuzw76dp`
     - alias: `Palamar`
@@ -582,14 +598,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `alokhinoleksii92@gmail.com`
     - website: `https://t.me/Lapatylin`
-
-- address: `tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t`
-    - alias: `Stakeflow`
-    - commission: `7.000000000000001%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `team@stakeflow.io`
-    - website: `https://validator.stakeflow.io`
 
 - address: `tnam1qxq08djyzzrhgchwv2datwhk3cghtseg953ruh2y`
     - alias: `Figment`
@@ -1478,14 +1486,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `igrgusarov@gmail.com`
     - website: `Unknown website`
-
-- address: `tnam1qyp32zcympg4vlkmu72u33szdgv6qcf3vgrr8w3j`
-    - alias: `MekongLabs`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `nguyen@mekonglabs.tech`
-    - website: `https://mekonglabs.tech`
 
 - address: `tnam1q973h5dwpl0wv4t8zy9gmafllmrnalde0vek58zq`
     - alias: `Cypher Core`

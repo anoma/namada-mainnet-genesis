@@ -1451,6 +1451,18 @@ tpknam1qz6mn6dwv0vmcjaqrg8fsxprhmg7mrc888ueky94kx492zqfh43f5su7dx3 = "signam1qpx
 
 
 
+# adding transaction for ivanovblizznikita-bond
+
+[[bond]]
+source = "tpknam1qzm2l06dmknjdkfrkwvqe88x6wfd7pwd8apcn2zvcl6j037lx3vnshn9llh"
+validator = "tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t"
+amount = "81500"
+
+[bond.signatures]
+tpknam1qzm2l06dmknjdkfrkwvqe88x6wfd7pwd8apcn2zvcl6j037lx3vnshn9llh = "signam1qrmz5t73w0u3fhfc4sc2yjd9e8duvqlw4xsr7svjc78uuflzy8jjygztg5c9qz0ghyfk4nvdkktq6yhkh78utyt43w37rl942ta05hqgz07cm4"
+
+
+
 # adding transaction for everlastingops-validator
 
 [[established_account]]
@@ -8053,6 +8065,18 @@ avatar = "https://s3.amazonaws.com/keybase_processed_uploads/fd84e961633cef5f59f
 
 [validator_account.signatures]
 tpknam1qpwzqyhlm93rqgt5swj4j2yaf2xxlx274dw9f35nheuaxlehr5d9q495yrl = "signam1qzexguelmeh7rykvkge67aj6205ta0se295p387ktrg62exw5q3tvd9trdld947cry0qner6rt4pklxdj73tpgegqcyjuhtjz2mh7lcf2hyx46"
+
+
+
+# adding transaction for mekong-labs-bond
+
+[[bond]]
+source = "tpknam1qp6xn8dgeunp8pse2kwk8tw0xw6rg0f322cly3w473ukz3ru20tscskthm0"
+validator = "tnam1qyp32zcympg4vlkmu72u33szdgv6qcf3vgrr8w3j"
+amount = "10000"
+
+[bond.signatures]
+tpknam1qp6xn8dgeunp8pse2kwk8tw0xw6rg0f322cly3w473ukz3ru20tscskthm0 = "signam1qrj3jel4knp9m9m0cegq024vacpytw6rxwghh5russ4ylf2702c9rmesvph7g64s6me38rv6xzrxdlcpnl8f250tyu0wknkftnd6h6sqnly795"
 
 
 
