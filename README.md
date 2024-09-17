@@ -15,6 +15,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ## Validators
 
 
+- address: `tnam1q8xasrt0q8qrkqj5s9r9xw3ee0gx5mqwyukhe699`
+    - alias: `Cosmic Validator`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `100000.0`
+    - email: `info@cosmicvalidator.com`
+    - website: `https://www.cosmicvalidator.com`
+
 - address: `tnam1qy500vdqtcumxzfhjccrhdx9j9wawhsyg536thwn`
     - alias: `anodeofzen`
     - commission: `5.0%`
@@ -118,14 +126,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `validator@genznodes.dev`
     - website: `https://genznodes.dev/`
-
-- address: `tnam1q8xasrt0q8qrkqj5s9r9xw3ee0gx5mqwyukhe699`
-    - alias: `Cosmic Validator`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `info@cosmicvalidator.com`
-    - website: `https://www.cosmicvalidator.com`
 
 - address: `tnam1qyqm3r6kn73ey8mmrc7w34wrkasrnd5wls9ptrwk`
     - alias: `Niloki`
