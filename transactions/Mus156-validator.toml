@@ -1,0 +1,38 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrp72tvh72xuzrqrw6af0s4zgf035nnh3pxtykafl7fmdk777x8equt8473"]
+
+[[validator_account]]
+address = "tnam1q9ys6rx7h9d20a5gq0dewx6uze6k2trxayt90zf3"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "62.171.165.198:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpqtcarceuzcjacgz3y2c9m0h365u7gu25n47hm5f92zmx9rkr542lmcaxc"
+authorization = "signam1qr478n45nr2wzc0zvmgg6g3fp05pt029f46vqun7urzvdctdywe3ektdkd6n0wqvsecvy3u9hs0d2fhsnkhr04p4yuapkqutvfn2xms8dtxx2d"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzp8ddyukj6mdxkf26yvdrfqznfttd4ulhnjazs06vw9np2ufrr5ghcnejx"
+authorization = "signam1qruu5dvjrrnq25tnwvtazh9u3ekfjurs475yuqj43z4ydz969hgef05vgpx3sc84pz3lzeamuwe98v2drgw9kzma93jkpucg2x2vm9gdgy323y"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqsqhrcmkelpghzxdtw9w6a9d5y00c9facymezpts757s0qw0tkdq48ay8f"
+authorization = "signam1qpvrgecq28q74hr4fjap2pufyyqtygnh2q3ql4kmh0jkxrhe5qmr34vc3w599uam88k8gg6nmav7mw8feyl6gzexlmfymtj86fa954gxrtp5uw"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypda4spyakscpqey4n63wudxwwxha6jr246t5u784r9k60gu8paeegrr7gnn"
+authorization = "signam1q85cm3z8ha7684spaya3hfupeevyqsvcj3jnqn4j8aftel95u57k2cwvqdy4u9w2tpy0zncjuga85h84kygnjy6huremkysgj5mxwn8wqy62ja9w"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypc5qcq02j76zc0ulkwjhzh67x6e2lelyq5rd3ewtqk3cmx9n2p23s2qzlr5"
+authorization = "signam1q97cca0qfmdk09u03u8ngd7ersd7s8vddel5crnnmu0l7kcjh4mtyctj5nrtkpp0fuet826cj57943flea9vxvld8a4uc42t7ljp09ctqqan6y5t"
+
+[validator_account.metadata]
+email = "mus56@mail.ru"
+discord_handle = "vladislav7137"
+
+[validator_account.signatures]
+tpknam1qrp72tvh72xuzrqrw6af0s4zgf035nnh3pxtykafl7fmdk777x8equt8473 = "signam1qquxau4nssmdkczn4xe5upgyq8d32pdy6pt4p6y66t0ylckydu8v5a8nlfl56jp8732xzr730mgt4hhlwye666kph00yymmtw03dftgtqkt7m4"

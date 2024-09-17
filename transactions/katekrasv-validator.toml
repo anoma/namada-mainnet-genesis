@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqa0etypknw6jq64vczdth7z53yqjg9nq4djq9jppu87wjqhny0rcyufapm"]
+
+[[validator_account]]
+address = "tnam1q8e26wzlfj3e9env64jh2txsxryu5j3hpg9c2fp4"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqqe37qntj0a9czz6raw5wnet4lklr72zcalun7uhegwvakxlhetqgtkgqy"
+authorization = "signam1qquxmclwv07wnmfuzajcda0cftzd05cf5zy6jg72lrvg7xj7xjyjar3zunvkhkks3ty34qt586lj842wy3fptwn5vzu4wzc64lhyfgqyrlsn55"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqzlrvmymvn6g8g06wu9x3cht2c8czkwtvhkhlrhth0xmjehej0qy9ls5ue"
+authorization = "signam1qqsj7n3l74swqjp685te7xg9t7sneagz4rn5ev5ezgcsrc9sl5x3sayfkgcx90z0wwf2elqyzqwp3ptp5qfekwws7mpln2yr2mkyfhg0z24zuy"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzstnyzjzz7mq2dadpaen4qqclakxz93kvt6n6ykvwnn45r84nmfw34xjt9"
+authorization = "signam1qrvfw2p6uuqp0qm8ukuv2plfqnrlsfp70fp2ln4ngc5ucfr0hvnahsz2kwzqsphku4wgeegl3c4j6q4q94djayr2a4ym0lael2rsc6g2nahzjw"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypcsnte7zgpalavxhnq0f9fd8cnv5f89uxuz7vz5jpfzfrg3rwz3psxjg9ya"
+authorization = "signam1q8fnugqvl62wyxcjqmlq9l7wsrdef54ec0gktfzxs4h6yjv406k6uwv3y3cnkq5r8jlhpxq6d8w6xvp5em0ccyeul3cm7pma8wsyew35qqe477x4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypvd9qxltqwk8qhtkpnnazt40p225hxx95dv65lhvt8clwlp3n0nggyfu7cn"
+authorization = "signam1q8jpg3pv6adqjv9r6wm0f2fa9xxd6t46as46x259v2lyjxer8smuwz84tt89ggkjt63p6gmxped6r5538tjxfzj7dq264we5jzw73jnzqy05arv0"
+
+[validator_account.metadata]
+email = "katekrasv@gmail.com"
+description = "Security and high-quality PoS/PoW validator!"
+website = "https://perfect-nodes.com/"
+discord_handle = "katekrasv"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/99a37637a07799aa133e458be51b0205_360_360.jpg"
+name = "Perfect"
+
+[validator_account.signatures]
+tpknam1qqa0etypknw6jq64vczdth7z53yqjg9nq4djq9jppu87wjqhny0rcyufapm = "signam1qqt54cmynxu70tn7dnujjw9wl3dpw3mya9rdsvkpkl9c3pztafp8yj0nvn57y5e08lsll38jaf7adgv4mpny7rasrhk4qjkh97cunggzqyqrcy"

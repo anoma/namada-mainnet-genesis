@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qznlxfz55q4jyd0ama7cj8jtsl939g3t77va8qwnq5alnnvwrxyhu00s60t"]
+
+[[validator_account]]
+address = "tnam1qyxp2w0e006nwr3ln9gxcvpnypcx40857ytfgyyt"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.78.29:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzzx2usj8nws0klx4uf4jasz7dtx8w2p0dyg8nn0nwfwhx5jfa9swzyzeka"
+authorization = "signam1qq39h2v2nuz28nfn7wrgehfuxj25uxgcxfna53wymxtty9h4ckclwh9n3rmscact7qynqzr0u2a6a2uystl5cmsnawtnvetnac0u0pcdkcksvg"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpu3h2u3cclcwp4ysef6037xhjwr8dvxyz5se7mssfnemyvmpxjmkh35krv"
+authorization = "signam1qp9ld5vxqxtul4kfkvlv75ncvfywqfqpc7x09l37576wr2z78q6s8j3amvplny7x0v7hjj3ssfm0ftd2ly06cs0r260mwxert04ky6sffhjl6v"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq9yauz6m5hs9gsygstshad5s9zrusepp309k9xqujtq44vaywqmuwp2jdu"
+authorization = "signam1qrydm97smckpa8klgdc7u5ev5c7vrslrt8pqg4q7jv8szzxw5jljc7v0vam9f8vpy50ejfgagadlggteyx6lhf0fyjdycrsmdkw80tg0s9m443"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyptuepvp0sx9qlx7gkg0fj7tu8nf3lwlzx7axmy90wsygq7vk8l4js0e7xfu"
+authorization = "signam1q8cvah0x4rcc6yp5gannj2helv6qnp9pj46zalyc6p9xtgfx4wazjfr38k36305ckpknkmmdczfd3xlgdsqug46eemyqzzfhk78k4j8mqqwtg8du"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypk979caglnzgvqkkzgzd0nnd5tskkham44qmucqfnh2xtke86f3gqn06aga"
+authorization = "signam1q9slq6j84lw23myft2d8tne0rzn70d8xvkrg4d284jechny3lpe6s29ppmxd529kselc3m2fud3eyt0f6srcdtm3xd0kgdccw7278avgqy23hljm"
+
+[validator_account.metadata]
+email = "contact@0xwave.com"
+website = "https://0xwave.com"
+discord_handle = "waves9228"
+name = "Wave"
+
+[validator_account.signatures]
+tpknam1qznlxfz55q4jyd0ama7cj8jtsl939g3t77va8qwnq5alnnvwrxyhu00s60t = "signam1qq48j92d3sgvnu5wvnpdcauxr2fh05enzzp22u0q8t2vxfh23xg3xxknhc4zh37cqjajt4jucmzjcpvnual8dqsxx8gf3mhjra202ncqzwwz96"

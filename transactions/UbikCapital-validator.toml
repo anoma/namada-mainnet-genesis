@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp2wu42zqfecaf6utm8f3mf9emz287x2nygq097f94xk8m7s8p0l6k67ktm"]
+
+[[validator_account]]
+address = "tnam1q8jpmstfc07lkj9tu7un9c76h69kfsfsmyqs9clv"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "159.69.141.62:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr5ldeslj5c8dcfmkz38ag27th3c8q47q9cf0qzcwvp2j8s97gvec3m3s2s"
+authorization = "signam1qpgu4q4kfrqry4vr8jehd350mqdargzsmjyk8rh26srus36e8vwd6vn4474kf3a5xcqmqzd3nrewdlvv9ffr3j4z7eazf3s9jzcrx7cwkzheem"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrn43kke0rrjja35aehj930q3yuyl37cju2u7lh4yur45gz57clscfy95e2"
+authorization = "signam1qpdvmc4l5uudac4vuxur8g5e0mqj2u4sw77zse9j5dfzwkeh0tcc7xyex698wv8radnvlvj0232039d80a8p2kgum7r9wqckve2qlxqf0qvdk0"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzv57dl2wx0vtx0j8kr9wkak7jlx59n7ekhen3vh28gpmszxw7v4gxjwzz4"
+authorization = "signam1qqu3vd4eggc7qdv4qqq67td40sd5m3u776fz9aw046ucrcz3raacd740aua98fwhgc44saj4yqee6p2hm0mcwu2d5gxzc697vdky52gy8uwnwy"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypw5nasw6fa7pgpr3zfdv9n2zrr579p3tapwl0ee8ez5dhd9a4u6lqcza867"
+authorization = "signam1qx5dakgvjz9nrc6mqemf6u8y6nfxr33hec9ekpk8rh693a4g2r6d637hcw476fev4ap44xvw0whl669c7yt0grd25t8s70wz8vtpl529qqcxl8a9"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypccr9c6qm6cu3q0q6jehrehdnsykvzznuuu4djfg0vj4yc22swfnqtd29mv"
+authorization = "signam1q8lza5c7em2vkx2yfkq8ppyng7e4smfjaep6nkls4ze4832f73r8k2dg3x3gdszm2axfpxugvqm7lf7qnkvlk2djxvufyp9kkxza8rpfqyymwgu2"
+
+[validator_account.metadata]
+email = "contact@ubik.capital"
+description = "Ubik Capital secures major proof of stake networks and is a trusted staking provider with years of industry experience. By delegating to us, you agree to the Terms of Service at: https://ubik.capital"
+website = "https://ubik.capital/"
+avatar = "https://ubik.capital/ubik.png"
+name = "UbikCapital"
+
+[validator_account.signatures]
+tpknam1qp2wu42zqfecaf6utm8f3mf9emz287x2nygq097f94xk8m7s8p0l6k67ktm = "signam1qr9lykntjgs2jprrpklqmp2u2w389mqfwyxrksfv34g4s78f26r94pjzfkxspd3cgne785tpwq70h9ess3hkhypv2lvdfkj8n042hyc9r3atlg"

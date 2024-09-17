@@ -1,0 +1,37 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzyrfdqdvrg8dmf7r4m3ynk5cy5xd5q3f04sjgt2jl60wfmwaeqnurf982h"]
+
+[[validator_account]]
+address = "tnam1q96k4cmpem5n6tun5qap7vqfxv5fx9hzucp8lqt0"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "136.243.133.109:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzv0td8e2ghl4vh8elxnfcwygeczhudf50e4rf94nu5kk5qwrw4u6vxeytu"
+authorization = "signam1qr26tqfpnld7p0eufa96nxhwajgr6kwheuk0uq299klxg3jpruqfww48hl8zd3ed4tsflf0cupqreg5v5je4qjuqd2uy5z6ew2x2yhs93052f3"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp9zqruu00vkhgl8a036ln5pkdwes5ss7jqch7laekxkdcv08cwvxwp6shv"
+authorization = "signam1qqvd3jla3ln3pj4txgq83rfayp8q4wa42t353g4eut7tjpu9n09sznyefvpjma5fyqswetxvgupzkk2xrq8sawwwkjwk4rqkt4ffwqqvgl5xqx"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrys8c09ufw0w57yyullppxpamrklsdmex4nhazahcgdw2j70x6vs7zhcqj"
+authorization = "signam1qz5sztptfgxpzn8qvfhgrtjsmxkey2q4tyu49gxqkdtpjz9w4cty7p52an8vjggfml7p9qr2y26cslpmxzru38svygznmmfvw4lg8uqv8ex6d0"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypp6e2faj0d5qf2wh03e0l3gypxtszy729ph5smsx7ry3yd8dxwjaq93qmwe"
+authorization = "signam1q844x6hn3p8fnf08gt7vgandmz4sjk9y9um7plcr292m3yn80ajsuhlxvkzmqs5lu0kcyxjyckkwnqr87d8gk8p57a6nq8nf0ud7tq2cqymezcvq"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypenzvq0euqejyeemljcpj43lhjgfjewssuj4e2hfj7553n78rfq6snm6nqy"
+authorization = "signam1qyp756k8xujjnq7d99jvzzs8w462v2wzrl4jc7u6k9g0fdvu240a2jmapyvge2l4aaj0hv5h4wzyveaure8tntskg4dss57y0t0xsdxkqy7uafg5"
+
+[validator_account.metadata]
+email = "infra@poeticte.ch"
+
+[validator_account.signatures]
+tpknam1qzyrfdqdvrg8dmf7r4m3ynk5cy5xd5q3f04sjgt2jl60wfmwaeqnurf982h = "signam1qzlqhhh62ezuxfyspfrx4r8gwcsp63sxnql3zsgr8kxqcmvtsu50x24vm9kancer4zam7u8nr4z5cvfucckekfpzvnj9jwjnr0695wcfqy9gvm"
