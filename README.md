@@ -647,6 +647,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `89686697888@mail.ru`
     - website: `https://namadascan.io`
 
+- address: `tnam1q8mqm9s984ldqclk6qn4x3jd5t03vhjp9s60thf3`
+    - alias: `BlockNth`
+    - commission: `4.0%`
+    - max commission rate change: `2.0%`
+    - total voting power: `0`
+    - email: `staking@blocknth.com`
+    - website: `https://blocknth.com`
+
 - address: `tnam1q8a2xwh072herrmlgf06gvrhna775sqjuufnxydn`
     - alias: `Stake&Relax 🦥`
     - commission: `5.0%`
