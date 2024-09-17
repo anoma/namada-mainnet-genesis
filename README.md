@@ -71,6 +71,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `admin@palamar.io`
     - website: `https://palamar.io`
 
+- address: `tnam1q8dtazgc7y9xx00lq4d2pnacvtz29p5mvcxwat74`
+    - alias: `Staking4All`
+    - commission: `1.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `4900.0`
+    - email: `info@staking4all.org`
+    - website: `https://www.staking4all.org/`
+
 - address: `tnam1qx7xenrcve38c8lmcmewpk42df6pchlyjg34d3lq`
     - alias: `SIPALING-TESTNET`
     - commission: `10.0%`
@@ -78,6 +86,22 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1000.0`
     - email: `sptnode@gmail.com`
     - website: `https://node.sipalingtestnet.com/`
+
+- address: `tnam1qy7u3y3sqltmd68a43lsr0khu8c9y8uyyuzy7sck`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1000.0`
+    - email: `support@gatadao.zone`
+    - website: `https://gatahub.zone`
+
+- address: `tnam1qx635ya9l2yz3ua92kckrad4v2p59madpspm9dtg`
+    - alias: `Disperze`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1000.0`
+    - email: `blocks@disperze.network`
+    - website: `https://disperze.network`
 
 - address: `tnam1q96m7kwchdgzjk7dpvxkq3dxwzjhyjcggyuua5xf`
     - alias: `StakeUp`
@@ -206,14 +230,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `info@blackblocks.io`
     - website: `https://blackblocks.io`
-
-- address: `tnam1q8dtazgc7y9xx00lq4d2pnacvtz29p5mvcxwat74`
-    - alias: `Staking4All`
-    - commission: `1.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `0`
-    - email: `info@staking4all.org`
-    - website: `https://www.staking4all.org/`
 
 - address: `tnam1qxuv9e6rx0stfz7e842q4uwmpcexh50765qqw9ns`
     - alias: `kjnodes.com 🦄`
@@ -1399,14 +1415,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `tarabukinivan@gmail.com`
     - website: `https://tarabukinivan.github.io/personal/`
 
-- address: `tnam1qy7u3y3sqltmd68a43lsr0khu8c9y8uyyuzy7sck`
-    - alias: `Unknown alias`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `support@gatadao.zone`
-    - website: `https://gatahub.zone`
-
 - address: `tnam1q9e2ya0n6d3gaujx5n52qu6clxn4gdqnvshx7uxp`
     - alias: `Huginn`
     - commission: `5.0%`
@@ -1430,14 +1438,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `contact@0xwave.com`
     - website: `https://0xwave.com`
-
-- address: `tnam1qx635ya9l2yz3ua92kckrad4v2p59madpspm9dtg`
-    - alias: `Disperze`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `blocks@disperze.network`
-    - website: `https://disperze.network`
 
 - address: `tnam1q90qxzx3ufd5mlqx7fnppjykf8ywz7fjvc3qudc2`
     - alias: `crazydimka`

@@ -3919,6 +3919,18 @@ tpknam1qrfdawuufjn07vdq2exy6h5djfsel8254452avz6auxdw9y7r3kpcdz7zcz = "signam1qzd
 
 
 
+# adding transaction for jovecosmos-bond
+
+[[bond]]
+source = "tpknam1qpwzqyhlm93rqgt5swj4j2yaf2xxlx274dw9f35nheuaxlehr5d9q495yrl"
+validator = "tnam1qy7u3y3sqltmd68a43lsr0khu8c9y8uyyuzy7sck"
+amount = "1000"
+
+[bond.signatures]
+tpknam1qpwzqyhlm93rqgt5swj4j2yaf2xxlx274dw9f35nheuaxlehr5d9q495yrl = "signam1qrww67cys2d9lrhw9ugzezg9v2x07n32a3q9e0nwfyugm23vjn02s6uf2yat0f0w59tan68s8ehcyldtp67wr0h7aa5ptkxplw6vaycz4xuk4q"
+
+
+
 # adding transaction for ubikcapital-validator
 
 [[established_account]]
@@ -7245,6 +7257,18 @@ tpknam1qzluhwmzp9aek7hpvj8a2q8afacw4gcjs5g457cjq4l5sfuqj8dd2w26hqw = "signam1qzh
 
 
 
+# adding transaction for giansalex-bond
+
+[[bond]]
+source = "tpknam1qzqsf8vzlnf50dtptgnjqx7mjgsndshfkxy28mzn8tmlwedve9d5cl8ftgu"
+validator = "tnam1qx635ya9l2yz3ua92kckrad4v2p59madpspm9dtg"
+amount = "1000"
+
+[bond.signatures]
+tpknam1qzqsf8vzlnf50dtptgnjqx7mjgsndshfkxy28mzn8tmlwedve9d5cl8ftgu = "signam1qz2n449eslrtmlgxtykvtdq4vjtelclns3rn0fnvaz6cptshr8zrdepy689uu2ulr3e3d39fpx9l5tj2kku33ytjtta3077dhgs55pqgppec5y"
+
+
+
 # adding transaction for ekhvalov-validator
 
 [[established_account]]
@@ -8033,6 +8057,18 @@ name = "taronchain"
 
 [validator_account.signatures]
 tpknam1qpf0pjqet28jfcq9wwjvtha3mefgevmpffwts2ku78mt8xuymkfzygduze6 = "signam1qp5pe5zugtrtd9hum368nsr2kxwskzne4swqhp09lv4ydpgjagqjrx5u3scnt6q7spmac5jd494z0up2j7egmtmadz4z692u9ywt4kct842x3f"
+
+
+
+# adding transaction for staking4all-bond
+
+[[bond]]
+source = "tpknam1qr8de407z2h3q84nx8fq0sanwq4h3hhycsnzs6e7hflv3f5eqvkfyvh4ttn"
+validator = "tnam1q8dtazgc7y9xx00lq4d2pnacvtz29p5mvcxwat74"
+amount = "4900"
+
+[bond.signatures]
+tpknam1qr8de407z2h3q84nx8fq0sanwq4h3hhycsnzs6e7hflv3f5eqvkfyvh4ttn = "signam1qrja5dgna47p3tdfn6dkauwlxt7vyvpgwry0u4tk06mxawq78fq87x9uzfefg2zm33yfkjkzzm7e3clwr26l0ekcw7cwj2lz7h5njjgru5y8dc"
 
 
 
