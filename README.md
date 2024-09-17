@@ -127,6 +127,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `staking@chainbase.com`
     - website: `https://staking.chainbase.com`
 
+- address: `tnam1q8lx8va8vmqwftfw3435q8e9ddpyddtkw56mr3tp`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0`
+    - email: `merlin@wetez.io`
+    - website: `Unknown website`
+
 - address: `tnam1qy43rawgevk9jcun495r9sn8pyu7yhxzhgph6e4g`
     - alias: `ArchitectNodes`
     - commission: `5.0%`
