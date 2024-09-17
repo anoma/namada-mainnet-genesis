@@ -21,7 +21,7 @@ permissions:
 
 env:
   CAN_ADD_VALIDATORS: 'true'
-  CAN_ADD_BONDS: 'false'
+  CAN_ADD_BONDS: 'true'
   CAN_ADD_ACCOUNTS: 'true'
   RUST_BACKTRACE: 1 
 

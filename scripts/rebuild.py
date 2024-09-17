@@ -8,14 +8,22 @@ from jinja2 import Environment, FileSystemLoader
 def build_graph(validators):
     fig = go.Figure()
     fig.add_trace(go.Bar(
-        x=[validator['address'] for validator in validators],
+        x=[validator['alias'] if validator['alias'] else validator['address'] for validator in validators],
         y=[validator['voting_power'] for validator in validators],
         name='validators',
         marker_color='indianred',
     ))
 
-    fig.update_layout(xaxis={'categoryorder':'total descending'})
-    fig.update_xaxes(tickangle=75)
+    fig.update_layout(
+        xaxis={'categoryorder':'total descending'},
+        autosize=True,
+        width=1500,
+        height=500,
+    )
+    fig.update_xaxes(
+        tickangle=75,
+    )
+    fig.update_yaxes(automargin=True)
 
     fig.write_image("images/validators.png")
 
