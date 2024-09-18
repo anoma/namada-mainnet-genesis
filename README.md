@@ -15,6 +15,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ## Validators
 
 
+- address: `tnam1qx7wyapm8f9ddlukz3p7gdmhjjvck7lmaqjeflra`
+    - alias: `BXKelePool`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `624900.0`
+    - email: `winlin@kelepool.com`
+    - website: `https://www.kelepool.com`
+
 - address: `tnam1q9rq7p4wzy6fea96xs5sr8qnsxsfdr2zugfsvw2n`
     - alias: `Nodes.Guru`
     - commission: `5.0%`
@@ -63,6 +71,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `contact@kjnodes.com`
     - website: `https://services.kjnodes.com/mainnet/namada`
 
+- address: `tnam1q9ude2ceqdj8dk6z3rwxnykm446j5lfkwy747kzp`
+    - alias: `Chainbase Staking`
+    - commission: `5.0%`
+    - max commission rate change: `2.0%`
+    - total voting power: `19990.0`
+    - email: `staking@chainbase.com`
+    - website: `https://staking.chainbase.com`
+
 - address: `tnam1qy3m25cx7gd67vyz5px5wjj5gcy4pfhnnux9mhcr`
     - alias: `CryptoSJnet`
     - commission: `5.0%`
@@ -86,6 +102,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `10000.0`
     - email: `nguyen@mekonglabs.tech`
     - website: `https://mekonglabs.tech`
+
+- address: `tnam1q86ydne27sxc4tzgzy5wcv9mwrwa0gwtqg4rfuue`
+    - alias: `Moonode`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `6769.0`
+    - email: `bngq323@outlook.com`
+    - website: `Unknown website`
 
 - address: `tnam1q8re97lpfp5kmj5nu3t5sxvlp8yydnfjkuzw76dp`
     - alias: `Palamar`
@@ -118,6 +142,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1999.0`
     - email: `nomad@nomadvalidator.com`
     - website: `www.nomadvalidator.com`
+
+- address: `tnam1qysez03jadg5uann2vpr3tdap3ahyfl2hv0kg085`
+    - alias: `laliola`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1000.0`
+    - email: `sale.laliola@gmail.com`
+    - website: `https://github.com/JuliaMoon1`
 
 - address: `tnam1qx7xenrcve38c8lmcmewpk42df6pchlyjg34d3lq`
     - alias: `SIPALING-TESTNET`
@@ -238,14 +270,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `web34ever@gmail.com`
     - website: `https://web3validator.info`
-
-- address: `tnam1q9ude2ceqdj8dk6z3rwxnykm446j5lfkwy747kzp`
-    - alias: `Chainbase Staking`
-    - commission: `5.0%`
-    - max commission rate change: `2.0%`
-    - total voting power: `0`
-    - email: `staking@chainbase.com`
-    - website: `https://staking.chainbase.com`
 
 - address: `tnam1q8lx8va8vmqwftfw3435q8e9ddpyddtkw56mr3tp`
     - alias: `Unknown alias`
@@ -439,14 +463,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `max0476@protonmail.com`
     - website: `Unknown website`
 
-- address: `tnam1qysez03jadg5uann2vpr3tdap3ahyfl2hv0kg085`
-    - alias: `laliola`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `sale.laliola@gmail.com`
-    - website: `https://github.com/JuliaMoon1`
-
 - address: `tnam1q82fsvmdkjfm7awr04xa0rkn27edztd9fypma6ha`
     - alias: `n1stake`
     - commission: `5.0%`
@@ -478,14 +494,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `an0drei83@gmail.com`
     - website: `https://powerstaking.tech`
-
-- address: `tnam1q86ydne27sxc4tzgzy5wcv9mwrwa0gwtqg4rfuue`
-    - alias: `Moonode`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `bngq323@outlook.com`
-    - website: `Unknown website`
 
 - address: `tnam1q8t4hkv7dqjkka7ns42rramvz0dmj98g7q7zq67m`
     - alias: `owl-validator`
@@ -798,14 +806,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `office@daic.capital`
     - website: `https://daic.capital`
-
-- address: `tnam1qx7wyapm8f9ddlukz3p7gdmhjjvck7lmaqjeflra`
-    - alias: `BXKelePool`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `winlin@kelepool.com`
-    - website: `https://www.kelepool.com`
 
 - address: `tnam1q9862p53waknqh6vxxvz7ymwlqlrx5qqqcqxgeeg`
     - alias: `DomiNodes`

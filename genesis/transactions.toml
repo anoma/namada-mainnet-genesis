@@ -1839,6 +1839,18 @@ tpknam1qqnvq3hq829ukwkdl5jpqs7kduf7shf62r8mvq8xhljt2evch9hw7cux04z = "signam1qqe
 
 
 
+# adding transaction for juliamoon1-bond
+
+[[bond]]
+source = "tpknam1qpxleh3wtgyxdlm6e6ux6m5mfafad6l7jae42r6xvf0yaemerltcjms5d8l"
+validator = "tnam1qysez03jadg5uann2vpr3tdap3ahyfl2hv0kg085"
+amount = "1000"
+
+[bond.signatures]
+tpknam1qpxleh3wtgyxdlm6e6ux6m5mfafad6l7jae42r6xvf0yaemerltcjms5d8l = "signam1qqtv4vngmt5dye6w9l03zq3p639gavxzw90natvafw4nudzhnzj3smgxau3a25kpd4sjvxhpsfvw3urw6vlp6eq3nhqs50hnft0ut4qw9t2cvl"
+
+
+
 # adding transaction for jetrix-validator
 
 [[established_account]]
@@ -1881,6 +1893,18 @@ name = "JeTrix"
 
 [validator_account.signatures]
 tpknam1qqm7v8rcsz2fce2xf8x36edm7vj97xjs7qk98q0s85h6xqjegahsw065att = "signam1qpja0yvw4m6njgwc46gpsvgm8kjn03aa8zkevwrs0hymp9mmvj4pz4hz747gm033229uv3e2w04j49gkegkckcyy34ck52dsf9wscdcru6xeqc"
+
+
+
+# adding transaction for 0x0conan-bond
+
+[[bond]]
+source = "tpknam1qqwjefewgdqeds9zf20kvpv6j6qk68vg7dgncvh5ehsv9xmdhlr62sgffhc"
+validator = "tnam1q9ude2ceqdj8dk6z3rwxnykm446j5lfkwy747kzp"
+amount = "19990"
+
+[bond.signatures]
+tpknam1qqwjefewgdqeds9zf20kvpv6j6qk68vg7dgncvh5ehsv9xmdhlr62sgffhc = "signam1qpam75at4sqprx2z8gudd6u8xtgxze8qxz7u733yfd6w9xzv50rw9adyl83p9f6sqwmy2renvckzf3mhuwdrghq2yuu7gjdcly4qkust050665"
 
 
 
@@ -3675,6 +3699,18 @@ tpknam1qz3zh6kmnufdgl06k67e65v390g49sruf9975tsnnq6jjxyyu0zt5rcvrcm = "signam1qrt
 
 
 
+# adding transaction for winlin-bond
+
+[[bond]]
+source = "tpknam1qzrd6n7xtjtt9aaau8jg2zt40clefk8d79cnq7l2jmuuuskgw2f8yuhzgyj"
+validator = "tnam1qx7wyapm8f9ddlukz3p7gdmhjjvck7lmaqjeflra"
+amount = "624900"
+
+[bond.signatures]
+tpknam1qzrd6n7xtjtt9aaau8jg2zt40clefk8d79cnq7l2jmuuuskgw2f8yuhzgyj = "signam1qzwzfp2jc66kktgzvzp6f5n2y6ujtjv0en9u8xsg2mhgdk200n3zx8fsxlxjvhsv2m9c6j30k7y0eysdt0t8k55pgqeh239t6ptaq6c8hcheje"
+
+
+
 # adding transaction for synergynodes-validator
 
 [[established_account]]
@@ -4683,6 +4719,18 @@ name = "securesecrets"
 
 [validator_account.signatures]
 tpknam1qzq5chxy99hym52qesz9hecxvukj0dlnkr2s0ee0ph27wcaf7zf8cdjg8kl = "signam1qrkyvfvwj6v8qen63flk7jjge8284ndlgsnvaulgmy449fpm9ud645lmr498j70tj432u0q3epn9srmuqe0cdw6u6p53aqcu64e22ls2vvarj6"
+
+
+
+# adding transaction for bngq323-bond
+
+[[bond]]
+source = "tpknam1qrkmz977cjm6273jknkptvq6d8xxzed9jh6lsyth95a6jyqhfs4zye2u8mx"
+validator = "tnam1q86ydne27sxc4tzgzy5wcv9mwrwa0gwtqg4rfuue"
+amount = "6769"
+
+[bond.signatures]
+tpknam1qrkmz977cjm6273jknkptvq6d8xxzed9jh6lsyth95a6jyqhfs4zye2u8mx = "signam1qqjlxp6zk57jka4ur9sms396ul5zu0cnpj2575x9n5pwupktx4l3fhcuwn6glp73zkcmxwvd6y8s7f6phgvj0y0z8a2nzsaq9cf3recz8sz23w"
 
 
 
