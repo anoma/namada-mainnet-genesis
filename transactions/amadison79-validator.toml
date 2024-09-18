@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrjajc08yd4nv6n7tu38jj45nx76z2swpen0f40wvwgqam2zf4yl6gltjv2"]
+
+[[validator_account]]
+address = "tnam1q8hfzffj0ckxumqgvu3thal3wprzt4c7eypss6ts"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "89.117.49.160:52112"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr3xyavkwq3k0tlzgh4vttxzmgedkxr32x6zdzt0v0x8exfnqc9f7y5nz5p"
+authorization = "signam1qpt57vlrlp0ex4nv2hpq7jjnxrs0cxq4f6xj8x0x4ey02mfsswc00adqczues2yjh7f3gwm3kdr7phymv632vktmhpq8m0h7630jvycpcgchvj"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzvvxt2hlacxjzwwzklkhkgr50vy2kqpmpfj5a6rsc9nmvk9nz6fxlmeygh"
+authorization = "signam1qp0dmwsdzzftrpas20lzs2906hen72vs8vh5u5nef9hf2kkhhj6r0j2f7svy57ewc89aml7ve2qtvjwvxhs7scrvwjfa05j9pa7826c9d6rlkm"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qppe73ant6nsqc765mpkrx3qd7d9z74lnn5xwstphseeh0r6msyusfv7usl"
+authorization = "signam1qzyjufcrf259gj8ylx7hawvqyug7zaalu3tczmgfyjpaavq2h03swy6pdcq6txdkqc6jf4nsvkn23cpt8m04tv8hxaxpczutn0wwykszl2e7g3"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypvhs9rxtcnw90x9canuzs0y80d68wdj7qwx0un07h736f2rrg3vdq0wr3py"
+authorization = "signam1q8n54wt4246uhrqe9tt9wm30pvklwnh6ujgfppplw7nsgdelzdfexa9lfxeauks3dxv595yrav98zplufn4lpjpl98ecpgqhxanuhxu5qyxtc685"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypu68v8qhtrnq40dsypv08m0ly8fpxg8au8sprgy8qty6tuzkajftg5w23ql"
+authorization = "signam1qyhc272rkufge7jqwnxl6mnc64g8fhp00fhy53qxq8caa4d3z7dtw2mf5d0q3cssrzeh7k3w6c0kjss606t3kjwer7suf6jndwl5swgcqyjg4dyl"
+
+[validator_account.metadata]
+email = "79nicolas79@gmail.com"
+discord_handle = "amadison79"
+avatar = "https://i.ibb.co/RTmNR7X/Portrait-de-Dante-2.jpg"
+name = "Centauri"
+
+[validator_account.signatures]
+tpknam1qrjajc08yd4nv6n7tu38jj45nx76z2swpen0f40wvwgqam2zf4yl6gltjv2 = "signam1qrun9jdkhypwkn6pk43qv0jy4xvlsxascrml6hedstdel2kd8cy6rudea0ga02zztp0zdnd4z6ueunq99djctv3k6dudz48c28qcp8gyew4qfh"
