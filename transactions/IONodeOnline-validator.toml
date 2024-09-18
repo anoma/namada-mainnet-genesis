@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq5d39avmqtt3wek2x6red9uhvnzjgwkz5tslx4jrdcuadgackxg5g5t54s"]
+
+[[validator_account]]
+address = "tnam1qxyx90jvjew6ng5tgpfgfhwrt4g4atg7kq9u7wly"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.1"
+net_address = "37.120.173.44:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqm46mguvvvsjh73kr00jgntjzhcevmf0kuwjqgwjs50ua282juyz4mjzq3"
+authorization = "signam1qzluskrhuj0xudeu40jjzws5wgh77755avm0qlhzyq73rnu6js7an8vfkzexna85cdtp7mn93zqnhkrcxuc95grkmmrvq8tmmy77mfsqyjh79t"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzmrtkz0al3hdqtp09kthnz0hf2rcfdrknkkwy58k03cqxte087kxukhdn0"
+authorization = "signam1qqdg5h9l4wdgltd8y2slvt4dx6vrrh84ulpfzyyrtuhckx9mmccc40gzmes8kly6qqgnrkj979qfuxu54vzz6sy854g4q0xjhkzmdxcdrxnkvs"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqh7eg9hzt688e3ffz50xawzk8m8wxs2hra2j4694069g0t0ltz56kp4h7m"
+authorization = "signam1qr4fxdgq900anatejt7dxd3antpt4ef66ju4pw2tqppcyaa8dkh0hrc98lw3lj3qcp7uheedunvsdcmnwkad0ym2qz6tjecxyjuxqmctqmmdm8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypuuzhdntahj6wsqgj7jjzwp4v80jemhfgghl9r9dw7qysm20ja79gul4mp3"
+authorization = "signam1qxsswqjtqxnwnnynagn0cvsfn4paxuq6vzhgl2klvj6tzjl2j5gfgr9067qenfj4w66dmgs9kf72d5vntu77edng77hnnvk9v4dwpdl8qq7vqu0p"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypqnye7qfl8kt2q20ghja6s9fzjkhapkd7h09m7hss36xd0w34m09cy5s0md"
+authorization = "signam1q99vu5lfyserk7gymhyclqqxpvf2jv74gg8ch0zae5nxyfmzc552y7yk3ytn8z38y92rrky5nnf42je60xyuegxwt5p5u7ugl4xgegdrqqdpgpdm"
+
+[validator_account.metadata]
+email = "ionodeonline@gmail.com"
+description = "Professional PoS Network Validator, Highly Secured and 24/7 Monitored"
+website = "https://IONode.Online"
+discord_handle = "orochiionode"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/6193d380a9b25f004c0cf572d6709c05_360_360.jpg"
+name = "IONode Vietnam ✅"
+
+[validator_account.signatures]
+tpknam1qq5d39avmqtt3wek2x6red9uhvnzjgwkz5tslx4jrdcuadgackxg5g5t54s = "signam1qp85wvjj4ee9mmygsapjcf5dsy5c84tfdqzkgspmpn8vj3xy5f0rlq32a0c8447sghry5uvkj8p67cw5suwexxjqr25rzr2mdfzhmhqxczjau4"

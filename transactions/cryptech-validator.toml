@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qznap22mgezvgusgjxmhgxh28763fy69pqjfvx5x83ar20nkn8s5j020yx6"]
+
+[[validator_account]]
+address = "tnam1qysxqwyeldesm2cdfhkr86jky5vj5vu8cu9jjqtw"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.144.99.39:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzxd7m0h9p8f489n5nk2uk5l94axaz9jeegh5umy3prn3cg7pmmm20vsvak"
+authorization = "signam1qpsjszuhccyu79thy8e62vjd037sp6uml6v0ru777pxcndkvghhv06sjqyehn5wj6taaghuzyldaygt5k2nt9jyq053kqjg4nk6ynwq2dfwj4a"
+
+[validator_account.protocol_key]
+pk = "tpknam1qralznfm42wsx7rgn308av9r5zkcck5nydhzlp5g0gtk9y26t5h6qyr9230"
+authorization = "signam1qzk3wvy4yd2czukl56mf9dqwz5cvatj6c3qgkcd8yjzmnk9uzmvr6hvayvua4znxwwru3k0gkrf0zd23vh5cm8lq6xpyggtng68486cxegwn5p"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpvq7sr5lktldydr4qcgpkc77zpjap5l33zsg0wxqqgac8ye3pcfquvrwsh"
+authorization = "signam1qp5w9ju7pqpm0flddd0farg5zzcwukqtane398kwf4td5tvtsq5xku27cwpd4gvss3gepm5dnhtsd2fnhg82cyspdu6sk36zf8lqelczzcqerx"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyptnheuu5krytq4xu95m9706lp00fsrh5zwu8cr7fpwregw28sz3fsgyy0yr"
+authorization = "signam1qxkfm3wm769524r4fq3phym286azjg3s8mf49fs6rg2s075xfl5z79cw8dnea67dad0t5fcs3zcg48zk2v28usn832tuk3tzzq4932plqqllpha5"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp3eqlwueeedkucxwjh0qfgzvt5ghww7zed6szlptf9wqreanzrgys7ats4j"
+authorization = "signam1qyauxjd9xjuja6spdyfwx2xw8kycayqpw9lpw069jqf60z7864zw2menqx05z3f5nld7mwvnd889m2zwrdvekccxjch29hka0h4345nwqqg5ztgm"
+
+[validator_account.metadata]
+email = "cryptech.nodes@gmail.com"
+description = "Team DevOps and Nodeoperators from Ukraine"
+website = "https://services.cryptech.com.ua"
+discord_handle = "romashkin_cryptech"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/366d89bc67a6c764f0d62245447ee305_360_360.jpg"
+name = "cryptech"
+
+[validator_account.signatures]
+tpknam1qznap22mgezvgusgjxmhgxh28763fy69pqjfvx5x83ar20nkn8s5j020yx6 = "signam1qqwua6dnet5rw8sqxt9vdjr95wrsr83kf2w03yljnvnj6lacxcy0nsx0xrda49k0053lazhcwtmly93t8sslyuj55varcm8nqp8pnzg8t7fsu6"

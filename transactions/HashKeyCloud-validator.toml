@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz6hvp3h7f8d9mrf7zr4tgusyc0n9flj4urpf3k9hjuc5sywavwjy7uvc6x"]
+
+[[validator_account]]
+address = "tnam1q9nnw09fl7a3f2nzmu6dtqea9txthjevnvruc38g"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "165.154.224.184:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp20zftt2qp0e5d5fckpstl0sa2tt49caja2yfq988543wxa6r5tqncjea2"
+authorization = "signam1qquuv9w2xk8qhwaan9sumgck46aka4edlyynsk57yxaw8cs4f5hzx3xg4yu8d423mqcpqpjk3yaknc3rn4cka2472j5g4qqu48w42kq0p8apwq"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrygrmjxhxs9d7rsu2jp8cv8t8p60hjkp90pswmf5hqdnr7062d9y8xymxa"
+authorization = "signam1qrtf2ypz8a3lvguusjrn5r875r5wuvhm9tnjnadc35c3s59pvv47x4xksmzgslzvchsm765m6z3ljgp320dd9q06fz9n68cvu9kmcxqt79fesj"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpkt0ma5nczkj8kfp35cg627hx4vlyl6nldqnyzffggrzd60rjd6s7j95ng"
+authorization = "signam1qpc8qjy9r6gk3nkgguwrvkp2e5xw3ucyehqxaazlhym0x5h2c2cpe72x7xygva3z3r5efhnllkkvrls7vq6nxaknqkynh943lemf3fc0dycn6d"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypw46fmscreh0gp3mk0u6f0ulv6xv62n7q7ldwqzmxena2z0z7z85gz6zdu6"
+authorization = "signam1qyklfaaus487a7uw52gfcfeef5fxqlkdatk466ajlfxu874zug67qyp477jvz02gvvwzs7n0dy4eu0g9fc6zeeg9y4zeydjqekug2jrrqyy75sns"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp3uvszak92qy48pw2vnx37g2qa2sax80ymmfg7htphmhm4fapdm6qh205mq"
+authorization = "signam1qx4m34zzxyldh3y8z6632dgngss74wftk35tnud8laet4592ve3hxk6k0292edqlkcesx5jxpfjcjj72srns5v36m9le99lhuzrlh4lpqqqr47zn"
+
+[validator_account.metadata]
+email = "admin@hashkey.cloud"
+description = "Cloud for WEB3 More Than Staking"
+website = "https://www.hashkey.cloud/"
+avatar = "https://raw.githubusercontent.com/HashKeyCloud/HashKey-Cloud-Logo/main/hashkey-cloud-white.png"
+name = "HashKey Cloud"
+
+[validator_account.signatures]
+tpknam1qz6hvp3h7f8d9mrf7zr4tgusyc0n9flj4urpf3k9hjuc5sywavwjy7uvc6x = "signam1qppdej67cz9mytf55vql34yt4wrljllnz72cnpdeadcvgfclhyhkrc8v0za9s4kavd0cgtrvd2gxf8hja6hfzuuk0dghyhuxqj7t86qxgjjy6z"
