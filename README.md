@@ -135,6 +135,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `staking@chainbase.com`
     - website: `https://staking.chainbase.com`
 
+- address: `tnam1q9hafe0nf5k7pnkcmzp4tezgux6v7a6r25yqfe60`
+    - alias: `Oneplus`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `15000.0`
+    - email: `oneplus9159@gmail.com`
+    - website: `Unknown website`
+
 - address: `tnam1qy3m25cx7gd67vyz5px5wjj5gcy4pfhnnux9mhcr`
     - alias: `CryptoSJnet`
     - commission: `5.0%`
@@ -814,14 +822,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `contact@ubik.capital`
     - website: `https://ubik.capital/`
-
-- address: `tnam1q9hafe0nf5k7pnkcmzp4tezgux6v7a6r25yqfe60`
-    - alias: `Oneplus`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `oneplus9159@gmail.com`
-    - website: `Unknown website`
 
 - address: `tnam1qyplu8gruqmmvwp7x7kd92m6x4xpyce265fa05r6`
     - alias: `Grand Valley`
