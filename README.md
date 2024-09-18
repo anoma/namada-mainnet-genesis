@@ -23,6 +23,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `winlin@kelepool.com`
     - website: `https://www.kelepool.com`
 
+- address: `tnam1q8wldcr49mhm92a69fmf847d8rn48e6gcql2s4ya`
+    - alias: `bitszn`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `221600.0`
+    - email: `bitszn.com@gmail.com`
+    - website: `https://bitszn.com`
+
 - address: `tnam1q9rq7p4wzy6fea96xs5sr8qnsxsfdr2zugfsvw2n`
     - alias: `Nodes.Guru`
     - commission: `5.0%`
@@ -46,6 +54,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `100000.0`
     - email: `zenodeapp@gmail.com`
     - website: `https://zenode.app`
+
+- address: `tnam1q99e0kqh32q6s3f3mr0ds772edyg7862jgj23fhh`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `100000.0`
+    - email: `fastrpl@gmail.com`
+    - website: `https://itrocket.net/`
 
 - address: `tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t`
     - alias: `Stakeflow`
@@ -78,6 +94,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `46566.67`
     - email: `contact@kjnodes.com`
     - website: `https://services.kjnodes.com/mainnet/namada`
+
+- address: `tnam1qy0zrla88txv244suxaruqgr9g74vr8vyufd8rp7`
+    - alias: `Wavefive`
+    - commission: `4.0%`
+    - max commission rate change: `2.0%`
+    - total voting power: `29000.0`
+    - email: `hello@wavefive.co`
+    - website: `https://wavefive.co`
 
 - address: `tnam1q9ude2ceqdj8dk6z3rwxnykm446j5lfkwy747kzp`
     - alias: `Chainbase Staking`
@@ -134,6 +158,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `6666.0`
     - email: `admin@palamar.io`
     - website: `https://palamar.io`
+
+- address: `tnam1q8g86hqz3rajj5p64pf22zmlvp9lkd976ufpz7mc`
+    - alias: `Igor_Gusarov`
+    - commission: `3.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `6200.0`
+    - email: `igrgusarov@gmail.com`
+    - website: `Unknown website`
 
 - address: `tnam1q8dtazgc7y9xx00lq4d2pnacvtz29p5mvcxwat74`
     - alias: `Staking4All`
@@ -631,14 +663,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `admin@validatorvn.com`
     - website: `https://validatorvn.com`
 
-- address: `tnam1q8wldcr49mhm92a69fmf847d8rn48e6gcql2s4ya`
-    - alias: `bitszn`
-    - commission: `5.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `0`
-    - email: `bitszn.com@gmail.com`
-    - website: `https://bitszn.com`
-
 - address: `tnam1qyep6245as3ar6a6ymk9tvsd6rhdnkr9rgx8mnwl`
     - alias: `Unit 410 [2]`
     - commission: `20.0%`
@@ -847,14 +871,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `katekrasv@gmail.com`
     - website: `https://perfect-nodes.com/`
 
-- address: `tnam1qy0zrla88txv244suxaruqgr9g74vr8vyufd8rp7`
-    - alias: `Wavefive`
-    - commission: `4.0%`
-    - max commission rate change: `2.0%`
-    - total voting power: `0`
-    - email: `hello@wavefive.co`
-    - website: `https://wavefive.co`
-
 - address: `tnam1q8xwyyc9j58w09wqm0z3jjjkt08699t4syfnpgmh`
     - alias: `nodes_navigator`
     - commission: `5.0%`
@@ -918,14 +934,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `connect@nocturnallabs.org`
     - website: `https://nocturnallabs.org`
-
-- address: `tnam1q99e0kqh32q6s3f3mr0ds772edyg7862jgj23fhh`
-    - alias: `Unknown alias`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `fastrpl@gmail.com`
-    - website: `https://itrocket.net/`
 
 - address: `tnam1qygn0qw0knlguygtxz6hgrluxhu5kt9a8vqvtj36`
     - alias: `Peach`
@@ -1477,14 +1485,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - max commission rate change: `1.0%`
     - total voting power: `0`
     - email: `nodemeister@pm.me`
-    - website: `Unknown website`
-
-- address: `tnam1q8g86hqz3rajj5p64pf22zmlvp9lkd976ufpz7mc`
-    - alias: `Igor_Gusarov`
-    - commission: `3.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `igrgusarov@gmail.com`
     - website: `Unknown website`
 
 - address: `tnam1q973h5dwpl0wv4t8zy9gmafllmrnalde0vek58zq`
