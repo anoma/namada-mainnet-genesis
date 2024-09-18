@@ -63,6 +63,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `adiadi2411@gmail.com`
     - website: `mdnodes.com`
 
+- address: `tnam1qy07wl9ds2kl4cfew0426jv4qlzx7kh9pqft7ltr`
+    - alias: `ContributionDAO`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `46600.0`
+    - email: `security@contributiondao.com`
+    - website: `https://contributiondao.com`
+
 - address: `tnam1qxuv9e6rx0stfz7e842q4uwmpcexh50765qqw9ns`
     - alias: `kjnodes.com 🦄`
     - commission: `5.0%`
@@ -102,6 +110,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `10000.0`
     - email: `nguyen@mekonglabs.tech`
     - website: `https://mekonglabs.tech`
+
+- address: `tnam1q83gqj9fpny50g7pclc62wu7qxjc7mdlwvq5s2ca`
+    - alias: `staking-power`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `7295.0`
+    - email: `aquariusluo@gmail.com`
+    - website: `www.staking-power.com`
 
 - address: `tnam1q86ydne27sxc4tzgzy5wcv9mwrwa0gwtqg4rfuue`
     - alias: `Moonode`
@@ -831,14 +847,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `katekrasv@gmail.com`
     - website: `https://perfect-nodes.com/`
 
-- address: `tnam1q83gqj9fpny50g7pclc62wu7qxjc7mdlwvq5s2ca`
-    - alias: `staking-power`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `aquariusluo@gmail.com`
-    - website: `www.staking-power.com`
-
 - address: `tnam1qy0zrla88txv244suxaruqgr9g74vr8vyufd8rp7`
     - alias: `Wavefive`
     - commission: `4.0%`
@@ -1102,14 +1110,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `stakearmy@gmail.com`
     - website: `https://stakearmy.com`
-
-- address: `tnam1qy07wl9ds2kl4cfew0426jv4qlzx7kh9pqft7ltr`
-    - alias: `ContributionDAO`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `security@contributiondao.com`
-    - website: `https://contributiondao.com`
 
 - address: `tnam1q89xnpnrfsefr9ynj4v8ngdu35me8xudzgn94afm`
     - alias: `Enigma`
