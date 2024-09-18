@@ -47,6 +47,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `info@cosmicvalidator.com`
     - website: `https://www.cosmicvalidator.com`
 
+- address: `tnam1q8yksf6xqm6u8e2axhy7wyx0elslnh7tdsrp2y9m`
+    - alias: `HadesGuard`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `100000.0`
+    - email: `truongquoctuan61@gmail.com`
+    - website: `Unknown website`
+
 - address: `tnam1qy500vdqtcumxzfhjccrhdx9j9wawhsyg536thwn`
     - alias: `anodeofzen`
     - commission: `5.0%`
@@ -518,14 +526,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `admin@idekubagus.com`
     - website: `idekubagus.com`
-
-- address: `tnam1q8yksf6xqm6u8e2axhy7wyx0elslnh7tdsrp2y9m`
-    - alias: `HadesGuard`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `truongquoctuan61@gmail.com`
-    - website: `Unknown website`
 
 - address: `tnam1q9ys6rx7h9d20a5gq0dewx6uze6k2trxayt90zf3`
     - alias: `Unknown alias`
