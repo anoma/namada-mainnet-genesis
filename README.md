@@ -191,6 +191,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `info@staking4all.org`
     - website: `https://www.staking4all.org/`
 
+- address: `tnam1q83z54q574kvzfujk5dt9kpy42a4zpassueswgyq`
+    - alias: `alexit`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `3000.0`
+    - email: `alex.it.prof@gmail.com`
+    - website: `https://github.com/AlexITProf`
+
 - address: `tnam1qxlahm9qqxqhyjezsxvrpkn9ajekrkg2xq5v8rz8`
     - alias: `forest`
     - commission: `5.0%`
@@ -630,14 +638,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `support@validatus.com`
     - website: `https://www.validatus.com`
-
-- address: `tnam1q83z54q574kvzfujk5dt9kpy42a4zpassueswgyq`
-    - alias: `alexit`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `alex.it.prof@gmail.com`
-    - website: `https://github.com/AlexITProf`
 
 - address: `tnam1q8jrrf8s22cwd22yxhwc38tlvahplh2wyqjzl9gx`
     - alias: `P2P.org 💙`
