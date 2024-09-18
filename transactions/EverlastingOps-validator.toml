@@ -1,0 +1,37 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp7hnlgqzu0z022nsd3hcugjf9v97392g7l27h9slqjddsxretpf5esnyhy"]
+
+[[validator_account]]
+address = "tnam1q98jzz306gldxvtg5quwnej4zvna6pgnquk2t4dc"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qphg8mz64unt2xd0ujngrccsk9m25p8ddty378x9xz7y0xq40tmz5r00q2t"
+authorization = "signam1qq4kcnxdapustyfh9s057mqucpp3hvs8vmdmzaaru0l5f8w6tr4937hvhjjf0k5lwtqfkmalfutl65tfhuyltcgat85n06glt6elamsvz8cuz3"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqtcw82punsph5lcmxy6rwgl6duh5ltupq0pegfdvjfd4t47n727uj3l0kt"
+authorization = "signam1qpne3q2eemv7vl34xamrnutp3ec3jsyy5hhrmlnzt2nd44uy2jdt6834nt5xqtm3luyrvxxhy0r7t38rdv9jk9kxr3arw2xssd5h7lcvhwc4k3"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrvuvkq4ccj2y9ca3854a8pu2t54ghkvld2nqlr638k4aef07pw4ww3ldna"
+authorization = "signam1qps7cjthvq3q3hnpkzndyv93uawwhyaehknz6araxqmsggyn56hgxxg5f75azhjeuntjtrvzkem0tfr8flcpk6jvd9j9kzqj6h0grusdupar8u"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypmuphmqpr49qw9dm2jrgsnlk5qrw3pm9vtdsmj5aqdctclrc2lk6qlhmzv3"
+authorization = "signam1q85af8eqs9dmykaps8mfs65kkf3mvq5679ux8lswqhnjp3yruxu5xs3zdq2tr3gulysqf90prdcvdupz27j2w2x8pvlxcj2xql08cxrtqy9qntr6"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp8je0y2d9tsk4hkqerv64jkqlusee5n0fvj2dee2xmmpanjdmu8ng76ht4w"
+authorization = "signam1q9vwffgaqhq74xrw0rg5yjdq6uyh507vsq8v9q6tm0kd3n56q859un3sh2nzlhhvw9tcsakvv6cxp5ulchtp4m48uw2d8qlcukzpkr2fqy9hjc98"
+
+[validator_account.metadata]
+email = "paul@everlasting.nz"
+
+[validator_account.signatures]
+tpknam1qp7hnlgqzu0z022nsd3hcugjf9v97392g7l27h9slqjddsxretpf5esnyhy = "signam1qz48pl58frsk34mx8z6drt2y0qzedq4sz6aa6km3skugy5d44tz2wdppngphmvkuafnq74kl4rhms7hw6t3rx2z82vpa7rz2h6dgaegfy8vhn3"

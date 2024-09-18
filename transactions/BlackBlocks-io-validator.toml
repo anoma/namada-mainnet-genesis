@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq4w0kjg95fztzrpssvd63drnkf6hxr58zyuw4l54hsn68yzsmr3cvy5tfl"]
+
+[[validator_account]]
+address = "tnam1qycjura8y6uceeuh4wtlyyt0pam6av9xegxtvrkz"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqjna2hferw5p64hn33tpeuscawjfehn8fa7ur8pzq8qjs0hxxymy09lpcm"
+authorization = "signam1qqrnlg3w746fukhfha0hj5pqs42w8knkgh0gwh9xl5vy44cu7u5ar4jcr2z9g6rqgr02yw384v2767z8ef2u7jmc8325ngw4pqz65zgy9afg3y"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz7qh2pk6d3pu954x6g0ek02m29fe7qvr36ztnmcmtjstv6nj5asgtf3wcu"
+authorization = "signam1qqlsjdrsu8j6pf3cj86ctk3jse2f8yscs8dsp865jmvsrmps99389xq09vuu00m6cqmvxv6n474c44ap6d6c6zhp4mz8u9xxpvh7tzqvyef8cj"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq0uccku979jgg8n5gcz2lqvcnmztvjvv3qunskm4n68rmrkkcstqx2cydf"
+authorization = "signam1qqzxuq8g9pruqcxfvu5pm5ftk3tq3nzplzd9fmr9xzl3zf8yjgc5cxp3ykfwar3dam0hascpaf9f9h2allxg9l4tm9hczs4e3xqr4dstwfdzut"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypxvj8rkstxxpnymn0355thvgqn998nmq6299c84scfmdh6jff3ffqz24zx7"
+authorization = "signam1q888rvhhc4l9a7tt6rg0rm6xgywlapy82pmhlg9j83jsj0grhfjtkl86hhas0llzhxj5uq23d7j6er2lnlmc963ndlzhssehxmvcydqjqyqds6s0"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp0s7ns8ljcwnrwqhtls6rq0tl4r2msx9fccp5xfshde42svc8h8ngkry7xe"
+authorization = "signam1q9eqp88yzkkmcuclazqzevm0ukgul46juamxcxmc6cwz3j4hezakvms5je3n9754ghtkvzjhav2htrvzhmgf7jsqr8yezmp604g74797qypxl7e8"
+
+[validator_account.metadata]
+email = "info@blackblocks.io"
+description = "BlackBlocks GmbH"
+website = "https://blackblocks.io"
+discord_handle = "blackblocks.io"
+avatar = "https://wiki.blackblocks.io/public/logo.svg"
+name = "BlackBlocks"
+
+[validator_account.signatures]
+tpknam1qq4w0kjg95fztzrpssvd63drnkf6hxr58zyuw4l54hsn68yzsmr3cvy5tfl = "signam1qrrsxwg0jqv2r4uztlc6yp90ehmszr2x2w90ru0hagus4p076z2lxfnz0ph3u50rgmz7fr70qn5uyzc0dujs0e5cmza74derudk436g2ld0rrk"

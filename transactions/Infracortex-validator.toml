@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz0jceelxdmccze00mmxyxg6hz5wjq00l56xuszcx26e0etc8qej6dq4g0v"]
+
+[[validator_account]]
+address = "tnam1qx03fx58wtm6e2g5yt4uu9jpy702h4pjuy9a7653"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "94.130.19.247:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp57jksd6ykqhcqy0s6ue0cys8lde464j0e4sleafcrjhwutly0fk7m63ju"
+authorization = "signam1qz798vrqs8ckhs2m8myahrvkfsxxqgfzzcsggys4n3qkryh3jh8yenc6d8wvhktnewmvkd8e0wfgcufc3jf6gxasza383wwhe0dzelgge5ahpp"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp9t3apu8xg7lg93a3k7yvx3ldqml2jszq9x3tm277c84x8pfcew2hn5dtd"
+authorization = "signam1qz6qrpmj6l6shlzf424xrs0taqek42sxw0s52rw99am0wpcnc27n32kva3cmy209v94fncvkrknl0f29xj6px0y98gcqaykr0y7hu4qgvapufp"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqyuq493uww2l2rdgmmtsynpkaeprrlhdxf99xmhj9cptlmhkdnf59uqat3"
+authorization = "signam1qqchudtkf5hcgehq3kewc7n5qk9wjtwjtvu9jtluu2etsx6rxmn63shf2cgnw43jquna9ahf6fwyq649875f8uas6fwflhv96qvchfsvx4matc"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyprmpjgyxxf3z44enyk5mgrxstn9nv3t2nx5atgeumwueja92mcgrsqskhtt"
+authorization = "signam1q9mwfm88c4g6kr5d9vg5d0pntuun2j5kndnjvxguee8llzs6uyvauvlgm4hvyyzmse2grmarrdpdj8ll02ytdja9l74nu8s7auuntf04qy7s8p8l"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp2cr7qm0dqtq62k7p6384ezqjc45sgf09h5lcu0h9kh7fqs58u5ygz23mue"
+authorization = "signam1q98h07pjnuf9we320slpu2vp5lwhh3lpvqjeh447x64wldj8ms8cu8khapr76pec99rypv268t4krs543c3h5fsjyt5s2j69g667pj4yqyzlqrp3"
+
+[validator_account.metadata]
+email = "admin@infraspear.com"
+description = "Spearheading the future of Web3 infrastructure with cutting-edge technology and groundbreaking research."
+name = "Infraspear"
+
+[validator_account.signatures]
+tpknam1qz0jceelxdmccze00mmxyxg6hz5wjq00l56xuszcx26e0etc8qej6dq4g0v = "signam1qq0jzkavy0yenpxyktxc646u9fwst0sdr4xxtg5x0sl492wpzglueghhkxwu8s85x23xja5f4gjmjr4c5faulepaz5g7xncafzfzargv2cclgs"

@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr7rp6mz9pkc5c0wcd4ntudq22ek8vmeafhtw5zvpc5ccgq63yfguzvgwuw"]
+
+[[validator_account]]
+address = "tnam1qy9jra0mueg9637r0wlxehecrj0ale9ldgrytymm"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "49.12.168.146:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr5ca83tkqmzkr5re6pup9eceh8ejgc4qh7juvxk7uk9ylx02yfy6zencw5"
+authorization = "signam1qp4zs8f034ma4fxsuu3r2wawra7f5paq4ctl5ly09vq2y4dhut4sfpaadh6mdrv8xkgnvaqsy8vgd576y8rdyy5jqashj77vtju52ssx5hjcw6"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq9t2chccn5580pc4x8qar6hwdpstlj6hr2zdgtgcem8dhwuq34ayfudu5v"
+authorization = "signam1qrvfrh2d89a3gy5xug602ynrm8vek807j94jwgzc9edan0w7tkxyjd7neemth947fsk59j4za3q8vjrnp45ugv53se870x9kdhzcprgzl0z2uu"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqc5h5mvmp35dmtekpxlkmje3rxgrrd8phv75zxl0j25y5pp39znvls9gcs"
+authorization = "signam1qq3sx83mtlqnsws6j60u4k3mn9y794wp89yfjz7lp78gjtndm67ttj0qyavvl35hh82k4c985qq6pt888q0yk0d2dx4e9cxcr7u0d7qvl6a0ag"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypstkvqu0a7qz8jagscrj3jj6smcgrqya9vhjfs9klqd7zjzp92tpqk3areh"
+authorization = "signam1q8dpdt2f7neaye3m8jt24mv3f2uxfjqwfv2akqjgcj8mave9etc8v99t5fs44dj9jljt6t60j8ys6fnja9fj3udejnnupz7h7cj4gx78qy27h7n3"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypw6tf33s2vdpmzkrk62gyzmd5k4ayeea2zslptdsqjnd70dg0d8pctvv0rk"
+authorization = "signam1qxs4ggl39t4ggmememn8aage8j2r4xntu8rhphumqml35l7lkhrjj5w3z5xt3vyqrjn8s0980arsh2mqxcq6czhumlqklrad8ed2454kqyfpjnz2"
+
+[validator_account.metadata]
+email = "namada@stakin.com"
+description = "Institutional-grade staking service provider. Audited and Certified ISO27001 infrastructure."
+website = "https://stakin.com"
+avatar = "https://stakin-data.s3.eu-west-2.amazonaws.com/Stakin+Avatar+Square.png"
+name = "Stakin"
+
+[validator_account.signatures]
+tpknam1qr7rp6mz9pkc5c0wcd4ntudq22ek8vmeafhtw5zvpc5ccgq63yfguzvgwuw = "signam1qpda8ul60elzzdal75su5w6ruqu55tlx5r4uzkwxu4m6c3ql4yyamqm63fxrm7yph4ed66ua7m70y4lze2lyg6tmp5svpmj4z32mzegtkvup8l"
