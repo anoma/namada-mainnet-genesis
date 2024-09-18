@@ -71,6 +71,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `team@stakeflow.io`
     - website: `https://validator.stakeflow.io`
 
+- address: `tnam1q9sdarpylwxd5vv3e8u6wstrpz052jhls5g4a3wg`
+    - alias: `Swiss Staking`
+    - commission: `0.0%`
+    - max commission rate change: `2.5%`
+    - total voting power: `59240.0`
+    - email: `info@swiss-staking.ch`
+    - website: `https://swiss-staking.ch`
+
 - address: `tnam1q9mgfvqqypw82jk997kzgkkgnf8fxur2qqpa7rlr`
     - alias: `mdlog`
     - commission: `5.0%`
@@ -1462,14 +1470,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `dima.rabecki@gmail.com`
     - website: `crazydimka.xyz`
-
-- address: `tnam1q9sdarpylwxd5vv3e8u6wstrpz052jhls5g4a3wg`
-    - alias: `Swiss Staking`
-    - commission: `0.0%`
-    - max commission rate change: `2.5%`
-    - total voting power: `0`
-    - email: `info@swiss-staking.ch`
-    - website: `https://swiss-staking.ch`
 
 - address: `tnam1qxp569pkgds6kzqfe9cuc65mupjwamtghc433m82`
     - alias: `Decentrio`
