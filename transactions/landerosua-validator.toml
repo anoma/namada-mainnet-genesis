@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzk7veqa02dekd5vpa74f4mxu9vk5w4tmnynqf3zgskwnppr2fsj5sujjzj"]
+
+[[validator_account]]
+address = "tnam1q96m7kwchdgzjk7dpvxkq3dxwzjhyjcggyuua5xf"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "213.239.207.175:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzyw44u0mqapm7mx42740a675rukzgnzcys7zjcvdclvng6c0pz87p97yyd"
+authorization = "signam1qzy84wnkgn9zztccn423g72qcudhrwq0eg5q7758p9zavd73jndq5p6f2lmcgrsr5slsz6c2hg7ejslmevzcq9fc8rla76cs6heaznc8t6utgr"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrjz02hj8tvyvd30uwj20y3hrytl2gtgjuqsajw93t2nc99dmwalz9d8ttd"
+authorization = "signam1qz3nv359ru97nfvgwjv59tmfmcl5jslr07zlmu9vpy4pskcpxkfjk388r82vpy48x7747huyy783s60y24p5d8mrp5ljpqralf48xyc96edd74"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzg4lj2qcwzh8svfsx70hw05mn9wruwxpt9wje54a0s5n7sw6v8vvnvtapr"
+authorization = "signam1qrsts5x2uvzkg7eq7556dpe8m2t2nz8tfvtd8sadcq32dnlr6nf7hs0u5tqz6h8xp2tfgs2fd9w6ces2glvvv894r08h2leqappdtug2fvvxpj"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyppwt9j6j6rechx5drnl6pwafdrqqt65f2rew797fwvqxl7ptxnmhgay5pfc"
+authorization = "signam1q9qfadjm678en5a2zkaap87kqc8h5v5cpmdhm39y7s7vhvkx07dy2w34thgqedm547seeppf4l6pf96cl8hc255hvleulk5ax7ga0emzqyy0tmv7"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp24fcte9dz8e8gwn93v57agduseq24ugkvuk920dmdkg9uapj4tvcl89t33"
+authorization = "signam1qx03clm0w69dxehxgjsnph57zkv4jzlmmaflvmm7r43kfscfce7l2w7w85gj0y835gy4ekpru7yxuzc7y7zgmu0kq7ajrcpgjrkqeyvqqy5lh6q7"
+
+[validator_account.metadata]
+email = "info@stakeup.tech"
+description = "Non-custodial staking provider. High service, good support."
+website = "https://stakeup.tech"
+discord_handle = "landeros"
+avatar = "https://stakeup.tech/assets/images/logo.png"
+name = "StakeUp"
+
+[validator_account.signatures]
+tpknam1qzk7veqa02dekd5vpa74f4mxu9vk5w4tmnynqf3zgskwnppr2fsj5sujjzj = "signam1qp90en3ccemkwhqktfpx03e066mr8udczt0zwd94wnahcllg4jfkh98f5n9kpfxuehgxnjeqmlz3h8nundaqxaxckrf78npygdjm8sg9sf38y0"

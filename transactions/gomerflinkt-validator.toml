@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqcuataznv3cvmkragav09gflg6j288u9tmzedddv5lw2l58c8shg09gyuy"]
+
+[[validator_account]]
+address = "tnam1q98q7w76n3hyy5yw9xklm5xvhzeh5gyz7qy0kc2v"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "144.76.107.182:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqt7l7hn55luhl8cr3yg2jan27drqjllm5y0s8cd2h3uuvftyusfc732yc3"
+authorization = "signam1qr3dyheef9rdtjrtlrrychejqaumjacc9c2dw7fdyxfrjjxqzr92h0p5elasl8wg9umspty60rw52aresjyvuu0fmmqyw5z5sxysy8qdnuu97c"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzywnk4f9ytj9r2gnssl5enuzz6q95y7l6gxfkf494xx230mk5uz6kusnyw"
+authorization = "signam1qzutvsswjyghj3q4enc6h73q8q58yjurtegg9fp90utt3nz3jukfkzc582mrjvz2ye2pa3jfy3jhh7sra3wfpseefy27ajqvkatg3tsdzamtzf"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzca7yp98fr32tz4makgcq98k37xnwu5ajdmvvucregd8uc5nk6xg7wm3c5"
+authorization = "signam1qz0t38hy8g5tvvvaw28kzgv2zkmv45qp2lw4xckdk7l7vl2u4ajfcd6wn24wfm82w64l60k2qa437hx9p86vvhs49sw48ysl7g28n5qxuelskt"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypulxnfed4gqr0rs6j0jhz8x2f4p0q36unqu4cygz7mll4k4qla28c6ca8wg"
+authorization = "signam1qys08ly7zwyj6l4re3vhcq3fs5xe82ps3ma6yhfhdpxdprrsxsajcdpllsdcr99mnk9muf3f9j702aksr2nu2pzwsx4gaupc7z6tn2p5qy23we5g"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypuke2cw9a29jlx0fggttnzlyx88jhs2knsls5z53xfqysgka0udnqsjzg9d"
+authorization = "signam1qxys3wvythykmh0sgj75lfvj0efajgmpry40sz7l69d8af5djzz0zux65p27fhj6syyq423edprkxmuxjttuf2ha4aud00a9gv5a8zqjqyn96w7q"
+
+[validator_account.metadata]
+email = "gomerflinkt@hotmail.com"
+discord_handle = "_implorea"
+name = "9527"
+
+[validator_account.signatures]
+tpknam1qqcuataznv3cvmkragav09gflg6j288u9tmzedddv5lw2l58c8shg09gyuy = "signam1qzf33dqqlvyuax9xtagm7qqkfzj7suh0qpewr827x0qxz50eg78zp7pscqdj85v8qgsu4y7uvz0r37cl4hgvywfd4ndmvjzeqqzvpmsdkzhk6h"
