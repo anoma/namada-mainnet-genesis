@@ -5,20 +5,23 @@ import os
 import plotly.graph_objects as go
 from jinja2 import Environment, FileSystemLoader
 
+TOTAL_SUPPLY = 1000000000
+
 def build_graph(validators):
     fig = go.Figure()
     fig.add_trace(go.Bar(
-        x=[validator['alias'] if validator['alias'] else validator['address'] for validator in validators],
-        y=[validator['voting_power'] for validator in validators],
+        x=[validator['alias'] if validator['alias'] else validator['address'] for validator in validators[:150]],
+        y=[validator['voting_power'] for validator in validators[:150]],
         name='validators',
-        marker_color='indianred',
+        marker_color='indianred'
     ))
 
     fig.update_layout(
         xaxis={'categoryorder':'total descending'},
-        autosize=True,
+        autosize=False,
         width=1500,
         height=500,
+        title="First 150 validators, sorted by voting power"
     )
     fig.update_xaxes(
         tickangle=75,
@@ -32,7 +35,14 @@ def build_readme(validators):
     environment = Environment(loader=FileSystemLoader("scripts/artifacts"))
     template = environment.get_template("README.jinja")
 
-    content = template.render({"validators": validators})
+    total_staked_tokens = sum(map(lambda x: x['voting_power'], validators))
+    total_staked_token_percentage = round((total_staked_tokens / TOTAL_SUPPLY) * 100, 2)
+
+    content = template.render({
+        "validators": validators, 
+        "total_staked_token_percentage": total_staked_token_percentage, 
+        "total_staked_tokens": total_staked_tokens
+    })
 
     with open("README.md", mode="w", encoding="utf-8") as message:
         message.write(content)
