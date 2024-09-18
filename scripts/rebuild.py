@@ -37,11 +37,15 @@ def build_readme(validators):
 
     total_staked_tokens = sum(map(lambda x: x['voting_power'], validators))
     total_staked_token_percentage = round((total_staked_tokens / TOTAL_SUPPLY) * 100, 2)
+    total_delegations = sum(map(lambda x: x['total_delegations'], validators))
+
+    print(total_delegations)
 
     content = template.render({
         "validators": validators, 
         "total_staked_token_percentage": total_staked_token_percentage, 
-        "total_staked_tokens": total_staked_tokens
+        "total_staked_tokens": total_staked_tokens,
+        "total_delegations": total_delegations
     })
 
     with open("README.md", mode="w", encoding="utf-8") as message:
@@ -68,6 +72,7 @@ def parse_validators():
 
     bonds = []
     target_vp = defaultdict(int)
+    target_delegations = defaultdict(int)
     for file in bond_files:
         bonds_toml = read_unsafe_toml(file)
         if bonds_toml is None:
@@ -80,6 +85,7 @@ def parse_validators():
                 'amount': bond['amount'],
             })
             target_vp[bond['validator']] += float(bond['amount'])
+            target_delegations[bond['validator']] += 1
 
     validators = []
     for file in validator_files:
@@ -95,7 +101,8 @@ def parse_validators():
                 'email': validator['metadata']['email'],
                 'alias': validator['metadata']['name'] if 'name' in validator['metadata'] else None,
                 'website': validator['metadata']['website'] if 'website' in validator['metadata'] else None,
-                'voting_power': target_vp[validator['address']] if validator['address'] in target_vp else 0
+                'voting_power': target_vp[validator['address']] if validator['address'] in target_vp else 0,
+                'total_delegations': target_delegations[validator['address']] if validator['address'] in target_delegations else 0,
             })
 
     return sorted(validators, key=lambda d: d['voting_power'], reverse=True)
