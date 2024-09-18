@@ -1043,6 +1043,18 @@ tpknam1qpeh2v6cg8t7hre03xpjfc8q5uxfcm0fud2z976a4hpf08t85dnr5a4jwfc = "signam1qz2
 
 
 
+# adding transaction for alxnode-bond
+
+[[bond]]
+source = "tpknam1qqwwy958qr7kkmy3wjqr30dl86vss2xyu34n0sthuhmwqjmm8xjwv6dnczp"
+validator = "tnam1q8wldcr49mhm92a69fmf847d8rn48e6gcql2s4ya"
+amount = "221600"
+
+[bond.signatures]
+tpknam1qqwwy958qr7kkmy3wjqr30dl86vss2xyu34n0sthuhmwqjmm8xjwv6dnczp = "signam1qzg5hjkntfg83leujpf7j98g87ec4uudhrxcdcw2dj0m4ss9kandkqpz9xk470eu4qnl4skpdv8uc74n43nae4rxssulqf855j0s8lgwvvn4d6"
+
+
+
 # adding transaction for mus156-validator
 
 [[established_account]]
@@ -1360,6 +1372,18 @@ name = "StakeUp"
 
 [validator_account.signatures]
 tpknam1qzk7veqa02dekd5vpa74f4mxu9vk5w4tmnynqf3zgskwnppr2fsj5sujjzj = "signam1qp90en3ccemkwhqktfpx03e066mr8udczt0zwd94wnahcllg4jfkh98f5n9kpfxuehgxnjeqmlz3h8nundaqxaxckrf78npygdjm8sg9sf38y0"
+
+
+
+# adding transaction for papadritta-bond
+
+[[bond]]
+source = "tpknam1qpgff9uw9km6f34957xptf3v86sack0p894gfl8lkfr77a3rmqn96lwfl8k"
+validator = "tnam1qy8470ge8g608l69t0qt0g6ulmxnsckr9s74ew4j"
+amount = "5555"
+
+[bond.signatures]
+tpknam1qpgff9uw9km6f34957xptf3v86sack0p894gfl8lkfr77a3rmqn96lwfl8k = "signam1qzt9mdtfjvnuwm06kvfknma7sjayylh4q7xqalt0p4vrnsqsk8h4vnf4sgtdn0syq6z0qpztmqhw7za9wexxkfrfzfzr0wvuag8rcfc2ku5u79"
 
 
 
@@ -1928,6 +1952,18 @@ tpknam1qrffv9pzff7cwg3ly7e2u0vw7gp5gf96vlqawvq7msrk0e3xsen96p8e3xx = "signam1qpn
 
 
 
+# adding transaction for itrocket-team-bond
+
+[[bond]]
+source = "tpknam1qrt77k69kgahp0c9ajskf64z72amkvn3usagulqgluk6vdznxcpx29l9xnn"
+validator = "tnam1q99e0kqh32q6s3f3mr0ds772edyg7862jgj23fhh"
+amount = "100000"
+
+[bond.signatures]
+tpknam1qrt77k69kgahp0c9ajskf64z72amkvn3usagulqgluk6vdznxcpx29l9xnn = "signam1qrc9vx5y72cggggwpprce6w90sw8707mmc9jw9uljq8k3kwpjj8w7fmuppdfhyjygcd7rrkuszwdzf00jn4xs5j8gheylc48rmgx34gr4uhz5w"
+
+
+
 # adding transaction for oncloudit-validator
 
 [[established_account]]
@@ -2476,6 +2512,18 @@ name = "UbikCapital"
 
 [validator_account.signatures]
 tpknam1qp2wu42zqfecaf6utm8f3mf9emz287x2nygq097f94xk8m7s8p0l6k67ktm = "signam1qr9lykntjgs2jprrpklqmp2u2w389mqfwyxrksfv34g4s78f26r94pjzfkxspd3cgne785tpwq70h9ess3hkhypv2lvdfkj8n042hyc9r3atlg"
+
+
+
+# adding transaction for cryptovestor21-bond
+
+[[bond]]
+source = "tpknam1qrmkwepf3za57jy6lnejqjhcm3ssrv9dcsc4369fjp480hrn66qgxy6yv5a"
+validator = "tnam1qy0zrla88txv244suxaruqgr9g74vr8vyufd8rp7"
+amount = "29000"
+
+[bond.signatures]
+tpknam1qrmkwepf3za57jy6lnejqjhcm3ssrv9dcsc4369fjp480hrn66qgxy6yv5a = "signam1qp5p9xjtcx3pan2d2jepz9lm0ze3vxg62hu2ezdgrpwdh5qtrmf4xcar6fdhmym9au9qfx7fpa63342086pg8805x7dzzc9d2pcmkzcwd6v6he"
 
 
 
@@ -3443,6 +3491,18 @@ tpknam1qrmkwepf3za57jy6lnejqjhcm3ssrv9dcsc4369fjp480hrn66qgxy6yv5a = "signam1qz3
 
 
 
+# adding transaction for autostake-com-bond
+
+[[bond]]
+source = "tpknam1qq8csnj7kcpfcymxv2eel5xth84trpda6enlp42qzzalz0xlkx2zccfrfk7"
+validator = "tnam1qyd33xrjdpr3hwhy0ckut7lk56gd5gjflgtul8hs"
+amount = "22300"
+
+[bond.signatures]
+tpknam1qq8csnj7kcpfcymxv2eel5xth84trpda6enlp42qzzalz0xlkx2zccfrfk7 = "signam1qzk9kurpclav3267gd2r8kpnvnykecz862t6av567eh8xr2u74md8r4cedyclgvujrxrqclmcp27963ws529nw5eqy5de6l9n0gmvlsdg5uu35"
+
+
+
 # adding transaction for chillyvee-validator
 
 [[established_account]]
@@ -3534,6 +3594,18 @@ name = "laliola"
 
 [validator_account.signatures]
 tpknam1qpxleh3wtgyxdlm6e6ux6m5mfafad6l7jae42r6xvf0yaemerltcjms5d8l = "signam1qpzedc3ythtlg2k0velmkmdfn06vv3gml4lhxvpz80kqs4jncjrdckjdf4q4z8ywk5tpa7e073g9z2sheq5mwjxkmg74gwkhyys5amqdje8yp7"
+
+
+
+# adding transaction for aquariusluo-bond
+
+[[bond]]
+source = "tpknam1qr2tgsu79r5a3xhdjv3mzwzq8u7mtx68sge8cjxnuamp029lm9hdu9aus6k"
+validator = "tnam1q83gqj9fpny50g7pclc62wu7qxjc7mdlwvq5s2ca"
+amount = "7295"
+
+[bond.signatures]
+tpknam1qr2tgsu79r5a3xhdjv3mzwzq8u7mtx68sge8cjxnuamp029lm9hdu9aus6k = "signam1qp4ttgyzsg2m3cnh6l00lm6xc0p4unjng8zzrxv3ngyq9djylp2ek8tuysd7chtvc7st5fwj0976zyyg7van2j4cn7lmn8g5uykpk3svrlxtpl"
 
 
 
@@ -3710,6 +3782,18 @@ name = "IONode Vietnam ✅"
 
 [validator_account.signatures]
 tpknam1qq5d39avmqtt3wek2x6red9uhvnzjgwkz5tslx4jrdcuadgackxg5g5t54s = "signam1qp85wvjj4ee9mmygsapjcf5dsy5c84tfdqzkgspmpn8vj3xy5f0rlq32a0c8447sghry5uvkj8p67cw5suwexxjqr25rzr2mdfzhmhqxczjau4"
+
+
+
+# adding transaction for nmdval-bond
+
+[[bond]]
+source = "tpknam1qp438afp28ftm4e59m2chhk62s28kku7vksq3mvfp46q38aesexv2dv9dts"
+validator = "tnam1qxkkaflgfr6c7crvj4jwshy99zsdw346nv4ay0rn"
+amount = "1999"
+
+[bond.signatures]
+tpknam1qp438afp28ftm4e59m2chhk62s28kku7vksq3mvfp46q38aesexv2dv9dts = "signam1qqptj8nmlp86p8t4rwxrjj9a7gezvukhzeqkhju66qzvu4tm7w4z7fnxvx37x00vrw8t3v5fd04cw6mt8hjrlcp072k22tk8ya8hzqctqy3e8c"
 
 
 
@@ -4332,6 +4416,18 @@ tpknam1qzn899fmms07r5lssg8as02udq65y6skn3e265eyjv2z04ujy0rkzyk393u = "signam1qzs
 
 
 
+# adding transaction for winlin-bond
+
+[[bond]]
+source = "tpknam1qzrd6n7xtjtt9aaau8jg2zt40clefk8d79cnq7l2jmuuuskgw2f8yuhzgyj"
+validator = "tnam1qx7wyapm8f9ddlukz3p7gdmhjjvck7lmaqjeflra"
+amount = "624900"
+
+[bond.signatures]
+tpknam1qzrd6n7xtjtt9aaau8jg2zt40clefk8d79cnq7l2jmuuuskgw2f8yuhzgyj = "signam1qzwzfp2jc66kktgzvzp6f5n2y6ujtjv0en9u8xsg2mhgdk200n3zx8fsxlxjvhsv2m9c6j30k7y0eysdt0t8k55pgqeh239t6ptaq6c8hcheje"
+
+
+
 # adding transaction for ivanovblizznikita-validator
 
 [[established_account]]
@@ -4637,6 +4733,18 @@ tpknam1qzdd0ndvtqylxvwj3e53utxcxspfusvrrfmznwhvxs0jaj48thgkwkgnjht = "signam1qpd
 
 
 
+# adding transaction for addicola-bond
+
+[[bond]]
+source = "tpknam1qqy3twsrcrjes452ws0xl07w0e3zt8dmwhnkmnfg0u2xeuwymaw0v5l5sz2"
+validator = "tnam1qy07wl9ds2kl4cfew0426jv4qlzx7kh9pqft7ltr"
+amount = "46600"
+
+[bond.signatures]
+tpknam1qqy3twsrcrjes452ws0xl07w0e3zt8dmwhnkmnfg0u2xeuwymaw0v5l5sz2 = "signam1qpsx25zgagaehlxdttk85ft7ugf8raqxcsqsef0v7pvgt5xnslf4euc3e7qt3ewf6zppfsv7xyj8hzn5daxmd2djfkjx8as2m3ejp4g0czretg"
+
+
+
 # adding transaction for ivanovblizznikita-bond
 
 [[bond]]
@@ -4692,6 +4800,18 @@ name = "crazydimka"
 
 [validator_account.signatures]
 tpknam1qzk6u8wh6qhqc7j9etxdlz9wqczyh2vsm44hgs6dphed3vp0uk2tvl8lcm5 = "signam1qzet5s52rmkrk47gg4zmrfmdhacv3j3440tnqcxr7zwld3a64h4mmzcpg3u3f90hsxlmzzvz5nqdjg974lzrhpl5asx8tr86kqs93ssgldn7nk"
+
+
+
+# adding transaction for juliamoon1-bond
+
+[[bond]]
+source = "tpknam1qpxleh3wtgyxdlm6e6ux6m5mfafad6l7jae42r6xvf0yaemerltcjms5d8l"
+validator = "tnam1qysez03jadg5uann2vpr3tdap3ahyfl2hv0kg085"
+amount = "1000"
+
+[bond.signatures]
+tpknam1qpxleh3wtgyxdlm6e6ux6m5mfafad6l7jae42r6xvf0yaemerltcjms5d8l = "signam1qqtv4vngmt5dye6w9l03zq3p639gavxzw90natvafw4nudzhnzj3smgxau3a25kpd4sjvxhpsfvw3urw6vlp6eq3nhqs50hnft0ut4qw9t2cvl"
 
 
 
@@ -7225,6 +7345,18 @@ tpknam1qrqsf945pzt0p5890vszqq0r57r0qcegd7sp4660yxle627ra65pjkmu0x2 = "signam1qqv
 
 
 
+# adding transaction for 0x0conan-bond
+
+[[bond]]
+source = "tpknam1qqwjefewgdqeds9zf20kvpv6j6qk68vg7dgncvh5ehsv9xmdhlr62sgffhc"
+validator = "tnam1q9ude2ceqdj8dk6z3rwxnykm446j5lfkwy747kzp"
+amount = "19990"
+
+[bond.signatures]
+tpknam1qqwjefewgdqeds9zf20kvpv6j6qk68vg7dgncvh5ehsv9xmdhlr62sgffhc = "signam1qpam75at4sqprx2z8gudd6u8xtgxze8qxz7u733yfd6w9xzv50rw9adyl83p9f6sqwmy2renvckzf3mhuwdrghq2yuu7gjdcly4qkust050665"
+
+
+
 # adding transaction for mrspir-validator
 
 [[established_account]]
@@ -7681,6 +7813,18 @@ email = "james@namada.bond"
 
 [validator_account.signatures]
 tpknam1qz8n9xa4gecpr85pe7uz76mtjcj48ynhjsmf2ylhu7jmlts88207cj7e2ph = "signam1qq87g52t5m5ygs3raay7x7y48h3kmd33qyzv37nf6f0hf7c09ny03mwpwl9qe4vkpvf02pr89eqv9e8q5wttjq4g7enjw9f3hl7ck3q0apqrcy"
+
+
+
+# adding transaction for bngq323-bond
+
+[[bond]]
+source = "tpknam1qrkmz977cjm6273jknkptvq6d8xxzed9jh6lsyth95a6jyqhfs4zye2u8mx"
+validator = "tnam1q86ydne27sxc4tzgzy5wcv9mwrwa0gwtqg4rfuue"
+amount = "6769"
+
+[bond.signatures]
+tpknam1qrkmz977cjm6273jknkptvq6d8xxzed9jh6lsyth95a6jyqhfs4zye2u8mx = "signam1qqjlxp6zk57jka4ur9sms396ul5zu0cnpj2575x9n5pwupktx4l3fhcuwn6glp73zkcmxwvd6y8s7f6phgvj0y0z8a2nzsaq9cf3recz8sz23w"
 
 
 
@@ -8468,6 +8612,18 @@ name = "nodemeister"
 
 [validator_account.signatures]
 tpknam1qqzzjg8sc5tx5x37yt00ne2wjfylstf6kvhpwluqaq92583myx9x2mt4ulz = "signam1qp669tcrnrm3eyf9msvlrpefxxyvuqznsqy5r6ukclxrst6erjckvjtxxz2lgam9m03pqswrepnew9ecgvaa5rqmun65fvcgqk0r6uqyzl8jm3"
+
+
+
+# adding transaction for igorgusarov97-bond
+
+[[bond]]
+source = "tpknam1qzrw2dyxlh2ftgjka2nrtpeza9l4xzgtk2vcak2raq0fghkhyuu92d86juy"
+validator = "tnam1q8g86hqz3rajj5p64pf22zmlvp9lkd976ufpz7mc"
+amount = "6200"
+
+[bond.signatures]
+tpknam1qzrw2dyxlh2ftgjka2nrtpeza9l4xzgtk2vcak2raq0fghkhyuu92d86juy = "signam1qq9nvajw3zvsmcsca82ehc2rqt7zra00dr9vm2c8hz3dlgmu2c3wuk9nanwt6j9jrtlz5k9egnarvtk3keflsvdv34sae7ql4llp6cst5uvgdg"
 
 
 
