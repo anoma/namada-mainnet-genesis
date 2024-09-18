@@ -167,6 +167,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `igrgusarov@gmail.com`
     - website: `Unknown website`
 
+- address: `tnam1qy8470ge8g608l69t0qt0g6ulmxnsckr9s74ew4j`
+    - alias: `papadritta`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `5555.0`
+    - email: `papadritta@gmail.com`
+    - website: `https://github.com/papadritta`
+
 - address: `tnam1q8dtazgc7y9xx00lq4d2pnacvtz29p5mvcxwat74`
     - alias: `Staking4All`
     - commission: `1.0%`
@@ -414,14 +422,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `murphynodeteam@gmail.com`
     - website: `https://murphynode.com`
-
-- address: `tnam1qy8470ge8g608l69t0qt0g6ulmxnsckr9s74ew4j`
-    - alias: `papadritta`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `papadritta@gmail.com`
-    - website: `https://github.com/papadritta`
 
 - address: `tnam1q9vdxnkrqwnw5vrgfypqz6ndejp6sy2sfgc9pk5d`
     - alias: `Nodeify`

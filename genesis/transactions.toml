@@ -7051,6 +7051,18 @@ tpknam1qz6t9x9qm3fh4a4g2vwyz9x3h8auyakpnruqzs94ukxr8yd2yzfvz4ka36c = "signam1qpw
 
 
 
+# adding transaction for papadritta-bond
+
+[[bond]]
+source = "tpknam1qpgff9uw9km6f34957xptf3v86sack0p894gfl8lkfr77a3rmqn96lwfl8k"
+validator = "tnam1qy8470ge8g608l69t0qt0g6ulmxnsckr9s74ew4j"
+amount = "5555"
+
+[bond.signatures]
+tpknam1qpgff9uw9km6f34957xptf3v86sack0p894gfl8lkfr77a3rmqn96lwfl8k = "signam1qzt9mdtfjvnuwm06kvfknma7sjayylh4q7xqalt0p4vrnsqsk8h4vnf4sgtdn0syq6z0qpztmqhw7za9wexxkfrfzfzr0wvuag8rcfc2ku5u79"
+
+
+
 # adding transaction for clemensgg-validator
 
 [[established_account]]
