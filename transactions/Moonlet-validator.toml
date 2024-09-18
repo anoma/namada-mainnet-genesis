@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qquenqgq89dj7stnq8ag2v5tacwca2372tfnyw090ceyvfw2p8z77v6ymfn"]
+
+[[validator_account]]
+address = "tnam1q8ev9tdg3v9hgm3y4muy7xy7tnmd9ne8ngctj9th"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "127.0.0.1:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr0etq6lkfeu9w74rpudmhx6zdd3tpsypqqyy5yu8h0es9fy5ctpjzu7xde"
+authorization = "signam1qz69exup9a3hg5t83ekgwwmt66nmct2exu7qyw6l4v0wfx3jthjuuarl3verf2xmccq5kwd76ecvdqxtzufwud33h2phfrga46z56ngrwvf6yy"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpgvesarm8yx2rzdlxsuyefdmvfwmwqmv3pntsk8jc7zg0wmgdpyk02azfk"
+authorization = "signam1qq3fqdqa0ee9klsw2zj9qwd5xcztr2ca8t4ju9kr8rk996zns4pwgzw99hrgw0f5kkqn90g2nwqas75end6zq97h6dujcgkdv894kycvqcvaag"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzskuaqfq63utmmnd3ycnfr8nfwugj3lzkxgu70z0r8g948vwg8jkpxapux"
+authorization = "signam1qq33h29pu7hw5mgzjx9fnxpp223dlyp67xjfsscpfr789wpw2kgqz70myhexj4f0r3h4kgv275v95qz0phyju8epcp6wdhpt6wckc8gg3xugn0"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypdndfajta955gncj7zas4jl0p2673mrtnznamd5l3sl9qmuc7dr9qh0sap3"
+authorization = "signam1qx4ell2wqprjnj3e5gfgf02t87kmupl830nthe5fec8rc2hhe6ygzuc9qrcnkd3afjmgu3ml7tyeja3dfd5qc453f3j9hl8pu6t6r6ptqqt9v7w3"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypp0ejmnhk4mjnt7ead2qcgsl7uwq20pcgtqqpcfpdfn6n6al2e6ls6k6pyn"
+authorization = "signam1qyvn5kvtguftnhr6j0thg93xkdyeffrffvt0p2ltpme7mh2fa6a07vptyhgy9ndnqhwgh64dzjxs7vjv3skh00jr72gzzuy3vtqdu4zcqqfpnmlh"
+
+[validator_account.metadata]
+email = "contact@moonlet.io"
+description = "We operate nodes for next-generation blockchain networks and we are committed to support the decentralisation movement forward"
+website = "https://moonlet.io"
+avatar = "https://images.moonlet.cloud/moonlet.png"
+name = "Moonlet"
+
+[validator_account.signatures]
+tpknam1qquenqgq89dj7stnq8ag2v5tacwca2372tfnyw090ceyvfw2p8z77v6ymfn = "signam1qqdzxe2z0ws84rua2nt8gpew4vpzzxj8g4cl90vfna7as93ha3j8jyldyv9kysqpxmq5ymn5yhs5d0j974nytc9y333vk9k5zsuxq4srdh6hl9"
