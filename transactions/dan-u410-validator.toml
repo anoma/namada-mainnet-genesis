@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq0dda26utmyy0mawsmuuvduwjtch0335u6k7ky5k4jzd5hw656kv8v3qlp"]
+
+[[validator_account]]
+address = "tnam1qxr4zeuljyud03wje45d5xu7vass6w7hsuejen2y"
+vp = "vp_user"
+commission_rate = "0.2"
+max_commission_rate_change = "0"
+net_address = "34.90.170.180:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzqtrpusurzyslwdvhj7z09uaylv7y7v6j9554z7txthujx0l5x5v9z8emn"
+authorization = "signam1qrt8208u9y2sr4rck0pvja42xuvxaqg7lh2qlwzn6vkkrapddm83q2cg4epwdm0cw93vd0nnpf0wzazvp7k30g7ep5lkan4dvwspascrd0t7l9"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqhsg48vh2n27d9rwpuj9k9jreet0zr95st3ry807fwj8fply8lm7a028am"
+authorization = "signam1qqgy7mu60ctylrttlfk20enr8437xhwrp2lkmuhu724f73zwzlly0g8wc7lek23fhhgha6t65hvnccww54u40allunz3j8jesta2xvcdzggfcm"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrwhl2yueatvzyec3la7vccfngteps59yt242zs4rws3y8tp4zzj76h5tqc"
+authorization = "signam1qpfcc6w6yc6xklyxz00gwgq8l7tkq87pudvw63rx6xcxkgvu3wslrcygavfdaalpsumf4f5j6vy3mm3sje43rpeup24e6y8x9sv6las27s7rgp"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyplxvlkh9t4nmc2tw65wrpnupr4usz9fd9r6gd7de2zlkuheeeusucc6w95f"
+authorization = "signam1qx2fx25z7xs998fqtrlcufpd3esl5h6x5vqwskgqt8v0pkksdd7rvj89e5l5v3wncp6jdzcj36mv64v33590n5fq9r9e9zh5lld30npyqyjm6vkx"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypqv3r8dfce5kw3hugd8erxsv0uhfa8a9s7njpels5wpt9ce6dqy7q8rz34k"
+authorization = "signam1q9ezk65wxp9wq7m73g68ucs3kxpcczk3rm9nxde20fs6ph5pw3dhxmve9t7m3arvqxupgq30yj2ra4lteue4qws9v3ctejnqskfye5eqqyg0nuwx"
+
+[validator_account.metadata]
+email = "security@unit410.com"
+description = "Empowering hodlers to use their crypto in secure and novel ways"
+website = "https://unit410.com"
+avatar = "https://unit410.com/images/unit410-square-black.png"
+name = "Unit 410 [1]"
+
+[validator_account.signatures]
+tpknam1qq0dda26utmyy0mawsmuuvduwjtch0335u6k7ky5k4jzd5hw656kv8v3qlp = "signam1qqw8qw54ftzd0xrpaffhwgvtezrkgrrq5sufq6uwu8m85edne6war26kpgtjze7x79lnltxzeyak04vz77rsvartckl937kmfg6qakc2548d2j"

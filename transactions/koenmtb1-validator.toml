@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr09adu29td5jd3vwyn379g56g6qnx0jfvwewdzqqa68xhdgj7gdvgz45hk"]
+
+[[validator_account]]
+address = "tnam1qxr8n7u36jcf82d0ccp0flshpwhz3d3xjv5ryn44"
+vp = "vp_user"
+commission_rate = "0.1"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzknup7rj225zpuydpyzxmvwlarpaenxa88etxrw9uvc2lxzqh2szjrxwhm"
+authorization = "signam1qp2ect38cggshnwa46mu6kxxf6ekvn0h7rtaaerake82xvz6m9zyrk3ghyx0eq7zzr3gekduyjmsj0x4s7cjg88apunv7z66yvpm2ycyzpy074"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp8gw8jhp5ht9k9usj8xk59m4xcd3u6g2mqqllhs8g32ph3gddwgu3tmlah"
+authorization = "signam1qqy8su5cdll05smum95vag2tz6qmvxysxl3sq8ag0l6cl6dgnf2998a24stw02c7p9fc855s0t7phaxkzvjhcm3arsxwyugj6j2cgmgq9ydgez"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrvsvjvp7qphxrd9jljez7kpq05je2v2ak439emdr87zlfqwsrnmvexug6w"
+authorization = "signam1qp5ld7nuuwndc8y6fx95yp8zjras638fvj3m58wskhkav37q37u0zd8k6tdq73285zr6drp2km6z4r0uf9rw2reayjnz4a6dp6j4dssqznjrkm"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyppgdvfjatdk3r7aqjsfjjns4zwrlkzaygkqj6x6tr2z8c357cqpjqznuuka"
+authorization = "signam1qyezzapgyhaz0kr0qr22ff02meypmfqzyhw2k8pzlzv8tfqr7mxfwysqxlqchy9jeqksvkshsqfz54d5nrs30cr3u9ryrjdnjfpu288gqykaynpf"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypk2khp86tjnyzl99jsz6s3wx7qyctk28d33czhxjx3aw3mct9zt2cmg5j6f"
+authorization = "signam1q930sgm3yyd2uekawmvry403l7gmqm3fr8dyzyflc43g42j28yu7zx4xq5d0zwm9najf3cv8yk8llcmxwz36exzxkyk9v2cv0uz4dr6pqqe0wdfc"
+
+[validator_account.metadata]
+email = "hello@zkvalidator.com"
+description = "Zero Knowledge Validator: Stake & Support ZKP Research & Privacy Tech"
+website = "https://zkv.xyz/"
+avatar = "https://zkv.xyz/wp-content/uploads/2024/06/Untitled-design-12.png"
+name = "ZKV"
+
+[validator_account.signatures]
+tpknam1qr09adu29td5jd3vwyn379g56g6qnx0jfvwewdzqqa68xhdgj7gdvgz45hk = "signam1qrm6t9tgauu2p00acrsyghv2takhmzf6tdas09cejcujxn9nfewueert867c49l6jzgudylns5fyfmzul59ygpwt95gd5eamj7ynpgsqpglekg"
