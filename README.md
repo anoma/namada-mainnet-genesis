@@ -79,6 +79,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `adiadi2411@gmail.com`
     - website: `mdnodes.com`
 
+- address: `tnam1q8qkkdq9wvpk0udfaf64cswzpnwe033jpvcmrxz6`
+    - alias: `DTEAM`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `46600.0`
+    - email: `contact@dteam.tech`
+    - website: `https://dteam.tech/`
+
 - address: `tnam1qy07wl9ds2kl4cfew0426jv4qlzx7kh9pqft7ltr`
     - alias: `ContributionDAO`
     - commission: `5.0%`
@@ -262,14 +270,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0`
     - email: `info@stakeup.tech`
     - website: `https://stakeup.tech`
-
-- address: `tnam1q8qkkdq9wvpk0udfaf64cswzpnwe033jpvcmrxz6`
-    - alias: `DTEAM`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0`
-    - email: `contact@dteam.tech`
-    - website: `https://dteam.tech/`
 
 - address: `tnam1qxr8n7u36jcf82d0ccp0flshpwhz3d3xjv5ryn44`
     - alias: `ZKV`
