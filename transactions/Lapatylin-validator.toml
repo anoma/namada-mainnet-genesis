@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr7gtl76mdjpenct3vh8wylcqucpletqu7leqyx9flkhl00xckcm2ustv7x"]
+
+[[validator_account]]
+address = "tnam1qxdqsqnrf97vnyf5w2ur3fa0f3wxclxapy2lxy4s"
+vp = "vp_user"
+commission_rate = "0.1"
+max_commission_rate_change = "0.05"
+net_address = "176.9.90.222:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqw520caddmtdf6ddpm570tjgvfugx78z7dpuf7k3tygf3s0jxac644fyqt"
+authorization = "signam1qzazs4ftmne6040d8vw7euet0zsse9m7kalhaecfsznykjx4qrn2kvhc3zcu6r7cl3h3saygk47xxma5chscxx2fpqtc9ct9d46zxyc9qp4vc8"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrunjx2hk37kss7ny4qg4r8unrw30rkh84lxw0z6jqmrt46rjrqxzgu0uuq"
+authorization = "signam1qq4pnjv350v4lxe2rsmqq0ta3lnf8337adl56afy58v9wvrgp6thd4wl39fuv6upq0ty4kkhgplw6n84zq6t8p8mf7l3uymsk8t9j0sdyc9dy3"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrt7e7yczyg44a8qpte4whd9tapyexd9fz9a6d6py8yh4qw3gyxycnp245q"
+authorization = "signam1qqmc30ma4zas3xn4df5x5q83lhtyj04n0xjdrs7l8adul3rl3gq3lqkp97632uy7pfmm8lqzafdgq40hxz98fvtce908m4q0vfuzu9c84paqv8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp6vl5k35zkjxghsy3mzhxvft5v85jdgce2ttj6muh4tqyhxmnng7q3y8h5z"
+authorization = "signam1qyxnn6uzenh5g3eggmnq8p6mnc8xal2vjvk46f7tpvvdzqp3zq6fj67cayzwuckd09mh4vgx6ksgwewd2n7j4422kn4dcdytqdmthr0gqqyaw8q9"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp967s4xadrcyk0ayktqhcnhjjrzkw43qsj4kae8ryvtsfgn9dutus7qqyd2"
+authorization = "signam1qyrs0yewx8grhs44tuqraaymgeu0lwez42xprld78faeu429p9qnzpfpv3kghxn8vlenzg2l84r2kmnc5zn73uagynfpgd3x0kx66uwfqq735x7x"
+
+[validator_account.metadata]
+email = "alokhinoleksii92@gmail.com"
+description = "https://twitter.com/lapatylin | https://github.com/Lapatylin | Independent individual Validator. Monitoring 💬 24/7"
+website = "https://t.me/Lapatylin"
+discord_handle = "lapatylin"
+avatar = "https://raw.githubusercontent.com/Lapatylin/avatar/main/punk_128x128.jpg"
+name = "Lapatylin"
+
+[validator_account.signatures]
+tpknam1qr7gtl76mdjpenct3vh8wylcqucpletqu7leqyx9flkhl00xckcm2ustv7x = "signam1qqzrx6hdaq35stqfja0fxc9rqfe42vrpr5upq2nypqd0748yayrhcj4kzv9jkht8d3y95g7aewde6nqszvya79tc4ukqqzm62rcr0ccd3uqrjr"
