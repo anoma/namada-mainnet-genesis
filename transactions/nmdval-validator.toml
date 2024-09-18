@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpzqrmeww2pukpr9s6jfd6g62jqu7njxcr49l5t9y33z4jp0sly0wgulv0n"]
+
+[[validator_account]]
+address = "tnam1qxkkaflgfr6c7crvj4jwshy99zsdw346nv4ay0rn"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.1"
+net_address = "5.180.254.189:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qraanpfyw4vsdt35zclf6a33r0azj7pmfeyxu2ksjl7k6yetpk5avzhljjq"
+authorization = "signam1qph79zad7e0prdxhxmzxlh29ng4faylw6cg346xcg97j6wqcluak0wu8ch89dj94h5vwd7ngdv7a3zgf360mz8djdtd79wdknn3fqkgd8qffza"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzzrsdkulmardxhvymvmpg7ykfhakk2353r2z00hav40rj6mz8xa5m0hwu6"
+authorization = "signam1qrzq87lalhhc2xmzpa8q2rxh6kjqse65rv35pdvk7ea8pk8ufnpg4phl4gekwwsy4r6j7enhs6qtvvtz0eaxgr7vfrcjp3ht9xmaupg9r0nt7x"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqjragdad4plhm9k2ejt96r6fwec6r788qssy7pzaue6guw5yfmlqy7wtth"
+authorization = "signam1qp9hykadcg86eq9jlwwppj9m6w4pf5qsyq409nrt5nsyymm7tl7kv36klaymkf8veyvd28z8jjcjq5xxw6cvedcjw6r6slzr46cequsdxlkvxd"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyppx5rshrurpqt7w9c7gxcw6v0veh7d5qy9rsecupqqj4pwva22gaqtsw8sz"
+authorization = "signam1qxgr5eaq24754wdqmetr2mt7mm8r9yfww62rvdgsu6muaw8mlkm7ga5am3y8s6hw5ahkydcg8wjlfa2aj4rta302kaj7j7838v8ym32hqqvdjz5c"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypfz24l4hc3qfnehc3vvg0hu8kzy4ahhjy4wnylxpel52g4u5v7f6qfsg230"
+authorization = "signam1qx78gq5u2gw8amuwq6jskej827paa4q8lrhvqvds9u2nxvgkte8kuvk3pkk87ekvk46aa78572rtvrd492xpyy87wp4586wxxpqrekdvqqy3qjwt"
+
+[validator_account.metadata]
+email = "nomad@nomadvalidator.com"
+description = "Fair Commission - NomadValidator are cool validator - NomadValidator created for longterm server machine & staking provider"
+website = "www.nomadvalidator.com"
+discord_handle = "nomadval"
+name = "NomadValidator"
+
+[validator_account.signatures]
+tpknam1qpzqrmeww2pukpr9s6jfd6g62jqu7njxcr49l5t9y33z4jp0sly0wgulv0n = "signam1qqhzlyesz7p3ars2q3xd8xsaep4yjvszxp72348v4gwzm88wjztpspz9ve5vcxzkdvn0llvn6tc8h8egth8m37yl6m88pyj3khenxrc0le798c"

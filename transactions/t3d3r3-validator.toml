@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr44fxhzngza78629f4sfafrkq7alytg3ffdaq4xtg6cvg5fz9zf6mgc4pz"]
+
+[[validator_account]]
+address = "tnam1qxc286h5qmx9x2vdv8k9gy0ll878gna9dgy4rv40"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "5.9.70.180:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrc8duav3nyww0w9m43558gqrapxmgcpul5ddplly59uckzf9qxykthwlxv"
+authorization = "signam1qrd5j06kdfxflj0mamfs345rc8cla0lptzmpkvs236f7cwwk3sy0ny9lm6vctpqylk6ddarduvnq6c3javn279jrqj6qszd0xktjh2grtzzcsu"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqxv6q9paplncphdatd6njxx8z4txz6n8m53dw0k9c7vwda524k6kpdpmyn"
+authorization = "signam1qz5ty8rwxkyk4eq6mz6uvqtjy34w6w0ztg8hmp8t6l8jkn7mkwput9kqqj2ysd53ptdggu0pvw5zzn2zng4msp0uud203g4hr25mjcst275dev"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzg2kc2sdrx84d3hlvrpgcuqjxpgm7y345tgmfumt5u3a6f22ydkvcaw9h3"
+authorization = "signam1qrw5l7mc2xpc96hpfd6z7lrna3z5j0x2tze83th72eewjnyefa32l7rgnd570swfvql4h6m0qtke6ae5926lms2pulahruqh9e73rfgxnpwaz8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qype9jwdhv6f37257lkn43hca7tnf40wtqsshlnmjkd62annxjf8kfg6u6r8n"
+authorization = "signam1qxymyxj982y8lw7q5y6hkth3l7xaym3cwkkhljke7pwsh8eygyjmvcwlu59rq0lj9jgkn0fenm8xnumzg2neujzxe0xaw8j8zfnyks60qygdwnnf"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypuwaz6mnr8zp27yktd587ures7ssunjs7fug0ueredaml48mh9rzqm7n08k"
+authorization = "signam1qx35l8pn7xwasuadyjygfvlatem8svn5zu66rt9g9pu5eq9ratnujzld9gx748t6wq740yj48d9hezleyu96tu6sgtcxvqzt9jcw46a5qy2lt0uk"
+
+[validator_account.metadata]
+email = "contact@tdrsys.com"
+website = "https://www.tdrsys.com"
+discord_handle = "tdr4877"
+name = "TdrSys"
+
+[validator_account.signatures]
+tpknam1qr44fxhzngza78629f4sfafrkq7alytg3ffdaq4xtg6cvg5fz9zf6mgc4pz = "signam1qqcjwkfzs2vu8333q0p5eggj3pp3953f3kgrxeqerhkgtu27rcwr535s0z8h2hz58vtulahapnjkfzjgjw9jvwjdtyj5kquehvwlu8q0l7ehjn"

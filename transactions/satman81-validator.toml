@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr3fp7g43eqk46rlqwgpc3r699ql54vquuufhgnrkmfq0mc4jzkyysatnpq"]
+
+[[validator_account]]
+address = "tnam1q85gzuzhu60s7gd3vg4umeccu39fv8c6tqafxaqq"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "141.11.112.15:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq95yqf86r5gt2claapx5jqjynk2rq0gcrs2sr96x405hx8pwx5mghfz4qz"
+authorization = "signam1qz2c3nss99yxexvc77ygg7xdpnwnfe756zuqswrsswv0jcrhe4ezwkz8kwt37p0uwjlghrxcp75xeray38ej855xg0zdhwmhy6kl5jg8eyzdkc"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp4ad8mpsmq40pk36alysf5e9504fy92a5qztagm9v4xupyww59fqz6mlxl"
+authorization = "signam1qz7n08puwqqk6vdqratez59xe2ca0zt349xe68jap3zydlv8jrf4qxxv0hdgmtqd63k08fwen9ljlwa6cq3ffrwg059zjl2xxk2x6pg9kaaa9w"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzqzgtf239h5vd2f9w77vthg92f53uxn229dtzwg6re25htqqpz02zk0qlh"
+authorization = "signam1qr3m7ajy58ptew2k689skamkk25jg9jm5l9xgtla9dhcrjcllyyyaa9p5wz4lzxxsp4njrls56xplpsh3g4e92uga7s2mpax0kzpysqv9e99ws"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypnxftlmj49uz4dtw5dphegjdkcpa4c8z0kl5xqmx2sskhxcwdjrtqde4fuj"
+authorization = "signam1q8njpdat2sqcze3yjn9jeda75krkgwx4sm2zqk8xv79nnmtvz27gyh5nsnly5mhdhf3k5mg8mzss5mcu6krwk5zrw068cyq4r9rgc4uqqyqctrgd"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyptas0qc5xf07m58ck43fyzwqc2jw7kukkmayzm5wylulnr7zamkgss96ne7"
+authorization = "signam1qyyvt9a5sa0ysjnqh2cqtny564ypdq29m98w0lq6ksd9xfrhw7g42zyxeum02tu880q3xsrl63kmk5envfgcltq7t47t8kssd8aqz6fgqya2w6wn"
+
+[validator_account.metadata]
+email = "saeedahmad1981@gmail.com"
+description = "Proof of stake Validator"
+website = "https://github.com/satman81/"
+discord_handle = ".satman"
+avatar = "https://avatars.githubusercontent.com/u/101592073"
+name = "0xgen"
+
+[validator_account.signatures]
+tpknam1qr3fp7g43eqk46rlqwgpc3r699ql54vquuufhgnrkmfq0mc4jzkyysatnpq = "signam1qpe8ap99zttztu58je04g6rkazjf4uqg7x8l60hfl0z4h2pnant7uwecekxz3wh40kr54plz79dgvy4hmj0u7m62pdmacsy0vk5038gflzth93"
