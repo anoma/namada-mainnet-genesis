@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq2ypgr85wrsr4cvhuvx94w6wu0qcrrwpszwrrxuuwxtq5y0t6hw2fan4uv"]
+
+[[validator_account]]
+address = "tnam1qx4ztg0ca0tu2aw056ksuek5y58tmg454shk6svw"
+vp = "vp_user"
+commission_rate = "0.1"
+max_commission_rate_change = "0.05"
+net_address = "148.113.9.92:26655"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrgjzhxmhep09zh66h59apm0c6nqtx5ax7mcnm0908geqa70wh4fx2tgyc4"
+authorization = "signam1qpkqhykafdew3yccqp2mrgpfvwn24x5zvy8q7p0ndt3asxlrdtuedtxyr0mzeyp779rl2f3dw8c66q4tpqnhcx0a4mhxpkgqtdywguctctyugd"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq62mvg37p769gg2jzm7f6fa6sarr35tp2d5jh5r32fss6g8z7jts5uq78v"
+authorization = "signam1qrjefqfj58zgtjnzrne4e0a89283aa0h9m75ed5eljurywl0egfwtjmyvsw8685205q93sp79tjrtdnlp8up5ag2vvzhh0sr5vgfp9cwm6qwtu"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp6gycayudnuffgykuz5qujjm5ef62ktcnme9jntvnrtjzm4u7wjxhhhw4m"
+authorization = "signam1qzyquv372uqdrrjgdm7hcxsscmndv7dnkseagsxr5qlym5223gywvacmm5ytks0k7888eqs2tdy2uczy65e9g545ycxvvwsze2cdzcq29ykwlv"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypdrv08ma3ew0eh6ugr6nug84kf922ysv50njl9f2vjl839lz50jvsx52qmj"
+authorization = "signam1q9ym86hdp3xsp8f6645z29q56929twg7f2ql92jsuwlptzul27dwqp8ayzvcn4vmrdal6mu6z5rzq8qxnkp288uync2pn7dvlwyncda3qyldu4p5"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypw25l8sw7hzaapxpukqvv8yfmfy7ugq4ja2kxy562hpplg5kg72xqechhf6"
+authorization = "signam1q9k8c8zayansqnd9a4kkhkrf23aj6qy6xvwkh3cwux9yg3hhs5mc6awl62q2v8na7chyutwlkx02vswq3tuyfnkgv6sptvskcedm3rfdqy660zl2"
+
+[validator_account.metadata]
+email = "security@5elementsnodes.com"
+website = "https://www.5elementsnodes.com"
+discord_handle = "5elementsnodes"
+avatar = "https://explorer.5elementsnodes.com/assets/logo-58edf859.svg"
+name = "5ElementsNodes"
+
+[validator_account.signatures]
+tpknam1qq2ypgr85wrsr4cvhuvx94w6wu0qcrrwpszwrrxuuwxtq5y0t6hw2fan4uv = "signam1qp7w4hu4zamt65ws839xrpwt3qak6gldcxc6dllh523kkk06k0xhvnn3v4dh3fvl44296ynck302ckjdyyzmumeacxuashw6ycdctsq82nu4ct"

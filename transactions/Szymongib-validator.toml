@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp7phc5ugr6u8wam4t5lzhc8lwzr5rm0qumg0famjz9dsyd2hl3dsmlhrd4"]
+
+[[validator_account]]
+address = "tnam1qxsx2ezu89gx252kwwluqp7hadyp285tkczhaqg0"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp7q95xhyq60g87masdukyr0tz6qru5r3dfmrg84xhfluzem5zuj2qyu6mx"
+authorization = "signam1qqu7n24d6vq0s5vwapj8hrzlrf8nhcedxh0ztwausfzvqknha9d7xn3wrscrmal79aqp56yh9xglvdpfme9ndd3hlr3lz34vnafx8gqtvgtj8n"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzv4sz23dn6phvpqe5ltukq3srqsdggdtzpefgwm8ht5z6rm86cukuqzyfr"
+authorization = "signam1qrjpdlndgpxtev268m8stk3hy3krqmj3zhjqlw3pzgfvl7g7gq0wzv4kc0cjeh4lww6kx27nnq4uw7zth9hfp4cmzuk5v5u46cm98kg0fmvl03"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzns03psv3c2js3crtzr63z4z4s0gxwu3nfxqwtl5lzwsgatyj3u5jj5txm"
+authorization = "signam1qpsrvs9232rzx5k343t4qgxpdz56zvawx4e6ncqdgcrx5d2hppwuqyvlk04t28tarttlv97gw0rmvsdfj2q6m8s776qtqd93utlgu3gql844v8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qype47tg42pyhqnqr6x9nu7k3yvp2q7ehda7wdqmsjlrxd3fe6jxf9glwdc4x"
+authorization = "signam1qyf62s9qhjkxzfxj9435xnjzfwugq3jggmq6gy9umyxxqqlcg6ydch2g3tqecjc89sv2ny97vvnvrz3pd3j99t9urjlau7thqa70aurjqq904heg"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypsv50pf6v9lth03v9vtw44j3qs5wlpvf4tuf2nxp6vmp7p4aezfpg537zrw"
+authorization = "signam1qyw7udgphr0nh2hps8gzrlt4q5k5tjwakrhwm76x6573sr7kfuzmj43jv9a8pcqp7l2rd2k999560nmys85yf5sg7jwccyhvduvkqtgsqyrt66c3"
+
+[validator_account.metadata]
+email = "security@chorus.one"
+description = "Secure NAM and shape its future by delegating to Chorus One, a highly secure and stable validator. By delegating, you agree to the terms of service at: https://chorus.one/tos"
+website = "https://chorus.one"
+name = "Chorus One"
+
+[validator_account.signatures]
+tpknam1qp7phc5ugr6u8wam4t5lzhc8lwzr5rm0qumg0famjz9dsyd2hl3dsmlhrd4 = "signam1qqh63pd27p2ff28kdpl3gl57vzsfl4lggfkfdd7uceexu9urz7apz576eunq2p5c83vhap9c78hdz8f77xaz7hlw4g0rykaqq77769gyhm6ye8"

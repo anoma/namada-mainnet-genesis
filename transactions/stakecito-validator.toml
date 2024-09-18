@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpjdj3uyhx7zchvzg8s5qk8l9ww46p2lhjgvmh7gvykgf2zc96ms5nzcwvx"]
+
+[[validator_account]]
+address = "tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.02"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzge0g9mkfl0skqzgqdtqkmrrvg3uhcmh08cd5tmqndcs95ar7ce7aactu0"
+authorization = "signam1qzhnxce0mwq4xndakymjpwlkyll3tzgqleu3ga99z6a0lamgyt6kmfrm9nfledzlxx85wgrnhn07zf8weuvvg9u40s3cp7argx2zhucvqg28se"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrd0cgkmdul8uxj6zdcaacwpq2vgx4sf3rextnwtg7ul3qyvnzk5sqxvjae"
+authorization = "signam1qqj8dp3efxg6wwfp3y8jmk6urtc55npr5kg2fsyncnaschslrzsz9ygyfnm66pxvrjctm8yfacnlk9r995gddkh76py2lst44w2mstsv5t04n6"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr7rf08edmjf9yf0avy6cdfrf76ftkzjh4l82z0kskcpkl3adtqm6qfggag"
+authorization = "signam1qpjkp0jlq3770ecpsc0yrkq45fyp9nvm3fuljvuqd72a6alu3a0un9z8xh8lsa57jtluljxk3qx090yjdd8uk48u7cxwdfwjrn0eaacqn5zm48"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypzq922wujvun40gs397q20fcwjmafg6ec0t60v07pjjqvwkvnjgfga767nk"
+authorization = "signam1qxc0h5708ja2shr3qtn22vlnngy7l4fcuj6s9d8tj2wjvqypf75kqxygw3r7exaqryk9fn4yxy0va48xgwvz6m8gskya5srxx6c5ge5aqqkt0guj"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp9wwypw8qkq3khrzga7egn95rf4ezdz0s4svmfrmu8040xjuh8aasuwwlke"
+authorization = "signam1q82v9t8vrh623qfl80ut59r443kalrh7mycve42uts8dz8ek5uyh2kyxsqlzcdnj9ltkgjhck2nu3v7rnt0np55y20xn3dkjuhrtx69qqyepfp7p"
+
+[validator_account.metadata]
+email = "security@stakecito.de"
+description = "Securing & Decentralizing PoS Networks."
+website = "https://www.stakecito.com"
+avatar = "https://raw.githubusercontent.com/stakecito/resources/main/logo_stakecito.jpeg"
+name = "Stakecito"
+
+[validator_account.signatures]
+tpknam1qpjdj3uyhx7zchvzg8s5qk8l9ww46p2lhjgvmh7gvykgf2zc96ms5nzcwvx = "signam1qrvtp45m346l4znpu94uf9s48fppu879c6mwy4756trxv6t6qz0rga4983smnej5ggzk2n92zfg9yrt70pkskra50he5x2kzx2h969cfr0lnmf"

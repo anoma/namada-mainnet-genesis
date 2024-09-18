@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqa6nm6pejdgu3ayahewjq22ug8zxuzndq7newgaxa64tsx2kyy9jj6t8x4"]
+
+[[validator_account]]
+address = "tnam1qxe0s20g4anvvkhnm8255nky65gdzmgf0cwavzn2"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "109.199.119.144:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr9ygnj5ukgfq4mfc04c6cqareq0hj3s2qcmzy3n9v7jy2d5ce6z6l9p956"
+authorization = "signam1qrxtjw5nudeej0zeywynwqyfh3cdzu7r6ufact8qjd2uvx42umu6ta4fuhsxwdz9s6yxf7tk9pwqervszfrzlvx7lhcvm0487m22dhqrzgwdav"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrw0esr85ytsnrxc4s3qgjwfwa35c89tqxchz7zw7gxw08j50kkdus0r5hf"
+authorization = "signam1qztn57tm0veenpgcgdsz7agnhmnd9pf6zmflv3dtczqrnr6qtvwmmtcmr8tputd3gpwpjyjxd2v9xryhuhsc33gs25aludjg3vsxj9sdlnnc2u"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq23hhsqaaqqh3998gervzrvmav3df5cgjstu4a7j0n4h35523czgrd4evy"
+authorization = "signam1qrrf07wrdc3t5zp9chl430emfn2a4h64xgpyamw436l9x4p5xw6457wzx83ga7ve9znl38ekz4f8f525gdne6k90t8czregdju9e46s2y9xera"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyph5ma0fj24cwm7w4h2f2t9h08t94lqrgfdc8axrg82v2csnmdk0hgr4wkxh"
+authorization = "signam1qxmlu0p4zehn53vedw5lkpqf22v2suyrlt660vk69ukcdy28jymykqupdsemsfmm093mmewckq5utgmucs89hphahwfk5vv6pn9t9dfgqqn5g6kd"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypzzd7nrluunjws43v0jkrq8p587u8t2k4r2qj4gg4jvemp3hr44gs8eqee0"
+authorization = "signam1q9e8y0w8u0ht2qax3rx56eahmwh02zqwe0qa9k0wyzgv3p9ed0lqcg9u977zyeusdutgc86fs96tjsuljdyzdhe70z4tu5puwldc4c5lqytk5pa4"
+
+[validator_account.metadata]
+email = "vladtrecklo@gmail.com"
+description = "A reliable validator with high uptime and an experienced team of blockchain experts"
+website = "https://crypto100f.com"
+discord_handle = "vladdislaves"
+avatar = "https://cdn1.cdn-telegram.org/file/Su15Yk2WjFntBFeEApqPyuDwEHnjJYWfkpjeRpJQi-z9PIN4R4r2x-V9By0V7K27lWBLb42Z52ia82HgXQtVm_awFPvANDSLkTp8cONPSNiBWrbhHOpazhuXrKUW7cxbOG-nXD1gVGFZ8ipD_bLOfxK3dit9oa0HKwWPcKi85fnzMVznLQO1uukueyRcgMejEGcHX1kN07emRJv61M6w0Ezsyr9ZZzXJoiFMuJ40"
+name = "100F"
+
+[validator_account.signatures]
+tpknam1qqa6nm6pejdgu3ayahewjq22ug8zxuzndq7newgaxa64tsx2kyy9jj6t8x4 = "signam1qqu82t2z6kyj73uwldgnzm983p8dxh4q2w6jscclhxprqsade0jqs8g4d4a8nekv5l5jqfmvj4kjzh3fc9y4akuw42wggnhv5wme0tcdvpa503"
