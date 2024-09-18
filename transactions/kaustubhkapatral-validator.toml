@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp7m5ncwq3cctuk2t08vpusehernd6jqw4aa0tpw4h0py0d94fxtuqvq0jg"]
+
+[[validator_account]]
+address = "tnam1qxtfny8cngyyf0ms2fl6rcu65lt0da0ns5a3gxrq"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "139.59.100.27:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzx4490v2ngv7xmql9r0rcr5fa2wnuqpsk0vh8s29uraeuqafk26ww7h0hn"
+authorization = "signam1qzp2jzfhfuhlte7mv8pgeg7wr39nz6676fggljwqpqs2ewujaam9hv7mfvgu0wy79lc77d3dezer460mxnqcncp6c2r7l6ez27yq4tq88ahmt6"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrqw52px3xjadl8fql46wp20qtqv7yn24rxq9f4l0hewugaw2yz7zf7uk8c"
+authorization = "signam1qpcp6v8lzmz7ep7frxm474sdstsg78rehn6fuhwmxpz388m6g43e3ww0dm8xk3ddxxqn5numuek92cu7rnulp78nlvrruvz2vddxmvc03nhtxr"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzt9sapw43f7f5u3fgjtd5k6l8cpd8y5jfpghnlxycjqzts9dkxkkn76kqx"
+authorization = "signam1qrjsyp0nrg7efus06d8w2rgvwdgkm5tr2r8u0u4qh2ctyml8tjyltjrzc3dg99exdqxumwfe0ydkca0tqvxnnpn5lwmxx8xhu0ls3rqfdkshug"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypdwh03pqxwaletqkvv0q34mmh8jlttg3st3fqc56tg85an9asv2xswv7nac"
+authorization = "signam1q9x4tanwlnkce4p9p45rx9xvr96xd4mvkqhu3euxa7d8fueepjq96eestt8nef8yyhqmqp8mhkktq7je09t3lagalvk78taczdfqkjluqqll9cms"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp9aknjsunf0g684qhjz4yp04kyysvf34449k8rh7c2akurq5lnxyq9tgtvr"
+authorization = "signam1qxcueldyaq06ezsg6gntjcflwzy6t4p9xw4ng09g80g0mt52r7knzc9mnlhy907a9j755ehqh29yegxmpquewz0yxhd38ez894h57jf9qypj62qz"
+
+[validator_account.metadata]
+email = "validators@vitwit.com"
+description = "Vitwit has been at the forefront of the blockchain industry since 2017. With extensive experience and expertise, we have established ourselves as a reliable validator across more than 20 Proof-of-Stake (PoS) networks, including prominent ones like Polygon, Avail, Cosmoshub, Akash, Osmosis, Passage, dYdX, and Oasis, with staked assets totaling over 34 million USD and 20,000 delegators."
+website = "https://vitwit.com"
+discord_handle = "k_kappa"
+avatar = "https://resolute.sgp1.cdn.digitaloceanspaces.com/Vitwit%20Logo.png"
+name = "Vitwit"
+
+[validator_account.signatures]
+tpknam1qp7m5ncwq3cctuk2t08vpusehernd6jqw4aa0tpw4h0py0d94fxtuqvq0jg = "signam1qq99h4nnu35jn298kxwvags954csq7aaz649er4jdujfew8qjzaxv9kzg43canpz9ns8mftquq7qy587ptawanpkl4zd2c269h969fgpjdqtxy"

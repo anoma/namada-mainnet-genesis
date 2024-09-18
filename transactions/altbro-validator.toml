@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzhfasygvalcd627q0el4ykusa8d4nxmns6s45xemys296ch5eky2vnvscd"]
+
+[[validator_account]]
+address = "tnam1qxepvwg3c24kv0ltlkaasxscy3fsk89h8vrwzgd7"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "93.159.130.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrxtqhscqnkd6a9yadewev62uwvltyhntvvtlvw6wdl443xxqgueujy6pcl"
+authorization = "signam1qpkkxn245y8cs9etzqz6fltyxzhd3mt4vstgstvaemc0njzrfphypc5kegnrrna4x2jjemd2shafugrpuuajqs8y0tzmmashnufm9lstpve76c"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzpuduzke30p9dmsaz6ahy8wwudslhysu46wxfm0xnsxq6v8vaujz3kxg89"
+authorization = "signam1qrr5zxrpq88tgayq3fx0h2mcc3ts4lmnkluzcdtlczswxknkdzrpepsaaftz7exms87fm9l0tq2clghymk04q7h40pmqf3en7xh3tzcz3hq2v4"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz4r2278gdm8hn8jcn7mgesu8zss48yglqm8jyvqrykgqwt3ygwf2hqktrm"
+authorization = "signam1qr5fx8fwl8yrl4kpmr395skzvp8n4k7sh49qd9efvda5lzhfd3cp5hkdrmrh4g8q8p8zf97u9zuhg8a3r9tezavr4krrxdnkv2fy42qtlcujwt"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypegcyksld2fep4drx2me9h76upecjmf4yhy3pglpuq2m8sfyuf08qnar82k"
+authorization = "signam1q8va63ya0q2ujkl5rfyhnmzyx86xsp6s86c69yyau0yh2catvk4f69gtd4ah79dley9sct66jvgu383s47dnzdywvzj4jvdjn3hjcqm7qyv5pute"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp2xzw2w9397k8tgxp3mfv4e9lxhrgeqtv5lndeywtnk8wk83k5w9cm2l4ty"
+authorization = "signam1qxgreg6aljxzlky309lzj9m05lt68zame0d86wtwd8dcvtry5hvtcrd2pk62cgs8v5cur7pr3g3f7aydhspcjs5336kkjaa90p5qnezwqqeutacj"
+
+[validator_account.metadata]
+email = "bro.n.bro.foundation@gmail.com"
+description = "We are a community-driven bare-metal operated validator and interchain relayer fighting for transparency and decentralization on the Great Web."
+website = "bronbro.io"
+avatar = "https://raw.githubusercontent.com/bro-n-bro/foundation/main/design/logo.png"
+name = "Bro_n_Bro"
+
+[validator_account.signatures]
+tpknam1qzhfasygvalcd627q0el4ykusa8d4nxmns6s45xemys296ch5eky2vnvscd = "signam1qp9kymseyqvjxxhsdgflwl4n6hvpwz5sz4t9d5s4y2p7s835hjdaa27rym4hy5gxfl2zuyep27my8x05fevfx3mfjnp0tq7dxf94jasyrrjdxk"

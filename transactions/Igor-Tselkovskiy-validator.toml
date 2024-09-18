@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpmfpse3acelyrkvzvptt9506f0qqkfe0valq3h6msuhc3rz74a45sdhr3r"]
+
+[[validator_account]]
+address = "tnam1qy24smlm8tdg8vawx8xh30fxa8kcwnudkvufz9zn"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "162.55.6.163:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpsms5d47k0zpdjyvrxyryn04h5373j4gzlf7trxm80tpzvvk7gxsa909cw"
+authorization = "signam1qrej749g07k4zqrgcdp8k663h2xd8nd8nd6vl7g5npqfcwny6mu9wjak2wh02d7mj2mz22hpye6amspju9f3slsmpvg9ux3nfy3c76qrgqj7am"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpj7rcyu3k8978jzsc04d2lnewduwhlp6ds4h7df7sl47e687ljtu4lwvy2"
+authorization = "signam1qqfnlun0w5mhs4lra0vrghqsxfzg5mdf5fl72ehl9247l479qnf4v8tt3ydpltrxl5fnwmvy49tea62kutmas6lrvwwxhxgqnt636gcy9gptmr"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpqfu2vetz97vtt3eq0969hvqrqgj6v2rme67m0lp4uv3e44z7wczztucu7"
+authorization = "signam1qp2ut5l2d3axxkm55smn8mhelq69xaddhpj8d7nvj8urlnyh2umqe6zgkjqdtq3tp9nw7m29pdtdwd2h6ksvtlz0jfmplnplvwjcu3qfzqyc9h"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp6wu5wpry6t4y4th7racyf7pdnha9mj7q2gl82z94azlxelvupekcnlr6up"
+authorization = "signam1q89xvc7q6vsfh8m5em9wtxzcg387aagszm05a3xsjs3rnrzqjm4uzkm5ntje8lzagvky57pmhkwfuy02wucnhvc4myezmkxm9m02ceedqywtk03g"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypfawzl28vtlcvv4nrmwsasv9u5rr0aq7yu6huvercq45w2t2y5mvsdmhlz5"
+authorization = "signam1q8tlz6wwcxsxa5azcvd8fg6r5lkg88r3nhs090ys9ztkv8p2typ9kf688uyzdqq6666deja8ej7m5klhrs7gsx2glxnkkjcntkwz6fx3qykqr3ht"
+
+[validator_account.metadata]
+email = "89686697888@mail.ru"
+description = "Privacy ad a Default for everyone! Professional validator in crypto world"
+website = "https://namadascan.io"
+discord_handle = "888tnso"
+avatar = "https://tnso.io/logo128.jpg"
+name = "888Tnso"
+
+[validator_account.signatures]
+tpknam1qpmfpse3acelyrkvzvptt9506f0qqkfe0valq3h6msuhc3rz74a45sdhr3r = "signam1qrf0trm3cm634eqkl4uk9t4ylu6lrds2ld4s6kpzq8jr06jhj27mu0wrrkgcty06lrczx50dtrylxpygksvxg7sycaqkwcawwwcy4wqglxtsv0"

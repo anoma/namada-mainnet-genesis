@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzc4a354l4w5gdw9027kd9d0ldhk8vxqcttlhpr0qu7j9dmzd5jc5455p2p"]
+
+[[validator_account]]
+address = "tnam1qxp569pkgds6kzqfe9cuc65mupjwamtghc433m82"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.1"
+net_address = "127.0.0.1:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqpdshy5802279f6wcj3srhffgjw9w98ytcl20y0pjzuh0wyeeez5thn7zl"
+authorization = "signam1qq4zqwxlyzft6c3wcnemsk5kx0zta0p54yfck03clt8rht4j6mfdd35pfufccljeq5uap44y039503w0u837z87lqqz2dfvf8wjf7jsppqkfjm"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq9ltya2dttcyfrp5pemjmvuetvv2jk42l0szuknmfmhract8cykkeyjgx2"
+authorization = "signam1qzmqqsxmvw700df2jgpmq7tlqk2m5ntszk8qqkut6cvu2f7llxk3uskew497fv9xs5hdhs5esnvkczlrv433hwuv4ve4v6j5wvj89qg8cah3j8"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq2j3wwdxx7fv40g8ksud47fxh08z4kjpsfuha64gg26z7wneudjjaf2jtp"
+authorization = "signam1qqyqupdrecuc8w2x5l0z30j3devw6n64jgjymfq2fzunqsexyh2cetc4vvtas67k4qkwavr6vuxahg9g6p26678yvzp7qdujrl5ra7svyh5an4"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypc0gyu0x8ev83jf6fwc04aupflsf43v3e4guulglazuwd2hm35qms2njfmu"
+authorization = "signam1qyudndprlufkw0gmadv6udxgcs4s0ux426emydvj9tskx0schr04ccegjx3gymuf5yghcee5ha0jfv7cz6uh9pcqkvl8tle5hkhm3a7dqqecswdy"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypgahafcknz6zeat7tv7phedatsev2vx6zwuzk94dvtd5lwskgkqqca0ry9d"
+authorization = "signam1qysztddz6eqy5lmgjy3pv6hfsr2j50hj8dys0tfdwct6hanqquhr2rr246j9epjp6t87ggthhmtecm3uuts42kkqr2kwqzh4ksagt8ahqqmardz6"
+
+[validator_account.metadata]
+email = "contact@decentrio.ventures"
+description = "Cosmos software engineering and infrastructure provision"
+website = "https://decentrio.ventures"
+discord_handle = "dunguyen29"
+avatar = "https://github.com/decentrio/Decentrio-Landing-Page/blob/main/public/decentrio.png"
+name = "Decentrio"
+
+[validator_account.signatures]
+tpknam1qzc4a354l4w5gdw9027kd9d0ldhk8vxqcttlhpr0qu7j9dmzd5jc5455p2p = "signam1qp6tpgd9n290vr04yqe3j7jspepn8wu3ewsqy7l0vwf0t6j2gfqreuq8yz3xa3s5sl7j948upds6jyzea2tsuzvj9ssmvl68gfpm6lgxd84hqd"
