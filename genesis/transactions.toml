@@ -2082,6 +2082,18 @@ tpknam1qrl70rwczdm70gp59vpfyrvms5z87pa7yw5z3sd6xjxdar88vppmvdfwmqw = "signam1qph
 
 
 
+# adding transaction for croutondigital-bond
+
+[[bond]]
+source = "tpknam1qrarafzc0qe0kkjfhhj0ullnkyh3q3f4u3w56ala7jkjtynq0y26sydfsuf"
+validator = "tnam1qx64zytr93rjj23ztf32y2rnrxwlm9j6svyznxez"
+amount = "100000"
+
+[bond.signatures]
+tpknam1qrarafzc0qe0kkjfhhj0ullnkyh3q3f4u3w56ala7jkjtynq0y26sydfsuf = "signam1qzfm9fqnnxqfnmcvv84zyxfzhd4qvlqz0xrwdyx3l6yk0hcl6ljatvs2ad9jz6h4900t9yygzdtgk2ek4e2lkwau7djsa5z5d0tf3sg9ckstrj"
+
+
+
 # adding transaction for michel-leidson-validator
 
 [[established_account]]
@@ -5940,6 +5952,26 @@ tpknam1qp0a2qgsgmxuurg8x6ye7na8vf7ec4ckf9kpv24kdch7prxd2feks4v84c8 = "signam1qrq
 
 
 
+# adding transaction for felichita-bond
+
+[[bond]]
+source = "tpknam1qqmsvknpfwq3a74vk8da375zvt3tvenndy0cpnl30p4mn22wtgxjs3ka6mj"
+validator = "tnam1q8jrrf8s22cwd22yxhwc38tlvahplh2wyqjzl9gx"
+amount = "46656"
+
+[bond.signatures]
+tpknam1qqmsvknpfwq3a74vk8da375zvt3tvenndy0cpnl30p4mn22wtgxjs3ka6mj = "signam1qrk33naxv3j57yqysxwl9gxfj7t5ljxfmts4dmy6d9jsynucjrrf2zp8amn4z92crte9fqn5ftedqnyrrel5dct65umyssknxd6wdzsquc0cqq"
+
+[[bond]]
+source = "tpknam1qquzgwany3n53uy2f8gpugm6h7qyf6mekx9jlr7rtwmvd6z0624xu2rvkre"
+validator = "tnam1q8jrrf8s22cwd22yxhwc38tlvahplh2wyqjzl9gx"
+amount = "38103"
+
+[bond.signatures]
+tpknam1qquzgwany3n53uy2f8gpugm6h7qyf6mekx9jlr7rtwmvd6z0624xu2rvkre = "signam1qqm4jjpsz2v233s3l27qycz32dd8emqf3hl3thhgrg9flq702l3vkr2vp3hq27kds705gg99d4lss8m4985weghz0km024tfat4dy2sfa8chzj"
+
+
+
 # adding transaction for staking4all-validator
 
 [[established_account]]
@@ -7522,6 +7554,18 @@ name = "Moonode"
 
 [validator_account.signatures]
 tpknam1qrqsf945pzt0p5890vszqq0r57r0qcegd7sp4660yxle627ra65pjkmu0x2 = "signam1qqvtrhy55ag7lykqwsyacswmlxpnry5c6w6u969u29ce4u0p4dt7dhxvajtds9x8us3epcsxrllnjurxsw34t9m4vsg880kq7u2murgye4hkgx"
+
+
+
+# adding transaction for maricalucian-bond
+
+[[bond]]
+source = "tpknam1qpnxpylp9phlx9nycrxskuldsuua3htkys3yzz48f7gr0war2w337dweysv"
+validator = "tnam1q829u6jedv7y4yek2gfrh77qaz9qe3veduzkdyk4"
+amount = "240000"
+
+[bond.signatures]
+tpknam1qpnxpylp9phlx9nycrxskuldsuua3htkys3yzz48f7gr0war2w337dweysv = "signam1qqqmlhfn205day88ewmqtf6lqs8ryec9pk6urhq66yy0azxwjfsxg80uhhqc837h0u8efxf78rf28ekp5jq8mlxdlnjzwyuqr49erhgvp4h9n5"
 
 
 

@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `190`
-- Total delegations: `42`
-- Staked tokens: `1965332.592579 (~0.2%)`
+- Total delegations: `46`
+- Staked tokens: `2390091.592579 (~0.24%)`
 
 ## Validators
 
@@ -26,6 +26,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `624900.0 (0.06%)`
     - email: `winlin@kelepool.com`
     - website: `https://www.kelepool.com`
+    - total delegations: `1`
+
+- address: `tnam1q829u6jedv7y4yek2gfrh77qaz9qe3veduzkdyk4`
+    - alias: `Coverlet`
+    - commission: `3.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `240000.0 (0.02%)`
+    - email: `leon@coverlet.io`
+    - website: `https://coverlet.io/`
     - total delegations: `1`
 
 - address: `tnam1q8wldcr49mhm92a69fmf847d8rn48e6gcql2s4ya`
@@ -73,6 +82,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://www.cosmicvalidator.com`
     - total delegations: `1`
 
+- address: `tnam1qx64zytr93rjj23ztf32y2rnrxwlm9j6svyznxez`
+    - alias: `CroutonDigital`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `100000.0 (0.01%)`
+    - email: `official@crouton.digital`
+    - website: `https:/crouton.digital`
+    - total delegations: `1`
+
 - address: `tnam1q99e0kqh32q6s3f3mr0ds772edyg7862jgj23fhh`
     - alias: `Unknown alias`
     - commission: `5.0%`
@@ -81,6 +99,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `fastrpl@gmail.com`
     - website: `https://itrocket.net/`
     - total delegations: `1`
+
+- address: `tnam1q8jrrf8s22cwd22yxhwc38tlvahplh2wyqjzl9gx`
+    - alias: `P2P.org 💙`
+    - commission: `4.5%`
+    - max commission rate change: `2.5%`
+    - total voting power: `84759.0 (0.01%)`
+    - email: `cosmos-security@p2p.org`
+    - website: `https://p2p.org/`
+    - total delegations: `2`
 
 - address: `tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t`
     - alias: `Stakeflow`
@@ -541,15 +568,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://tududes.com`
     - total delegations: `0`
 
-- address: `tnam1q829u6jedv7y4yek2gfrh77qaz9qe3veduzkdyk4`
-    - alias: `Coverlet`
-    - commission: `3.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `leon@coverlet.io`
-    - website: `https://coverlet.io/`
-    - total delegations: `0`
-
 - address: `tnam1q96m7kwchdgzjk7dpvxkq3dxwzjhyjcggyuua5xf`
     - alias: `StakeUp`
     - commission: `5.0%`
@@ -773,15 +791,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `support@validatus.com`
     - website: `https://www.validatus.com`
-    - total delegations: `0`
-
-- address: `tnam1q8jrrf8s22cwd22yxhwc38tlvahplh2wyqjzl9gx`
-    - alias: `P2P.org 💙`
-    - commission: `4.5%`
-    - max commission rate change: `2.5%`
-    - total voting power: `0 (0.0%)`
-    - email: `cosmos-security@p2p.org`
-    - website: `https://p2p.org/`
     - total delegations: `0`
 
 - address: `tnam1q8s7jp43sezdmp07g5jn45wd9wdx9ygkgqwr2grj`
@@ -1214,15 +1223,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `thanhlv195@gmail.com`
     - website: `https://azclub.pro`
-    - total delegations: `0`
-
-- address: `tnam1qx64zytr93rjj23ztf32y2rnrxwlm9j6svyznxez`
-    - alias: `CroutonDigital`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `official@crouton.digital`
-    - website: `https:/crouton.digital`
     - total delegations: `0`
 
 - address: `tnam1q8t4hkv7dqjkka7ns42rramvz0dmj98g7q7zq67m`
