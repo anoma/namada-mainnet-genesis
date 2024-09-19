@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqjcs2l8dq5kjdk7fwsefq8wjhpxrpudn8vq59lf8qc5me59xndzj8t0qzs"]
+
+[[validator_account]]
+address = "tnam1q8yksf6xqm6u8e2axhy7wyx0elslnh7tdsrp2y9m"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.21.102.153:19656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqeh0hzkwt8kjj8f6zqncjgtz2uq5z8ydmhng2a68l37vcqn3zpx5a4gu84"
+authorization = "signam1qq6xt8amtrwzvcyypjszjan6e2jrjgz2a7qlnmqu4j5fu2a4wsm0gte5cm2vvurk0qwu62px5aap8kclx6azranpdqzhd3fqgrh48ng8t09vze"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq9akwdkmqsz7lagjlzmw2htytghdae6wszlrsrw2l7netp6hfnzgckvvlf"
+authorization = "signam1qzyssme6hmhmuh5cd4lavl460upjaecjw35wrszetgkkaue6axa2a8n0rt59qrrwkz45kedv5ctvz64kute36rd4vq0eayzvukszycg869va2n"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpdl6437c5v2tdxl8llldvfkn30g4c0ux3lguwhhvedqedmpvu7pu9u07ms"
+authorization = "signam1qpkhq8nwzq9mwwylux6y4msv7m2zez5yqpxh7j6m5yx0dq7cgj6hcysjjt2nqm08m2vff6ttpplnp20gpedqgvt8m0qdtxh5vtwmagcq68ltp7"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp79mqj0t9dk4tyv3egpwmlqq25ej44nulpjkxu54zzpr4emte2rxs6n32vc"
+authorization = "signam1q8nvv6unhwwcs97r26lc3ewlj24varksv7ff36yl9qwyyn5up3mljxupkw7kkxqw6c0knkfa9nmgtzaelglk9tk2a57ypz2v5kpm5rhyqycq6g4f"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypn7pguvfaat8e9ts3tul7xt9xctjwwdk7uqvpvg75ss2lgm7qalrckt0a6s"
+authorization = "signam1q8y8qx9c7tqp73rstfrav2lyrla0prgmnmkuta6fhuljaqkv2d6r6xfx4r8rxpu6fyqxu4vewqvphlkvdk4qud8vl72hsrfs003r52faqqdfagms"
+
+[validator_account.metadata]
+email = "truongquoctuan61@gmail.com"
+description = "Trusted Proof-of-Stake validator & Tendermint chain service provider"
+discord_handle = "hades99.hooked"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/3fd94fa5d3e8e84255e906df9a2c5d05_360_360.jpg"
+name = "HadesGuard"
+
+[validator_account.signatures]
+tpknam1qqjcs2l8dq5kjdk7fwsefq8wjhpxrpudn8vq59lf8qc5me59xndzj8t0qzs = "signam1qp83d2n7xscgrmlk5jgnh98f7pwwsfjckdg7wd4mscrwzsdkgjvucjrz5nlhc050wwh0fs0ruxfnd5rvu39erj0erlg2k3yam3x09hcp5x7fak"

@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr8ppul2enz4g3w5tg7nr6kp4ngu33468pxj3e4xgzx2l8ru5y86x6w6r4c"]
+
+[[validator_account]]
+address = "tnam1q9sdarpylwxd5vv3e8u6wstrpz052jhls5g4a3wg"
+vp = "vp_user"
+commission_rate = "0"
+max_commission_rate_change = "0.025"
+net_address = "52.136.215.18:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz0t9p9pw7j7v7plcussw7gp83wvk403axuuvpclrq05qcfk354kw89446l"
+authorization = "signam1qpec77arm9p2y77df7c736fcdqngu5mnya843j33hjr3tsxwxp2cprsv3klv4eze87yqaz7kppr06g9h2ykc609l6zl2zr2al3zhgqqw8npk0v"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzdr65788553v0r89je8s59wxc98wmfjg6rh8gmwv2dznwem532a27wzm55"
+authorization = "signam1qp0s4eev7sp8j5fqq5fjc5ncvq5d7zfx33v422dwyypelquaf4zawwz5pe7rj0sp4847yeq5gm8vrh4fqq6pemksjdhqh9twt8sttrg0wulam6"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrn2hgtqmlams048nwcjg0jjuyf7hrkhm2pmfdqc38wdnsumua4k55x399j"
+authorization = "signam1qqprapufp63ypqx03n32tdryjvyu632lrun207zad5xkhkhtdazpq4j39gl7mx7m6kh5a4s5upefk2s04stm37hlvm072ta0ew7pgsqr8y6zfc"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypqfp4ee53p38703ylapdv6rllzuzj0h5e4qjvenxgv287h9rr3a9q0c9h4x"
+authorization = "signam1q9j6dknmxequ2wlan0vcdzzl09svlmgqdg9rpacg9qksek50npty5s87vfyea2erxkfkhpwscc2z444rt7vyas250dceqmj4u8zcz24eqywvc8te"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypz0pc9ug8s06xwx89045wqkgmunkcq0wnyqfmyglgk9ehvlu7f0nsrx5n4v"
+authorization = "signam1qxfpe9vk559gnma0lp47yuujstcgm7d75pfmdhrsqz4krhww9zv5krupwp3dqp5tnmkmaaajkmevyv8aufxq6h5rpmue0yxlm5su86j3qqg2ulhs"
+
+[validator_account.metadata]
+email = "info@swiss-staking.ch"
+description = "Swiss Staking is trusted by 50,000+ unqiue addresses and known for top-notch protection security and reliability. We back the protocols we validate on."
+website = "https://swiss-staking.ch"
+discord_handle = "creeea"
+avatar = "https://github.com/swiss-staking/public/blob/main/swiss-staking.png"
+name = "Swiss Staking"
+
+[validator_account.signatures]
+tpknam1qr8ppul2enz4g3w5tg7nr6kp4ngu33468pxj3e4xgzx2l8ru5y86x6w6r4c = "signam1qqkr8jhxdpc5sdslnkalvm0meh20enshmm3z903wsvfstnq6g8mjurlhdrwn385ucv4w0u3h222lfk3uupf38wjm7s6t7j9wzhllgms8typpdg"
