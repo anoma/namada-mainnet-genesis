@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `191`
-- Total delegations: `51`
-- Staked tokens: `2472780.592579 (~0.25%)`
+- Total delegations: `52`
+- Staked tokens: `2522780.592579 (~0.25%)`
 
 ## Validators
 
@@ -126,6 +126,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `info@swiss-staking.ch`
     - website: `https://swiss-staking.ch`
     - total delegations: `3`
+
+- address: `tnam1q8hck7594xqw9dz35m8wwtgtvdxf4xn0mg908r8x`
+    - alias: `OriginStake`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `50000.0 (0.01%)`
+    - email: `hi@originstake.com`
+    - website: `https://originstake.com`
+    - total delegations: `1`
 
 - address: `tnam1q9mgfvqqypw82jk997kzgkkgnf8fxur2qqpa7rlr`
     - alias: `mdlog`
@@ -1421,15 +1430,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `validator@genznodes.dev`
     - website: `https://genznodes.dev/`
-    - total delegations: `0`
-
-- address: `tnam1q8hck7594xqw9dz35m8wwtgtvdxf4xn0mg908r8x`
-    - alias: `OriginStake`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `hi@originstake.com`
-    - website: `https://originstake.com`
     - total delegations: `0`
 
 - address: `tnam1qyx57588ejm4ltfldr4kvftmcr8plkx7eykxkmsj`
