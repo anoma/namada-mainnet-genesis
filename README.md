@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `190`
-- Total delegations: `46`
-- Staked tokens: `2390091.592579 (~0.24%)`
+- Total delegations: `47`
+- Staked tokens: `2400091.592579 (~0.24%)`
 
 ## Validators
 
@@ -224,6 +224,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `10000.0 (0.0%)`
     - email: `llocallhost@gmail.com`
     - website: `Unknown website`
+    - total delegations: `1`
+
+- address: `tnam1q8ww8zgchxju5dr55tl2xqgfh3vwsh8kh53gkp2f`
+    - alias: `zaebaza`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `10000.0 (0.0%)`
+    - email: `zaebaza@rambler.ru`
+    - website: `private`
     - total delegations: `1`
 
 - address: `tnam1qyp32zcympg4vlkmu72u33szdgv6qcf3vgrr8w3j`
@@ -485,15 +494,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `unitylchaos@protonmail.com`
     - website: `https://s9.gay`
-    - total delegations: `0`
-
-- address: `tnam1q8ww8zgchxju5dr55tl2xqgfh3vwsh8kh53gkp2f`
-    - alias: `zaebaza`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `zaebaza@rambler.ru`
-    - website: `private`
     - total delegations: `0`
 
 - address: `tnam1qysxqwyeldesm2cdfhkr86jky5vj5vu8cu9jjqtw`
