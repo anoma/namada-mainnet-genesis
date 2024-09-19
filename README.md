@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `191`
-- Total delegations: `49`
-- Staked tokens: `2422781.592579 (~0.24%)`
+- Total delegations: `50`
+- Staked tokens: `2432780.592579 (~0.24%)`
 
 ## Validators
 
@@ -251,6 +251,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `10000.0 (0.0%)`
     - email: `nguyen@mekonglabs.tech`
     - website: `https://mekonglabs.tech`
+    - total delegations: `1`
+
+- address: `tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k`
+    - alias: `Stakecito`
+    - commission: `5.0%`
+    - max commission rate change: `2.0%`
+    - total voting power: `9999.0 (0.0%)`
+    - email: `security@stakecito.de`
+    - website: `https://www.stakecito.com`
     - total delegations: `1`
 
 - address: `tnam1q83gqj9fpny50g7pclc62wu7qxjc7mdlwvq5s2ca`
@@ -1250,15 +1259,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `merlin@wetez.io`
     - website: `Unknown website`
-    - total delegations: `0`
-
-- address: `tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k`
-    - alias: `Stakecito`
-    - commission: `5.0%`
-    - max commission rate change: `2.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `security@stakecito.de`
-    - website: `https://www.stakecito.com`
     - total delegations: `0`
 
 - address: `tnam1qyjdzk8gjfvrasuxnxhmcnl2m5uzkad4eqcuuelq`
