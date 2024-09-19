@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `190`
-- Total delegations: `47`
-- Staked tokens: `2400091.592579 (~0.24%)`
+- Total delegations: `48`
+- Staked tokens: `2401101.592579 (~0.24%)`
 
 ## Validators
 
@@ -352,6 +352,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `www.nomadvalidator.com`
     - total delegations: `1`
 
+- address: `tnam1q9ys6rx7h9d20a5gq0dewx6uze6k2trxayt90zf3`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1010.0 (0.0%)`
+    - email: `mus56@mail.ru`
+    - website: `Unknown website`
+    - total delegations: `1`
+
 - address: `tnam1qx7xenrcve38c8lmcmewpk42df6pchlyjg34d3lq`
     - alias: `SIPALING-TESTNET`
     - commission: `10.0%`
@@ -530,15 +539,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `info@mhventures.io`
     - website: `https://mhventures.io`
-    - total delegations: `0`
-
-- address: `tnam1q9ys6rx7h9d20a5gq0dewx6uze6k2trxayt90zf3`
-    - alias: `Unknown alias`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `mus56@mail.ru`
-    - website: `Unknown website`
     - total delegations: `0`
 
 - address: `tnam1q8qr408fvssqpqaht2qspryq2yfu7lds0urktcam`
