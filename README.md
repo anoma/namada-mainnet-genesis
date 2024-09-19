@@ -12,7 +12,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total validators: `190`
+- Total validators: `191`
 - Total delegations: `49`
 - Staked tokens: `2422781.592579 (~0.24%)`
 
@@ -872,6 +872,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `chillvalidation@gmail.com`
     - website: `https://chillvalidation.com`
+    - total delegations: `0`
+
+- address: `tnam1qx7apjd6puv09zenlgcjg5q9l74y6ax4sqvyhp6y`
+    - alias: `Luganodes`
+    - commission: `10.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0 (0.0%)`
+    - email: `devops@luganodes.com`
+    - website: `https://www.luganodes.com/`
     - total delegations: `0`
 
 - address: `tnam1q98jzz306gldxvtg5quwnej4zvna6pgnquk2t4dc`
