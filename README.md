@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `191`
-- Total delegations: `53`
-- Staked tokens: `2524030.592579 (~0.25%)`
+- Total delegations: `55`
+- Staked tokens: `2530930.592579 (~0.25%)`
 
 ## Validators
 
@@ -289,6 +289,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `www.staking-power.com`
     - total delegations: `1`
 
+- address: `tnam1qyswpl4wvk4zq45axze9mdghqr9n9ls9yvm9t66c`
+    - alias: `MurphyNode`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `6800.0 (0.0%)`
+    - email: `murphynodeteam@gmail.com`
+    - website: `https://murphynode.com`
+    - total delegations: `1`
+
 - address: `tnam1q86ydne27sxc4tzgzy5wcv9mwrwa0gwtqg4rfuue`
     - alias: `Moonode`
     - commission: `5.0%`
@@ -458,6 +467,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `100.0 (0.0%)`
     - email: `admin@nodeify.net`
     - website: `https://nodeify.net`
+    - total delegations: `1`
+
+- address: `tnam1qxzwta6uhcsv40a8l4g5t07q0ey50c9dlyt3s272`
+    - alias: `polkachu.com`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `100.0 (0.0%)`
+    - email: `hello@polkachu.com`
+    - website: `https://polkachu.com`
     - total delegations: `1`
 
 - address: `tnam1q9tf86cusctv2c679ssflsrq0ymd9qxnluuewvt8`
@@ -647,15 +665,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `hello@chainlayer.io`
     - website: `https://chainlayer.io`
-    - total delegations: `0`
-
-- address: `tnam1qxzwta6uhcsv40a8l4g5t07q0ey50c9dlyt3s272`
-    - alias: `polkachu.com`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `hello@polkachu.com`
-    - website: `https://polkachu.com`
     - total delegations: `0`
 
 - address: `tnam1q985emxj29hpz3dlye0yfe5hm66pmwqalu0y06p4`
@@ -1475,15 +1484,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `core@f5nodes.com`
     - website: `https://f5nodes.com`
-    - total delegations: `0`
-
-- address: `tnam1qyswpl4wvk4zq45axze9mdghqr9n9ls9yvm9t66c`
-    - alias: `MurphyNode`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `murphynodeteam@gmail.com`
-    - website: `https://murphynode.com`
     - total delegations: `0`
 
 - address: `tnam1q8a2xwh072herrmlgf06gvrhna775sqjuufnxydn`

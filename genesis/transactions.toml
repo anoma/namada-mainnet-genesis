@@ -4036,6 +4036,18 @@ tpknam1qplcr82t6y4hnaj4re3k3qw2kfxt6mugmwsvpaw2h4q4z8p4k634ja2htxv = "signam1qre
 
 
 
+# adding transaction for hendrisulistya-bond
+
+[[bond]]
+source = "tpknam1qpm8k36dwuqvtq38hs5kmv6tdylg7sz8zqeqsaxgkhn8cj789dhhvfgcydj"
+validator = "tnam1qxzwta6uhcsv40a8l4g5t07q0ey50c9dlyt3s272"
+amount = "100"
+
+[bond.signatures]
+tpknam1qpm8k36dwuqvtq38hs5kmv6tdylg7sz8zqeqsaxgkhn8cj789dhhvfgcydj = "signam1qq6j9k4le022lae7fshdv0mz6zgr8dnl7m4rqk0salph92zve25nh5n0u4kk8l4mfddljyem6dkd0hwx3zqlwpfu4g7kc4qqyggy0dgz6whs0h"
+
+
+
 # adding transaction for papadritta-validator
 
 [[established_account]]
@@ -5317,6 +5329,18 @@ name = "Huginn"
 
 [validator_account.signatures]
 tpknam1qrmysgneca7k5gj6uuvu3aaphty3csu78k5xqhelzkej5yyywa5tzh09tg9 = "signam1qzp0zufpy504frk67a6y3xu5lwcktwv86v4yn47telkvaqphcp0q8p06f3p26rp8tevlp4jpruxu8uthjlpuljnph5szq556z4my2xcd3842fa"
+
+
+
+# adding transaction for lyeoeon1-bond
+
+[[bond]]
+source = "tpknam1qzxfj2la8jjxmqg2ak56wqls0knfp2xvvrrxj84jgl0g6hclsj4rjun5efd"
+validator = "tnam1qyswpl4wvk4zq45axze9mdghqr9n9ls9yvm9t66c"
+amount = "6800"
+
+[bond.signatures]
+tpknam1qzxfj2la8jjxmqg2ak56wqls0knfp2xvvrrxj84jgl0g6hclsj4rjun5efd = "signam1qrdkdqw4jymsg487sg4vwjkkpndy6v8h0a5yvv99xpyygtkchr3ctktwg5yvh45shqpsssm6dhgrp3n3suv0d3z3l0q4gp3guv0d8rsq2f50lv"
 
 
 
