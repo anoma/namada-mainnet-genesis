@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqelatz7x0eafauymwkvuu9rncmqsale53qyh7mm9sc6erdlkv5mksfsz7c"]
+
+[[validator_account]]
+address = "tnam1q8m8m40w44z9nlstzh37wxssdqd44mq4xypv05e2"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.110.61:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqjds6cn6g486lrgre84emgzw0kfc7txef80my86l8wn0pxxqw8hkd235jr"
+authorization = "signam1qpgf7s9uw49w82kar9wp8xshtuzpln362al4wlcq59dgjlqggjghj5nnfek9hkr9m23r9uyh6j3fdvtsk96ss7rhg7neqtcc4j39gdsyrcnrgy"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpr3p20ecer2506yp8ja3p7xfhp2nn5ytplzg8jlt20k8ce2h5675063mw4"
+authorization = "signam1qzjmfnv7h3vjzxhm4c740ludpt2tsn8ft2t0dar9xqzqecpdk4uledkky5pun5sxxj976hfx0dp998x8cdsepqjzh7kmkwjhcyn82vq84ekhz4"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz02ps2ga9p9xqm83cgm67cuu8l5t3nx74tysleszvu9eurw3hef6txgrxn"
+authorization = "signam1qpx7pwg8q9ndmgxl0erdh5xap4jw7g5k5rpnhagwc8gaw5racgawhq7lzggsahctyfdtm3xd6j9543tx5hlz0yzmlammkxcwxrsq82sdsc77rx"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypk7ynpekxeqa7kzud4d2r9mc3guwh09mawf8prrmh36dppxay6vfszq8kxa"
+authorization = "signam1qyujxhpyqsjvle2kee3z74yuw734y0aga3e4xeenavgqr0x8jugawkzs02se84xpy9he03jtxw920s28g2ma20grylejjd7k36yu74tvqqwqgqnx"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypwc6jk2tjkhjlddwdklzz9g6kse7exuule6wetcvgxe5ezzu6hkqqp4t9f0"
+authorization = "signam1qx2k4l05yuva9rjmx02mxk67s75uyqvcy755gpr0hcjrr3lfzatmqthx6kyvlmu4fl8vjxm05ptwvqqgefpfvypyvahru4cxr2evnjn5qyzsys5g"
+
+[validator_account.metadata]
+email = "virtualxgrape@gmail.com"
+description = "Indie"
+discord_handle = "alekh_w"
+name = "wb3addctd"
+
+[validator_account.signatures]
+tpknam1qqelatz7x0eafauymwkvuu9rncmqsale53qyh7mm9sc6erdlkv5mksfsz7c = "signam1qqhpgzpc46vr7q5wrwh6989hapj3qr79h2klvy8x5yce79eqncsddh33hkex6yvqy3z7cxzu9jaxfpuqgk3lgfqpvkqv24m9n9lcadgrdyqt02"

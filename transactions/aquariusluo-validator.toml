@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qztc3kr3m0q9dcm9qce2hg7q9h2vwv8uht7m2su60j8k0xpqfsk827f0rt5"]
+
+[[validator_account]]
+address = "tnam1q83gqj9fpny50g7pclc62wu7qxjc7mdlwvq5s2ca"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "213.133.103.17:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpuukfade7f2kstare8wj4xf5thunl63h3d8h36g5v52xsyetd7jjjrhf7a"
+authorization = "signam1qzuhuw2c45mnxml5q9gjkpzeezsyjpjvsw35earhwpwmn3fhetm3xytmh999c8yw7fq5fqvhjn2uv407d20c6txuv20mwkwz0y943lgfrwfuh9"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp44lhxedzsj7mwwxedg00gtq5gtte8nveqtr2pm0zu04xq3e4l7sms869t"
+authorization = "signam1qpq9ry55w59xuxrf2lnzj6m4gqlxsdndsz4608qv3qfpayzdvd5v2pwvavf25fzfenfq3ldpnztt82vhfss5ch3zn0as0w554f202yqyjavz69"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzecp7m3gvh25sw7c38r3a2ean3gv65hycc68ls795qsrjzmgz64xajveec"
+authorization = "signam1qzaz700psqcrsqx9hzdqpv0wmj36fhe7j39sfzdsn33suautgt62azyu3svmt9z3vyexk88xjdc7gfkh95v34yer3pdwtt5x3fkva3gfrhkd2z"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypnguv57nwshr6rw8dykkxrj9pe2nt6rltdtqcuqdu0s3kpfxc294gmpm8nz"
+authorization = "signam1qyqkjwz47xkq6utmgmrf6nynvn7pse8ucnsqy6mfdhff0nwgr6kp6q7hw6zxeq80s2leqcq54fuxe5ch46vkdu0r3dfr3c5lt2vpcyjmqy9l96aq"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypgsk97tfz9qwqaez8xsgelhf2ylmcmnjhzrtrqy0y3md8nnktw90g35rq6c"
+authorization = "signam1q9g3smxckx8h88cxmylztqal5cs0kw7lmqzagsy24vnaaarn5eygz7tzxasqmvmnfrpy0kefa2muqpcac0r9r2nndk78ueu5s6lgasdsqy8zztf4"
+
+[validator_account.metadata]
+email = "aquariusluo@gmail.com"
+website = "www.staking-power.com"
+discord_handle = "sy.lai"
+avatar = "https://raw.githubusercontent.com/aquariusluo/images/master/stakingpower_logo.jpg"
+name = "staking-power"
+
+[validator_account.signatures]
+tpknam1qztc3kr3m0q9dcm9qce2hg7q9h2vwv8uht7m2su60j8k0xpqfsk827f0rt5 = "signam1qpnc4d0df69umgzyl0hywkwd7qdrtf5vu4g06p2khjvumsfjz4n6nu23hm37mzj5hyc7e9las6gr85v0a6f3e747fecxlk9exsqxhzqvkwlxvk"
