@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr3aqe9fjw7xqpleuwjrynka3wpunhscmenuw7al5wqk0p6w6lxj5dtzx0h"]
+
+[[validator_account]]
+address = "tnam1qxl39v5a88cm0cw842mv7znmygmz4etfa5d5raze"
+vp = "vp_user"
+commission_rate = "0.07"
+max_commission_rate_change = "0.01"
+net_address = "127.0.0.1:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq3qgqunj7cx0afxlv83j2n7ep6nvjdmk54l6jma03aaw2apv9kh7dxm8ws"
+authorization = "signam1qq8wm3dvkjqu4jkfdfzh2tnw462ll637y6g3ru7muq79jz92f633ngdrw3z0834x3le94c4spt3hd743vue5mwrqppp2tk5mxqalvts92s85zn"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqtu6f3jplkr6xvcfyxt0sx9mke6rlzf6e3jqzprytzx4ys0uku2c9xg4zd"
+authorization = "signam1qqmp9ma0hqyhjxw3pj4vr6nsfsskmasfkx54xjtrm54j4xf3a549x9t2g0kfam7gpscll6ngtr2v7qtu3es3cvagfkk2lqaepkae68qqqggjv7"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz89fszjs2nddeg9zjuka06w5fs9efsgz05mz9yrt5fh3pf79yenk4lckcr"
+authorization = "signam1qz2hy524hnerk53xxetu2p0l3l69akxuxh5cvgkjjdv0r7glgreze8gdsvv9pwhwnhf87x3quyz3q2394xa8pya4yakaqahjkn8xrusxw609j6"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypmnpmq0ju4e8fk2w8tl20ps6tu2v4zf5q77h9fjdn7nc993dv5vdc8gt262"
+authorization = "signam1q95v388z6nke82crpv56jq4helh8aulcxxe7nkrufrlklacdr8awz74uhk58sfdndmrdccqfexe7dss34sx5slkxen86aav5j887mp02qykkz3pg"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp5mr5y7mwlzct7mxzwpgsmr6zj4mtu2kde84h3wrn5yhscylwyd5qmy90lh"
+authorization = "signam1qyhtrnayweqpv0ctzpuj8ffcg9qq204gtrzc9nvrgwuhmdpsgkkaju4er8yjjvfv5xwa0lkp06q8dz3u99am48myg79svcgfw7z5ymhrqqeah355"
+
+[validator_account.metadata]
+email = "contact@brightlystake.com"
+description = "STake with confidence"
+website = "https://brightlystake.com"
+discord_handle = "crypto_new"
+name = "Brightlystake"
+
+[validator_account.signatures]
+tpknam1qr3aqe9fjw7xqpleuwjrynka3wpunhscmenuw7al5wqk0p6w6lxj5dtzx0h = "signam1qqsefcjjtn3wht0etmp7rwnkxlnnwxzc2d69u72m3e3rnvx9ehsfpgk83xwl4wwgcg2g5sfe5lv6sszwha4lcl970hvlhkq7p7t30dst39qm8x"

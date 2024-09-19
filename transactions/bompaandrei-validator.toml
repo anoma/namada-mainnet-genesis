@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp7leayn9ahpg2c4qg30732g8kzn48ck7vunq8rjnke3mcrnta2rkrzuqwe"]
+
+[[validator_account]]
+address = "tnam1q9xecndf4dpp83v393myhlzzs2g7g7df2c9cdzll"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "84.247.191.217:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp4fnzs8zltxycxsng6fv4nsxnza85nf0rmyjyrx2x3h80x89q9h7gcppl4"
+authorization = "signam1qrf2h2yjmexmsz9gg8dca9qr9u3ssdm90ks48xuz443k7wgkwg6wzcejzvra0fez4l3hjvfvmpt3mxl445qqhj37sckr9nerpkz7r2qdv25uwh"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrpv74xgjqm67cz5lm6pzvw2506sahjrak6523mqqh03dltht27dulcev4y"
+authorization = "signam1qpsd8422h5p5ffchjys2ks5mesdeeqq6lu2wkaz54j242wut74ycuezugnkjvm9rjpyt8de6qjj49jylxf7s0652z2sxzz8f6m3r42sg8ssrkp"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr8q6aye5r67wnj3ggk5c3r5tpv9d4d89japdxu5tqw5sdqlecwn58u2gsv"
+authorization = "signam1qr5k8f4287n0l76ncrp2ht8fdx464n0qqe2fu7qljrcsp2r8mm766j7adt30p0p0v6pq0ytzvqf0jall42axanhfdyt3ntt9a8dpzqg2hw2kuk"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyper0mfj7a9g8ts63rfawelc467984eyx5r6gwjky650utzxe77zaqz2gp06"
+authorization = "signam1q86h4c50r506p4emkxtpry7p2l50c3dcdnk940d478ccyvzzs9suzsdxmp2v2vvwq747kdrwjcykms24dy6nkxedxn6l6jqzzawsz799qqjcm5j6"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypq6qrf2ldx6jxtv9x0azpxgpsmmn388ayjm94xqc2yszmdqrtzl7gfm984p"
+authorization = "signam1qx209naenqjgdjffufxss787dxgdt9ut8jjs4zpjf59f7tq2q77kxnayj4t5qzl56uk09f5zpwys300z8fx777fjkf3p59mhc53g0edsqq5a07wj"
+
+[validator_account.metadata]
+email = "stakearmy@gmail.com"
+description = "HighUpTime"
+website = "https://stakearmy.com"
+discord_handle = "andreimp4"
+name = "StakeArmy"
+
+[validator_account.signatures]
+tpknam1qp7leayn9ahpg2c4qg30732g8kzn48ck7vunq8rjnke3mcrnta2rkrzuqwe = "signam1qz3d9ex0ldrxxekp5vztejraq3hv285ma84vvxdaxg5nzp0k055zhzu2rk9zlqqq9nasv2t44e3x0vkfjf6q5k3qsj7mvx4eyv80qjcqx47jum"

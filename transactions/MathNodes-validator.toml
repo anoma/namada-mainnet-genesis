@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzxlckdfufq94egp8en4sj9ph46fyg7u5uvkqrwl96wycshdekz2k70v4e0"]
+
+[[validator_account]]
+address = "tnam1qyd9xx4cw4knl4accyp2epnrfk6fgc3kgqxrzndv"
+vp = "vp_user"
+commission_rate = "0.0314"
+max_commission_rate_change = "0.03"
+net_address = "144.217.79.239:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpd745vaes9q5qpjejyghf5rp7arkcxlydl633u2lnurlt7vpvupguv6qt5"
+authorization = "signam1qrg4hcjk7ywpkc2xn7v3333ye5sjgcy57xshjn8vd8warng6h23t7lk4s07lvknhmjkl5z4v9zu8ttp0dafa2kfxh996j790aw4garsptucgqz"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqrx7jfcxpj5p59j69lcf5n7l9h7v523qfyc3xtnzswk9kpwzls9qypl83t"
+authorization = "signam1qp2jcf8azu0c8ntk4ktac5m8hyq8659mem0e6xptuglfdy6jsnzmfk3tznezjx96pec7cvsu4z89dyfrx3zsptdhstqr9mqyn7fhv4g9awpa6s"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp7tp7u3enxa3knkjl2587jhydz2qz3drszastfdaj59ucnxkrgv5z8caca"
+authorization = "signam1qzpqk75lcrmxultl446aufszwc6fu82vhrjz0wxc3p9pwch8zllxucwa54dzhgqmq7gpvqjteszwgzll6mudju55tf7dw3mmd4fevcsxecz2vf"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyph5xf774rhs0xyyuaa6jzmwjwzuk9kquc3jt027gp4mt3flsyznhszrf40c"
+authorization = "signam1q9kkz9l2mljhrl3s2vdkywftuw5gw5l9ru0evtr5v4gmd4thyn7z2cmxc057pyfxfcqxrjwrs5xulthzggyu28ukrjznv4v5txeemq0jqqzgke5p"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypjcjcfrmq9ghuvk0k9dfe2t6nn5kqlwjmsryjvvxauqlrakqvu9vgqkkwvc"
+authorization = "signam1q9a30amu2t8rqvgacpgtufx6xlr9tz20qht7rz7ygkffq9sp6d5lugz978w2pgvfsppvusltx3hf7eyr0n334nu797zs92qc6har0wyjqqppsjz3"
+
+[validator_account.metadata]
+email = "support@mathnodes.com"
+description = "Math is love."
+website = "https://mathnodes.com"
+discord_handle = "freQniK"
+avatar = "https://mathnodes.com/MN.png"
+name = "MathNodes"
+
+[validator_account.signatures]
+tpknam1qzxlckdfufq94egp8en4sj9ph46fyg7u5uvkqrwl96wycshdekz2k70v4e0 = "signam1qzp39hgts3dlpjr6g8mv45kpmmvspuwjsv0d33m6lkex7shm0uffyd4x4znc0m4t36kjhgzz7tmsksgk8hkkheqtaunj6f564k04yxswd2c7ck"

@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrm6glh02un08wh9fuqnjd4lu7tmea4h3v7aqj5mkwxes9lut4adgc8ksya"]
+
+[[validator_account]]
+address = "tnam1q9vrp45qtphed4q2vc382qrtf2gfykf50vssfe2h"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "127.0.0.1:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzxn6evj06r8u08mf8xpevcemjp8dsjfk9gkknpmwy969q8g8x5hwgvmt6l"
+authorization = "signam1qz8rc50e2ugpj5zt3xne6uma33pmezn6v2s6wd36pgyhstr49hn688z7anrannekygcsagqd9wvwmf2ew65j3jra640nctf5fzynn2qpstlmg2"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzhjnfg0eruxtc70y324luj3008aeyylmrwrfzghaq66wzju96f06lg8f4l"
+authorization = "signam1qrd9u4vpmffquwc2dfutv46cufa35tc8yl396pcwmjrwhamw3vwwrlezh32233e2e624ejcy6lq2muxg5elcghusdyn690xe7zafessv4steu2"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qre6mgturxykkvavhnesxm4wzqhptfya4wxuzrnyxghl6duee45gk4q30mq"
+authorization = "signam1qrtudx66sm5e77gueenrgxc4qgqr2xuudg6pll98u662z2cd7sx5pdcta9n7jjdwrxt79yu3az2hrm23mpq76xmq93cu33rlf5la7rsy9x55px"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp8358thw52hgpcvpwn3s3puctgzc46fdwmwcrpnawgquvj2a095tspx87e3"
+authorization = "signam1qyc8nr08qw0jph2398jal9tfks3y7hvy4u684t4lj86l482q5xepuj0kjgnx57ahwtdl5h700zm30tt38jn96u4azvkt54qhn94ydsy5qydg9k4m"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypdr54zmjwx2gkaaq5mt7ds7vza9d8dqkmlhsc84xrsdt7xk7vljxgt3ha8h"
+authorization = "signam1qytusnq30tunj5xw40a28xv2kf7yv4c5d2a58ex5k784t765zuzpshml8j9s9thdx3j42wng7w0mg0p08qjlk7x9j5tlt56h2g75k7s5qykfacqm"
+
+[validator_account.metadata]
+email = "validator@informal.systems"
+description = "Informal Systems - infrastructure for decentralized intelligence."
+website = "https://informal.systems"
+avatar = "https://raw.githubusercontent.com/dpdanpittman/informal-logo/main/informal-systems-logo.png"
+name = "Informal Systems"
+
+[validator_account.signatures]
+tpknam1qrm6glh02un08wh9fuqnjd4lu7tmea4h3v7aqj5mkwxes9lut4adgc8ksya = "signam1qq43yyd4x2jcelqt68mqu30k2hsh69g9aqz5j2vdrvm7ddf4r28qqka8fjs7axuv4ry7kdkydy3aspyxmdrxgwgg9ycycdnuenhrcjsgt0v5sm"
