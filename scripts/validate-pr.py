@@ -167,14 +167,8 @@ def check_if_bond_is_valid(bonds_toml: List[Dict], balances: Dict[str, Dict]):
         
         source = bond['source']
         validator = bond['validator']
-        amount = float(bond['amount'])
         
-        balance = float(balances[source]) if source in balances else 0
-
-        if balance == 0 or not balance >= amount:
-            return False
-        
-        is_valid = is_valid_bech32m(source, 'tpknam')
+        is_valid = is_valid_bech32m(source, 'tpknam') or is_valid_bech32m(public_key, 'tnam')
         if not is_valid:
             return False
         

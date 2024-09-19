@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzjvmvyt8jrutxh44ssw4l4jfyzepz2uf533xeq0x4jlrlnpqyws7n8mmtt"]
+
+[[validator_account]]
+address = "tnam1q8s9kj30dhsnw5kvtf0mq2exgyup64l28sxn953p"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq6e0ax9tglv9cw4y4ray2plkyz7cttflgjtuwsfuevwsr7u6ckhu83mc48"
+authorization = "signam1qz3esmu3gfk96s46lk704stapp9dgj30aa6qtevccwk6nl4g8a5lruclsv3p4vca9ykffws6s93ypnrz9szh6262dptjq6kxpm5zm0qq0fxap0"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrpx73zkd5xavkdshflzh6wd0a2pwqjckn04vus66vcu9zejmqqyklhz245"
+authorization = "signam1qzfzss0wrntk69ytja8jmwss3kc83qt0kwwqrs3xtrey444h9crxqdxdlzlsruf5p9e89g9ykkg6q7wxsr50nltsjlc6uwd440qvlxsyuuvmkh"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp78qvfms3vq85fg4ndep2443ehx4lc9f8hggxxtah3gk64604p3yyaeyj8"
+authorization = "signam1qqvfuy7krkh8teya247v972w5xt5kh4v2k5wu3qewf6ajhz78k2ujl8w7sqhng5xygl7qlap5h7zwtlav4c303m9nuark9weuwwt2yqdam6s4m"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp4cn0dmp239nlnl84cctvqvhz6wzmd9cwk5ppceyzqdec9v4xqshcy6sx2g"
+authorization = "signam1qxhepr973l2s6vwandl7ct0yw8jsrna8p2c0538kgy8ts6lymlqncymn7x4y9w2zrfgmprsj07meu2s2c30wwhcj0unujg3z6tm4qeqxqywxgf9e"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypspa08mdgccazudhuy3zegmc5yclafgfhsufty4csv3pyweekjthgsdw45w"
+authorization = "signam1qyl6ne9490nu4m0xv30ze0w97uy7hjz2a6d37j45upd385pe5tecqmkcktt7hhwwke399266vwuqskrsx8a79jz029hps3lvufuvtkp3qqegjj3w"
+
+[validator_account.metadata]
+email = "namadavalidator@protonmail.com"
+description = "A Namada Validator"
+name = "namada-validator"
+
+[validator_account.signatures]
+tpknam1qzjvmvyt8jrutxh44ssw4l4jfyzepz2uf533xeq0x4jlrlnpqyws7n8mmtt = "signam1qqku2d2nducea7zd0u7utyy430njwk2f4cm2mg83jkuukhxqhzkwxrkahp4wl2x7a3825tsg0jgh6dj8ugrp6quuyrytvnrz7p7a0zspqs9nxj"

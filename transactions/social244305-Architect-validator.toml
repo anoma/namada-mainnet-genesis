@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqdxgfs96yv5gsw8sc5vznpa0sxvxlch8yar7l2aazathued36u8ysww2vr"]
+
+[[validator_account]]
+address = "tnam1qy43rawgevk9jcun495r9sn8pyu7yhxzhgph6e4g"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "107.135.15.66:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrp9k90ytlxnk6k2ahrhlms2en2rjc6yl70eu9qfz6j6ex2wc8y2jdqhtek"
+authorization = "signam1qqvl33nxvkhg3wzxfck0n0ndz7ac9wyjshft7766reajh58edukxz7hkkcgjz7an0lu0wj2cluch95srw7zwzyc93w8rem3fa5hy25grhp6ysf"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqhj39a8ljf8u23rcs6txgs2y9j3a5ld5htens4sldq6mnq5devx6l9rrge"
+authorization = "signam1qz0hpmsez5ep84c7y5cecw7xmyx8rzk26029l94rhgads5636u7utsk28g0s43mx49yrqtaz9l9j7c9ussjx2qqzrjfngx9kd4fqc2stdt6225"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrrz4t2v8mqv8lj6k2wu5a8xcpw8slx550wpx729v6c6vsvzsc726kjadke"
+authorization = "signam1qzlu3aw847sv4e6k5kzklevhlxqyxts2mrqrdx8ng7qc8ce0jsyf7c3x6dnwr7pcf87ycsp6xfv3kghpvrvmel2lxfk3cs7ctzwfxeqdx9y9qe"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypudqluepe702gzgl4nvl9efh5a2ky9ne7gydn22xf0kzwygnljsjq6ehnml"
+authorization = "signam1q8jhazg7q8mexfxnkp8e03hmnkarmeqy67mx2h7u99dpvtmh22y2xk3akgcrquh54wvr2803vp264d8a30lkkhxy6k2d9lqta7u8kvp2qqwl2ra7"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypsttgu8mehs5rz0ec5ypptwa4tnpj5uf4jzwggwf2ctqu2qtf5ergrpn8zh"
+authorization = "signam1qxlnjjl0yzm2mg5xx8y4dwfxwmyj8jr8zrwqv9xatqjskuv7kvr9kaylwk77xx044v8ysrqya7597e5megdaps4a4ede9rwvaw57xghjqyul8ze4"
+
+[validator_account.metadata]
+email = "architectnodes@gmail.com"
+description = "Baremetal validator and IBC relayer operator"
+website = "https://architectnodes.com"
+discord_handle = "architectnodes"
+name = "ArchitectNodes"
+
+[validator_account.signatures]
+tpknam1qqdxgfs96yv5gsw8sc5vznpa0sxvxlch8yar7l2aazathued36u8ysww2vr = "signam1qqj66qse43pzp2lhagm2cu2tujrmytnewfala9vrd9kj8rcgxz48lzjmdfe4annnzkphx7k84tsjfq7gzcvqpj4rf04y5k3mcmr689s8awaey8"
