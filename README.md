@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `191`
-- Total delegations: `57`
-- Staked tokens: `2532455.592579 (~0.25%)`
+- Total delegations: `58`
+- Staked tokens: `2542455.592579 (~0.25%)`
 
 ## Validators
 
@@ -260,6 +260,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `10000.0 (0.0%)`
     - email: `zaebaza@rambler.ru`
     - website: `private`
+    - total delegations: `1`
+
+- address: `tnam1qyl2fc8c358avg47ff5lkc47d4cnk0x8wy96ax9q`
+    - alias: `StakePool`
+    - commission: `1.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `10000.0 (0.0%)`
+    - email: `contact@stakepool.dev.br`
+    - website: `https://stakepool.dev.br/`
     - total delegations: `1`
 
 - address: `tnam1qyp32zcympg4vlkmu72u33szdgv6qcf3vgrr8w3j`
@@ -710,15 +719,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `loser@loserboy.xyz`
     - website: `https://loserboy.xyz`
-    - total delegations: `0`
-
-- address: `tnam1qyl2fc8c358avg47ff5lkc47d4cnk0x8wy96ax9q`
-    - alias: `StakePool`
-    - commission: `1.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `contact@stakepool.dev.br`
-    - website: `https://stakepool.dev.br/`
     - total delegations: `0`
 
 - address: `tnam1q8236gr76rrsluvq27j8mkma8u04hz0khszatckw`
