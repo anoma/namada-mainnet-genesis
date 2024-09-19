@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrk7s4gykd2ss4re342eu6fzcx5uxaj3cq5ncwcem8nqg8qpm06rzt423ur"]
+
+[[validator_account]]
+address = "tnam1qx7wyapm8f9ddlukz3p7gdmhjjvck7lmaqjeflra"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "208.98.35.253:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzhw96zdv7wgvylexzqzvmv5qdlp5hjpkxwdsmz28na5pgwuulwgus7lmq6"
+authorization = "signam1qz5f57ff7lq5wfqsy8a24d2k2mgk47yq336uvqmmctp9f9ltupwyrspe4x5rsrzgv4zlrsmecvxl2euupe6hqxhvz0qxnyqp7drlvpc0ydvwkq"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz5vty7j6ppkt04h60x5z7nred88hahxxwtq8wrtr0vtpcw9are32atka48"
+authorization = "signam1qpxkwm69t9hyqttkft9vepmps5nepplla4lzzv8knzk9p03sdaskcgv8wnd9q6qzxr7w745auxzercne36lvy5see9czvh7s3chp0hqww93j49"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpeqv8v44hhjxj8wfn20348dgnu7u0kwu5eacx3ys6rsqhujrd332wsre6h"
+authorization = "signam1qp76suftuydg03ay7j0lrk2mcdgxhxj22pm26k4gv45g92zsfw6hlusgpqkqg8xeekuln8hkc5d55xu5ue2xxmf2fue90zpg3cg5uwg9573uhl"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypkv24d4mq87ekychlzqn0ngfm4hmysrygzy82vz0ndylmqzrjlahsym8fcm"
+authorization = "signam1q9e7aay2hx3z725s6qjmnunwhzv7qth9fdl87dva5dv8uek2p5dsqh48h8dlsrl0s7mhgt8678yycf8u5ywh73sy47hgj4l4rslrze9qqqs4tw74"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypm0etm488tmz5z44g9k6rdktjvndsy07m5yx84zq8fwhux3ttazjs22hled"
+authorization = "signam1q8gcesj5csg36pu99nfs7wzekaz8sez2kh2lxjyjpjyqrqgpdh6zvgh3h36ja5s9fjg7uv8ryu7nfjx5mrcp5n552plz733zdafk9yj8qy2s7mp9"
+
+[validator_account.metadata]
+email = "winlin@kelepool.com"
+description = "BXKelePool is dedicated to providing a neutral and reliable infrastructure for the blockchain industry."
+website = "https://www.kelepool.com"
+discord_handle = "klearth"
+avatar = "https://www.kelepool.com/favicon.ico"
+name = "BXKelePool"
+
+[validator_account.signatures]
+tpknam1qrk7s4gykd2ss4re342eu6fzcx5uxaj3cq5ncwcem8nqg8qpm06rzt423ur = "signam1qp6ju7ny0lf6has80q008ae89syl94hv38rf6042fct7cr9yyfcd05njkzepjvpf0593kmudxp6l6qwmnjewpqhu4g5vpqxvm73n5xs2p9z8wd"

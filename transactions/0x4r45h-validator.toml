@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrs74l056krjlwl9l2ghwssj4lgh3qjxtgzgrnssnw4e04erh788xhmwxcp"]
+
+[[validator_account]]
+address = "tnam1q8qt5qy99fvuhltq3pg20k223crauw6phulv0kfj"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.03"
+net_address = "135.181.5.27:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpcllc2cavqmm98srdj7awdjme7hf9sm0y79yke0lhqul25g3sz9qyks0gs"
+authorization = "signam1qzc3uh5yamak4k3hs5smgg3k4xl58p7fgfxk9p5at2qg3cx9dpnkedfyeg2668v06rzxgjj0gtcjp0gkupq3zn7x0repe4gadwt889s0gq6r6f"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq8lkxnggfae0prfxa9fac48s52xeja746xzkchph78hr3lsc5ejq0dzm4d"
+authorization = "signam1qzm8hq3fqq8xazjvzx4qh0vjct6ghaukuklfk3x498pc59kqyuhzh32r33a8z0c8mcvkuxrh974286ve8g990cpy9gw2pq9eglnjk7cpj4zkqt"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrwq3zxhklpnmffyd62y3em2mhg0ewwr7azexzzaew8qm0exkzwvwzdfleg"
+authorization = "signam1qpjqdjfk5jnq87emqjgf9fvj8g7yr2w7wwlzp4l5x5zq8vcy0f8v8mlfqjten93j60k6znyw00smnq2rnlhg2dvtr70y07wsg2pc6tcwjgk334"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyprmy4h2g58rqves9u46c0cfa9nwulp5afpzdhfeelxrak56vudeycdwusej"
+authorization = "signam1qx33pwa7lnl8xf8d7k8jtd3s6058g8k0n9s5s4f0dtfh2nn2dcs9w4dmqgf2tkewgpyhdrcdan7tu24vqqvg8atg3c54wj9tenvf0tqlqqld4zzl"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypcdrcqzr37mld60458y4dqx3tymcga7zk8eeg4wsmnlk3r2djkdtcwe5gdz"
+authorization = "signam1q8s8prf42dvyt8ny8zmjdnfd8wt7jmk8phtm4cdcnl9tjvvs8dw55nch5p0qhn6nm6gdxs4a9asjf0s7jyfr9y8w0res2ex284v4tze6qqlva8pz"
+
+[validator_account.metadata]
+email = "contact@emberstake.xyz"
+description = "Igniting Your Staking Success"
+website = "https://emberstake.xyz"
+discord_handle = "4rash"
+avatar = "https://emberstake.xyz/logo.png"
+name = "EmberStake"
+
+[validator_account.signatures]
+tpknam1qrs74l056krjlwl9l2ghwssj4lgh3qjxtgzgrnssnw4e04erh788xhmwxcp = "signam1qrrearrwyqdj8vpc6e9q6n2xwagvmy6g7790jrzfws4dwdwgdslcwd7f2lxp0da9agksht6hd3wmgszzkyrzrq4rcc64usysrnhhssggacm3lz"

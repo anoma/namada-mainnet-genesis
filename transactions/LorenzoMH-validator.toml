@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqn0upcpp9zssakvd9vsn9m6579ptkdvj0jj45472dyt6tevrjhjswkg56v"]
+
+[[validator_account]]
+address = "tnam1q98n27gcgnwxxvurcruyvfge0fenczw6nuf7re5n"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "38.242.214.63:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzk98g3fcvp7425698ahw2jlydgc2q4fxy67573any6j08yv34up6ug3wrx"
+authorization = "signam1qqy6xtv6snljkdxkw70un9y45hqsuuw7atcgzedfq8k0wxzwnqz445wzf792yaqcgxj8chhp6aqg2awccyf3h3h2gexwt343rjd0qvcvmay4zr"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqtwn3g468pp9cs8k7tw9uka5xy6umr2sut7zh03qewgkfpah07e6msvftc"
+authorization = "signam1qzuumrhgavztlfcqw29dndk0dhzu7ncrg9sf2ld2fhqlylvp5eqkagkrlqceahkssa97yht2x6jjgfh4tcz5sdnj22cj9px7m5stsdqpsdlwlg"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqhcph6pcv2s4ujvsjxh7966a6c3uchlekfcw7qr7xgj6cefkxvmx98zwcc"
+authorization = "signam1qr3898kdzn6xp8uqnkpkngdzzmmr4eemfhu9qlhcglefxr3cve0qx4dyjt85jvjv5nphyvu4thtlq58wrgyrx8wwxx9hxfw6whlg9uc00rwdys"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypu2ncfjudmye2mf9v2enmtd35eu70mdvm4dum4lnz87mcj2fql2rqt0xlq8"
+authorization = "signam1q8d3v4429ykh8myezqz8v898ptlr349zru6sutjm94r0ueh3sf8szrwhr58jj5c7k0hg8dsyfna9q0mk5u9xagkgnq00q6rgyrnw8pwdqylasnvg"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp3f4jqprmarxmhk96cslm7wsxxel4v0maf8upp2p0jk6d74h03wzck4wz8x"
+authorization = "signam1q8f8y58zlpa2dl5qvtfenzj2e72hjmfq2wlaqell0jhewpzd266gslfypyexmgxk40fz0d7smcttcc5m2xjjjexhwhdvyp3s2e4mmhfuqyam2qms"
+
+[validator_account.metadata]
+email = "info@mhventures.io"
+description = "MH Ventures is a boutique full service Venture Capital firm investing in disruptive technologies and people of the future."
+website = "https://mhventures.io"
+name = "MH Ventures"
+
+[validator_account.signatures]
+tpknam1qqn0upcpp9zssakvd9vsn9m6579ptkdvj0jj45472dyt6tevrjhjswkg56v = "signam1qrtjchlx7eqxpaptrzanfrs7unf958t4k4xx670aldk9gmg72ht0cn0dstv5h5zywcm0hvz4af88hked7lmtfd66y4h47dhydst5wtct8pqrc2"

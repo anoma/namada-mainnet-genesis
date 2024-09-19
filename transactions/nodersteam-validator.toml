@@ -1,0 +1,37 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqsya2phyy20ylusfv2n8prfpgkl9z8snmrp8500msnd5zphg4q9jgsdxfd"]
+
+[[validator_account]]
+address = "tnam1q8tzr86aw8kh2f66vukkhnghppkp0xckdy3xzrgx"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.227.112:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq4gk03yw44y0qkjv95mvz4egxypve5pqy3q7uzamhdrc3enft04uh8lh75"
+authorization = "signam1qrajdzhwgjw8ehnzmtczklcl9ctr3c0ljc0hgcghcau5qf3hp8cydmpx9cppz2x4dy5mcl34gc0c4qhkvfw827nw26vqv0rcch5hvkgrju8n4e"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqsgjy9496vgx4c00at7fyu22n7nwcuq2gx3kf75q3e569xfdd3qcseunzf"
+authorization = "signam1qzc9xy9ugym3pe8hsw22xlv835626f6ar96mtn038mfdsdxq7u9rs28evjnkx0ulaxv9jgdla5eqx7ghs65tjkajd42ud9xg6ckhalqqsqe76q"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqk25ws3qm5fvu6rt0c4yc6n4ykqdy2rtp6chd7p46c3s23l8lqm7kvzmqj"
+authorization = "signam1qq5m3mml58cg75z7x47nm952sav8hueqs4j34ycpf00x496gtvnz4ujv8xf4k5l45zvl64g84tljg92zzhuerfnwqzx6f7chjussezgf9nunua"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypndw5g4vyfgwzmlpq47m2pejh55xxffggd5crz0qq3ktc6jwqzpxg5hnly0"
+authorization = "signam1qyryyjfjcc7gxnaayjvhz3w0k2lkdwfqpgpghukuem938f8y2z84vdve5tsd9kkndu84faqdcmynf6cxgkpeuyfglgnfh9xv0n6emkkaqqf7v5c5"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp0vj0p36r2zwkm0c0ar9pae0m54ljdrvt2323vyzlzd3feqc0krnq8ltgus"
+authorization = "signam1q9hzaha7n7ghvvr2vwx6qgnvmx9fv0sjhx229wpvxxfsqxaep6v9xrcu48sq2xk5fv6vc6kjjr272lsmewxf55vsl9ngduvfapdreqacqqny8u5e"
+
+[validator_account.metadata]
+email = "office@noders.team"
+
+[validator_account.signatures]
+tpknam1qqsya2phyy20ylusfv2n8prfpgkl9z8snmrp8500msnd5zphg4q9jgsdxfd = "signam1qqxav79vtu7yw4h3uayrsutv4hkne9fqd4fx5z3ztuse9u9gyhvx62r29u85fjc48svxn7t2l29qsnwr8r9h60nzncc6zevymjusgssrn8vu2h"

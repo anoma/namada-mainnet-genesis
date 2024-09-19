@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzez6jquu3zg2true6qmq374k7l0cgy4xzgkqwesxtz5hzrz8c7g2eg8vvs"]
+
+[[validator_account]]
+address = "tnam1q8munsehazrlgm65g7dpu0c2qfnxxg93tu0c6nm6"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "135.181.145.57:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp4xcarv47j792t3ca8740na036mrsh7lq038laa5emctr5uu3lyuhn8e2l"
+authorization = "signam1qrw3e9qfy95n0llsq7xqfcuuyk4ajle8ad2274jftzugdkqc6sggxe8gj5uzt4cg208nwxdykrqnk0x34sksdqemfvp0ev3l0kmwk4s8wsvpax"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp3n6lfpk3t7fxa26fr79v6sfr2we02g86matmfc5d6gtdvg32k02yae3nm"
+authorization = "signam1qzvfaj2ptjeqyul3qyptt6zstt03uanuvdekxemjzfmknn945jy7885s7h6amz2l29ww2svwnupzgnye2fj25emdjckypqadpaqkw8gykhln5e"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzk4tv5nhlq2mueppaxf4t653wfr20mmp0wj4meq2quehz0l5ghv533epkv"
+authorization = "signam1qqcn7cdcd0k384p8xuls462qqkrkdemx3wygcxtkc36drlp0zwhquauhmkncdux5y74d2ankujntlup6x45en0u450e4t5ux8as58hsfe9znc2"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp2sqa25yyrm8yhd7s5zrszkdw7tgxw0d6ujp9r35j2g7lhupdzdhsej5ye3"
+authorization = "signam1qxcxj42xj9sspa96z7pmnlw6x8k9805qslep48qks58vt0svr9k2jfugnl3hy4pdg46mt9yyzpe6dx406959qdr2rjnsxplew4dleqfdqq7mpntz"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp990ah2qmfq9823jzpwek4usgcf64t2wfg2de4jhqv2lcy45zncuswld425"
+authorization = "signam1qxjgl8gnh89leqykl4qkq6ne5c9fgwu8mdppwasq04hugy2cf6f0sdavjdtllwsjhr6hgktdutngalwzaschf4jc5cw9wrjh0ktk6e22qqmvef5w"
+
+[validator_account.metadata]
+email = "core@f5nodes.com"
+description = "F5 Nodes operates a high-performance infrastructure that ensures an excessive level of security and reliability for blockchain networks & protocols."
+website = "https://f5nodes.com"
+discord_handle = "redwest88"
+avatar = "https://f5nodes.com/logo.jpg"
+name = "F5 Nodes"
+
+[validator_account.signatures]
+tpknam1qzez6jquu3zg2true6qmq374k7l0cgy4xzgkqwesxtz5hzrz8c7g2eg8vvs = "signam1qqpkvdj5ajf5ru24yfmesq8al3564rlr7p8vs9wzk5kl65vzdwhyh9m7m2myl892yhmpd6whqa87pj35sn23h5pgzg4mp4we04tpurqfn8kzgf"
