@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `191`
-- Total delegations: `55`
-- Staked tokens: `2530930.592579 (~0.25%)`
+- Total delegations: `57`
+- Staked tokens: `2532455.592579 (~0.25%)`
 
 ## Validators
 
@@ -50,10 +50,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Nodes.Guru`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `200000.0 (0.02%)`
+    - total voting power: `200105.0 (0.02%)`
     - email: `security@nodes.guru`
     - website: `https://nodes.guru`
-    - total delegations: `1`
+    - total delegations: `2`
 
 - address: `tnam1qy500vdqtcumxzfhjccrhdx9j9wawhsyg536thwn`
     - alias: `anodeofzen`
@@ -280,6 +280,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://www.stakecito.com`
     - total delegations: `1`
 
+- address: `tnam1q8re97lpfp5kmj5nu3t5sxvlp8yydnfjkuzw76dp`
+    - alias: `Palamar`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `8086.0 (0.0%)`
+    - email: `admin@palamar.io`
+    - website: `https://palamar.io`
+    - total delegations: `2`
+
 - address: `tnam1q83gqj9fpny50g7pclc62wu7qxjc7mdlwvq5s2ca`
     - alias: `staking-power`
     - commission: `5.0%`
@@ -305,15 +314,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `6769.0 (0.0%)`
     - email: `bngq323@outlook.com`
     - website: `Unknown website`
-    - total delegations: `1`
-
-- address: `tnam1q8re97lpfp5kmj5nu3t5sxvlp8yydnfjkuzw76dp`
-    - alias: `Palamar`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `6666.0 (0.0%)`
-    - email: `admin@palamar.io`
-    - website: `https://palamar.io`
     - total delegations: `1`
 
 - address: `tnam1q973h5dwpl0wv4t8zy9gmafllmrnalde0vek58zq`
