@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `191`
-- Total delegations: `52`
-- Staked tokens: `2522780.592579 (~0.25%)`
+- Total delegations: `53`
+- Staked tokens: `2524030.592579 (~0.25%)`
 
 ## Validators
 
@@ -386,6 +386,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1999.0 (0.0%)`
     - email: `nomad@nomadvalidator.com`
     - website: `www.nomadvalidator.com`
+    - total delegations: `1`
+
+- address: `tnam1q8t4hkv7dqjkka7ns42rramvz0dmj98g7q7zq67m`
+    - alias: `owl-validator`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1250.0 (0.0%)`
+    - email: `boyrdr2@gmail.com`
+    - website: `https://github.com/BrainCord`
     - total delegations: `1`
 
 - address: `tnam1q9ys6rx7h9d20a5gq0dewx6uze6k2trxayt90zf3`
@@ -1250,15 +1259,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `thanhlv195@gmail.com`
     - website: `https://azclub.pro`
-    - total delegations: `0`
-
-- address: `tnam1q8t4hkv7dqjkka7ns42rramvz0dmj98g7q7zq67m`
-    - alias: `owl-validator`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `boyrdr2@gmail.com`
-    - website: `https://github.com/BrainCord`
     - total delegations: `0`
 
 - address: `tnam1q8lx8va8vmqwftfw3435q8e9ddpyddtkw56mr3tp`
