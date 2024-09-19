@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz33my7pm9puchelwz4jdhptj7yezppj432wnjlke5c5k7x79wke6mtzzy2"]
+
+[[validator_account]]
+address = "tnam1q8g669anlgcd490mfdqct8v734ekr7zu2ywgjwqc"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.78.110:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqvew3mpvw9fmcr5nu7lxpunnhzd2gate04720n7hz3apx5jv4sayd6rkr7"
+authorization = "signam1qq3sx6sfne3rmt04c9sh58aeg7cqpzaq2mhgw7c9rkgjzcpfwwnta3nuqula23nlgv9jna4u8p44v7m224rem4czmv7ju4vw4tmvnlspkux6n6"
+
+[validator_account.protocol_key]
+pk = "tpknam1qruf9vgvq6nf5k9jflz6cghcly6q783y0vfc24v4qmkpfpwy867u6q9pekw"
+authorization = "signam1qqjdm2n4r5hndw2sle3fw293lf3ne7axy7jx2fz75g3nr0x4kryjxmzfrfjjz52t3w8duexnxs6fgk7g8afdmfx2exfm3sh9am3qdxqfmqhz9u"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzt02kjvjdscspxlvnnt7rg034hvcugesutr2y6lmyhq3nv3ulg4kz2zanr"
+authorization = "signam1qrt0e2zxmpdk0h268a072xz7w63h2navja390ukwmzx2mu6x32fn35wd0g6qm3vt9pev5r9vt0jsqatxkjvf4tma9l9w63n84fxpqws09w4afm"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyppwtws09q09huqemqmf3k5z5jrmzanwxm75dwwkprp3ktz33qlpkc6rpjej"
+authorization = "signam1q8pa2f0htqcx2r7yyx6e9u86c6d9k7pwa7pwv6gm5g62v66mydq2y62nl5dmkcux4a8uqwqeqtxzat7edshfna0f2xuqr4dml0r36mxjqqhd7h27"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypykpvck7zcufu9ssq3kgz7atrcwmayyn8mcdftzquwjkzk34j0vsghxz3sp"
+authorization = "signam1qywp89k8rucum7f2zlxup8jeaaz8zwdtsftsm0qgu2grlsgn23jmjg4etr89c7fc35efk7ejg7z8564zcmtfa49zycxuc4wml8arvv0rqy5stknp"
+
+[validator_account.metadata]
+email = "partners@staketab.com"
+description = "Professional staking provider offering infrastructure solutions for the Web3 ecosystem. Our experience in developing Web3 services since 2017 enables us to create best-in-class, data-rich products for each customer."
+website = "https://staketab.com/"
+discord_handle = "duccaofficial"
+avatar = "https://brand-staketab.s3.eu-north-1.amazonaws.com/staketab/twitter.png"
+name = "Staketab"
+
+[validator_account.signatures]
+tpknam1qz33my7pm9puchelwz4jdhptj7yezppj432wnjlke5c5k7x79wke6mtzzy2 = "signam1qrssznuhnhr358hr0a5aejuv9r3x7395tkyp6cwqhuvarsaqzthgdlwntt00m53rju2krkv0gzu3j0usqdzngegc64u2f88w76an63s0z3v5e0"

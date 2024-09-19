@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrx0hx6tjun5acw3jddt6dax3qza0kzhmd6n400nq5729tyaljmn696tcuk"]
+
+[[validator_account]]
+address = "tnam1q8qgm85druh6zpvktmeax6zgz6yjxap4w5gmr5c9"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "213.35.119.108:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqz6n4468l7uxdqqnljqtxlxwaa3vqpfdfp0la7gvlse98mh0pzrvg0nt9g"
+authorization = "signam1qz9qj4qx4t80yceh2v7tr4mhfa8qvr3ta5l5cs43jadlj2vuxymwa7jc0cv3g0pktpg8p3267tl3fdtmspxv64a0nu4ewmhjujyzlncqyeggkk"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz9cyqvxy2ema0vkdheystk3m93g7kltffqtdy0fkm9kjj2d2y3nw4k4auc"
+authorization = "signam1qr99cdnemc4jmpzm88g3tt8gatrphav3g7u9wwgdjtc7na7hcd9ctfzpe3aqffgvrzdkyr4va5035xtv6xs8dd9jmnrptzn5gr2lzscykr2tqx"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzfwwrwls5zm2vsuj72agq79kff5ta35jsssdsrmql4pugulkqysgm9ap6e"
+authorization = "signam1qqdqun003v2v9z8z8g2g3qy26rhfrutg2uhx7v2cszqr5e8u0y7w3u4d402wewgsnhlpm0sjwuu90qspqwwyewj9etn2xq34sx67laq8qp86lp"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypl3tmaw9eral8tktjvqwz3jzmq9yz0vne389k5mzwvw33kjw0ghzgp0dwhx"
+authorization = "signam1q8qxksgtrc36zdt73jw5qhu8yaq3encah97gdva27vuy5h6wx3n4k02fnucqndvelx97p2u2fcmzygxgt2c8wzsnra40hxw4r8qudylcqydn32at"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypwejn76322etlp5jq6sjv9gxhemhh0y8edf8deajxvmm5cxeg77yg8evt4a"
+authorization = "signam1qxc9tfqvqfqhg9kh6mxwlaw3w33gdjly0qd4amj3lg26nwet7kpaxxkunq5gln3f43ds4pnmdfzazpxmmqcp3x995nksugkesru5k4cmqqes20sq"
+
+[validator_account.metadata]
+email = "admin@idekubagus.com"
+description = "Indonesian Validator"
+website = "idekubagus.com"
+discord_handle = "idekubagus"
+avatar = "https://brandfetch.com/idekubagus.com?library=default&collection=logos&asset=id5wuxrWyL&view=library"
+name = "idekubagus"
+
+[validator_account.signatures]
+tpknam1qrx0hx6tjun5acw3jddt6dax3qza0kzhmd6n400nq5729tyaljmn696tcuk = "signam1qqj9su6ys9t4telcvjvkuq5p29l52wymezq8gzsayea643t4lxkkpmw8zm2nfda6fhjtf3pjym7yffzsrsvd7y3emgm6e2qz7ndpq7g0rvumgz"
