@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzn899fmms07r5lssg8as02udq65y6skn3e265eyjv2z04ujy0rkzyk393u"]
+
+[[validator_account]]
+address = "tnam1q8a4rqcrpuw5fxygf468xc24pvptt683rgut9q6r"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "195.3.222.26:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrp5apanafn5cehl9hseugqlsg24va9gc3u8y2um5u0u4anr3sak6tdc9q8"
+authorization = "signam1qpcku996n8z4uat4fgqv8sj8m437v5dh8dg5ym57zzxa3rah3tr5ekekkfwjmw6zzuckfyu302zm7s458zadzuzfyye3ex5up2vmkqqfeuwmpx"
+
+[validator_account.protocol_key]
+pk = "tpknam1qppjlrkjpjrjl0hfw9qp2zslpt22ylxr3yywsyscfxqmzuzcf92kuu3vff4"
+authorization = "signam1qrus4q6ecx2ev394hzrl0l004x6pdxvwhxetny4s47gaxp45xcef5l8yhfqungepy5y9lnlkfhvxltpm8972v0n8gs7cdnxkttev7sgpgtj5ra"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqlmwljs0j7feu0lhc60vuavwhmuz3ecjaqjca7xg7kjwxseg2pd2llhejv"
+authorization = "signam1qrt0xh2m8smf7j7gefkuvvg7zz4p57a0m3nk4ua4wt6sh525rdqxx268lnjljzagtlsq2ty6tz8gzt59gngwaryfm50yqr0qhr70njcwelx08k"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp8jwrxh08p9jtjf4f9z2a0cnl024yxrlrkx83de4mvwyjptlaaetqxunyyj"
+authorization = "signam1qxqvxxypw9jn8wmr4m9c6wn69ml6qyunlflqe2u7gsmqu634xxj25he8ppuj8uj9a6sztv0k5vhdq8ur0mfc9grr7q30jg7rmehawt9eqqyzwu7s"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypwqs25nd34shsdf5qsjyqur9m772dkhxay4lnea98taacdnupxypsz8xs2r"
+authorization = "signam1qyufz44aptqzq26nh99he8c5snetwc9pydd53h7wafz52nmsructsrskxa6cndq4u06psh8fywuzsdxfzshp4m7kmzd87xcu9p6cz3ueqy3e9v96"
+
+[validator_account.metadata]
+email = "mkhananov@gmail.com"
+website = "https://hedonismteam.com/"
+discord_handle = "khanami.eth"
+name = "hedonismteam"
+
+[validator_account.signatures]
+tpknam1qzn899fmms07r5lssg8as02udq65y6skn3e265eyjv2z04ujy0rkzyk393u = "signam1qzsk5kc00n2av5j3wm7pjlydel9ldlxfy68qlnm7rgn8nct6f8u9z4yc0l93fmyy7364sfcmqpyprzsyk4xw6e7kee5vwpkes0w6e9qxwa4z9l"
