@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `189`
-- Total delegations: `40`
-- Staked tokens: `1962112.592579 (~0.2%)`
+- Total delegations: `41`
+- Staked tokens: `1962212.592579 (~0.2%)`
 
 ## Validators
 
@@ -352,6 +352,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://kintsugi.tech`
     - total delegations: `1`
 
+- address: `tnam1q9vdxnkrqwnw5vrgfypqz6ndejp6sy2sfgc9pk5d`
+    - alias: `Nodeify`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `100.0 (0.0%)`
+    - email: `admin@nodeify.net`
+    - website: `https://nodeify.net`
+    - total delegations: `1`
+
 - address: `tnam1q9tf86cusctv2c679ssflsrq0ymd9qxnluuewvt8`
     - alias: `Tecnodes`
     - commission: `5.0%`
@@ -440,15 +449,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `unitylchaos@protonmail.com`
     - website: `https://s9.gay`
-    - total delegations: `0`
-
-- address: `tnam1q9vdxnkrqwnw5vrgfypqz6ndejp6sy2sfgc9pk5d`
-    - alias: `Nodeify`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `admin@nodeify.net`
-    - website: `https://nodeify.net`
     - total delegations: `0`
 
 - address: `tnam1q8ww8zgchxju5dr55tl2xqgfh3vwsh8kh53gkp2f`
