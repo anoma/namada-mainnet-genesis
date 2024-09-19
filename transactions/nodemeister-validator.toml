@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqzzjg8sc5tx5x37yt00ne2wjfylstf6kvhpwluqaq92583myx9x2mt4ulz"]
+
+[[validator_account]]
+address = "tnam1q870s4a5zza2ge5d4lteew3cfp8npu9d2clx5xrv"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.199.210:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzshz6c883lxekycqh86gxlw9sjmekead7xd3q7z84nj4htmfuh9qhar052"
+authorization = "signam1qzjd2h366267ldr2tavz7vkdw8zh7u4q9clc7evypehxeezzsxckhhfhr2aj7u62a93036ppyypdznv4vmzhcu4jny6r4fzyqe23pdczqmfpnw"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq37vcl4d4vpzu0laqdnh7da67fr9etmrqalp7xln05gems6ee3677xn5wt"
+authorization = "signam1qpkmn6f4r4yjkeqrvuy8yccrwr89cxlqvnqfpa4y6qrn9lq3g5xj29ecwjhm0l66wuyvghzectk6afx3raf24j45363v5aeyva4vxnctcvwqkm"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr5kssy7fkyffet66yf5a4xft7t3uaxxkuxra6uzlm44c8jcx4phky35687"
+authorization = "signam1qzz72ut9d2vcunc9rhq206n2hgm03wm323fant7eyeta6wwuzavrn00eggxwsp4f9ptdrjgs2za94s90g5p84dt2425zantr3nneuns9rc4zu8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp5e4sawv9u4rvfzx0vzkvxgsvgf58t4k909vnv878wnfw5wqn3u4clnrrwh"
+authorization = "signam1qy5xsy7j6cc45p9pn3luug896s5a5gqltq00dkplqegf9vtew00tjhzn38mfpfl9wsmnrp9w2mj67pjchr0yrp4p5cq7jvlvcz2ll90qqqshcm5n"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypzdnre0hxfph9qp7ngzfk8nkx73zemlguulmeyvywgc988cgtrzzs3448p7"
+authorization = "signam1qx8n94rrzfc8jch6avzyjdnn4ml9zsrrcmjmq44ayk4u9qgt07rvkuz9rs5vnqsgm2akrng9exge2dsr7h84re7x69t8w0f9w2f490tmqyze4hxk"
+
+[validator_account.metadata]
+email = "nodemeister@pm.me"
+description = "freedom through decentralization"
+avatar = "http://gabrielo13.sg-host.com/nodemeister.png"
+name = "nodemeister"
+
+[validator_account.signatures]
+tpknam1qqzzjg8sc5tx5x37yt00ne2wjfylstf6kvhpwluqaq92583myx9x2mt4ulz = "signam1qp669tcrnrm3eyf9msvlrpefxxyvuqznsqy5r6ukclxrst6erjckvjtxxz2lgam9m03pqswrepnew9ecgvaa5rqmun65fvcgqk0r6uqyzl8jm3"

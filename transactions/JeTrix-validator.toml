@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqm7v8rcsz2fce2xf8x36edm7vj97xjs7qk98q0s85h6xqjegahsw065att"]
+
+[[validator_account]]
+address = "tnam1q9snwwuqau7g2nh9835pjf4uhp69pv8qv5ksefrc"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "188.40.42.123:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqcvkpcvxfd5fkt28jcws4u4zeh3nwkufcuhghth7dla9qn4lk5hzx8gzl2"
+authorization = "signam1qz2u8j8q73hp2zk5ek0jfp6488jt28z0l9k3zxk9gzdvxwkjfz0wggglk99ewpqxn27rgt372stxw6m04mewr7plexckval4xhzurks9d3tsmm"
+
+[validator_account.protocol_key]
+pk = "tpknam1qptgzqf3p4zyk5ya8mthem8duy9pzw7xlwn40x2msgrw7fsp95r3jvf9ysu"
+authorization = "signam1qq3gnvhnl7gprmmhxs3rxlkpemwmu27q4896dv96rla95lu4m9ux3zkvysj75p7wszlx70y2dlwr4g0c9760kexe4tuq6m8s28ce6gqy2ta25k"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr3rz26939g9sew8ng4w49td66n0x3ftw6qxq7magjeu405q4a3yxqs3w4q"
+authorization = "signam1qrqv6cc5q2mkgawaqwzpxjwc6zgqcr9vscf5f5c3w6gnte4gx3c3h293d7n8w2d8yxemuxvspefnhlq25zaa3a2dj7wqt5vj7pzc5rq8vk5gue"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp878svkxysgejdwfp4snnesf80qphkjlz04yxsjd0dp6crjm8ajcs7phy0e"
+authorization = "signam1q8r9myfuvgwcnqq6kn2cs7lgdvhk3ky7t7ewwpa9nux3nljnz6wqqjqvls26rnxsym5tnv0a364x8a95800k0uwcu4r8k4va52jzlftrqy46qkfv"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypsgry6py4gccdcwpew5jxjdmm08rp3dsy29u5gn06m5xd09gnhyds3auzxr"
+authorization = "signam1q8qtapuxa2524gnydd2d6xuuqtk2nq0mpl6xj7f8k866swyeyyw4y6tk77rmjzu628ul0fcrdanarz0fur6dt94kjs9gpk6gxmzcj2gsqqwmt5x4"
+
+[validator_account.metadata]
+email = "ilfats559@gmail.com"
+description = "LFG"
+discord_handle = "jetrix"
+name = "JeTrix"
+
+[validator_account.signatures]
+tpknam1qqm7v8rcsz2fce2xf8x36edm7vj97xjs7qk98q0s85h6xqjegahsw065att = "signam1qpja0yvw4m6njgwc46gpsvgm8kjn03aa8zkevwrs0hymp9mmvj4pz4hz747gm033229uv3e2w04j49gkegkckcyy34ck52dsf9wscdcru6xeqc"

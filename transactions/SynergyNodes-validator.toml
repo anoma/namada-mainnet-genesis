@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qre4tnda3svcj880r6kleqsq8032wnlz2y395780qhxwpyqzcdn5703g44r"]
+
+[[validator_account]]
+address = "tnam1q9fxma4kqfrgn8ul4fdaexgavlhug746wcvra4f8"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "194.48.168.43:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzxe2f002udm7sceva3m6dk0yshwvzte64t6n5np5lglsf86le0s2lcykjc"
+authorization = "signam1qrcjkajk2wfkqp9gagw3mzwz9wkmlyf96kwxr86x98xmmw3jn7twl4hcu6l96ghahfjk5y2h8k44m2ytkk90ykx76yyps6esj7nlszcv0z4zc6"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp7n8x5mjm2s44zu2r5f37y6mnlw6n85v5spzuzpyf8w8ag88jyu59y50zy"
+authorization = "signam1qrlxsakc5n37g6hrlv9cf2fl3w6e9apgrntvmd6nwxv5v29xa22mj8l6tqh0007ku0496dl25tmahvl79sk4gk8tx3ykf4unzufyckspqphq20"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzcx30lxmhj5tcc4ptmytfu4tx7l6sxs7tgvvrdkd2ynfgwlpmmjjm5umsl"
+authorization = "signam1qrvnzlwlw8qsqcf0j6cw8wxz8z8lmc87cqh5c3n6tuslhm5p6x92hukhaus8hjvh93ek9u3lhf2t49w3u5qkjmpnza4qw5v0h5wzu4gw07z5p7"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypa7032nnc09hhgsl2g7nn74v6x7gj8s7hl26wrxkul6set3288msc44nl00"
+authorization = "signam1q9v4tw7cs0xk7fln2xgxy7rqt9jf6nhelp8fes8runn9tcx00k2rq6aruy2dm694wsassv7ku5xvagpg35ce4mw3xlsrshc27uhgdrtyqy2w2gkf"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp0t46agfhmjeasdrgcx68lh3ec5am9rt0xm9lanz92s5sv3rw69aqmptkr9"
+authorization = "signam1qyv6g8p3gnw82s7mxs0g55xtuvagc728sezcpzsg85jrz75vruqg5m4sypjt7llaapznyjfc8cv6hvjq4jq893edjc72t8y2jd8mzfqlqqpslfl2"
+
+[validator_account.metadata]
+email = "contact@synergynodes.com"
+description = "We are operating a secure, stable Validator Node for 25 mainnet chains. We provide infrastructure support - public RPC, LCD endpoints, daily snapshots, operate multiple IBC Relayers, Blockchain Explorers, Youtube tutorials, etc."
+website = "https://www.synergynodes.com"
+discord_handle = "aries_1504"
+avatar = "https://raw.githubusercontent.com/SynergyNodes/SynergyNodes_Logo/main/Synergy_Nodes_Logo.png"
+name = "Synergy Nodes"
+
+[validator_account.signatures]
+tpknam1qre4tnda3svcj880r6kleqsq8032wnlz2y395780qhxwpyqzcdn5703g44r = "signam1qzjrvc2qkaghhrhlucgjgvwrwpdmwz58re8pexwxz3c9y5dxftvpe9txvfjklxlxrznqdh04x34dqggxc95hna5h9qecc9fejshsetgpchdl62"

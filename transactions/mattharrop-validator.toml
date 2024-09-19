@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp0a2qgsgmxuurg8x6ye7na8vf7ec4ckf9kpv24kdch7prxd2feks4v84c8"]
+
+[[validator_account]]
+address = "tnam1qxq08djyzzrhgchwv2datwhk3cghtseg953ruh2y"
+vp = "vp_user"
+commission_rate = "0.1"
+max_commission_rate_change = "0.1"
+net_address = "192.168.1.1:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpfqm5trtfdgtp05kazzh867wqe6gz5hn8e2hmw89zj4jlm7ydeysnkkf6t"
+authorization = "signam1qrfyqk56gjhwvheznwnygx8ekppgx2x7xq8tvks2sfuecehcvzvdq5qyvckvv92t9exa37lxj5cr69vh70f4zdlw7qfnn3lsvpcxkmqvsg8z70"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqsu99qyqqca8dma7w03y5mfx3axsp64rur7e48nyuqgqkqffr0gx36cfsa"
+authorization = "signam1qpnt9gmf7lauhvgtagj0v8ke8wr7gshd6rg360wud3w6kqeck4sk35kg8eexgsfdpxlfwky3cp720qevdc2sut57ukf3asaam4qf0tcrjm4l5l"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr65fjy8wau569vy9tx490372ns2gupmc6ys8nlw6egav4r0930ckatx2fr"
+authorization = "signam1qq2zsd3qh6r3tvlpsqjvlt7c7w7nzm50n25nws5fsjfgjwsn072dcp8d7luwljwtprkw5vnzjphheqz4f06q0cl6l2upt26srkcnnagfr09tm6"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypa2p0lqtujenj3n4nnnzlgkayjuqrq8dv63hr6nzrqwglt43xtmncmfu3yq"
+authorization = "signam1qx37yqfs4ewhl3654q296rd45rwhnnjnyfl62g7t2jh3xv5tc8suvy9ch6jxur0qd93525w4vrpgd65j3r4qncdyzlxptzm9hw7634naqy773aeq"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypvpuw2fevqxmdnmd795zt8m0x88zgyvgdtwdgg6wlnupeglnphyjcux79ew"
+authorization = "signam1qyn5ppn29j7pck98twqakujtave4setrhkd3gwfkqmanx9uk2gk42rasjqhray5nzve57828qc63yp9h8aypnmr2vg7ecd9r7kfl2vytqqzvphdv"
+
+[validator_account.metadata]
+email = "security@figment.io"
+description = "Figment is the complete staking solution for over 500 institutional clients, providing enterprise validators, seamless staking integrations, audited infrastructure, robust rewards data, and more."
+website = "https://figment.io"
+avatar = "https://hosted-assets-container-pbmv.s3.ca-central-1.amazonaws.com/Figment-F-Icon.png"
+name = "Figment"
+
+[validator_account.signatures]
+tpknam1qp0a2qgsgmxuurg8x6ye7na8vf7ec4ckf9kpv24kdch7prxd2feks4v84c8 = "signam1qrq8jjxp0d44l8xsv2lmv9gs9gzynketegzvlqgzpytxmhjfm7cvwgexaayc2n69vpzyj9myqwnuh2ctxea6qvtwswmhmmeyagdvvxq03s2xyw"

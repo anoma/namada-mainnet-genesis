@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqer8nltwwnkwm0jcvuzsxwnyyyud5m9x7jussfwn4zsqgclvu6wxmg4clf"]
+
+[[validator_account]]
+address = "tnam1qygn0qw0knlguygtxz6hgrluxhu5kt9a8vqvtj36"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.232.227:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpzk6fndztmhg53m352x0jw48xsyzwrpykvvmr3kzxklsf7rxnjfc38dyle"
+authorization = "signam1qzzstfyhxapn5zkdvpxrvrajyqcrx47pj9wjpda6m6c8zaqkye6v36lvqr5hjcwdzwp0lptzd9ar4req9mmtzwne5cx0qvhenzunugq0h9zu3j"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzksplxdvtqsvmawsex8cgsvvx6je8awrplav3p954m2kdwdmh84u7mht07"
+authorization = "signam1qrm53gchrh926vmg7wapfxp7j0qhe24405n7tkyq53sduay4wr7hq8h9mlz8df3m7uk4h64ghgjp8ufzzq9cav7vke0dw58eynenqjs0sygvdp"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzthvkzfg3f5u6j8k3m99nehq8xadt7tmgwnv349xsh65au3yh5hgxrt09g"
+authorization = "signam1qz4p6pzuuywukpevc50a6jjwj2tzqw02v0t9e6457dyssuyufqmj6p0s4rqgqvjv9s4ng2ps964d05766w8233nnd4vulluvlg0wzuqyc708ug"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypljpxswkcpqe4pwfj9aehafnu994n7j892xa338j9xpq77x3fwq4gxljaph"
+authorization = "signam1q9uta2yd28663zwuqm6clvy2872eeeepgay3zakgy3dl4pa3yv0jw78zuyt0h9achw0z77dv2juctp8tf685fuelfutm0n2dthqvhetxqqscqkua"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypkrtk96p3m2payzlg3mvv96e36lhl3t49xy5tveq9f2wcxj9u7vaq9a78t7"
+authorization = "signam1q9avfu6gm2w3eu5a8g8n7lq0697mpd8p4cq2nqjyur0g39w3fddew64pr6fmwdjgt78wj8w6gna7r5w8ajace62uynlk67uqd8tskxyqqye3l85z"
+
+[validator_account.metadata]
+email = "81279589@qq.com"
+discord_handle = "PeachStake"
+name = "Peach"
+
+[validator_account.signatures]
+tpknam1qqer8nltwwnkwm0jcvuzsxwnyyyud5m9x7jussfwn4zsqgclvu6wxmg4clf = "signam1qrm9vvm3gng7xfsxvc37ge5hj4mwtyjc4vcwxkdacsp428rjpcjhnmecyravs6gkj56sr3awpzc6y72rye0r0lvt5v2srzjp0u0c7ug8n5kald"

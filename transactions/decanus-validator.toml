@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrl0dw3m40xm9n0u4jge0q99nkswufn4dxc8yaapptpeq357z82uvk97zz9"]
+
+[[validator_account]]
+address = "tnam1qy93z8ek2wwm3l3nd9gl872n2argnjfrwstywpmj"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "51.178.74.93:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpnmguqhn3zqufkzdglc4vhcxhkl0r4drjk4vuwzxxt2zqs7krytg9s5zmr"
+authorization = "signam1qppute0jzj5hq878kdl6danzze94n6clfeh8djzyh63pp6eww5ze40tdclerr4g4yxtweezef5pkgc0gz7pajtlrsm02m0rmtnpy2hsgmh4fdw"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzacuzvq6d40p80hgzkelxx605jrqp3ez6w44gpvy2a5tydyq0yaw6rlx3n"
+authorization = "signam1qpm6d38fqvdn773h73445whezj9dvmsjhvegaqnld8lkam0zn5dd5rvp0crnl7wwnapunzh4v9565rk09rlkca78cy0hsvupy5sjrlgg0f8s33"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq9kh2fwvlktrtvsxr5u8s0zlgsc5q0y9xsxy45jr5gp2t3z0f87zr00u2w"
+authorization = "signam1qpmekzjefwp6fs74dnhlmk8n2mcrkccl24k76423wfe2vhxdfs9x45ku75xvwnlrxn4ltwj8ypqtf9qhynh2p8z72u0az673u6cak9cy6qp0gw"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyppkmxl55p8xfp68mzp2eyzef2cs6e8vntgpz2sf6ku9hsyy3aw78q6fke39"
+authorization = "signam1qx9gwrktxgw8hzqx6wys3zn3lkf9e6wyp36w3n2w92v8942h4z2mc4drmk5mw0vhd5g7rftwps0ghcq9n2fadffyfxrcf70yrdqpswlvqqepuf8w"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypznq90l6f4n7k3jcvauk6x3kdhanf46ysa84gpmwskcwujcwrsskg3ua9fy"
+authorization = "signam1q99d9zlhp6jpedl5c7u606zyp5cxvkga8cp2nsjj6nymsye937ky2jqxrmcv92a9wfnc352jx5l6gtsg0m95xjhxgccwcpn0j9jjpr8pqyahsntv"
+
+[validator_account.metadata]
+email = "it@projectblanc.ch"
+website = "https://blanc.group/"
+avatar = "https://avatars.githubusercontent.com/u/93260658"
+name = "project blanc"
+
+[validator_account.signatures]
+tpknam1qrl0dw3m40xm9n0u4jge0q99nkswufn4dxc8yaapptpeq357z82uvk97zz9 = "signam1qzs7tugn63ry5umz56vmvhgrghcr5syxke2qgg732x5mjw4q6wv6t0ygq92atgede3m0uy0l3864y9k79frac7nhltptyn7udrhh8pqytv7ee9"
