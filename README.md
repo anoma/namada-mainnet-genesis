@@ -12,9 +12,9 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total validators: `189`
-- Total delegations: `41`
-- Staked tokens: `1962212.592579 (~0.2%)`
+- Total validators: `190`
+- Total delegations: `42`
+- Staked tokens: `1965332.592579 (~0.2%)`
 
 ## Validators
 
@@ -269,6 +269,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `4900.0 (0.0%)`
     - email: `info@staking4all.org`
     - website: `https://www.staking4all.org/`
+    - total delegations: `1`
+
+- address: `tnam1q8g669anlgcd490mfdqct8v734ekr7zu2ywgjwqc`
+    - alias: `Staketab`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `3120.0 (0.0%)`
+    - email: `partners@staketab.com`
+    - website: `https://staketab.com/`
     - total delegations: `1`
 
 - address: `tnam1q83z54q574kvzfujk5dt9kpy42a4zpassueswgyq`
