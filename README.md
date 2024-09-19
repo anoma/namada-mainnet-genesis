@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `191`
-- Total delegations: `50`
-- Staked tokens: `2432780.592579 (~0.24%)`
+- Total delegations: `51`
+- Staked tokens: `2472780.592579 (~0.25%)`
 
 ## Validators
 
@@ -161,6 +161,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `46566.67 (0.0%)`
     - email: `contact@kjnodes.com`
     - website: `https://services.kjnodes.com/mainnet/namada`
+    - total delegations: `1`
+
+- address: `tnam1q9mnn2qkg3fzuw8hzwgnuxa42rvdjhkn5s065aa3`
+    - alias: `stake-machine`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `40000.0 (0.0%)`
+    - email: `iam@stake-machine.com`
+    - website: `https://stake-machine.com`
     - total delegations: `1`
 
 - address: `tnam1qy0zrla88txv244suxaruqgr9g74vr8vyufd8rp7`
@@ -440,15 +449,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `tecnodes.network@gmail.com`
     - website: `https://tecnodes.network`
-    - total delegations: `0`
-
-- address: `tnam1q9mnn2qkg3fzuw8hzwgnuxa42rvdjhkn5s065aa3`
-    - alias: `stake-machine`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `iam@stake-machine.com`
-    - website: `https://stake-machine.com`
     - total delegations: `0`
 
 - address: `tnam1qx405kgvey8wwfcyt7rgsr4nvkrqsnztxs2kz7wv`
