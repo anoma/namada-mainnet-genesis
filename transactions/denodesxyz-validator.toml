@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzscetsy54ma0x6amzamfuvrvx2lalsms6uz03uayccah7ryytgvv560v68"]
+
+[[validator_account]]
+address = "tnam1qx2xz8ggmzgfgkj5n33fzumq3lept6hf7yqxcrex"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "195.201.164.168:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqew276m05wc3n64t46u8an2kz3va8err8lrvk3rrnl54pk7fc5gse6hael"
+authorization = "signam1qrh66c3ptu9sdxgs6pmdwy9na6jehlqwa337nqx4jqpxqs58chkugl40t033qzwz3pvhlxkmfagmwepezfvnn87sm6hlqcjh4378xagtkn399c"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrv25x0dsc7affjcfcwmnj89ff0gavdyufled3zv282sux2jccj0g2hgd0a"
+authorization = "signam1qpggp26d4dpx34w4k5kajup64dzyh0639d2s3gptwf24xz6h9k0wac9gg49p9u0qh06kvet498jfvk43n2yfzwyjvk0mthfrtdsfmzqv0l2wwh"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzgxggs30mkpzvq69x3unhg73hw6jtqqfv6mtkyphxasq0mpnx0l5d4hwsn"
+authorization = "signam1qpun6ufxagwj8ny4l3ducsfc287ursetejta3wdrwqexcr4784x4tsf99lzesu3z4kku0q9tyr4dwnwz83qenmeaetk0rxjtpy7ymdg9t0cvmd"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypn5rypkp3343826uja2k2enchjdtkfqxmr96pxplmkwnu3gtk4n8ct8xylv"
+authorization = "signam1qx8mevspp84arzzhz0y0v0pme7f5dhn4v5hu5fkc985x9mdlexmgswschnsstn3603ag7j0yyq9ghf7j070drkee7psz7qv5z00htv4vqqq2hgfj"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyptpd2mut67gvsxle64cluqrnyl9qd96cvn9rrmz2296ftnuzsdkqqmw6h0k"
+authorization = "signam1q9kr9jm7aqz265uktt343x0hkt32f8sux9ye4kt3neg9syawhmcwvn4ggu552ranx3qs9kkul0w7u9quve2g5nzngjpffun5akewtrv5qyl0vndn"
+
+[validator_account.metadata]
+email = "core@denodes.xyz"
+description = "deNodes, a proven staking provider, ensures fast and secure operations for PoS networks through superior performance with bare-metal machines"
+website = "https://denodes.xyz"
+discord_handle = "bombermine"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/09c7999790959bbbd85b7007adf70205_360_360.jpg"
+name = "deNodes"
+
+[validator_account.signatures]
+tpknam1qzscetsy54ma0x6amzamfuvrvx2lalsms6uz03uayccah7ryytgvv560v68 = "signam1qr44j9k7wsc85hcr2agt4k32kpr02vawnlfn83epuzl4rufzj50cn9zdls9aa3yedgtgcmg698w7pr0ck9hcsl7mv96ckv6cp69fv2c0g5lum5"

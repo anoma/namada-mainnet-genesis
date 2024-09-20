@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp7vt805k95k52zjkkwqkmj9j353cvvwedggtjadtdwvhnlanydk2sn664h"]
+
+[[validator_account]]
+address = "tnam1q8lzhgzezqew6z20wy64gw6q64vkv84k45ygue6v"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "88.198.27.51:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr62hsvza3zn5zpscrvvsrklh3lelchxj5me69g2qrs9zdv3fduljnsjn0m"
+authorization = "signam1qpqheqya4wzhttnz2hrrjts7y0jzx5g3jlgf6mnvpnlhh3u6vpnn5cztvsp3gy0m2qfvvg0um37var38k0ltl79vt4vkknqwau8wgqgz2gmmq5"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzpsuce956gj4j39snk5zedys74uk8rle5pzk6e82gwev6hr8zhzgs4qet6"
+authorization = "signam1qzjd5q6gmry5yc6rm9phe8qtuh5hgj07mjdnnkc6zd49vuxhhrsulavryxfzvlwjj8v24ag9fxhmlecdvcm04ylkpn42hsawtvxuprsxn3jsza"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq73g907a5rccp6v34q4ngg0ww988hmfz4hfwu8anvz0fz4rjmdayqdw0g3"
+authorization = "signam1qq578xjmcw4vhqjr7xk8qmhzlkwsrmq6zz7r8q58uvc0cw5u4tvcphmdyt50nmng30zhx77rzukvtaqmvrsmd9h4hlgx42msx379vysffrrnw0"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypll4zwfajy3zkypcv42e8c4txuxzdvuqkrntwe24ckwelcd577ulgazwl90"
+authorization = "signam1q9hwzqk72qj8xvdtmcpk774pxt8rsvtjjvf5k8ukdg8n3nq2650qkfdrgseea3pxgg4rwmh9zjyzr2yuhs7pwsf70dmugldzrqedhdunqqk2tjh3"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypuwvadpy53ssvtduyppr4kuylmfkn56y7fjhw2yhkw2r29sjc0yugv3x6q3"
+authorization = "signam1qyh3secw87hcvq7rutcctj6699ucexlvleq7vhxcp94qw7rsez2ayjc3cfehg3dv99segta94wlrpug84j688nujxnkafvsu0ernfvzrqqt3fgvm"
+
+[validator_account.metadata]
+email = "contact@block-pro.net"
+description = "Reliable nodes, reliable staking - we're your trusted Proof of Stake validator"
+website = "https://block-pro.net/"
+discord_handle = "shoni_crypto"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/24e54db75ac85621802ff033a66fec05_360_360.jpg"
+name = "BlockPro"
+
+[validator_account.signatures]
+tpknam1qp7vt805k95k52zjkkwqkmj9j353cvvwedggtjadtdwvhnlanydk2sn664h = "signam1qzd396zuhnh7dx7ucykvdcsqp7nuhpcj7zzps3a2nhx6qv0fqpfzelytstaclskuk9w7yrx5ea03hxkn20u2tsj553su2gy8tx09fxg0seczfj"

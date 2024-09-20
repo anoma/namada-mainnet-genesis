@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzdd0ndvtqylxvwj3e53utxcxspfusvrrfmznwhvxs0jaj48thgkwkgnjht"]
+
+[[validator_account]]
+address = "tnam1q8wldcr49mhm92a69fmf847d8rn48e6gcql2s4ya"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "198.244.176.55:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrpjpxmrh8w0cgfvtpqcqrv7r92ygcfzznzx7p02khdl98d9ltytuaneg3v"
+authorization = "signam1qqluuhck68a6z0mtv02y7kfuu3tk2d9x436qdsenqwd5ssef4u28gjscg4prajgw8dem9wzgc9xxwh86ulu6jqh6fsd4wqthmyluhfsprs3wyv"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzg2nhncanjn5nxmrq268ma692cdg4njzgg7rvm5ne2rw7se6kkwk8xmfvh"
+authorization = "signam1qpf2ekzhx73fhda96q07cme6pm8hx5dyxq343k29n826eyd547p86y6emsalajxwhz6z6f0wuz6dnrpm2tgha2xggfng5j63shrfqcqz3xxkzr"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpu9dmuvl6jmm6j9gduy5vcgqee0ernhtw38dvhawpv0sxp28j46qmkk83a"
+authorization = "signam1qqyyvhr4ee5lpv40e80gum2fegrhum3yl4fac09xsc0snn086yx99ucu9d2x8pmjhyvvz04cnj075pgs2kwmg2nm37dk0wfzptqcercxg57dzz"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypag8hfdr4jxmwa8q9as40pmjttzgyrg69gun7mv78fdy56v5trxaq6g2547"
+authorization = "signam1qympeq78q2pknesn0rjyenr84antltqqy8083fjdz4kj6082p2tsj5nss34nw7fmw4cjh94sw4cn7pt55q0s8z7n804zdm2jcqwp6g4hqyvcyfuw"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp88jg0x3aquu53mwa9rngn2q5gsgqt89v5dg5qmwfzg227dxu5vfsw5znhh"
+authorization = "signam1qxzjvk7vq75ljdecfn2xjlsa67nnwej5kwlrdf4p0zn4jn8k3h2uqn070lxm23u2vgxgn0yygfva5add77q4gk6qaraw4tl6nrewnsqdqqv4u98j"
+
+[validator_account.metadata]
+email = "bitszn.com@gmail.com"
+description = "Web3 development. Crypto staking. Low fees, high uptime"
+website = "https://bitszn.com"
+discord_handle = "alxbitszn"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/977f6ecd8916d7c354524703f8fb6305_360_360.jpg"
+name = "bitszn"
+
+[validator_account.signatures]
+tpknam1qzdd0ndvtqylxvwj3e53utxcxspfusvrrfmznwhvxs0jaj48thgkwkgnjht = "signam1qpdylqckk63y0dl8e6nrqt0qd2jatmrdjp3w566dcq2qd40d9lf3eydk0dc7m7lrwzatj6xe5zuqztmuz6qlucnkzkd4r9amcvwqyegx5nnxyc"
