@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `191`
-- Total delegations: `66`
-- Staked tokens: `3663374.203579 (~0.37%)`
+- Total delegations: `67`
+- Staked tokens: `3665374.203579 (~0.37%)`
 
 ## Validators
 
@@ -460,6 +460,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://pragma.ooo`
     - total delegations: `1`
 
+- address: `tnam1qx4ztg0ca0tu2aw056ksuek5y58tmg454shk6svw`
+    - alias: `5ElementsNodes`
+    - commission: `10.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `2000.0 (0.0%)`
+    - email: `security@5elementsnodes.com`
+    - website: `https://www.5elementsnodes.com`
+    - total delegations: `1`
+
 - address: `tnam1qxkkaflgfr6c7crvj4jwshy99zsdw346nv4ay0rn`
     - alias: `NomadValidator`
     - commission: `5.0%`
@@ -665,15 +674,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `info@stakeup.tech`
     - website: `https://stakeup.tech`
-    - total delegations: `0`
-
-- address: `tnam1qx4ztg0ca0tu2aw056ksuek5y58tmg454shk6svw`
-    - alias: `5ElementsNodes`
-    - commission: `10.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `security@5elementsnodes.com`
-    - website: `https://www.5elementsnodes.com`
     - total delegations: `0`
 
 - address: `tnam1q89xnpnrfsefr9ynj4v8ngdu35me8xudzgn94afm`
