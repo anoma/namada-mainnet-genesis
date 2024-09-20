@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `191`
-- Total delegations: `65`
-- Staked tokens: `3656974.203579 (~0.37%)`
+- Total delegations: `66`
+- Staked tokens: `3663374.203579 (~0.37%)`
 
 ## Validators
 
@@ -370,6 +370,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `Unknown website`
     - total delegations: `1`
 
+- address: `tnam1qysxqwyeldesm2cdfhkr86jky5vj5vu8cu9jjqtw`
+    - alias: `cryptech`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `6400.0 (0.0%)`
+    - email: `cryptech.nodes@gmail.com`
+    - website: `https://services.cryptech.com.ua`
+    - total delegations: `1`
+
 - address: `tnam1q973h5dwpl0wv4t8zy9gmafllmrnalde0vek58zq`
     - alias: `Cypher Core`
     - commission: `10.0%`
@@ -602,15 +611,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `unitylchaos@protonmail.com`
     - website: `https://s9.gay`
-    - total delegations: `0`
-
-- address: `tnam1qysxqwyeldesm2cdfhkr86jky5vj5vu8cu9jjqtw`
-    - alias: `cryptech`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `cryptech.nodes@gmail.com`
-    - website: `https://services.cryptech.com.ua`
     - total delegations: `0`
 
 - address: `tnam1qyplu8gruqmmvwp7x7kd92m6x4xpyce265fa05r6`
