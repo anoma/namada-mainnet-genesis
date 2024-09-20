@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrkty3nz0gt2e9pyg0pe0la79ka9khc7txyf36q5ncyn60vfkmctumvd7jw"]
+
+[[validator_account]]
+address = "tnam1qyx2vmne6th0nfk9lnwdz3mpwzslsaj5xc0x8ucu"
+vp = "vp_user"
+commission_rate = "0.07"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qphptadjwngh6f80u0x2xy4x2cr2009ngkdsthzktc74a2wvysgsy7tczny"
+authorization = "signam1qr89qcqz7ed402ta8tjndeeczuqe7u22sjktc9ajg70608pwad39jeae3d4wlsqshtae00gpxygntazvuafv6w3me0z2dldmhkywskgphh4l88"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqjfqvyd77gc30p78jlakdpvwuuvgvr466x8x7g3phrh8e4k3gfl7cuepv0"
+authorization = "signam1qr4g9awrwjz2d7fcdxq6whcxwcp483dptrqvtx9ycl4m6hf95xrpe8j0dff47xuvtc3vnzkfavglxc4pkw73t43drey6fkcckmwyfmq90nh8n2"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrg8j6r7jpdj0s9ndmhsyed0p4kap7pthx8nvpjtv5mfgkj3tptxv2uccp7"
+authorization = "signam1qzaywm9sx6pkl0fvectuywrecww39j2vlgpjx0m2gn54mpcp6kwtamvsnakywwlsr0kpzxjqyvjl0slf7qtkjfhp4p68788tkply73cx7w0d0d"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp7e0c0hs4en8acm69pehlw404s5rlu3ejjq8kanr77r8t8rx0r3msgcsgex"
+authorization = "signam1qxcdhs0m60xu99vsu5ax6382j0wpk6gw7zdpcqq69mumtak4p3y36yp0hm5gujzxlhas0mjulnuv0c4e4y32je2lwu7z3vs9pvuh2ysuqyu7lggf"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypkcqqujc63hcv2saztzsl9g03ygsqdx2jkpryd2fw6lkusyyyjrncrytl9k"
+authorization = "signam1q8kzfj8g6cl2vzapnq9rxey7cynwtc85rx00mqd2cg6kp4y0fzuy6fdnkmh9gmcy9gff4fas2rlsue845zvl273nd6p64wp98z87d5ylqyt4dpst"
+
+[validator_account.metadata]
+email = "infra@knowable.vc"
+website = "https://knowable.vc"
+avatar = "https://avatars.githubusercontent.com/u/99352068"
+name = "Knowable"
+
+[validator_account.signatures]
+tpknam1qrkty3nz0gt2e9pyg0pe0la79ka9khc7txyf36q5ncyn60vfkmctumvd7jw = "signam1qr8q2evlml5ux8agsglqexdau8r0s3ar953tu3kax2grunvg463dzsn5664wwuu78lcnszylxa8jnj4ln239rthqa0x8jppcvlhqdwqyj0es7y"
