@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzf5scxn8q44pw0xs9pxp7vsxcvel3t4d9hw0t3hrkxc7xhduyq3yvp9rg8"]
+
+[[validator_account]]
+address = "tnam1qx7xenrcve38c8lmcmewpk42df6pchlyjg34d3lq"
+vp = "vp_user"
+commission_rate = "0.1"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqs4ts3hexm80ka6np3kntegxfp43zz7jc7pr5u0pgqft5n52uluueue54k"
+authorization = "signam1qrx8an2jsdy55x93x5qxlt2sa65g2qeftge793cw94047xqz9r5qnpva4kz38jhg00f0m8jczp769kcled5vzqwawvfd36w0u9evl2cf5ez528"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpzqrkydh7detgqkgmtxr2vhwywgm7xkedt87rceshhq27zyjrxaq4xud3r"
+authorization = "signam1qrupwuwvnut26xefrk5y3x88ltsehkvqgez44g9a2w7rkm8e8gal3s57xfnsghmwzsucle6n7zm7vredn5qquew320j7s5k9pmdv8dqtnap2gf"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr2zkgdmpzqwh2nq6wycupqslqluzndkma7nn94gs7dvjreqycmpzygdamd"
+authorization = "signam1qrq579aeh3zvnem9jqf7ylemmj3q8ejp792w2uhlnf78p9l3xtleel9aau6x4p5jxwwyz5psj74t0txz2xm0js354jd0pftmzagwuvq0ahcwjv"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp56t9ky457h0jaarehw68s7qy2q695mvd6erz2mn8vxlh2qzd52cg0r8p8m"
+authorization = "signam1q8ft9rvrf2a7hhxcc92pdtp084n2qq4pk348jgeawrps22y7y99zx9x8mtnlukup248ff6y03pv4c6au4h8p4630t3qf7pt0lv7gkw32qq0ftp7m"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp9w5tp4d9wqhpgxuljv572hhjsv4tw39ydl2aseqgk9gqwrmfy0fswsjsmv"
+authorization = "signam1qygan843943xnpavzn8eevz06gqdrnqjvx7n8fpncvsve8pvptqsksf868qzhwch38v8ad6jjgn0hwqf3gt36wxjv8aynscrk2jw7h5lqy6vdptx"
+
+[validator_account.metadata]
+email = "sptnode@gmail.com"
+description = "Sipaling Testnet is an Indonesian Airdrop Community that focuses on improving the economy of our members through airdrops"
+website = "https://node.sipalingtestnet.com/"
+discord_handle = "@sptnode"
+avatar = "https://pbs.twimg.com/profile_images/1794814789711269888/4pNvF6am_400x400.jpg"
+name = "SIPALING-TESTNET"
+
+[validator_account.signatures]
+tpknam1qzf5scxn8q44pw0xs9pxp7vsxcvel3t4d9hw0t3hrkxc7xhduyq3yvp9rg8 = "signam1qzgnk8ly9qxgqjuqjvk8y4xdltjcj3pfsnr6l39dxt4ca9cjjtkyyjmljw7ax737fpxge7cn4qx8pvgau990j4ed8mt4lg36s4hkjtsxhel6na"
