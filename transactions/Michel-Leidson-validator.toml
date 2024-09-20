@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq5zmdsgjtg5clzdqajr0kmmyud6gs62yw0j9cr52ruk094t43p050hjwtw"]
+
+[[validator_account]]
+address = "tnam1qyl2fc8c358avg47ff5lkc47d4cnk0x8wy96ax9q"
+vp = "vp_user"
+commission_rate = "0.01"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzm7wj0nfawc9cggfxqt3dsa69t6s2mh0wzsywag3pp63xcft27rq5ggk5j"
+authorization = "signam1qpgvpgx4sj0t9xd9f8em0ww5q0jceldtweyhht0km39zszw8c96zvr3yrdeyr7ftc9qfdupeddpkz7z3v38354kqmpqn20h2exrv6vc834vqvq"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqlwexflstg4u74hhnp9dsg727z9mqe8u8erpqkff05tr5qlzltycfvtgt6"
+authorization = "signam1qpul9gcqtkjdqm0h8t4zyxhzfus80gle6kw5q5hgug8kslmkscf54rjq3adn44st0h0u9qf8p6kaxjqzr75dqshfczggkvh3mmr7f0gw0tlans"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqla9ucuh9ncyz65e62rr0wcjxhlavhmqmsjka0yptm248navfj3jsnmw7x"
+authorization = "signam1qp9l6j0v48gt4h03d3tt7r9h9x23x77nnelpumgpkxp8rtvvwjvr35ukevwuy28q2drfp7jv58gmqhyckgxvlcrftkgahnx7etfkvfsqewfn60"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypx0gd30ql62kcwd8z7m0d23zn4cdgqlvzuqv9g6jd8fgpxpy2zy0grl3p60"
+authorization = "signam1qy7lggfjzf76f6992v8g6l5pds36sn6gtuuzr0xalmyuldksgsny29ldddevnaer0sqmh58f843rlp7zpc0cdlsnt94cft9yfd23lku9qqyntrxv"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp0engpwxm7wmcyg4g46r284f0mpsw2xctpx3u9d58h9fzyvtazjmsd3avr0"
+authorization = "signam1q9t5r36pmyqq06kar4k9a3dqvwra0jn2yvan8lt6ckxz77z4hch2k7vuy3dtry0gjhsu6xy0dq7vxjhds6a0rlz2x98f9quv9nhz2sveqyfgvhfd"
+
+[validator_account.metadata]
+email = "contact@stakepool.dev.br"
+website = "https://stakepool.dev.br/"
+discord_handle = "stakepool"
+avatar = "https://raw.githubusercontent.com/Michel-Leidson/logos/main/logo.png"
+name = "StakePool"
+
+[validator_account.signatures]
+tpknam1qq5zmdsgjtg5clzdqajr0kmmyud6gs62yw0j9cr52ruk094t43p050hjwtw = "signam1qrepalk2fw536pny4dl2dlapvhuzyt39yyckyt2a0pnr92l0x6ms36m9mz5ft0yqnguhz0j9ukncue2j7d543rn50yhwpl8hzhre2nqty26zj8"

@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrffv9pzff7cwg3ly7e2u0vw7gp5gf96vlqawvq7msrk0e3xsen96p8e3xx"]
+
+[[validator_account]]
+address = "tnam1q9wgwx9zwmcawup0w2tdllt6pwyad87szuc4f7wq"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpn9tef0hej8tgj20mdm3eag5qkycv2wlsnsgfc4v5gqjgpmzxp9cdr80sq"
+authorization = "signam1qrv520dntnkhatwc9mlsgydhev99rlpxpl2nx5xfws4kmp8ktn6uwz3p78hgsp276uskgpcs8cj042ptrj6npg3y8med8wn6k8uk7acw36ptr5"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzclr650735vpvjyauze47gk99na5p640twsrdgs4cmcvn6sc90twawnsss"
+authorization = "signam1qqance0824d8t5l0mcyplxpzfrkjjm337wuwdk2lh68zpdths2mkjuqwmvhdspw2qve3dh855htlvawl3na495mkakr08ggmsuz937sp8fhmuf"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqn5yhe43dgf4nwxa3e5ed0uunev4sqtpqk3lq4jr6sg2luxt245z73fluv"
+authorization = "signam1qz59fumn4lee906dczqumslzskknwuw78xcnqvw7d0klrdl5ymhqx03pm4h3ccmdezweuhcghr6dwlz9v7hgk67d3nctk2un56slzwsp26w2rx"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypz2r5ypqx4wmkl7dxk7gc4s8tupvdjscpjlgtjhfjzsfar3326z8ccwcksf"
+authorization = "signam1q9jvelqmwvjhx9d0vp346gjuvveeem4rys659whvtan766v26tzvwcel749ptcdnqtw3kpd78fq3jz9v4qc0d7t4nq74j67p2lk0w5rzqqcqnpu9"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyphth9fx4tvv7j7aypehmvfvwnzx9xyac84tc8suam0muvgprxvnpsqpaf0m"
+authorization = "signam1q9v3ma9j3km8csl96qud57df64vcyea8057td8jckhtjmaktqgl2jzjfcanpk8cdccnfl2r8p0s8u96kk9k6hwsdnn5y9qkqpdesc2a8qyhn0hgz"
+
+[validator_account.metadata]
+email = "loser@loserboy.xyz"
+description = "Blockchain staking and validator services provider. Supporting both testnet and mainnet across multiple chains. Secure, reliable, and community-driven. 🚀"
+website = "https://loserboy.xyz"
+discord_handle = "tonymarma"
+avatar = "https://raw.githubusercontent.com/tonymarma/tonymarma.com/main/images/avatar.png"
+name = "Loser Boy"
+
+[validator_account.signatures]
+tpknam1qrffv9pzff7cwg3ly7e2u0vw7gp5gf96vlqawvq7msrk0e3xsen96p8e3xx = "signam1qpncd7dxyqs2pu8qfu4eg70e3kclpcffcpp7693l3u4xg7senus4j088h8nvddrlpvzjkeuuca0txxexl4zjs2ksxc659amdspjgr4q9nr2px4"

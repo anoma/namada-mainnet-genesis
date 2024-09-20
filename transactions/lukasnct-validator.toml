@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz5w4ssv37suh86ga3ast5whd62k5c6mtm8hy2dptyhp2nhhancakxd9suj"]
+
+[[validator_account]]
+address = "tnam1q9cfj43flxq0tlh4vlaymjcea9g5mm2qhqls99ky"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "57.128.210.111:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzkc0287neqzh4a0chuweq0ntay5rahaqt20y5de90e8aalhtmzxxyqe3my"
+authorization = "signam1qzf72drpfz8entpn5tppulcc9y99jklyqnjqky4v6p9ns2uwdvvp0vlhtm3jdxuq4s5t8qw7yfnt7jzhtaat402mkuamkwt605fy8uc0zjhtxk"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr8uh084mmgw6z95ls7ennt3rrhwj7f68uwa8ydkcc9yls8alvjhs8av7rj"
+authorization = "signam1qrnu6tx9wl7qwe0yhjaqhj9uew25e462ly3mtpl3tjgm8fs7dn5lgnesv8zjgzrmagh0xqvdyy83gadepmcygfj3hz0lznpx8ey6gxgtz2k9ap"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrqv6j7qtulxn9ycz3890zws07pl0n4g5gcks2j32ytyc8q6lgp4kdrmha4"
+authorization = "signam1qqzq8fxmfmumlmlxw8gyql9zyz75glk7nscxsjddaea9vjlcgt9pf9cg8hec2p4t7ec3sshkk6a2wrx8s3vetkux7pk8sg3xkymnaqg9l924lf"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypjz8kwcfryhaez990x7p4ez8392x5q2ztwkvthhtnr0e73he76kggswnruk"
+authorization = "signam1q8aq5rhtlpqt405y7cpyrn7wv0y8tdy0jea70t6snyjxafk6s4dey8y0zpmmcp7jmj00cy400aez3fhaf9gmt40f4er4zxvkzq2ccp8xqqt7rzc6"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp2qdxf2h4vqwqcczlvghy7rth6vtztws4p7crss9d7lhmu3la4r4gy88z74"
+authorization = "signam1q8px6w699heflq4nl74jwg7vwgp6g3nrxt3dxpxq20ktk37pqmju76fp9r4qge5f8cy5kgzxv3g4cjml062e4fqnldfydak4uf2wnrpqqycjtxjr"
+
+[validator_account.metadata]
+email = "connect@nocturnallabs.org"
+description = "Building bespoke private, immutable and decentralized validator infrastructure across the most critical blockchain networks"
+website = "https://nocturnallabs.org"
+name = "Nocturnal Labs"
+
+[validator_account.signatures]
+tpknam1qz5w4ssv37suh86ga3ast5whd62k5c6mtm8hy2dptyhp2nhhancakxd9suj = "signam1qzp7uwam6auua255uur3xm3etkl9ah48nw6ppzhr3sejy6l6j7ez6myer5pmhutmasa454y45a6azjekpxcgmaguw99hc7wsztfps4gz7szwf7"
