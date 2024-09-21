@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqzx0trrwat0k6e6x84cw0yemxzeunyd9w6wcyre9zftukla8eeqk45g55v"]
+
+[[validator_account]]
+address = "tnam1qyd33xrjdpr3hwhy0ckut7lk56gd5gjflgtul8hs"
+vp = "vp_user"
+commission_rate = "0"
+max_commission_rate_change = "0.01"
+net_address = "95.214.53.166:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrh7xhzlasqqtncn0qpn8clz9nr6lcdtuearelk7885sp06s49jsvfzdrfd"
+authorization = "signam1qpay079cyzxdnhjeqy50awnrrg734sf7amdds9g0nenwywrte4cvj9azy6scx6q7048uc6vukf03hty0uh5qctr0m9qrcse0q3p97scgw0te9x"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzd7mvnjzr0kkp8ca8tv98njzfp2wcxsrc88v80t7esq5zc6d789xvekpk4"
+authorization = "signam1qz6zg0c9jv50rhktdxmvs2qwx5jdxshgww2e9gvknc3mce6h30ewgal6sfg9a0csejsmjn5aezqfc2qagh5xe0py6clhj429c57umqqrq5vac5"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrryevx047vuylmdqudj23ttlxpl3enx6wcurdn42g34pzr3q7f8sjqwavl"
+authorization = "signam1qq39mc5kw5xyjtqzglk7s7upcwswutr53ufycu2dhtccfqjl93m3eg0q9w7d2t5uypunveh7f06tcu7gxmj5z6rk7vgz46s5tsy6rvcpclglfv"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp7vla0duyvj0uum2gnwmt7zk5mxjf3fpdy8cjf3m2te6tmrgtxc2sgylp54"
+authorization = "signam1qy4esd6qvy37ahdtg0dk0muar63myfcat7gpcmvvmlsp8g96ece0ucfx74dptfl5fls4rpvcexedx0p640zsjfs3m4sqsnr39qj09g9jqql4tpns"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp5wh0g2g70j5x6uz7cqusgg3m0uvrne530smpwt55f604cq7sh30s38j5cd"
+authorization = "signam1qxy3etvgyrzyx2rxwnn39dggz6m09ehx0actl7yaez7scpuzsv7fwu0lpnqvu908m04y2rxv9g4vf8ltwce5nveam67d67f6puvrs05fqqxnvan8"
+
+[validator_account.metadata]
+email = "support@autostake.com"
+website = "autostake.com"
+name = "AutoStake"
+
+[validator_account.signatures]
+tpknam1qqzx0trrwat0k6e6x84cw0yemxzeunyd9w6wcyre9zftukla8eeqk45g55v = "signam1qpy0gkmaeehz6fcfd44afu9s3uvyup0ft5dnl6vjqxts5h0sfks99wcx3w8wwxaye9nux3su9k0eqk2sgs2mujt6773px0lzej9r4fqznwyjm6"

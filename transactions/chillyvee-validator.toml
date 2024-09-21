@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqjsj2mapn8k99lzed9mp4u7h0g3pv3zv3a8elz24v5kqugw66tdjt2kjyz"]
+
+[[validator_account]]
+address = "tnam1qymvjx342ns6qqx0cyhxwrqumjphcfuk9yp0eywf"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrm77tnq2hdc2rt8ldcglteplajeu92vddmvd0k589dq52ye9p8swxuksku"
+authorization = "signam1qrvhypxz27w5ezkqxtutjfx5p5jd46jkssfkwfq74z08p0r426p267dhsu36f39s8cg6ygpp0wmvlfskgnggxvku7vy4mpkf4khtdmgwh9pc84"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzp9ltag4vez4wtmfxqc6q4ntdgdz0hy0wypkwmuqjyej2728eafxzwwqg6"
+authorization = "signam1qrkhu9s4r9n60sf36c9te8mqezle2uvqf253wtz3a7qgjvhcvlgaw0v509xjqs4r9v8u0nt7yktp80w9m57jd70q5grlzqpwjzgwuusrv88k8c"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz8qtz9t0apa088la2g4knnkd923l90x9ag8v09uyjr75n2efp33ym2t30x"
+authorization = "signam1qr7seuzrk94wpsufuzy79xnjsjq9e8hhustxa98d4rw4k5fh5h7gz8anepwa05498ps6glkun6j3jupepcrdahmpqe20e6hw3mgyjjsfrrjknk"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypjvjxkpxwjpu33jm43sp8ke3c60e5d8u765pge7hvl0rgdq7hvsusetyyyl"
+authorization = "signam1q95m7uf2zacslfdvut4fthd8x6kquxdnqj22lhr8n363jg38gz0l62qu8yxd47mk8xddq3mux9278ulz5dk6u740f2kmg9g9xvh3wkr8qyqjkhyu"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp26s9dnqdz6dh68xx85xjge4jzu2hxx2dsmgdvrs3c5zqt285mn3qcajep3"
+authorization = "signam1qy0q63pwuuc4dmu7dasq84scjf33mvawuh6mq06phxtfr66r9x5lzng007vcl9nhw70kzpqu29cgwtwykp7x74fp5zszlvnnynndtj3mqqwa2qxa"
+
+[validator_account.metadata]
+email = "chillvalidation@gmail.com"
+description = "Chill Validation Services - We take care of the Validation so that you can Chill :)"
+website = "https://chillvalidation.com"
+discord_handle = "chillyvee"
+avatar = "https://chillyvee.github.io/about/chill360.png"
+name = "Chill Validation"
+
+[validator_account.signatures]
+tpknam1qqjsj2mapn8k99lzed9mp4u7h0g3pv3zv3a8elz24v5kqugw66tdjt2kjyz = "signam1qrmc8p0z69fjv9gkvyfks3yuyg604tzrfm5puj6pwjhelt2ruuf2m53kt7gfp22t37tk4tczrqvsn9yn6ug6438jt6xhg4snsp96x5gpdp2d9u"
