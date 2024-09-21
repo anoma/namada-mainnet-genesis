@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqflm4kpczfcjtd9d8uj20lw8a6zhlzcffvfpe2slzfjq68hdyr763nvq5s"]
+
+[[validator_account]]
+address = "tnam1q8mqm9s984ldqclk6qn4x3jd5t03vhjp9s60thf3"
+vp = "vp_user"
+commission_rate = "0.04"
+max_commission_rate_change = "0.02"
+net_address = "162.55.85.90:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qra34e75repa0tcsvt0ncc9rvt3mzpa3a82dlerduj024alkfdjhsy7lcdh"
+authorization = "signam1qrypkv3kkt7y08yctj4pwrnefv89qv9pz6kuczf56wvhm8cz2gfqf85dqat6nhyh9mc8yjcc8t6cf7ew86wrxyvsnxnecuuajjllu8qddkyckj"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq2qp23c5ar659hv27jumpw85pfx2vs3lgjgvakww7sykz05s0355u2yd08"
+authorization = "signam1qz2g49zy0kexu60fmr5t0ru2scsaug9xydqcqm0ypngzdv3gmsugnkswqyn8vgh6v03ulhl4yjdkmttup5ss5c476ea5vznu82mslfcqpahhpy"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqky47mkw8rr2sgyk0u4qnjptephd9cckqqed8p847lfqlmffn28w33wr06"
+authorization = "signam1qq5d6y7d382zpndvehm4e6s2e26lxpl56xlqn833x8j7mfx5uzm8vq0m8du5auxja4lshn5lalcj8ltdd2dvtmm6tdvzkret407ksmsxhv0va2"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyphfz5tj7kstnn0l9decu4hyxh9w4m00qaqn5t5g0d48sxekextj4qlml4jc"
+authorization = "signam1q9nzlff70r8meafsv6jzuahgwcq0f4c87srx9lqnu3va4yztvzse6pcfkmmz7lf3l7844mz6fmp5e494w53yv86xlrq9frc9rp72kay3qyesc2kn"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypswwh4ltlqqtsvg9dddcj9zjruj5anwafsqcaevy2knq3a0v5d5asfkguqu"
+authorization = "signam1qyyanuh6eftqm4y3tj6a99nj9rgu33t4ff7cyx3amjghkhuxr4qdkx96kjmtlgeluseps6474nrxx3vh7ckktjdw0rkct3n3rly0vlrfqqy4mcq3"
+
+[validator_account.metadata]
+email = "staking@blocknth.com"
+description = "We provide professional validator services, create impactful content, and\n    develop tools to advance the ecosystem"
+website = "https://blocknth.com"
+discord_handle = "blocknthxyz"
+avatar = "https://pbs.twimg.com/profile_images/1759527520683409408/0cdPzZJm_400x400.jpg"
+name = "BlockNth"
+
+[validator_account.signatures]
+tpknam1qqflm4kpczfcjtd9d8uj20lw8a6zhlzcffvfpe2slzfjq68hdyr763nvq5s = "signam1qp52nry37uuerg6xctd6css4u5c54pwmyx3cxwm3hv87y9xr0w290j6z6rcnzx5jm3hm6avjregk6mnj7jfv2j7600ne7203dzfmlggduxpvvz"
