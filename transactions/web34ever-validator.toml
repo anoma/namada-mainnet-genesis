@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qplcr82t6y4hnaj4re3k3qw2kfxt6mugmwsvpaw2h4q4z8p4k634ja2htxv"]
+
+[[validator_account]]
+address = "tnam1q9nddtsaw5xeptrdx72ruaxx0ry53sur3gy5cvsq"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.248.24.33:46656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqhkhq3pvqdwzsmvwk4esg2svwnv6pu5xcddj6dahnumq5j9609x7nlpp5d"
+authorization = "signam1qq3hk4264vtwc82vt5csaden346tya5w9tsxk5rttzcpzspazgyq95fmkrg99deqmdg0fges4rja9vxpx08u9gwg5p3xzul7xdwwz5qp40h3un"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp5ca3mw2762a7akaakaukshjyehu00zn7l7yyetl2usnm9jdxj9ux235gv"
+authorization = "signam1qrj0njhzmugr30w76tcs2c97rarpen9f7k6fg2ftgm46l406d45z6ul33w4daknn2ttlv54ee9cdssa5jgqje4h5s98jhuwsrervgmqplx7wsm"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrt4ue8rjkyuunnqrq3xtagk7z0ej6dd4q6u3fj62772004zegql55dmc29"
+authorization = "signam1qq2t4qmdv0m0zrwnxh5whwq53yk49rfjssdcwvn3vwh2wq2p0r39mdz9mtcz3ggp0zkrvl8q7mnql4y3waqz68uqmak3pkpupvl093q0llnap8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypkt4n85dpemjdkezvzynpypszefgcg38hstlu5ac6lsg0xhtqxtgg50dl0j"
+authorization = "signam1qxq5zflkgaam2jvquhd22eveljh06uw2szaxmzeecpvkndvh9fucsfpf009trg2chzgpccs7473u26vk894zxf3k04yk0h7xf08q6dasqqnfgrd9"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypaxwnqlzduf4eg2l5l2u80jhntf726m0wseuk3sxd9dd2uluz09egj0zet2"
+authorization = "signam1qx588ljrrqwwtxacts60kumy6qwy753mg2s48tru9s9ckwwc8jqmjyx7886p3k9zu9gnp4rm9yrr82egdyycnd8mytsnc4pmjcyjujveqq2qmxvz"
+
+[validator_account.metadata]
+email = "web34ever@gmail.com"
+description = "⚡Infrastructure Validator & Dedicated Contributor🚀 Building a world where your life belongs to you. ⚛️ Great #WEB3 is coming ⚛️"
+website = "https://web3validator.info"
+discord_handle = "web34ever"
+avatar = "https://avatars.githubusercontent.com/u/59205554?v=4"
+name = "web34ever"
+
+[validator_account.signatures]
+tpknam1qplcr82t6y4hnaj4re3k3qw2kfxt6mugmwsvpaw2h4q4z8p4k634ja2htxv = "signam1qree9myg36ndq9s542p0lkfup5mj3ljy7q6g8j7aknx64w66lh29pcgrm7rlr20s9xr27e6egpd2rt87upq60dm6j4re0z0s5tg0pus8d8zxy8"

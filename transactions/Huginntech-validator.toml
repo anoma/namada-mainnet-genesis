@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrmysgneca7k5gj6uuvu3aaphty3csu78k5xqhelzkej5yyywa5tzh09tg9"]
+
+[[validator_account]]
+address = "tnam1q9e2ya0n6d3gaujx5n52qu6clxn4gdqnvshx7uxp"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "136.243.33.91:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrv56687nd48dalrxldu9czuk8uhsnd5v0hxk6hyx5thdw8dhqmqxjdzvs5"
+authorization = "signam1qrzfv360tckxngy0cscdyjf0paw3j2wp9as0g3t9aarcjs3dsjdx8ukkhkgkfc42r5su2awmuewpre6vtvjm4rcu0l9lfr74x8hggpq9kr02lu"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrdseqpc4f4kr76hptgjx9qzjedmrs5f3uffn9ywm5m072gs0n59kl9rc72"
+authorization = "signam1qz4nxqlzh0ty9sek4htljwacq3z7yv3ad7cw5art4vz02g7a5w2tc9e26e2vs5dh9hsp82dj79kjhyfsfz8lydn65wa0q7gsa8e9p8gzxklsmx"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqg029uydjsyur2npsr4lw4p9l7c3mnkrr0te0g4slmame9uvtm6gcadsp0"
+authorization = "signam1qz6p2af546ltxvauwvet57pj6rvwfhgwxg4qf5k7m5frz3f934e53tmcfuzjed8qf6zsx456zkcshp4plzwlk0r9vk29lpwh3sklxnszmwx32m"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp2ggfw0uhp89lp3m5420d9q8axedm605m240g2vsl48y7kltzwzxcadcf07"
+authorization = "signam1qxnfxans4djn6szvcu6uat294yn60mvkg8m3r2ucs2vsfkh64rjwvv3n58qcn58a652qc2uqdam57rvg2anfk85nv54f3y0rptlzgf4zqql538ks"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypwef72wahrxxj26jm5706s7jewrlsjpmnvv2z3ftxqd8n9rpp76ugjzzfwf"
+authorization = "signam1q9sng74kjsx6xfukqc089djfqnnqtlqcmd3evyxnfl8fc62wx3sqjemcu3sq3qy63cemhyv6hw94h3yele5lf8vmy8fvh5l94ym6aw5jqyz890qy"
+
+[validator_account.metadata]
+email = "stake@huginn.tech"
+description = "Professional staking service. 7/24 monitoring and best uptime. Huginn is an organization that aims to teach its community about Cosmos SDK and Blockchain."
+website = "https://huginn.tech"
+discord_handle = "gokay5690"
+avatar = "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/huginn.png"
+name = "Huginn"
+
+[validator_account.signatures]
+tpknam1qrmysgneca7k5gj6uuvu3aaphty3csu78k5xqhelzkej5yyywa5tzh09tg9 = "signam1qzp0zufpy504frk67a6y3xu5lwcktwv86v4yn47telkvaqphcp0q8p06f3p26rp8tevlp4jpruxu8uthjlpuljnph5szq556z4my2xcd3842fa"
