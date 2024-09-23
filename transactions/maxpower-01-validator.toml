@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qze78fz5d456rf2jzq3qudgzj8wjw9sdex0phu95qal4lv72fd5awa94a4g"]
+
+[[validator_account]]
+address = "tnam1qxxp8yu7ceh7hymkclutkqwhlgcydqzjryflmx32"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "167.235.35.48:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp4umglthnk6ue8e3wuzm07lsv5u5da27kn5w0vdm99ymp93yg0ly8d3ewc"
+authorization = "signam1qrv7t077hdjqst0cekj6ngu8ky6nq9fjq3t235m08gtj33jnzvwwqhh2kw4cgnrn8dwkc5z0zcfg2cnda7p8c44k6xu2vh7rq9m3dxcfjvsgjt"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzv38u9qcy9lzs4yal8h0mlxcw6e7jfun7sn30ageadnd0kne5gcw726vnq"
+authorization = "signam1qr2t9akn8wc65jyz6e40kv7w3evyl2f57cqwazgnvyd0tvrj3u3yarkt05phje2devxrjxp0nf77kfjxdsffsl2pavg93zy5tkejd9s232mctv"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpt5c39rkyu3mcu594wch9x8k8gxhc3pr3gdq6zxdsy8x27clz2axx9yter"
+authorization = "signam1qqdrvxxfguxskxnfms84d0c56zzchqm38r0m578lma29dmtkxhnrwffc5x0qhh4lu6xlqp8qgzwad3pdycg2txzu4nlqnnfsf8z2g6sv9we0wf"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypyyw32tvshp6twxxys0fen9zhherzvfh7wgjpq7tsys833khhtj0g8z9m4c"
+authorization = "signam1q8w764tm9h3e27tkxpw6zlcnv8r0zufvs00m4gmc9s20nxynax05kqct53nv9sgxx3r59uvw5f553q9ngdyajtp34klyy5tec8rtwwtlqy28l377"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp3jhzdm73nkadypshjepxnpnl4rd6z4xtszcauumywztqmyg9xgfgjsg8ku"
+authorization = "signam1qy74w688gndmr642wacr4lx956eftd88238duaxp7l9dhvn53w93w7s2wyrytxdu9v8eqrmv8saq5dphx3v6spwnt9phqe40pd779awfqqtj7902"
+
+[validator_account.metadata]
+email = "max0476@protonmail.com"
+description = "Max Validator"
+discord_handle = "power542"
+name = "max-02"
+
+[validator_account.signatures]
+tpknam1qze78fz5d456rf2jzq3qudgzj8wjw9sdex0phu95qal4lv72fd5awa94a4g = "signam1qp7xge76hvm0lykvhc8rn2w9szhrz5uuguqqtln7262sywwuywznv8lwqcas7hfsqr5tvemhhkc4vxtjll5n38x26wsf0v04frsvjks8f6w6m4"
