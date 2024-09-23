@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzg2wwzpxjjwzmtyuagjcrctfzfdar47t6nnkfywhpr6tvl3nx52gjxs6h8"]
+
+[[validator_account]]
+address = "tnam1q9ctkntly0ggv796axf4flnz3mgtx42ucuh5xhme"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "0.0.0.0:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq6y9dnwfn4dhfpq3w0sazkekdej7yc8qqffqfptjfatj3np5dam6edek7r"
+authorization = "signam1qph2kg5puffgaun8300wr23kkscsenl6pfmhz8gnpknxp00792xgpx800eu9ekvmpk5htfncl20unacr680htna9jky60dj9nmz0ptczqd3fem"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz9xy782kehwsfjnx8zq7qv7k4e25wweamwc2pft6datxzhsys8ccgfg0wa"
+authorization = "signam1qrmwvk4mdex8jvknnsq2hej4t0zfqgcqgdvds8hrt8y20npfs6fnzn03785gwqhhe4c47ru270yn2p7gu3lyuq5wry0g9auca84pp3gt47q97d"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrkh7kf4npm9vsvg46j4nf3y2jkfwr2pz273n96cmlkqr446de46jqql20k"
+authorization = "signam1qp0dm2j5ahzpgvvfu584nh96yvza9m5ukclz07ymjuq9h2d0c3qu678rz3zphvelvy498pl0qhvcyvq346xyk8ptqx3734ed0f6ltrq9m758w9"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp62xhvnpt66m32hehjp0af8qh7lsmh8g6qy9kcuwkslskeqt25h9cgrwz6u"
+authorization = "signam1qy5wthhk4msll0ydp7z6hp4x8a55df25n5styxft9fnkflutk4x2734x9namydnzlvm2nuwpxp05cm8tr80ggnn8ykas239m5efd3hnkqqyt4ggp"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp9h4afmw2dyxwj7kpp2hnjanek4efdadc7d7u0zqu324jptcmrd6qq444x2"
+authorization = "signam1q9yhymtunm0dfq6m42unr437ww6zmxr3cpapgdxpl2efsjd66qujglaecvnv9u5t73z98h5wu4wce5tjfkudzat3kfsz8rgzjgj5nj6cqqjkcas6"
+
+[validator_account.metadata]
+email = "infrastructure@edenblock.com"
+website = "www.edenblock.com"
+name = "edenblock"
+
+[validator_account.signatures]
+tpknam1qzg2wwzpxjjwzmtyuagjcrctfzfdar47t6nnkfywhpr6tvl3nx52gjxs6h8 = "signam1qz25vegsk4ujc29zf2638dcv26e3mkp9yjgsx0ly7563wxksyjs3ls76vlkv5czqfrcxdhedp4zlsvwl0d75ly2fv8upnu93ufan8nc2xup30e"

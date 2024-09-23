@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrc7n4dgysens4ql0yfwnu7fyg63h63eee3dtenvhgh2gw5jrsm0gepexru"]
+
+[[validator_account]]
+address = "tnam1q978af0wdx88mdhhzd0ls879jxuctsqk8u52syyp"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.16.39.190:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qraf2qflqtctnkv88jarrmgf0af24u73tc657nhlara2facyv59e624et3y"
+authorization = "signam1qp7s6s46sxcmjlpd3shs9hhrqnk22h5z2qmm3f0cu7v65gzm5dyru682k3dwgh322mmmf23ha28u9rvrfpsqy4gzrhstjhx4xwhdxrqdqerc57"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq2pwanvvghh23zrv36m38mfyht3vl5rh27g88z0jxnx9hp7kkgcuzezch2"
+authorization = "signam1qq73dgvc4zshmmjp9f2dlkreuvw4d0geu8dn6k5n0tpdf2yv7k35sg63dsdcqxjxe7prds5sq5e37qep5lfaxf5d0qtkqt2rfvj7u3qzewatf7"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp8zu3jly8lwhpqv3le50dl732ttsa0zld7av8exes6qenrfmw8nkms6fpe"
+authorization = "signam1qrclqkw088jq7tyc00gxg8pm7zcqnc57l8l3uuy0ne83lvd2j2a2ydn8xcp62fr9j3alflktuaks05u6chgukl6v4calxntv6q993kg0v3nxe3"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypjml3884z62upcs09d5h686q9lcw02g8xgv53t9h92zd8eqhz7rrs4uk0fg"
+authorization = "signam1q9yzmyheel676hnnf8er6kqnc6csd6gptw50r2srsygmv3ldf3zp6sqy2ka49ralg8krl3mc54jj7kd24shzcnt08fe8puu9dkdx9s9jqydymnzh"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyppk6a86353w04wvz93sv8q6e2u59azsm5fuz029msxye784lvvewc5wc4x5"
+authorization = "signam1q88echcjy4u2gu8uteshchpzmrluecwp2uapay9hdz2mnmnup5cpqq0srt8p0zx8c4yuxlnarazeakg3nvu8c37m50xvpv7tezwq7lm3qyq2jv2g"
+
+[validator_account.metadata]
+email = "hello@validator.company"
+description = "Validating the Future, Block by Block."
+website = "https://validator.company"
+discord_handle = "cosmoscan"
+avatar = "https://validator.company/tvc.webp"
+name = "The Validator Company"
+
+[validator_account.signatures]
+tpknam1qrc7n4dgysens4ql0yfwnu7fyg63h63eee3dtenvhgh2gw5jrsm0gepexru = "signam1qzvx73z7v5pmgym6czasvd0hmx8xhnmxm5e54ccjqzme2nmgg9g365sqt06pjpte3gtthut2hflf89rm3gc0r5fhrnghsfc50qaa43sp5xhewq"

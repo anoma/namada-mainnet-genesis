@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzxu9taxnrrek3ty4mh5gl0rp9s05l5j58tn7kspj22mpp5s8nwywqgdqmv"]
+
+[[validator_account]]
+address = "tnam1q9mgfvqqypw82jk997kzgkkgnf8fxur2qqpa7rlr"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qph7p8x77dz5u496fv93l00muzs60hwec06qwwl3yv0w2pwcwgjwcctuglz"
+authorization = "signam1qz9sztgwc57zps8t22djtgxnppxaux2au7e74vf5mnkmpy8gylxuvfktcg45vx9fssctl6muz5pf09cq7pprxs85zyw4t8v4velup6grv4yanc"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpkns5x4z9gx5r0swtt2xm7e9jd58rxd6asc5rx8cpwjcerxcumcvjfkrdk"
+authorization = "signam1qr54exn46dc27e7qp4tjcaep9fd6rweyswgwlvszmfp4gljel22vfhmmxg6ftafj50z5t97g02jw9m0stjtnleggxhdx0tsxp33qa5g8zhkra3"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpazr37alhskhs2kgtzvnwdksa95686rzaeegdgg5jfdapknrw89vv0ey7e"
+authorization = "signam1qq0p40fd37zljahaezng363urdkqffddcfc0g399mru3z2r7w0qemu5exy7g556n2cyp7km3208959rfhvwgu0ymypu6c888wnzxm9qdqhwfy7"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypg46llth0pssacamch7vs6jtq7feeqtcsuhdtvtxsfewkj2wfzqssajhd5v"
+authorization = "signam1qxeus768zwawvt3uvnk8yj5uktkhntu7fkgal0ux84pk3qcsm3cj54wcmlh7ced35g7t6s387q0v9fpztj5qy0cc4kht57hux84yj20wqquc9yaw"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp8crj5tvul320nveezccs60hdlr9jjwwnnm3ed52evpc4mxdmznjg78cfm7"
+authorization = "signam1qy0jlgtrvc99v0xefv83dz6t7gq7zu855fuu5fyhw4sk7yjttng0c7jsr6grfqylcjtrhms7pf2skhxsy4dzcj5rqzjnxmh549uvtcn3qqx0uh7d"
+
+[validator_account.metadata]
+email = "adiadi2411@gmail.com"
+description = "Node runner Indonesia"
+website = "mdnodes.com"
+discord_handle = "mdlog123"
+avatar = "https://raw.githubusercontent.com/mdlog/chainbase/main/17427126.png"
+name = "mdlog"
+
+[validator_account.signatures]
+tpknam1qzxu9taxnrrek3ty4mh5gl0rp9s05l5j58tn7kspj22mpp5s8nwywqgdqmv = "signam1qpdkuurlw5vpn67car0smd9q7gvtss2fgswzsd2t7ycjt26wp0wrvxr0a46vhqm7vdfek9x2hjjfjcr90fd4rwy5yk057vt9j0dqdjs26zu6ne"

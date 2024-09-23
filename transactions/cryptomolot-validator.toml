@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpt9ms4jhry5nsx7xal2wyvatv8tsyqts96a36ln25wdvf4evtw268pn32l"]
+
+[[validator_account]]
+address = "tnam1qyg69x0fvth8tl8z7ylxdppq4hud7755cg0z55n3"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.53.114:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qznwrm4nc65jr6xu3fgqmwqfk024zx24zmqt7jd7y4uea5ycuzg3yx6re2p"
+authorization = "signam1qrmdrqtvh2rd52mj6kf7cextts834pypswh49yd4yrrc5etssw6v08jdvkmjf8zu6cj0c0a5yjm83rpqrtx59qyefc3rnvlx3glvdqsqsd0kfz"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzyfks7hkqqtenunxkfag8qdsuacf4ggl6vugh6dh3676lu4prx3zrfvkzd"
+authorization = "signam1qq2hnknlum8q23u5te3vextgxtug8tffww8lvczdfpgth3mvhc0u62d04w44luspre05gxefw70hu6yp2cwdl5cp0gsjc652yz7xh4qr45lucc"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr2mtns5xz8j3jx9rkved0gangv4ys369uz5arcr5vqwpwq6646s52yky29"
+authorization = "signam1qr5fx7welqp63xjp3xxwqlzvqpmjesm3k4dezh3ja42cgwg5v6kh2flszdwsuxc7s6r63haqjwh8jct8tyd7dz8keykggcng6jz4gagrvvp9m8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypdhqw52kxz0fg9c28nhx2clm43fynyaq0dm9sn8jyj8n7mte3vt5qq6wy7u"
+authorization = "signam1q84sy8h07249cxstuxjj28tyedl8lvynld5e4d5p76gtg6m3tzc5s2qvay4tf3v4km305jsytmtft7hv6sj49prg3u96t6ajz7rwpz3wqq7l878z"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypvdxfafasy9lmhzegd7s80hm7ydaf5k3j8pqnfp55xur6pfvsejsc46n7eu"
+authorization = "signam1q89jtt3nn7yzhv00v8g6k5k42lkneh2nfk0vggegc229mhryvaxykwa4z2m3e0vxlh58whunk6yetd2ylnv7r688uv0myhwxzzvw04puqq4mzzjj"
+
+[validator_account.metadata]
+email = "unlimitedmolotnorilsk@gmail.com"
+description = "We want to make the protocols we validate even better, more reliable and safer."
+website = "https://cryptomolotstake.com/"
+discord_handle = "freesson"
+avatar = "https://github.com/team-cryptomolot/metadata/blob/76e3a270a54754114cf916a0756483beef0af5ed/logo.png"
+name = "Cryptomolot"
+
+[validator_account.signatures]
+tpknam1qpt9ms4jhry5nsx7xal2wyvatv8tsyqts96a36ln25wdvf4evtw268pn32l = "signam1qplxthhpz3vct6tcvvvsg4elz7zkzkl3aujyeewvrp42fwqnf6v6u8636tqwf7u2ep43wzpr0xwjk4d0pswa8jlww9kff82ttga0z8swnrvfjc"

@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr8kjgl0p25p6ajk3h5xxpf6r5h65vfaf22se7y7d4450hzlyxy9jgp07ss"]
+
+[[validator_account]]
+address = "tnam1qy5dqyv2ygrk2sm84mj0pdl0ralx5wurwu8xz3qa"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpp5tr4rcanu4hwqewj9z30j3guwx4k2cwmvcflvzrettnsjs0cpq0x0ez7"
+authorization = "signam1qqxpayqpvm43g5hkvzt4t7rzyvy9hcmsuyc9a3j2yxpedck7hqmv6pcxfkqlte52vhcyad8dt7z0d4tx8fvtp6jr4hzh74jcpqcdd5sr5992v0"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp0tkqhcdksq9yeny2r8jgu9vu4sjr7syax3mf7z03l6yms7eez92xgwa84"
+authorization = "signam1qqzq5hl0dwk4z86q53hls9vu0drny7f85np0lfn4x7yrpa68w95qxfq7jl08ygg3lh6r2xl4420lszj0whn3zu8zjl8xd9my4dt4gkcypfgyny"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz4ndl6lajfkf9xlsh96jjglgqsy3930l83uwhahxf7wrzacnqfa2jm5wcf"
+authorization = "signam1qzsvm6y3kk2gtxtke402ss4jjmdha5d0v4wx4z8g65phxm809zmef0nxmvll2ut0ksxc8gfetlyr09sdstwlsxpf3xexcayaqgmd09sduqljv8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp0cjhxzwlxqydcxjlv9nenmkjysed6gv6wnkw2ajepqpvd4n92enseupxx4"
+authorization = "signam1q9d8myhzhf2zn2d82ts59su92w809pkuyyl33hg7xeexm268wjd465fgm7lp2w6n9s5628h6fnfg4wwr8vvalwwy8m27watfr4zcr6e7qytaq5x4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp3v6nzuy0mdllhhsyk3yz68fnvxl6akh5f4cn4w93jc7y5wuhwujqsnmwxs"
+authorization = "signam1q9fextndxezlvr89s5fvn7gw0ct9kqqjwlvygjdzfdzuundpny00qzze4sqk6qc4q68r60ra7qzev8s3ln0h8cxk3kdv78z263yxj57nqymeyu40"
+
+[validator_account.metadata]
+email = "cto@cosmowiz.com"
+description = "Reliable infrastructure for projects."
+website = "https://cosmowiz.com"
+discord_handle = "cosmowizard"
+avatar = "https://cosmowiz.com/logo.png"
+name = "cosmowiz"
+
+[validator_account.signatures]
+tpknam1qr8kjgl0p25p6ajk3h5xxpf6r5h65vfaf22se7y7d4450hzlyxy9jgp07ss = "signam1qqkencaq96fvnwsfysk7jxjd7ketrqevq6elddz8673ngdzzfg4mgpx9egslztp0aecse62nxyg3q787ejsdkeumy2la4amxpl669ys2f9q6r0"
