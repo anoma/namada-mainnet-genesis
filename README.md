@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `191`
-- Total delegations: `67`
-- Staked tokens: `3665374.203579 (~0.37%)`
+- Total delegations: `68`
+- Staked tokens: `3742774.203579 (~0.37%)`
 
 ## Validators
 
@@ -134,6 +134,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `81500.0 (0.01%)`
     - email: `team@stakeflow.io`
     - website: `https://validator.stakeflow.io`
+    - total delegations: `1`
+
+- address: `tnam1q8tzr86aw8kh2f66vukkhnghppkp0xckdy3xzrgx`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `77400.0 (0.01%)`
+    - email: `office@noders.team`
+    - website: `Unknown website`
     - total delegations: `1`
 
 - address: `tnam1q9sdarpylwxd5vv3e8u6wstrpz052jhls5g4a3wg`
@@ -881,15 +890,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `staking@gateway.fm`
     - website: `https://stakeway.com`
-    - total delegations: `0`
-
-- address: `tnam1q8tzr86aw8kh2f66vukkhnghppkp0xckdy3xzrgx`
-    - alias: `Unknown alias`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `office@noders.team`
-    - website: `Unknown website`
     - total delegations: `0`
 
 - address: `tnam1q8vzrsmuy3av4t5354u07350lsyksg6w7s60tr6f`

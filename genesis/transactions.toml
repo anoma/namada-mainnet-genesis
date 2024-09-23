@@ -5255,6 +5255,18 @@ tpknam1qq2er57v0dfd665ttchayq9r6auczhx2pv9d7a94z3rpsqy2flvpwuq7989 = "signam1qp3
 
 
 
+# adding transaction for nodersteam-bond
+
+[[bond]]
+source = "tpknam1qqsya2phyy20ylusfv2n8prfpgkl9z8snmrp8500msnd5zphg4q9jgsdxfd"
+validator = "tnam1q8tzr86aw8kh2f66vukkhnghppkp0xckdy3xzrgx"
+amount = "77400"
+
+[bond.signatures]
+tpknam1qqsya2phyy20ylusfv2n8prfpgkl9z8snmrp8500msnd5zphg4q9jgsdxfd = "signam1qp7kcvdxdrzvu4e2zhc5qgvcfxj5pc9xalzzr7jy292arlwr54msec447dx94jp6ne33uaz88cvpflhugkwgaz4z5wq9mqvwuy54xlcpnv7cv3"
+
+
+
 # adding transaction for namada-validator-validator
 
 [[established_account]]
