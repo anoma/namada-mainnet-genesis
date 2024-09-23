@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `191`
-- Total delegations: `79`
-- Staked tokens: `4012735.203579 (~0.4%)`
+- Total delegations: `81`
+- Staked tokens: `4118915.203579 (~0.41%)`
 
 ## Validators
 
@@ -135,6 +135,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `cosmos-security@p2p.org`
     - website: `https://p2p.org/`
     - total delegations: `2`
+
+- address: `tnam1q985emxj29hpz3dlye0yfe5hm66pmwqalu0y06p4`
+    - alias: `Encapsulate (fka KingSuper)`
+    - commission: `5.0%`
+    - max commission rate change: `4.0%`
+    - total voting power: `84180.0 (0.01%)`
+    - email: `security@encapsulate.xyz`
+    - website: `https://encapsulate.xyz`
+    - total delegations: `1`
 
 - address: `tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t`
     - alias: `Stakeflow`
@@ -287,6 +296,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `22300.0 (0.0%)`
     - email: `support@autostake.com`
     - website: `autostake.com`
+    - total delegations: `1`
+
+- address: `tnam1q96knx9lhndg9749waeqq974zyqxz8yv0slmy39v`
+    - alias: `⊤⊥`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `22000.0 (0.0%)`
+    - email: `unitylchaos@protonmail.com`
+    - website: `https://s9.gay`
     - total delegations: `1`
 
 - address: `tnam1qxfcew76uclxuf5a5qkhwdtt8m6enc58tsqnwupd`
@@ -721,15 +739,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://zkv.xyz/`
     - total delegations: `0`
 
-- address: `tnam1q96knx9lhndg9749waeqq974zyqxz8yv0slmy39v`
-    - alias: `⊤⊥`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `unitylchaos@protonmail.com`
-    - website: `https://s9.gay`
-    - total delegations: `0`
-
 - address: `tnam1qyplu8gruqmmvwp7x7kd92m6x4xpyce265fa05r6`
     - alias: `Grand Valley`
     - commission: `5.0%`
@@ -809,15 +818,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `hello@chainlayer.io`
     - website: `https://chainlayer.io`
-    - total delegations: `0`
-
-- address: `tnam1q985emxj29hpz3dlye0yfe5hm66pmwqalu0y06p4`
-    - alias: `Encapsulate (fka KingSuper)`
-    - commission: `5.0%`
-    - max commission rate change: `4.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `security@encapsulate.xyz`
-    - website: `https://encapsulate.xyz`
     - total delegations: `0`
 
 - address: `tnam1qys6lkycftrwxzcge00c3ezgegrqf7pdkqu83zx2`

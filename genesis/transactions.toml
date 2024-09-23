@@ -9199,6 +9199,18 @@ tpknam1qr7gtl76mdjpenct3vh8wylcqucpletqu7leqyx9flkhl00xckcm2ustv7x = "signam1qrk
 
 
 
+# adding transaction for 22a435-bond
+
+[[bond]]
+source = "tpknam1qzj92c48u4n3q9r2xy2533uztl6a2w3sz5t546h0kf4s3vyq98z8q5zu3xj"
+validator = "tnam1q96knx9lhndg9749waeqq974zyqxz8yv0slmy39v"
+amount = "22000"
+
+[bond.signatures]
+tpknam1qzj92c48u4n3q9r2xy2533uztl6a2w3sz5t546h0kf4s3vyq98z8q5zu3xj = "signam1qqua7xekftcuwvvk8yy3ymsm7ul20pf7ah6ah8z6y9xdx04z92quv59w6r9gzea7xg0yu8jgrd9xfc90ed7fhyt3jvajfvpsj6g09ggfpc5zhn"
+
+
+
 # adding transaction for igorgusarov97-bond
 
 [[bond]]
@@ -9582,6 +9594,18 @@ amount = "46566.67"
 
 [bond.signatures]
 tpknam1qrnv634m658zu75ku35nh00qwylmskuc2kl6njn3krkv7pzj4g7x6rn50c8 = "signam1qzm6py20na3geerevuvew9nfe2vfq796rptl5qxrv3f6d0ezvusmws7k8zfeac2w2kd394a9k43nmh29hpspakaklut3sefan9vxhjgf83l679"
+
+
+
+# adding transaction for encapsulate-xyz-bond
+
+[[bond]]
+source = "tpknam1qzluhwmzp9aek7hpvj8a2q8afacw4gcjs5g457cjq4l5sfuqj8dd2w26hqw"
+validator = "tnam1q985emxj29hpz3dlye0yfe5hm66pmwqalu0y06p4"
+amount = "84180"
+
+[bond.signatures]
+tpknam1qzluhwmzp9aek7hpvj8a2q8afacw4gcjs5g457cjq4l5sfuqj8dd2w26hqw = "signam1qr476vm2aku2x80jsx6vjwnm3uwfaexw5wcugvju3rlvv63y90ah3mqwsalmwu33yz3q7u52zxnvwget0mxd72l3djt5c2dp9ad30jqxdfzxja"
 
 
 
