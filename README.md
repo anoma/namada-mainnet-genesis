@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `190`
-- Total delegations: `68`
-- Staked tokens: `3742774.203579 (~0.37%)`
+- Total delegations: `70`
+- Staked tokens: `3744875.203579 (~0.37%)`
 
 ## Validators
 
@@ -496,6 +496,24 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://github.com/BrainCord`
     - total delegations: `1`
 
+- address: `tnam1qxr4zeuljyud03wje45d5xu7vass6w7hsuejen2y`
+    - alias: `Unit 410 [1]`
+    - commission: `20.0%`
+    - max commission rate change: `0.0%`
+    - total voting power: `1051.0 (0.0%)`
+    - email: `security@unit410.com`
+    - website: `https://unit410.com`
+    - total delegations: `1`
+
+- address: `tnam1qyep6245as3ar6a6ymk9tvsd6rhdnkr9rgx8mnwl`
+    - alias: `Unit 410 [2]`
+    - commission: `20.0%`
+    - max commission rate change: `0.0%`
+    - total voting power: `1050.0 (0.0%)`
+    - email: `security@unit410.com`
+    - website: `https://unit410.com`
+    - total delegations: `1`
+
 - address: `tnam1q9ys6rx7h9d20a5gq0dewx6uze6k2trxayt90zf3`
     - alias: `Unknown alias`
     - commission: `5.0%`
@@ -755,15 +773,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `loser@loserboy.xyz`
     - website: `https://loserboy.xyz`
-    - total delegations: `0`
-
-- address: `tnam1qyep6245as3ar6a6ymk9tvsd6rhdnkr9rgx8mnwl`
-    - alias: `Unit 410 [2]`
-    - commission: `20.0%`
-    - max commission rate change: `0.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `security@unit410.com`
-    - website: `https://unit410.com`
     - total delegations: `0`
 
 - address: `tnam1qx2xz8ggmzgfgkj5n33fzumq3lept6hf7yqxcrex`
@@ -1511,15 +1520,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `blockcoin1@126.com`
     - website: `https://www.equinoxdao.xyz/`
-    - total delegations: `0`
-
-- address: `tnam1qxr4zeuljyud03wje45d5xu7vass6w7hsuejen2y`
-    - alias: `Unit 410 [1]`
-    - commission: `20.0%`
-    - max commission rate change: `0.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `security@unit410.com`
-    - website: `https://unit410.com`
     - total delegations: `0`
 
 - address: `tnam1q8plan3j4na87g7s8kxu3659gra8ye30evdjrxea`
