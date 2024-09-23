@@ -12,7 +12,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total validators: `190`
+- Total validators: `191`
 - Total delegations: `70`
 - Staked tokens: `3744875.203579 (~0.37%)`
 
@@ -1403,6 +1403,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `ilfats559@gmail.com`
     - website: `Unknown website`
+    - total delegations: `0`
+
+- address: `tnam1qy7vmk5mwgwuqte5rwyr3x5mnslv3z6sgcp7xumx`
+    - alias: `Neuler`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `0 (0.0%)`
+    - email: `validator@neuler.xyz`
+    - website: `https://neuler.xyz`
     - total delegations: `0`
 
 - address: `tnam1q9862p53waknqh6vxxvz7ymwlqlrx5qqqcqxgeeg`
