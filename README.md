@@ -12,7 +12,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total validators: `191`
+- Total validators: `190`
 - Total delegations: `68`
 - Staked tokens: `3742774.203579 (~0.37%)`
 
@@ -1529,15 +1529,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `info@blockscape.network`
     - website: `blockscape.network`
-    - total delegations: `0`
-
-- address: `tnam1q9kdhreynpfg5c2wvnwvherfl3jmuz6rlq09yqcp`
-    - alias: `Node Guardians`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `ops@nodeguardians.io`
-    - website: `https://infra.nodeguardians.io/`
     - total delegations: `0`
 
 - address: `tnam1qx6k7xv66y58jw2jngtt98x0r9k3wtljxqd7qe2l`
