@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `191`
-- Total delegations: `70`
-- Staked tokens: `3744875.203579 (~0.37%)`
+- Total delegations: `73`
+- Staked tokens: `3773135.203579 (~0.38%)`
 
 ## Validators
 
@@ -233,6 +233,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `29000.0 (0.0%)`
     - email: `hello@wavefive.co`
     - website: `https://wavefive.co`
+    - total delegations: `1`
+
+- address: `tnam1qyg69x0fvth8tl8z7ylxdppq4hud7755cg0z55n3`
+    - alias: `Cryptomolot`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `24000.0 (0.0%)`
+    - email: `unlimitedmolotnorilsk@gmail.com`
+    - website: `https://cryptomolotstake.com/`
     - total delegations: `1`
 
 - address: `tnam1q8236gr76rrsluvq27j8mkma8u04hz0khszatckw`
@@ -469,6 +478,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://pragma.ooo`
     - total delegations: `1`
 
+- address: `tnam1qyxd5eh0mf49at77dursxnlsygn5se6d45tj5y47`
+    - alias: `✅ CryptoCrew`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `2260.0 (0.0%)`
+    - email: `support@ccvalidators.com`
+    - website: `https://ccvalidators.com`
+    - total delegations: `1`
+
 - address: `tnam1qx4ztg0ca0tu2aw056ksuek5y58tmg454shk6svw`
     - alias: `5ElementsNodes`
     - commission: `10.0%`
@@ -476,6 +494,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `2000.0 (0.0%)`
     - email: `security@5elementsnodes.com`
     - website: `https://www.5elementsnodes.com`
+    - total delegations: `1`
+
+- address: `tnam1qxdqsqnrf97vnyf5w2ur3fa0f3wxclxapy2lxy4s`
+    - alias: `Lapatylin`
+    - commission: `10.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `2000.0 (0.0%)`
+    - email: `alokhinoleksii92@gmail.com`
+    - website: `https://t.me/Lapatylin`
     - total delegations: `1`
 
 - address: `tnam1qxkkaflgfr6c7crvj4jwshy99zsdw346nv4ay0rn`
@@ -836,15 +863,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `it@projectblanc.ch`
     - website: `https://blanc.group/`
-    - total delegations: `0`
-
-- address: `tnam1qyxd5eh0mf49at77dursxnlsygn5se6d45tj5y47`
-    - alias: `✅ CryptoCrew`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `support@ccvalidators.com`
-    - website: `https://ccvalidators.com`
     - total delegations: `0`
 
 - address: `tnam1qyf80vw4e8aa2efuk4jsg9lpwxrntsj2dql4tssa`
@@ -1306,15 +1324,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `Unknown website`
     - total delegations: `0`
 
-- address: `tnam1qyg69x0fvth8tl8z7ylxdppq4hud7755cg0z55n3`
-    - alias: `Cryptomolot`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `unlimitedmolotnorilsk@gmail.com`
-    - website: `https://cryptomolotstake.com/`
-    - total delegations: `0`
-
 - address: `tnam1qxrm6dyrrmwz5thy565jzzuhgs4m02u9t52v9z3g`
     - alias: `nodiums`
     - commission: `5.0%`
@@ -1673,15 +1682,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `info@blackblocks.io`
     - website: `https://blackblocks.io`
-    - total delegations: `0`
-
-- address: `tnam1qxdqsqnrf97vnyf5w2ur3fa0f3wxclxapy2lxy4s`
-    - alias: `Lapatylin`
-    - commission: `10.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `alokhinoleksii92@gmail.com`
-    - website: `https://t.me/Lapatylin`
     - total delegations: `0`
 
 - address: `tnam1qyac9kyffah40tta7xvdlhet5zcc04s46gqfl2ge`

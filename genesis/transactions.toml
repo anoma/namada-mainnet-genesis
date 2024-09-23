@@ -2965,6 +2965,18 @@ name = "alexit"
 tpknam1qzsmt8lksjezlepf2zcj58uw0s8m43ur8x8j8u6fspzm73xlcysxxa56685 = "signam1qpq80mx5gl38z6s8a36kwszjkmzqv86qrhlxe8lrhu59vjurh37vdufnq2j3t06uu7tydnt022urkv3pttnqrs9uyfv0ns57y4g2xpsr8le9dx"
 
 
+# adding transaction for clemensgg-bond
+
+[[bond]]
+source = "tpknam1qqmtg2kftc7m8zmnj5y3eeu737nx4pgyvcqjzzyl6we4wjzg0ycek32a40g"
+validator = "tnam1qyxd5eh0mf49at77dursxnlsygn5se6d45tj5y47"
+amount = "2260"
+
+[bond.signatures]
+tpknam1qqmtg2kftc7m8zmnj5y3eeu737nx4pgyvcqjzzyl6we4wjzg0ycek32a40g = "signam1qrch78gf32djyg6gxf8nljqzp8tcy8jtnqzwftgetdmp7y5e8mrfr6qtw05ew3ntvcnttcplm5s3kd4lp22pq4yh9pcqmhhj5ut6cfcqspzk3n"
+
+
+
 # adding transaction for felichita-validator
 
 [[established_account]]
@@ -9103,6 +9115,18 @@ tpknam1qzvezptsfw777mww3fa5fdam4ertlygtcfl9r2xww2pkp466kfww777wx76 = "signam1qzg
 
 
 
+# adding transaction for lapatylin-bond
+
+[[bond]]
+source = "tpknam1qr7gtl76mdjpenct3vh8wylcqucpletqu7leqyx9flkhl00xckcm2ustv7x"
+validator = "tnam1qxdqsqnrf97vnyf5w2ur3fa0f3wxclxapy2lxy4s"
+amount = "2000"
+
+[bond.signatures]
+tpknam1qr7gtl76mdjpenct3vh8wylcqucpletqu7leqyx9flkhl00xckcm2ustv7x = "signam1qrkxt9rukv0qllthnjq95nwl6kuyadvspm4x7y02gea23673zx9gskx7jgak0cyp0mlmrp8glrjcver8zu2s9amzcnefcnk8x3v7l9s00j49cr"
+
+
+
 # adding transaction for igorgusarov97-bond
 
 [[bond]]
@@ -9498,6 +9522,18 @@ amount = "47726"
 
 [bond.signatures]
 tpknam1qzxu9taxnrrek3ty4mh5gl0rp9s05l5j58tn7kspj22mpp5s8nwywqgdqmv = "signam1qrcd03lsm4fsmd934av3n8ngef7f87mv0eka5xtszqh8l47j4a9fvzpphmk3wvfz064ls9eqx8clcncuzfx8dnwetyh2q9az4z0ts7cwz7pldx"
+
+
+
+# adding transaction for cryptomolot-bond
+
+[[bond]]
+source = "tpknam1qpt9ms4jhry5nsx7xal2wyvatv8tsyqts96a36ln25wdvf4evtw268pn32l"
+validator = "tnam1qyg69x0fvth8tl8z7ylxdppq4hud7755cg0z55n3"
+amount = "24000"
+
+[bond.signatures]
+tpknam1qpt9ms4jhry5nsx7xal2wyvatv8tsyqts96a36ln25wdvf4evtw268pn32l = "signam1qrz0dxkekxcgc0cgzmx43pdw067qpgy9kzd7e3tcseruy5ypkt2a0lvmeypu72p2xxk87h02sn505f2dk9t9m78uexdevp4vezjzu4sy38sg9x"
 
 
 
