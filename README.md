@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `191`
-- Total delegations: `76`
-- Staked tokens: `3891235.203579 (~0.39%)`
+- Total delegations: `79`
+- Staked tokens: `4012735.203579 (~0.4%)`
 
 ## Validators
 
@@ -145,6 +145,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://validator.stakeflow.io`
     - total delegations: `1`
 
+- address: `tnam1qy7fms2m4kpx5khvp4x7r3pr8e4xdqghpsrsd0pn`
+    - alias: `Keplr`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `80000.0 (0.01%)`
+    - email: `node-operator@chainapsis.com`
+    - website: `https://infra.keplr.app`
+    - total delegations: `1`
+
 - address: `tnam1q8tzr86aw8kh2f66vukkhnghppkp0xckdy3xzrgx`
     - alias: `Unknown alias`
     - commission: `5.0%`
@@ -233,6 +242,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `40000.0 (0.0%)`
     - email: `iam@stake-machine.com`
     - website: `https://stake-machine.com`
+    - total delegations: `1`
+
+- address: `tnam1qxp569pkgds6kzqfe9cuc65mupjwamtghc433m82`
+    - alias: `Decentrio`
+    - commission: `5.0%`
+    - max commission rate change: `10.0%`
+    - total voting power: `40000.0 (0.0%)`
+    - email: `contact@decentrio.ventures`
+    - website: `https://decentrio.ventures`
     - total delegations: `1`
 
 - address: `tnam1qy0zrla88txv244suxaruqgr9g74vr8vyufd8rp7`
@@ -539,6 +557,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1999.0 (0.0%)`
     - email: `nomad@nomadvalidator.com`
     - website: `www.nomadvalidator.com`
+    - total delegations: `1`
+
+- address: `tnam1q8ev9tdg3v9hgm3y4muy7xy7tnmd9ne8ngctj9th`
+    - alias: `Moonlet`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1500.0 (0.0%)`
+    - email: `contact@moonlet.io`
+    - website: `https://moonlet.io`
     - total delegations: `1`
 
 - address: `tnam1q8t4hkv7dqjkka7ns42rramvz0dmj98g7q7zq67m`
@@ -1117,15 +1144,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://n1stake.com`
     - total delegations: `0`
 
-- address: `tnam1qxp569pkgds6kzqfe9cuc65mupjwamtghc433m82`
-    - alias: `Decentrio`
-    - commission: `5.0%`
-    - max commission rate change: `10.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `contact@decentrio.ventures`
-    - website: `https://decentrio.ventures`
-    - total delegations: `0`
-
 - address: `tnam1q9446mq8ack40w965p7ry6p84fv3kyewxqhknhd0`
     - alias: `VirtualReality`
     - commission: `5.0%`
@@ -1367,15 +1385,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `79nicolas79@gmail.com`
     - website: `Unknown website`
-    - total delegations: `0`
-
-- address: `tnam1qy7fms2m4kpx5khvp4x7r3pr8e4xdqghpsrsd0pn`
-    - alias: `Keplr`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `node-operator@chainapsis.com`
-    - website: `https://infra.keplr.app`
     - total delegations: `0`
 
 - address: `tnam1q978af0wdx88mdhhzd0ls879jxuctsqk8u52syyp`
@@ -1709,15 +1718,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `contact@block-pro.net`
     - website: `https://block-pro.net/`
-    - total delegations: `0`
-
-- address: `tnam1q8ev9tdg3v9hgm3y4muy7xy7tnmd9ne8ngctj9th`
-    - alias: `Moonlet`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `contact@moonlet.io`
-    - website: `https://moonlet.io`
     - total delegations: `0`
 
 - address: `tnam1qyzcm6jay6u624050fucq3uhfe2r9k8e7qhn65l5`

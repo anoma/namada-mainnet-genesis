@@ -3978,6 +3978,18 @@ tpknam1qq5d39avmqtt3wek2x6red9uhvnzjgwkz5tslx4jrdcuadgackxg5g5t54s = "signam1qp8
 
 
 
+# adding transaction for lichdu29-bond
+
+[[bond]]
+source = "tpknam1qqfdpayrdcf5z77y87y90gtyhr6saq9muvfktl9ljqv73gsvxw30yysc5cy"
+validator = "tnam1qxp569pkgds6kzqfe9cuc65mupjwamtghc433m82"
+amount = "40000"
+
+[bond.signatures]
+tpknam1qqfdpayrdcf5z77y87y90gtyhr6saq9muvfktl9ljqv73gsvxw30yysc5cy = "signam1qq3aw3zdle6v3jvkwjrng8naxkq7cydwxcvcgumnhlw03ks7ud3f35x6c4l2smc3p3j7z0wfd39qc6js8wqjyxcd2dgrmm3psu8cz7cz62q0ev"
+
+
+
 # adding transaction for nmdval-bond
 
 [[bond]]
@@ -4422,6 +4434,18 @@ name = "edenblock"
 
 [validator_account.signatures]
 tpknam1qzg2wwzpxjjwzmtyuagjcrctfzfdar47t6nnkfywhpr6tvl3nx52gjxs6h8 = "signam1qz25vegsk4ujc29zf2638dcv26e3mkp9yjgsx0ly7563wxksyjs3ls76vlkv5czqfrcxdhedp4zlsvwl0d75ly2fv8upnu93ufan8nc2xup30e"
+
+
+
+# adding transaction for a-novi-bond
+
+[[bond]]
+source = "tpknam1qpzddgjw0dp8lv48lnf62jwqzglnjvujd0mtnxcecruwnzcm903v2m2ymap"
+validator = "tnam1q8ev9tdg3v9hgm3y4muy7xy7tnmd9ne8ngctj9th"
+amount = "1500"
+
+[bond.signatures]
+tpknam1qpzddgjw0dp8lv48lnf62jwqzglnjvujd0mtnxcecruwnzcm903v2m2ymap = "signam1qr8385kysh4tns422m8qyez2fdgude6yk3lk6mafgyky6ma05lang4dlrhhapvg35cp22v55khvlz82fnl9hpvxqthhs9n9ztq7zaxc8h8w62u"
 
 
 
@@ -8344,6 +8368,18 @@ email = "james@namada.bond"
 
 [validator_account.signatures]
 tpknam1qz8n9xa4gecpr85pe7uz76mtjcj48ynhjsmf2ylhu7jmlts88207cj7e2ph = "signam1qq87g52t5m5ygs3raay7x7y48h3kmd33qyzv37nf6f0hf7c09ny03mwpwl9qe4vkpvf02pr89eqv9e8q5wttjq4g7enjw9f3hl7ck3q0apqrcy"
+
+
+
+# adding transaction for daniel-ck89-bond
+
+[[bond]]
+source = "tpknam1qr0ac95ykv450w5edgpju8cngg27aaqdnld63vcq7vze5pa2xj3jzjxvvme"
+validator = "tnam1qy7fms2m4kpx5khvp4x7r3pr8e4xdqghpsrsd0pn"
+amount = "80000"
+
+[bond.signatures]
+tpknam1qr0ac95ykv450w5edgpju8cngg27aaqdnld63vcq7vze5pa2xj3jzjxvvme = "signam1qr6crn5tztqsa7etkpt9r025cxr3e8sd5vrgjzpwxcxldjgqqhyvewt8qf4jfvl233wg9dfnmwj30883rqc77pt5fq83wlmclk329mg8ctddf7"
 
 
 
