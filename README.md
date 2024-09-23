@@ -12,7 +12,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total validators: `191`
+- Total validators: `192`
 - Total delegations: `81`
 - Staked tokens: `4118915.203579 (~0.41%)`
 
@@ -791,6 +791,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `info@stakeup.tech`
     - website: `https://stakeup.tech`
+    - total delegations: `0`
+
+- address: `tnam1qyx2vmne6th0nfk9lnwdz3mpwzslsaj5xc0x8ucu`
+    - alias: `Knowable`
+    - commission: `7.000000000000001%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0 (0.0%)`
+    - email: `infra@knowable.vc`
+    - website: `https://knowable.vc`
     - total delegations: `0`
 
 - address: `tnam1q89xnpnrfsefr9ynj4v8ngdu35me8xudzgn94afm`
