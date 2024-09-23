@@ -8,10 +8,11 @@ from jinja2 import Environment, FileSystemLoader
 TOTAL_SUPPLY = 1000000000
 
 def build_graph(validators):
+    validators_with_non_zero_stake = list(filter(lambda x: x['voting_power'] > 0, validators))
     fig = go.Figure()
     fig.add_trace(go.Bar(
-        x=[validator['alias'] if validator['alias'] else validator['address'] for validator in validators[:150]],
-        y=[validator['voting_power'] for validator in validators[:150]],
+        x=[validator['alias'] if validator['alias'] else validator['address'] for validator in validators_with_non_zero_stake[:150]],
+        y=[validator['voting_power'] for validator in validators_with_non_zero_stake[:150]],
         name='validators',
         marker_color='indianred'
     ))
@@ -20,8 +21,8 @@ def build_graph(validators):
         xaxis={'categoryorder':'total descending'},
         autosize=False,
         width=1500,
-        height=500,
-        title="First 150 validators, sorted by voting power"
+        height=750,
+        title="First 150 validators, sorted by voting power, with stake > 0"
     )
     fig.update_xaxes(
         tickangle=75,
