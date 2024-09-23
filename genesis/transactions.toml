@@ -7750,6 +7750,18 @@ tpknam1qp6kzpav5f3knu650v3r0q7xu9x35v9lwtc6uvcx95nfkcvmxcfusnttfx3 = "signam1qpc
 
 
 
+# adding transaction for maragung-bond
+
+[[bond]]
+source = "tpknam1qqt0t6qsgl6t57qfc7y5fer0dz2znag3lw723uprkwaaq4jswfkt2j6e2qs"
+validator = "tnam1q9zvl5nzd2np5mdgfa2lzccaey4xln55ku3mdlws"
+amount = "3100"
+
+[bond.signatures]
+tpknam1qqt0t6qsgl6t57qfc7y5fer0dz2znag3lw723uprkwaaq4jswfkt2j6e2qs = "signam1qrl7dhkxgzdfe364kyg9p8fpvyq8757rmf30g5xe8v0yqs0rtnqwkd9frr47k970xdfmvltqrt4eeyyn04hlw7ffuwsnp72zs69htxg2dj24gx"
+
+
+
 # adding transaction for bngq323-validator
 
 [[established_account]]
@@ -7931,6 +7943,18 @@ name = "Palamar"
 
 [validator_account.signatures]
 tpknam1qzqzfjnntwkvc0evdn0uz3prcfsjdxpw8smr0sclganxnu5s6a2n65uln8q = "signam1qzl23hm0gnpp09u0u4f0wv8ft2uvzjmdjy65w303pvrdfgq3k83vjg49vt78qv8hkpaf60qrtt3q48r67nkrjnquvsxelzhcncqpjgsf0f40ke"
+
+
+
+# adding transaction for konsortech-bond
+
+[[bond]]
+source = "tpknam1qz0j5f4ej78le0yg5ypspqel7mf2q6a3w2ttd65valmk6lnhrmpvq72ljrm"
+validator = "tnam1qxqj95as4g2hmkuj7uzvklwgch6tvqh8ay84m2jc"
+amount = "10000"
+
+[bond.signatures]
+tpknam1qz0j5f4ej78le0yg5ypspqel7mf2q6a3w2ttd65valmk6lnhrmpvq72ljrm = "signam1qps39vuayx6x2jjr8mp0ff7qn3ddd3cz8qts7lmqcz0nt594l4zmk0gzsnst7sh7krr7ny9ah9auecjys64dexd92dr6fay3wwrgh2cx70z6t2"
 
 
 

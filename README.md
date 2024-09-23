@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `191`
-- Total delegations: `74`
-- Staked tokens: `3878135.203579 (~0.39%)`
+- Total delegations: `76`
+- Staked tokens: `3891235.203579 (~0.39%)`
 
 ## Validators
 
@@ -352,6 +352,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://mekonglabs.tech`
     - total delegations: `1`
 
+- address: `tnam1qxqj95as4g2hmkuj7uzvklwgch6tvqh8ay84m2jc`
+    - alias: `KonsorTech`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `10000.0 (0.0%)`
+    - email: `validator@konsortech.xyz`
+    - website: `https://konsortech.xyz`
+    - total delegations: `1`
+
 - address: `tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k`
     - alias: `Stakecito`
     - commission: `5.0%`
@@ -449,6 +458,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `3120.0 (0.0%)`
     - email: `partners@staketab.com`
     - website: `https://staketab.com/`
+    - total delegations: `1`
+
+- address: `tnam1q9zvl5nzd2np5mdgfa2lzccaey4xln55ku3mdlws`
+    - alias: `maragung`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `3100.0 (0.0%)`
+    - email: `0xmaragung@gmail.com`
+    - website: `https://maragung.com`
     - total delegations: `1`
 
 - address: `tnam1q83z54q574kvzfujk5dt9kpy42a4zpassueswgyq`
@@ -836,15 +854,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `bigpaopao@outlook.com`
     - website: `Unknown website`
-    - total delegations: `0`
-
-- address: `tnam1q9zvl5nzd2np5mdgfa2lzccaey4xln55ku3mdlws`
-    - alias: `maragung`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `0xmaragung@gmail.com`
-    - website: `https://maragung.com`
     - total delegations: `0`
 
 - address: `tnam1q8jpmstfc07lkj9tu7un9c76h69kfsfsmyqs9clv`
@@ -1376,15 +1385,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `hello@validator.company`
     - website: `https://validator.company`
-    - total delegations: `0`
-
-- address: `tnam1qxqj95as4g2hmkuj7uzvklwgch6tvqh8ay84m2jc`
-    - alias: `KonsorTech`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `validator@konsortech.xyz`
-    - website: `https://konsortech.xyz`
     - total delegations: `0`
 
 - address: `tnam1q8pueqy3yqmntt4k25ld5v0ljp87me8flg7pkvde`
