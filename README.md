@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `191`
-- Total delegations: `73`
-- Staked tokens: `3773135.203579 (~0.38%)`
+- Total delegations: `74`
+- Staked tokens: `3878135.203579 (~0.39%)`
 
 ## Validators
 
@@ -72,6 +72,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `security@nodes.guru`
     - website: `https://nodes.guru`
     - total delegations: `2`
+
+- address: `tnam1q8d8ypu5j88qqvx89grct795uap82dtlqvjqjh3h`
+    - alias: `MELLIFERA`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `105000.0 (0.01%)`
+    - email: `team@mellifera.network`
+    - website: `https://mellifera.network`
+    - total delegations: `1`
 
 - address: `tnam1qy500vdqtcumxzfhjccrhdx9j9wawhsyg536thwn`
     - alias: `anodeofzen`
@@ -1565,15 +1574,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `security@lavenderfive.com`
     - website: `https://lavenderfive.com`
-    - total delegations: `0`
-
-- address: `tnam1q8d8ypu5j88qqvx89grct795uap82dtlqvjqjh3h`
-    - alias: `MELLIFERA`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `team@mellifera.network`
-    - website: `https://mellifera.network`
     - total delegations: `0`
 
 - address: `tnam1qyqm3r6kn73ey8mmrc7w34wrkasrnd5wls9ptrwk`
