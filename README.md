@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `193`
-- Total delegations: `81`
-- Staked tokens: `4118915.203579 (~0.41%)`
+- Total delegations: `82`
+- Staked tokens: `4121315.203579 (~0.41%)`
 
 ## Validators
 
@@ -530,6 +530,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `2500.0 (0.0%)`
     - email: `validators@vitwit.com`
     - website: `https://vitwit.com`
+    - total delegations: `1`
+
+- address: `tnam1q9vrp45qtphed4q2vc382qrtf2gfykf50vssfe2h`
+    - alias: `Informal Systems`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `2400.0 (0.0%)`
+    - email: `validator@informal.systems`
+    - website: `https://informal.systems`
     - total delegations: `1`
 
 - address: `tnam1qxlahm9qqxqhyjezsxvrpkn9ajekrkg2xq5v8rz8`
@@ -1655,15 +1664,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `staking@blocknth.com`
     - website: `https://blocknth.com`
-    - total delegations: `0`
-
-- address: `tnam1q9vrp45qtphed4q2vc382qrtf2gfykf50vssfe2h`
-    - alias: `Informal Systems`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `validator@informal.systems`
-    - website: `https://informal.systems`
     - total delegations: `0`
 
 - address: `tnam1qylae4e5x3zpsfgsktywngdw943m4t07cqxdu6uy`
