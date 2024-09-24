@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq8yvecxn5y8q8g46zhruekeegnz9mpm30lp20c4aw3462sqwvv9c8w28gr"]
+
+[[validator_account]]
+address = "tnam1qyjdzk8gjfvrasuxnxhmcnl2m5uzkad4eqcuuelq"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "144.76.221.57:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzlmgwr5h9dvcxc7ykm8ysmldr9u0mv26p6x0ezc7rhu9ydnwnt7cvn72r5"
+authorization = "signam1qphxm78y8ek0s9t6c994lhed75ygs8qp3an024aqqdg8nma6gu9nm6cucxax4xymh2zgqduzsznc8qp0x4el7ewqkfvaxcy72ppz8vcdv2mcyr"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqfpjdmn784a2gk5rck6u0najlj2k8ffhf3ccsgeazkry3p7rn5hc63c5fq"
+authorization = "signam1qrusfl9au8d720e46gu92rnzgngmrjdu5msdvqudsfm7ygptqlrxp0lpqxk5t36wn8vda974vk2dhhuy397u6vr5l2tur70nvf49c3grk8ms9a"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr0dh0m67atuc6u8lkkatxgekk50padycxmazhjztmy998qy98pavh0hfx2"
+authorization = "signam1qz52wx3f0q8d6kzt5m8f44wphtk5n20k3ydwylte0y24p9e2adws7tzwkdrqmuhdh6y8nw74xq34wzs8cncn92ylh64y30hdsh5zz5gzh8kprp"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypsntngghemz0qs7d9n6xtymlhjc0pl7jm3zf6ledhtx7weyt8jatckyqtg3"
+authorization = "signam1qxrkx5e5ld4g04vg376562nmxrn4sc9udze4c9z9mhtjwfld2w6c6dl0cphhsq6y7tx34hmhc653d8lyxcgvmsgvta74ymyu8du8x6m5qqp4xate"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypwlasnc4p05we79kmr7rytwp0k4kanmqdrccuktd32mda6lh9tdyqe5ts2d"
+authorization = "signam1qx35q74rz96r7t8m6lwggeg7tl62kn2pf9d3m807g8uhf9hsnr5cz2ad7asfup8rag5w74ncjd4ta3zsk0hfsvjrt926c8h4azuzw4r7qqdu99qx"
+
+[validator_account.metadata]
+email = "namada.raft186@passinbox.com"
+discord_handle = "gnosed"
+name = "rockycrypt"
+
+[validator_account.signatures]
+tpknam1qq8yvecxn5y8q8g46zhruekeegnz9mpm30lp20c4aw3462sqwvv9c8w28gr = "signam1qpuawrfsc9tq4zav09w5upk4aaj72c099y9u68gwv2n8fy79tanaf7a5et7namdjen0fkm3ajup8q44snh2l9352zkdkj9yqcgadlmcdww7309"
