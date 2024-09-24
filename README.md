@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `193`
-- Total delegations: `82`
-- Staked tokens: `4121315.203579 (~0.41%)`
+- Total delegations: `83`
+- Staked tokens: `4134550.203579 (~0.41%)`
 
 ## Validators
 
@@ -341,6 +341,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `13337.0 (0.0%)`
     - email: `m@cryptosj.net`
     - website: `https://cryptosj.net`
+    - total delegations: `1`
+
+- address: `tnam1q82gtcy6cpf26zd0pp82ped9phwn523azvy8h3s5`
+    - alias: `cyberalex`
+    - commission: `5.0%`
+    - max commission rate change: `3.0%`
+    - total voting power: `13235.0 (0.0%)`
+    - email: `cyberalex14@gmail.com`
+    - website: `https://github.com/CyberAlex14`
     - total delegations: `1`
 
 - address: `tnam1qyx8wdefdg9sd6e22xq8ccyqg5peaersvcm20843`
@@ -1322,15 +1331,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `security@figment.io`
     - website: `https://figment.io`
-    - total delegations: `0`
-
-- address: `tnam1q82gtcy6cpf26zd0pp82ped9phwn523azvy8h3s5`
-    - alias: `cyberalex`
-    - commission: `5.0%`
-    - max commission rate change: `3.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `cyberalex14@gmail.com`
-    - website: `https://github.com/CyberAlex14`
     - total delegations: `0`
 
 - address: `tnam1q8m8m40w44z9nlstzh37wxssdqd44mq4xypv05e2`
