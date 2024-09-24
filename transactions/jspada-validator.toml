@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp2yxhd4ytukl6lhxqs0tqejt0x5vs0vdzv3rh8ueth8plq04p5uyupuxcu"]
+
+[[validator_account]]
+address = "tnam1q8vzrsmuy3av4t5354u07350lsyksg6w7s60tr6f"
+vp = "vp_user"
+commission_rate = "0"
+max_commission_rate_change = "0.02"
+net_address = "62.3.101.91:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz24qtw2653hf3628ndwmge4vecagu58vy0apdqyea23y9naw300zzjqgsw"
+authorization = "signam1qpurdtnjzceshcrpzgsk8azqf7dhkk2vn0zp6l7jzp77dmg089ver8whlwse26ytcegx86vqqd7pjx4m8xzaf9umcm7rf47tsuwc5hsqfmh9fq"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqd682za40c96n9vc4wsks0783t5a8cc5xcxfjq260mkzm5hgf7lzvnure2"
+authorization = "signam1qpyq9vwsg3hxaetnav2cf2trsc63ndkwqa6n2wyfravg6gvnwctea47g5ff53smp82dy6ctfnsxn2sdpkfzmfh54kvrlksnu747a8ygq4sr3dg"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpt0wxen9j8vr9c8tphrndl7n826z273y8l5swge7rg343qlpmp5sr7dgt0"
+authorization = "signam1qq5fdautluxva7wgwttdegrf4txw9nymnfx2ag3y0tqajdn3mulv8rfnqvakljk42fjlkk48suf54lw5tw2tkwad94z36scvm9hhuuq0f8nru7"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypmtun32swnrtfft6xgtkcwcg0d78p9vc2dj3mppgw7x5dg8l8fsecq3p29l"
+authorization = "signam1qy5q3x587w0det96eps404fsy450gj2rtlxakl08ejv28yyd79ukvejnfm2a3hxhk37383ayjeyyfz8m7gy2t0w8xnhdvmcgzp4csrnmqygqrrrj"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp0rs34xny5vrp8j45yf0zrmg59a44utthd8tawg437zjge6rjjcsqz54n4t"
+authorization = "signam1q8e40ntdnm9juk5rl9atpxy40k79z69pwf9v482lj8ys2hewgjxdzd9v05862m5hgxk49p9p83jdpampv00mlmkgp5ca0g7cyv2j0a7uqqshxxca"
+
+[validator_account.metadata]
+email = "joseph@redtrie.com"
+discord_handle = "jspadave"
+name = "redtrie"
+
+[validator_account.signatures]
+tpknam1qp2yxhd4ytukl6lhxqs0tqejt0x5vs0vdzv3rh8ueth8plq04p5uyupuxcu = "signam1qp7sqtwptj99vwymhvag93lmmsksj24vewxztztlrgzamwfftf5wj773ufmp9e32834ju735s2ft8ltlmcj964fltmrl5uv9fpdnygsquempj3"

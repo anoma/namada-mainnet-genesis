@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq8lq7dvghjuvkunmn2fc3wgv94aezskgt85sxx7el5j5yxptdmz6rd0upm"]
+
+[[validator_account]]
+address = "tnam1q9mnn2qkg3fzuw8hzwgnuxa42rvdjhkn5s065aa3"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp5evzfv8q855e89eu0v223xn85djvjur24jmaw40wn4pynv2rs6kqew5zj"
+authorization = "signam1qrh3pksc5htvx42t6duc4n9agdedj8nwmkcmmhxycrcfgrxuqwrfxntrvlcxm8x4ck4pc7h6vk28j6qfxv5ut2kns4ctcd4t0jnk2ag9ucae7m"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr2ft6nahdsa5fhdtmhh5kemfls3y4gczqzptu2ekgms0jr7cnn5vlsvdhk"
+authorization = "signam1qrmm827ccsyka5ke56quq0xajlmkplyfwcqxpy5syfn8xm92wzfalenk5zuzmre5eht6dqzzffpkd4wdacxe9k6w56t52rjdy9f3rygf8m0sr3"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzl5pa3nskpd82klychnf9f9h8tkfgaw3uklc76tc50asm0ppax450hx2ma"
+authorization = "signam1qzstsux6mnrjj4yqasp59l9flpvvhfsvawpp8jjwak73fp2m0hs2d6uy9kv5vfu2ktlf6gcca3fxzzw5cuap2fumvf2f4nzd8vphrvq2xvyhsm"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp60evxnyeynzcltm8c26rhqygjzd309ew72r7ynrw3hy4wqmj3epg5e2r0r"
+authorization = "signam1q8fc6r480kgjnmj9lujc447vcm9guk5fj2p26al6r4ytl5p6pjlv735xnxxmwyur2w7p8pxwpypkya8p5jzp5e0wntjglvx9gcu85yf5qqplsygn"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypq5t3e8pr2m47jjj7xeqasxckjpg5zgezjm0hf7tawl4lwp57nc5g28d4pg"
+authorization = "signam1qxj36nd2avst0xtrd7d9tcs82r0zexywdfns29a22uv6dlrnwnsyucpr4qjvwjrs3kkgt865sjgjpe7hrja48q0gc3l7j48y6xngkqy5qqhrvwad"
+
+[validator_account.metadata]
+email = "iam@stake-machine.com"
+description = "We help run blockchain networks."
+website = "https://stake-machine.com"
+discord_handle = "stakemachine"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/45d300b17af25aae3eb661c085a34405_360_360.jpg"
+name = "stake-machine"
+
+[validator_account.signatures]
+tpknam1qq8lq7dvghjuvkunmn2fc3wgv94aezskgt85sxx7el5j5yxptdmz6rd0upm = "signam1qz6fe46ae7x96e8s7url9khd7r05gs2q595jca54lly4crv0tmx47drl542fe99uy222ghkpa8s9d426xyph6lngftthhm579dq80tsz44twxk"

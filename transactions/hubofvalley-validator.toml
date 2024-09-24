@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzaqvxm6g4h7z34pgdqyzh3y4xevx072ednsfcujfza02knwrfkwqrgywah"]
+
+[[validator_account]]
+address = "tnam1qyplu8gruqmmvwp7x7kd92m6x4xpyce265fa05r6"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "146.59.118.198:46656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz0mntyerljskahmre8lahxy0e4lz06clmvmqpu5qr20qs7azmfqwk42ut5"
+authorization = "signam1qqste9g0pm2lmq2xggqsmqrrd7lvs9nflz905cfr0scapq58qqwxng4c5jcc98z9fjlxu6gqx398hqrm3j75ra5xajqnrja0phmj75sqws30k6"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq0cxa0yq5nvqqza80f2rzqjclh35ahc5a4w6r84k0ggl9xx6jd9zhly20v"
+authorization = "signam1qzazzznz90hqeljv3xv50gdq8t85lndgdenmcqdf4c8xu4yeytsarwnm5242l3kjl0mesxeassper0pa9n86vh4fv7w83kp3fq25z2qr8hkuvd"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzl5hgvhku8amen50nf0586fvsf6g4jqhknwurz0h0gmq7rqr34e5lgr3kx"
+authorization = "signam1qqtzvxv4jvtfyudzn5g6n8w006lyccdm0zmseujvepax2vdrtlksu4gsjrtm8zgx4t8v0jwdttsxuj9k92zqfkrfhlvjvjcnrmrugfq8hngrs3"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypnpkc304dvlw96l24h87ffpmveq3mh3xw9vvpm5xekldqz2z4z48sjcfaaz"
+authorization = "signam1q8t6rxsv6z2wlqljdkpcphl95spwp6r9vfwslu84u8d44jddnwgkcw28r325shnpfth7rcw06xxylvrnnxswudpye7ra79xdqv68xh2dqqm4wtu8"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypc5leqwnu4xd2fnmur2k0g248ajhjj4q96wpwq6f73tqauv5234cgq8dvyh"
+authorization = "signam1qy3ns35dwlfpddfsfj8dx34jsxe8w3ke2ldsyqreka06nnketxy6c05m5meuup2cp5cksxhzvssu8cdd8cvktrr4aszxc2x9phnzvpwqqy9jsman"
+
+[validator_account.metadata]
+email = "cobajohnson90@gmail.com"
+description = "Fervent Proof of Stake Validator delving deep into the intricate web of decentralized networks. Let's build Namada together"
+website = "https://github.com/hubofvalley"
+discord_handle = "baconvalley"
+avatar = "https://ibb.co.com/5j9rFwK"
+name = "Grand Valley"
+
+[validator_account.signatures]
+tpknam1qzaqvxm6g4h7z34pgdqyzh3y4xevx072ednsfcujfza02knwrfkwqrgywah = "signam1qqpu97w6t48z0cafeuc0v62c80hjdleetftpur7aakqcs9ud3lledn3k8hqvqgwcdswvmx0e5g208p9fvakyan8wxsn8cts2nqa3wksd0qhl0c"
