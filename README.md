@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `195`
-- Total delegations: `88`
-- Staked tokens: `4189368.203579 (~0.42%)`
+- Total delegations: `89`
+- Staked tokens: `4190368.203579 (~0.42%)`
 
 ## Validators
 
@@ -685,6 +685,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://node.sipalingtestnet.com/`
     - total delegations: `1`
 
+- address: `tnam1qyplu8gruqmmvwp7x7kd92m6x4xpyce265fa05r6`
+    - alias: `Grand Valley`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `1000.0 (0.0%)`
+    - email: `cobajohnson90@gmail.com`
+    - website: `https://github.com/hubofvalley`
+    - total delegations: `1`
+
 - address: `tnam1q8qr408fvssqpqaht2qspryq2yfu7lds0urktcam`
     - alias: `Simply Staking`
     - commission: `5.0%`
@@ -809,15 +818,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `support@stakely.io`
     - website: `https://stakely.io`
-    - total delegations: `0`
-
-- address: `tnam1qyplu8gruqmmvwp7x7kd92m6x4xpyce265fa05r6`
-    - alias: `Grand Valley`
-    - commission: `5.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `cobajohnson90@gmail.com`
-    - website: `https://github.com/hubofvalley`
     - total delegations: `0`
 
 - address: `tnam1qy9htx7f43s3g4220ljzmua65vp5sw9ah5vm6xdu`
