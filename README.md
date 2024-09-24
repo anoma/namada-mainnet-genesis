@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `195`
-- Total delegations: `87`
-- Staked tokens: `4186368.203579 (~0.42%)`
+- Total delegations: `88`
+- Staked tokens: `4189368.203579 (~0.42%)`
 
 ## Validators
 
@@ -539,6 +539,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `3000.0 (0.0%)`
     - email: `contact@synergynodes.com`
     - website: `https://www.synergynodes.com`
+    - total delegations: `1`
+
+- address: `tnam1qxgukz303wrw5xkcfy3agpc4lh2s7e7l0ucu6n0w`
+    - alias: `OnThePluto`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `3000.0 (0.0%)`
+    - email: `rossoman2k@gmail.com`
+    - website: `https://onthepluto.com`
     - total delegations: `1`
 
 - address: `tnam1qxtfny8cngyyf0ms2fl6rcu65lt0da0ns5a3gxrq`
@@ -1511,15 +1520,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `tarabukinivan@gmail.com`
     - website: `https://tarabukinivan.github.io/personal/`
-    - total delegations: `0`
-
-- address: `tnam1qxgukz303wrw5xkcfy3agpc4lh2s7e7l0ucu6n0w`
-    - alias: `OnThePluto`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `rossoman2k@gmail.com`
-    - website: `https://onthepluto.com`
     - total delegations: `0`
 
 - address: `tnam1q8wsrzk5ntfpw07fzx2uxuhkkrz95f0uuyp2qppr`
