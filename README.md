@@ -12,7 +12,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total validators: `194`
+- Total validators: `195`
 - Total delegations: `87`
 - Staked tokens: `4186368.203579 (~0.42%)`
 
@@ -1529,6 +1529,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `validator@genznodes.dev`
     - website: `https://genznodes.dev/`
+    - total delegations: `0`
+
+- address: `tnam1q8f8uln5yv9zx7sgyaakc3fzldm42kjg9y7tpej2`
+    - alias: `Finoa Consensus Services`
+    - commission: `10.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0 (0.0%)`
+    - email: `operations@consensus.finoa.io`
+    - website: `https://www.finoa.io/staking-delegation`
     - total delegations: `0`
 
 - address: `tnam1qyx57588ejm4ltfldr4kvftmcr8plkx7eykxkmsj`
