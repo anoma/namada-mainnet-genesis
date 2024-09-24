@@ -12,7 +12,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total validators: `192`
+- Total validators: `193`
 - Total delegations: `81`
 - Staked tokens: `4118915.203579 (~0.41%)`
 
@@ -737,6 +737,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `hello@zkvalidator.com`
     - website: `https://zkv.xyz/`
+    - total delegations: `0`
+
+- address: `tnam1q80ajrpqzv0vz9sl5ye22rprjt3k3q0cqy4lwywe`
+    - alias: `Stakely.io`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0 (0.0%)`
+    - email: `support@stakely.io`
+    - website: `https://stakely.io`
     - total delegations: `0`
 
 - address: `tnam1qyplu8gruqmmvwp7x7kd92m6x4xpyce265fa05r6`
