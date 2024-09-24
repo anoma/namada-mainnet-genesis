@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `194`
-- Total delegations: `85`
-- Staked tokens: `4183950.203579 (~0.42%)`
+- Total delegations: `87`
+- Staked tokens: `4186368.203579 (~0.42%)`
 
 ## Validators
 
@@ -613,6 +613,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://moonlet.io`
     - total delegations: `1`
 
+- address: `tnam1q8pdrz6p2h8z9m9x9drf3d4r5sqkhw6epv2shrjy`
+    - alias: `Noderunners`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1418.0 (0.0%)`
+    - email: `info@noderunners.biz`
+    - website: `http://noderunners.biz`
+    - total delegations: `1`
+
 - address: `tnam1q8t4hkv7dqjkka7ns42rramvz0dmj98g7q7zq67m`
     - alias: `owl-validator`
     - commission: `5.0%`
@@ -665,6 +674,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1000.0 (0.0%)`
     - email: `sptnode@gmail.com`
     - website: `https://node.sipalingtestnet.com/`
+    - total delegations: `1`
+
+- address: `tnam1q8qr408fvssqpqaht2qspryq2yfu7lds0urktcam`
+    - alias: `Simply Staking`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1000.0 (0.0%)`
+    - email: `staking@simplystaking.com`
+    - website: `https://simplystaking.com`
     - total delegations: `1`
 
 - address: `tnam1qy7u3y3sqltmd68a43lsr0khu8c9y8uyyuzy7sck`
@@ -809,15 +827,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `info@mhventures.io`
     - website: `https://mhventures.io`
-    - total delegations: `0`
-
-- address: `tnam1q8qr408fvssqpqaht2qspryq2yfu7lds0urktcam`
-    - alias: `Simply Staking`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `staking@simplystaking.com`
-    - website: `https://simplystaking.com`
     - total delegations: `0`
 
 - address: `tnam1q9gvv99t25xam0tq0vg4x77a64tztm320gclvafy`
@@ -1637,15 +1646,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `info@validatrium.com`
     - website: `https://validatrium.com`
-    - total delegations: `0`
-
-- address: `tnam1q8pdrz6p2h8z9m9x9drf3d4r5sqkhw6epv2shrjy`
-    - alias: `Noderunners`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `info@noderunners.biz`
-    - website: `http://noderunners.biz`
     - total delegations: `0`
 
 - address: `tnam1q8sjkutd5kqwcc555wr77p9fjn66nuuqfuzzc3yc`
