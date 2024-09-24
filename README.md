@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `193`
-- Total delegations: `83`
-- Staked tokens: `4134550.203579 (~0.41%)`
+- Total delegations: `84`
+- Staked tokens: `4182850.203579 (~0.42%)`
 
 ## Validators
 
@@ -197,6 +197,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `50000.0 (0.01%)`
     - email: `hi@originstake.com`
     - website: `https://originstake.com`
+    - total delegations: `1`
+
+- address: `tnam1qy24smlm8tdg8vawx8xh30fxa8kcwnudkvufz9zn`
+    - alias: `888Tnso`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `48300.0 (0.0%)`
+    - email: `89686697888@mail.ru`
+    - website: `https://namadascan.io`
     - total delegations: `1`
 
 - address: `tnam1qxzwta6uhcsv40a8l4g5t07q0ey50c9dlyt3s272`
@@ -1484,15 +1493,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `tarabukinivan@gmail.com`
     - website: `https://tarabukinivan.github.io/personal/`
-    - total delegations: `0`
-
-- address: `tnam1qy24smlm8tdg8vawx8xh30fxa8kcwnudkvufz9zn`
-    - alias: `888Tnso`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `89686697888@mail.ru`
-    - website: `https://namadascan.io`
     - total delegations: `0`
 
 - address: `tnam1qxgukz303wrw5xkcfy3agpc4lh2s7e7l0ucu6n0w`
