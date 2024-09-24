@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrnv634m658zu75ku35nh00qwylmskuc2kl6njn3krkv7pzj4g7x6rn50c8"]
+
+[[validator_account]]
+address = "tnam1qxuv9e6rx0stfz7e842q4uwmpcexh50765qqw9ns"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "0.0.0.0:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrfmqlqgqgg5h74qngwu5tz26ng55j35sjwknp80qqv55z5g5z2nz9quqh0"
+authorization = "signam1qqktn2ma9q3p4r5hxrf7k75agesjecpp6yqm43xgz227esved9rcpyuqc49qzngwpd6xv7khxsg8yr6d7526ds60rpxcxngs3mv0j9sdfdu45g"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpvstkylx6a0lk4sl2qg6pk9dlkrne83stq608su7yqr6k26pjesk5f27pn"
+authorization = "signam1qrukavqwwnqwyveav9k0faedejesksl0uzjjjd4xe5q49r85zlgks3mytnm9e6rev3re7deae2vdlk8aewu9j6dx7gzugg7pep67p4gvdr5yal"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp03kgy8zjkyn5dw57jcyqe898v8azxge52scqewa5yvx3whdt0vyn9e8vz"
+authorization = "signam1qrfgjynzm608ksyzjam7wj9vgdalpm75nmwatnm0zm99qsl4r4mnatpf6cqdp2xy3ztee2m962uea7dc3v7lnqg9q3xr39gqdessqes854lte2"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypzysz5qlgr94k8d48hgafcg66lfz5h5mf37pxec8kkr0rxsfadl7sssznt2"
+authorization = "signam1q90reepff2tyqkv70qua004hzfq9navcrtna5tzkxjlpzj2j7g7x57t9ldjel28lp2evvgnkpsxndnux9w7hfq977cherr0rmq6xv50sqyem5ukf"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypx53xzckmeaccdag0egkhyaq9582an4t2gsetyg2d9jdeggkts20q3xe7t8"
+authorization = "signam1q8t4vvl8whzy3cht8mj59ayqfxscqwy55j84xcqz32gn0yjqzkr6c3583xlu55rym0yk8gkvzzrhjjw9yqwx0yqnp67h4zrfwqvmrgajqqe3f8u2"
+
+[validator_account.metadata]
+email = "contact@kjnodes.com"
+description = "Trusted Proof of Stake validator across Cosmos universe. Active ecosystem contributor, IBC relayer and chain service provider since 2021. We deliver top-notch secure and reliable infrastructure for Cosmos projects. 24/7 monitoring with no slashing history in our track record."
+website = "https://services.kjnodes.com/mainnet/namada"
+discord_handle = "kjnodes"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/d6f1e63ac25d855dad5d1d5915988205_360_360.jpg"
+name = "kjnodes.com 🦄"
+
+[validator_account.signatures]
+tpknam1qrnv634m658zu75ku35nh00qwylmskuc2kl6njn3krkv7pzj4g7x6rn50c8 = "signam1qr45dne62g2zm7zuk3pu0uclm3gxv6033gqzeqrxn4hmqccy6tvgz6n43q9s6f5qmvg3q7nsy56t78ksd2eyunj0ryrtu8kevkupdwcykk3vpk"
