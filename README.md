@@ -12,7 +12,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total validators: `193`
+- Total validators: `194`
 - Total delegations: `84`
 - Staked tokens: `4182850.203579 (~0.42%)`
 
@@ -1196,6 +1196,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `viachaslau85@gmail.com`
     - website: `https://github.com/Viachaslau85/Portfolio`
+    - total delegations: `0`
+
+- address: `tnam1qygxf2a3hr9r9vjehp3p3fe6c23hwyvvpucepht6`
+    - alias: `famnode`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0 (0.0%)`
+    - email: `dityaeth@gmail.com`
+    - website: `www.famnode.my.id`
     - total delegations: `0`
 
 - address: `tnam1q90qxzx3ufd5mlqx7fnppjykf8ywz7fjvc3qudc2`
