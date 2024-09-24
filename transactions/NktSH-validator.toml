@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzr8qtf7kqpuf3d2fqqjeknwl7pwpnt58maeay25z9yxvfre7yprg57x00v"]
+
+[[validator_account]]
+address = "tnam1q87f9g34lagl5e6y482fwtad7870rk4vzsqaq7mf"
+vp = "vp_user"
+commission_rate = "0"
+max_commission_rate_change = "0.05"
+net_address = "146.59.54.35:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq3f0tatd4098xhl78ncg5zlhtjucjyeewjs7x3p3emkuul9gvk6gd2lyqx"
+authorization = "signam1qq20vx23jaqznhavmrf3pjc0wv2mlmj63k3570jx0zpd23xzje7gjvkk3jcstvuyldth5k82d96vesp44m0k4vtr60j0f26cuvzxz3cdj80lfe"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp2gp09nj5wlxrk70r9yhm99dd3dtq8cepxpvtjhkuw2qfrgh2c6znqqegv"
+authorization = "signam1qpnnwee39yk4dvcdn6djqa86wfwlspsph7yslsvtpjsja0mq0zly7khy8hpulcj5ztj6uhzq58qnwaa875lcyzj5l68m205wk5v3vng9vqjlzr"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzqydc9xp9wsqskvaz6euwpaj3zglxy2wwv6en69ksw99ltrjwfmzl2pvw2"
+authorization = "signam1qq20kzpdy0rlxudt0arngq7ly7y463uzjs0wrcd2vpc4y38lxz29q2pqwge7cwsse8twesvzsq9c8tle8kyr7v0j3gcl2yezqwaju0q99vz490"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp2yjmgmhppjy3arywywrg9476zw6u7gcaqucgs2s9u54sf5m32sys5agpvm"
+authorization = "signam1q9dw0l4qx4yasqe4qgrmtjaezd4q35t0z5dlaer2gcvr2j09kesw704mxm59q2ncrmz867awlq9qtxglrv6shajjj7n5vx5t34rycc9nqyylpp2r"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyphv5eutq4yk5t6czusmlj4mmy4f7wp4jj9k2q4wz4k4qa5ncg369gqv7a8c"
+authorization = "signam1qycemj2njsyuzf9hldwzv6yvheg3u4ky7dzyjclq6vuc5qgs43qluxzj4w22zlt857z9jk9dfhsqdp7m37f0gqm05pwrn86d68y96gmyqywr9lnh"
+
+[validator_account.metadata]
+email = "info@l0vd.com"
+description = "Professional validator, staking and infrastructure provider. More than 50 networks contributed. With L0ve."
+website = "https://l0vd.com"
+discord_handle = "jango_l0vd"
+avatar = "https://raw.githubusercontent.com/L0vd/image-content/main/L0vd_logo.png"
+name = "L0vd"
+
+[validator_account.signatures]
+tpknam1qzr8qtf7kqpuf3d2fqqjeknwl7pwpnt58maeay25z9yxvfre7yprg57x00v = "signam1qzpv4erwvkkvkxkehxqww368yhyts0wxsvj9kcs5nm6lpsd4vaj2hhal5zpt7kljsjvjzt7dxzqq5pmwyl0jy3lsuftj4eqdr3fkw4gpuw7mtc"
