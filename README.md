@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `194`
-- Total delegations: `84`
-- Staked tokens: `4182850.203579 (~0.42%)`
+- Total delegations: `85`
+- Staked tokens: `4183950.203579 (~0.42%)`
 
 ## Validators
 
@@ -622,6 +622,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://github.com/BrainCord`
     - total delegations: `1`
 
+- address: `tnam1q8a4rqcrpuw5fxygf468xc24pvptt683rgut9q6r`
+    - alias: `hedonismteam`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1100.0 (0.0%)`
+    - email: `mkhananov@gmail.com`
+    - website: `https://hedonismteam.com/`
+    - total delegations: `1`
+
 - address: `tnam1qxr4zeuljyud03wje45d5xu7vass6w7hsuejen2y`
     - alias: `Unit 410 [1]`
     - commission: `20.0%`
@@ -1160,15 +1169,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `security@chorus.one`
     - website: `https://chorus.one`
-    - total delegations: `0`
-
-- address: `tnam1q8a4rqcrpuw5fxygf468xc24pvptt683rgut9q6r`
-    - alias: `hedonismteam`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `mkhananov@gmail.com`
-    - website: `https://hedonismteam.com/`
     - total delegations: `0`
 
 - address: `tnam1q9nnw09fl7a3f2nzmu6dtqea9txthjevnvruc38g`
