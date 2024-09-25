@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `195`
-- Total delegations: `103`
-- Staked tokens: `7582306.203579 (~0.76%)`
+- Total delegations: `104`
+- Staked tokens: `7742306.203579 (~0.77%)`
 
 ## Validators
 
@@ -152,6 +152,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `200000.0 (0.02%)`
     - email: `devops@luganodes.com`
     - website: `https://www.luganodes.com/`
+    - total delegations: `1`
+
+- address: `tnam1q8qt5qy99fvuhltq3pg20k223crauw6phulv0kfj`
+    - alias: `EmberStake`
+    - commission: `5.0%`
+    - max commission rate change: `3.0%`
+    - total voting power: `160000.0 (0.02%)`
+    - email: `contact@emberstake.xyz`
+    - website: `https://emberstake.xyz`
     - total delegations: `1`
 
 - address: `tnam1q8dtazgc7y9xx00lq4d2pnacvtz29p5mvcxwat74`
@@ -1565,15 +1574,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `node@stamper.network`
     - website: `https://www.cosmostation.io`
-    - total delegations: `0`
-
-- address: `tnam1q8qt5qy99fvuhltq3pg20k223crauw6phulv0kfj`
-    - alias: `EmberStake`
-    - commission: `5.0%`
-    - max commission rate change: `3.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `contact@emberstake.xyz`
-    - website: `https://emberstake.xyz`
     - total delegations: `0`
 
 - address: `tnam1q8munsehazrlgm65g7dpu0c2qfnxxg93tu0c6nm6`
