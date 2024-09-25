@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `195`
-- Total delegations: `100`
-- Staked tokens: `7531201.203579 (~0.75%)`
+- Total delegations: `101`
+- Staked tokens: `7532201.203579 (~0.75%)`
 
 ## Validators
 
@@ -811,6 +811,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://github.com/JuliaMoon1`
     - total delegations: `1`
 
+- address: `tnam1qygxf2a3hr9r9vjehp3p3fe6c23hwyvvpucepht6`
+    - alias: `famnode`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1000.0 (0.0%)`
+    - email: `dityaeth@gmail.com`
+    - website: `www.famnode.my.id`
+    - total delegations: `1`
+
 - address: `tnam1q9vdxnkrqwnw5vrgfypqz6ndejp6sy2sfgc9pk5d`
     - alias: `Nodeify`
     - commission: `5.0%`
@@ -1223,15 +1232,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `viachaslau85@gmail.com`
     - website: `https://github.com/Viachaslau85/Portfolio`
-    - total delegations: `0`
-
-- address: `tnam1qygxf2a3hr9r9vjehp3p3fe6c23hwyvvpucepht6`
-    - alias: `famnode`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `dityaeth@gmail.com`
-    - website: `www.famnode.my.id`
     - total delegations: `0`
 
 - address: `tnam1q90qxzx3ufd5mlqx7fnppjykf8ywz7fjvc3qudc2`
