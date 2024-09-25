@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `195`
-- Total delegations: `101`
-- Staked tokens: `7532201.203579 (~0.75%)`
+- Total delegations: `102`
+- Staked tokens: `7582201.203579 (~0.76%)`
 
 ## Validators
 
@@ -278,6 +278,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `54900.0 (0.01%)`
     - email: `namada@stakin.com`
     - website: `https://stakin.com`
+    - total delegations: `1`
+
+- address: `tnam1qygycq5aejv4aypdppldrar2jnplmyt8ussdvjyr`
+    - alias: `LiveRaveN`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `50000.0 (0.01%)`
+    - email: `liver23@protonmail.com`
+    - website: `https://services.liveraven.net`
     - total delegations: `1`
 
 - address: `tnam1q8hck7594xqw9dz35m8wwtgtvdxf4xn0mg908r8x`
@@ -1331,15 +1340,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `alezz@protonmail.com`
     - website: `nodesnavigator.xyz`
-    - total delegations: `0`
-
-- address: `tnam1qygycq5aejv4aypdppldrar2jnplmyt8ussdvjyr`
-    - alias: `LiveRaveN`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `liver23@protonmail.com`
-    - website: `https://services.liveraven.net`
     - total delegations: `0`
 
 - address: `tnam1q88jgxj5qhmcwxgn9frngrd30207awvdjgkwn674`
