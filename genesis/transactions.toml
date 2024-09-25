@@ -1105,6 +1105,18 @@ tpknam1qqq7nhkx4e4dlmux30hcrra4mvn3s9xl323ajr5zucgudxawa5zsc7wm7gs = "signam1qzu
 
 
 
+# adding transaction for rzackr2-bond
+
+[[bond]]
+source = "tpknam1qqk5n4t4pzz3cm23mdhkqw0jy6adp6aktkuh4xp24jshxlul6ls7jeppa2k"
+validator = "tnam1q8pdrz6p2h8z9m9x9drf3d4r5sqkhw6epv2shrjy"
+amount = "105"
+
+[bond.signatures]
+tpknam1qqk5n4t4pzz3cm23mdhkqw0jy6adp6aktkuh4xp24jshxlul6ls7jeppa2k = "signam1qpzm8cudshlkzx862ss0emc6runnns3qqckhckcqlpgj45lwa5wahgk7sf9vajqf4759g33w207kcw66mp0guzqeljm7wfh6pveaa8cwp6m8eq"
+
+
+
 # adding transaction for lorenzomh-validator
 
 [[established_account]]
@@ -5334,6 +5346,26 @@ name = "crazydimka"
 
 [validator_account.signatures]
 tpknam1qzk6u8wh6qhqc7j9etxdlz9wqczyh2vsm44hgs6dphed3vp0uk2tvl8lcm5 = "signam1qzet5s52rmkrk47gg4zmrfmdhacv3j3440tnqcxr7zwld3a64h4mmzcpg3u3f90hsxlmzzvz5nqdjg974lzrhpl5asx8tr86kqs93ssgldn7nk"
+
+
+
+# adding transaction for mcdaan-bond
+
+[[bond]]
+source = "tpknam1qpkmgyxdvegtzutehyrwl8gnglpa3z9nvveqre8y2arsqp0vhacck08ymyl"
+validator = "tnam1q8sjkutd5kqwcc555wr77p9fjn66nuuqfuzzc3yc"
+amount = "3024624"
+
+[bond.signatures]
+tpknam1qpkmgyxdvegtzutehyrwl8gnglpa3z9nvveqre8y2arsqp0vhacck08ymyl = "signam1qphlq27jyqg6v075mvz3ama4qahmnslzcnu4xgs3tnq53085psq3kmvzukxkt759vsdw6dzeysvwt26s8cepsdk6ww5ph8f783x067czmkgw9g"
+
+[[bond]]
+source = "tpknam1qpkmgyxdvegtzutehyrwl8gnglpa3z9nvveqre8y2arsqp0vhacck08ymyl"
+validator = "tnam1q8xasrt0q8qrkqj5s9r9xw3ee0gx5mqwyukhe699"
+amount = "400000"
+
+[bond.signatures]
+tpknam1qpkmgyxdvegtzutehyrwl8gnglpa3z9nvveqre8y2arsqp0vhacck08ymyl = "signam1qplazyy06n3la92uc48usgpccc9lqwnpe4xtwahnr4newz7susl30lqlu6xa5n5g48arjdvpcfun0f4r8fjufjtpja4xv7mg47zhzwgqqck4h7"
 
 
 

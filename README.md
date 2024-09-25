@@ -13,11 +13,20 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `195`
-- Total delegations: `105`
-- Staked tokens: `8442306.203579 (~0.84%)`
+- Total delegations: `108`
+- Staked tokens: `11867035.203579 (~1.19%)`
 
 ## Validators
 
+
+- address: `tnam1q8sjkutd5kqwcc555wr77p9fjn66nuuqfuzzc3yc`
+    - alias: `Mandragora`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `3024624.0 (0.3%)`
+    - email: `support@mandragora.io`
+    - website: `Unknown website`
+    - total delegations: `1`
 
 - address: `tnam1qyx2vmne6th0nfk9lnwdz3mpwzslsaj5xc0x8ucu`
     - alias: `Knowable`
@@ -54,6 +63,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `winlin@kelepool.com`
     - website: `https://www.kelepool.com`
     - total delegations: `1`
+
+- address: `tnam1q8xasrt0q8qrkqj5s9r9xw3ee0gx5mqwyukhe699`
+    - alias: `Cosmic Validator`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `500000.0 (0.05%)`
+    - email: `info@cosmicvalidator.com`
+    - website: `https://www.cosmicvalidator.com`
+    - total delegations: `2`
 
 - address: `tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p`
     - alias: `Kintsugi Nodes`
@@ -206,15 +224,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `100000.0 (0.01%)`
     - email: `truongquoctuan61@gmail.com`
     - website: `Unknown website`
-    - total delegations: `1`
-
-- address: `tnam1q8xasrt0q8qrkqj5s9r9xw3ee0gx5mqwyukhe699`
-    - alias: `Cosmic Validator`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `100000.0 (0.01%)`
-    - email: `info@cosmicvalidator.com`
-    - website: `https://www.cosmicvalidator.com`
     - total delegations: `1`
 
 - address: `tnam1qx64zytr93rjj23ztf32y2rnrxwlm9j6svyznxez`
@@ -725,10 +734,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Noderunners`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `1523.0 (0.0%)`
+    - total voting power: `1628.0 (0.0%)`
     - email: `info@noderunners.biz`
     - website: `http://noderunners.biz`
-    - total delegations: `2`
+    - total delegations: `3`
 
 - address: `tnam1q8ev9tdg3v9hgm3y4muy7xy7tnmd9ne8ngctj9th`
     - alias: `Moonlet`
@@ -1655,15 +1664,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `info@validatrium.com`
     - website: `https://validatrium.com`
-    - total delegations: `0`
-
-- address: `tnam1q8sjkutd5kqwcc555wr77p9fjn66nuuqfuzzc3yc`
-    - alias: `Mandragora`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `support@mandragora.io`
-    - website: `Unknown website`
     - total delegations: `0`
 
 - address: `tnam1q9d42duqyl2flcvcg42urx4d7hsjd6dnxs8z00ve`
