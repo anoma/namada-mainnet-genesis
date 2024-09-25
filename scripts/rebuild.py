@@ -5,20 +5,24 @@ import os
 import plotly.graph_objects as go
 from jinja2 import Environment, FileSystemLoader
 
+TOTAL_SUPPLY = 1000000000
+
 def build_graph(validators):
+    validators_with_non_zero_stake = list(filter(lambda x: x['voting_power'] > 0, validators))
     fig = go.Figure()
     fig.add_trace(go.Bar(
-        x=[validator['alias'] if validator['alias'] else validator['address'] for validator in validators],
-        y=[validator['voting_power'] for validator in validators],
+        x=[validator['alias'] if validator['alias'] else validator['address'] for validator in validators_with_non_zero_stake[:150]],
+        y=[validator['voting_power'] for validator in validators_with_non_zero_stake[:150]],
         name='validators',
-        marker_color='indianred',
+        marker_color='indianred'
     ))
 
     fig.update_layout(
         xaxis={'categoryorder':'total descending'},
-        autosize=True,
+        autosize=False,
         width=1500,
-        height=500,
+        height=750,
+        title="First 150 validators, sorted by voting power, with stake > 0"
     )
     fig.update_xaxes(
         tickangle=75,
@@ -32,7 +36,18 @@ def build_readme(validators):
     environment = Environment(loader=FileSystemLoader("scripts/artifacts"))
     template = environment.get_template("README.jinja")
 
-    content = template.render({"validators": validators})
+    total_staked_tokens = sum(map(lambda x: x['voting_power'], validators))
+    total_staked_token_percentage = round((total_staked_tokens / TOTAL_SUPPLY) * 100, 2)
+    total_delegations = sum(map(lambda x: x['total_delegations'], validators))
+
+    print(total_delegations)
+
+    content = template.render({
+        "validators": validators, 
+        "total_staked_token_percentage": total_staked_token_percentage, 
+        "total_staked_tokens": total_staked_tokens,
+        "total_delegations": total_delegations
+    })
 
     with open("README.md", mode="w", encoding="utf-8") as message:
         message.write(content)
@@ -58,6 +73,7 @@ def parse_validators():
 
     bonds = []
     target_vp = defaultdict(int)
+    target_delegations = defaultdict(int)
     for file in bond_files:
         bonds_toml = read_unsafe_toml(file)
         if bonds_toml is None:
@@ -70,6 +86,7 @@ def parse_validators():
                 'amount': bond['amount'],
             })
             target_vp[bond['validator']] += float(bond['amount'])
+            target_delegations[bond['validator']] += 1
 
     validators = []
     for file in validator_files:
@@ -85,7 +102,8 @@ def parse_validators():
                 'email': validator['metadata']['email'],
                 'alias': validator['metadata']['name'] if 'name' in validator['metadata'] else None,
                 'website': validator['metadata']['website'] if 'website' in validator['metadata'] else None,
-                'voting_power': target_vp[validator['address']] if validator['address'] in target_vp else 0
+                'voting_power': target_vp[validator['address']] if validator['address'] in target_vp else 0,
+                'total_delegations': target_delegations[validator['address']] if validator['address'] in target_delegations else 0,
             })
 
     return sorted(validators, key=lambda d: d['voting_power'], reverse=True)

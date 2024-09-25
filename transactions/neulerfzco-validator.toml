@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqzn9ha3j8s28t6l5zxnrm20n2zfn5yjt2swf2ekc7kmmvv64zf8g3zhzhn"]
+
+[[validator_account]]
+address = "tnam1qy7vmk5mwgwuqte5rwyr3x5mnslv3z6sgcp7xumx"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "148.113.16.49:26657"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz7ld93er04xpwwz5jx8xllpj9045vju3rv8u5j7vnqmvhsd4jfvv4epcdh"
+authorization = "signam1qqgr8hulq5zn92qcq88zz7y724z7hse3y93ndkdqex2urz9e8r0pjmlnmz7q3360f3aptag7rayuss3kcrulkg6cthn77w75ed7uj4s02w90zp"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzvr3y39ykhdn9vku2s4czqnlw34ycf9lytmlklq5qslsszmpy8quauzdnr"
+authorization = "signam1qp9phkpsj88c3g0cux94eyhs2jtv2rawsmp378hd6d9n27k9fcek5tyw4a5m79s8fsfwf062p2xe8agtd0arnq98dz8vujlppf2n8dc8mvk0y5"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr5f0cz2cvl3m8lyhwajannxsznnmhah3262udlrc44ha8mmc5cd6nr4y79"
+authorization = "signam1qrceuz0qk3lnwk05d5la858d2paryu23eu75nthndwc6my0th6z49d0vkmte0apypzxjcg0wpxex6ecq0jh26zl7ujy23ztnkeagwes02dq5fr"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypf326dlt5zka4mm2j3esuqz8kse6v2faxh0q0gwwc0uj5lhfn2rksv68tsn"
+authorization = "signam1q8z5e0cp4lyuu67usrckvpgn0raekpela8grrem8jcdqwyfrpmkg6445h4a0gkvu9xs2nwq4mcllu9eu373u2d36pxld934gpwuh24mrqq5fyc3d"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp7yspfce9nhjtav0su0xad40pmpvqfdmzzn9evfz9pmxallmryvzc9ac6mm"
+authorization = "signam1q9lq9zm7vqrfrdgwjlek3yujzd6ph4255uwyeyzfpx4wyqcqn8rjcyu8dgagq0uqluuymz9kxvzu95h45y5df2r5kdxkh6klqmrm7sw4qqmhqh5k"
+
+[validator_account.metadata]
+email = "validator@neuler.xyz"
+description = "Accelerating decentralization"
+website = "https://neuler.xyz"
+name = "Neuler"
+
+[validator_account.signatures]
+tpknam1qqzn9ha3j8s28t6l5zxnrm20n2zfn5yjt2swf2ekc7kmmvv64zf8g3zhzhn = "signam1qpe34d78a57nq2ns0t2gpk3xw7wp50s3sy02kcpc67mkxvsdqlsfsvz8pte6rjveary5895xw835ntlgehg8c22e4dr6mjmz4lsc38sq9r9g3d"
