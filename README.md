@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `195`
-- Total delegations: `102`
-- Staked tokens: `7582201.203579 (~0.76%)`
+- Total delegations: `103`
+- Staked tokens: `7582306.203579 (~0.76%)`
 
 ## Validators
 
@@ -703,6 +703,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `www.nomadvalidator.com`
     - total delegations: `1`
 
+- address: `tnam1q8pdrz6p2h8z9m9x9drf3d4r5sqkhw6epv2shrjy`
+    - alias: `Noderunners`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1523.0 (0.0%)`
+    - email: `info@noderunners.biz`
+    - website: `http://noderunners.biz`
+    - total delegations: `2`
+
 - address: `tnam1q8ev9tdg3v9hgm3y4muy7xy7tnmd9ne8ngctj9th`
     - alias: `Moonlet`
     - commission: `5.0%`
@@ -710,15 +719,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1500.0 (0.0%)`
     - email: `contact@moonlet.io`
     - website: `https://moonlet.io`
-    - total delegations: `1`
-
-- address: `tnam1q8pdrz6p2h8z9m9x9drf3d4r5sqkhw6epv2shrjy`
-    - alias: `Noderunners`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `1418.0 (0.0%)`
-    - email: `info@noderunners.biz`
-    - website: `http://noderunners.biz`
     - total delegations: `1`
 
 - address: `tnam1q8t4hkv7dqjkka7ns42rramvz0dmj98g7q7zq67m`
