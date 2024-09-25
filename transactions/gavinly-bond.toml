@@ -40,14 +40,6 @@ tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qzz
 
 [[bond]]
 source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
-validator = "tnam1qx2yqm3rttmsx8n2q9dgaep6glnlthh9ggukymdy"
-amount = "150000"
-
-[bond.signatures]
-tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qrw2d5xqdk2gr0a3lqg6n26jdrk9ha9r2ge5f3qm2grgvwrnzgspj6nwapzutfsnad6pms68sw3yrq06vsdf02eylehs7c6485pgdtcrg3zecs"
-
-[[bond]]
-source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
 validator = "tnam1qx7apjd6puv09zenlgcjg5q9l74y6ax4sqvyhp6y"
 amount = "200000"
 
