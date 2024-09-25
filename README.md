@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `195`
-- Total delegations: `104`
-- Staked tokens: `7742306.203579 (~0.77%)`
+- Total delegations: `105`
+- Staked tokens: `8442306.203579 (~0.84%)`
 
 ## Validators
 
@@ -36,6 +36,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `node-alerts@tududes.com`
     - website: `https://tududes.com`
     - total delegations: `2`
+
+- address: `tnam1q87f9g34lagl5e6y482fwtad7870rk4vzsqaq7mf`
+    - alias: `L0vd`
+    - commission: `0.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `700000.0 (0.07%)`
+    - email: `info@l0vd.com`
+    - website: `https://l0vd.com`
+    - total delegations: `1`
 
 - address: `tnam1qx7wyapm8f9ddlukz3p7gdmhjjvck7lmaqjeflra`
     - alias: `BXKelePool`
@@ -863,15 +872,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `namada@newton.zone`
     - website: `https://newton.zone`
-    - total delegations: `0`
-
-- address: `tnam1q87f9g34lagl5e6y482fwtad7870rk4vzsqaq7mf`
-    - alias: `L0vd`
-    - commission: `0.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `info@l0vd.com`
-    - website: `https://l0vd.com`
     - total delegations: `0`
 
 - address: `tnam1qyd9xx4cw4knl4accyp2epnrfk6fgc3kgqxrzndv`
