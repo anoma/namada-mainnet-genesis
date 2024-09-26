@@ -12,9 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
+- Total pre-genesis transactions: `317`
 - Total validators: `195`
-- Total delegations: `121`
-- Staked tokens: `14929801.203579 (~1.49%)`
+- Total delegations: `122`
+- Staked tokens: `14929906.203579 (~1.49%)`
 
 ## Validators
 
@@ -122,10 +123,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Nodes.Guru`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `300105.0 (0.03%)`
+    - total voting power: `300210.0 (0.03%)`
     - email: `security@nodes.guru`
     - website: `https://nodes.guru`
-    - total delegations: `3`
+    - total delegations: `4`
 
 - address: `tnam1qy0zrla88txv244suxaruqgr9g74vr8vyufd8rp7`
     - alias: `Wavefive`
