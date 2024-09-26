@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `195`
-- Total delegations: `111`
-- Staked tokens: `13029801.203579 (~1.3%)`
+- Total delegations: `112`
+- Staked tokens: `14029801.203579 (~1.4%)`
 
 ## Validators
 
@@ -35,6 +35,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `2000000.0 (0.2%)`
     - email: `infra@knowable.vc`
     - website: `https://knowable.vc`
+    - total delegations: `1`
+
+- address: `tnam1q96k4cmpem5n6tun5qap7vqfxv5fx9hzucp8lqt0`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `1000000.0 (0.1%)`
+    - email: `infra@poeticte.ch`
+    - website: `Unknown website`
     - total delegations: `1`
 
 - address: `tnam1qya90eeuaxn47ajfjp08f8zzgjtmhy0lmyxn26gu`
@@ -1168,15 +1177,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - max commission rate change: `1.0%`
     - total voting power: `0 (0.0%)`
     - email: `paul@everlasting.nz`
-    - website: `Unknown website`
-    - total delegations: `0`
-
-- address: `tnam1q96k4cmpem5n6tun5qap7vqfxv5fx9hzucp8lqt0`
-    - alias: `Unknown alias`
-    - commission: `5.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `infra@poeticte.ch`
     - website: `Unknown website`
     - total delegations: `0`
 
