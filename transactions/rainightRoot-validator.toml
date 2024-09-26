@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrvem3lvgg2975dykwmgzy5netn96gp2m4zx2qlscrwa00lmk4wuves3nu3"]
+
+[[validator_account]]
+address = "tnam1qyawfu5rjgvhezcx0hrj6dkd0g9p97ldlvvtqvwt"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "152.53.35.200:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qptlpts0zn9mey9mj4au67f0algccgweq23k3qjrsvqusrsuumdquv8tnjm"
+authorization = "signam1qpn8nl90s5faapvt5tk2gycxe8zsxxgpyjj0yam0gdr4hmgzs5ajnhhqem20mzhz9gn3hy2r77xhs8h2wte8tt0er4vnymcxeh6g5agwdfg3rz"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpargk5dn9am97svakxajlcq7v2dwmg5yprv7yd3em595sq7pfxg2lgjjxh"
+authorization = "signam1qprg8zwjxf0gt5mfddzl9wme29wjrejkapemkf5z2va3j2hkummaktxxkrlel3mj4jx0l2syrxk2jmla7rsk7r2llkm4pl7lqu22gpgqjvdc4n"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp6l4ed00nf06a6gtxlgkmsh0m4u30aq5ptmrqgu4je4xynfulzcq5gfr75"
+authorization = "signam1qp5wyx3y45gn2ruvcrfu8fel2g7yzjeppuda0wx99an3mm4426mzhzn6mpfvu5pyqerykgj4fg8e6gtedex6kdyrlgyk3y6uw58yn2q8cq8xee"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypquuvxd5wemdhpv7lcpejrnjswadpx4awn5l00kfjt0lt6rds0w2qjj2m9l"
+authorization = "signam1qyyjl9vsnnfgczf92zas82u0vcu5020r47hetkmyp2xrxlh7yajssxyz3vxffshca89enhz4dlnl4yl3lr9nussf0pw9yfr5zdxhkge6qyczacj4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp8zekag7e03esg88n7ezdd02fy6m6qklp00vu6lnzwv2dljqn235cwttkyd"
+authorization = "signam1qx67n4ke5ldhplc0c3rczzk2j8chaztgn4tg3xzduwze32vjy9qvcsk6m0h9a58q69vzyn4ulqv7tmlrusektvn58uj4zrraxxdhcxy4qqhcfezq"
+
+[validator_account.metadata]
+email = "blockcoin1@126.com"
+description = "NODE SERVICE · STAKING SERVICE · PROFESSIONAL VALIDATOR"
+website = "https://www.equinoxdao.xyz/"
+discord_handle = "pangzi_90610"
+avatar = "https://www.equinoxdao.xyz/wp-content/uploads/2024/03/2024030709345723.png"
+name = "EquinoxDao"
+
+[validator_account.signatures]
+tpknam1qrvem3lvgg2975dykwmgzy5netn96gp2m4zx2qlscrwa00lmk4wuves3nu3 = "signam1qr5jkahgu3x5a8lzmpcr295ns2kkwr4gdcdz9m9hqg83008lhzjdz569vjwl3lufydvtwvg4v4ztve3x6qztnpdgxcsg3p7gw8pjczqtxlw2ku"

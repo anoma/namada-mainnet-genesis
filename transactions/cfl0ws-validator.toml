@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz3zh6kmnufdgl06k67e65v390g49sruf9975tsnnq6jjxyyu0zt5rcvrcm"]
+
+[[validator_account]]
+address = "tnam1q98f4snsa7r5lmkc9d66k29r4m0eqpv2j5f7vw8d"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqy5x7lsgnspr5y4n4uy5cm0sm0pjn8peu8vdpxs5kzjxgyzenafqenjwp7"
+authorization = "signam1qzzzjnfd9lnzrtas9w450gdxnsd7u6ysq9kxle7je4tkzzkhxnp4gr7tet2wu65mwxledcnj2ye4c5ju3ynu8gfwf867xa04lukzudsylzdtu2"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp3q0ru3zldv5ngz5t34tc3sqdd3tzcnw99sk389xc4f7vdjmc87yv363ka"
+authorization = "signam1qr94wvave9pmlegrx3wqlap54jqxd78jwjh82hv9unxhst47jusdqz598tu8y37lqv28ayenf5uneunpthnkuassf2yh4ee3jn4uvzqwkl4w2j"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrqvp38wc5her4w2hf679mkck9yx22azzy8xfcw208kcnmjkvfsr7dugrag"
+authorization = "signam1qzj92w709rxe2ys9ru4w02ajrcn4wdr3lpdhu9kx3xknjw2ja6jkpg6vtyp2e7kdmwmvlxmlrenvxc7qftk09vwgm0ewpsd22yxg2xqrr32yta"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyps5l0r5v8j9gwpyym4ay5hn47595tkz6prprjut68fynq98th7qjcd0sag2"
+authorization = "signam1qykh5xl9n3m7gd2t076f5843zyhzkhht6cumpfflv8n2d36m5lfljfxhzg753v9vq4p8w54zxx5m2qln5azcjs4cfxjmjmg0qampt769qyuywpsq"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp6qt5985arr4vkdf3dz62hskujstycpmzk98d0martxmanckallxs8ltdq0"
+authorization = "signam1q9ngsntgl6a04yed8kqw3kc2yqermytukwu62733j6jv9cthtwk8jkewap2z22mkkgyhv3ac3re2rd6xmxgvvmcc4xz4c0a6q6yz2vnrqyzdw66p"
+
+[validator_account.metadata]
+email = "namada@chainflow.io"
+description = "Crypto Infrastructure for a Brighter Future"
+website = "https://chainflow.io"
+avatar = "https://chainflow.io/content/images/2023/06/logo-1.svg"
+name = "Chainflow"
+
+[validator_account.signatures]
+tpknam1qz3zh6kmnufdgl06k67e65v390g49sruf9975tsnnq6jjxyyu0zt5rcvrcm = "signam1qrt97npyz9h37xxl8etcs9864eqldq3g0gakcch30tpy45wuhp8m76yljmzacjx6wyvnhws504g4wwa569r067cu0mt9hy2yjuk9ezq0nadjtv"
