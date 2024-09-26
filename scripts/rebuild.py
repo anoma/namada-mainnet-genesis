@@ -9,6 +9,15 @@ TOTAL_SUPPLY = 1000000000
 
 def build_graph(validators):
     validators_with_non_zero_stake = list(filter(lambda x: x['voting_power'] > 0, validators))
+
+    two_third_stake = (sum(list(map(lambda x: x['voting_power'], validators_with_non_zero_stake))) * 2) / 3
+    count, index = 0, 0
+    for idx, validator in enumerate(validators_with_non_zero_stake):
+        count += validator['voting_power']
+        if count >= two_third_stake:
+            index = idx
+            break
+
     fig = go.Figure()
     fig.add_trace(go.Bar(
         x=[validator['alias'] if validator['alias'] else validator['address'] for validator in validators_with_non_zero_stake[:150]],
@@ -22,17 +31,20 @@ def build_graph(validators):
         autosize=False,
         width=1500,
         height=750,
-        title="First 150 validators, sorted by voting power, with stake > 0"
+        title="First 150 validators by voting power. Green line is 67% voting power.",
+        uniformtext_minsize=2,
+        uniformtext_mode='hide',
     )
+    fig.add_vline(x=index, line_width=1, line_dash="dash", line_color="green")
     fig.update_xaxes(
-        tickangle=75,
+        tickangle=90,
     )
     fig.update_yaxes(automargin=True)
 
     fig.write_image("images/validators.png")
 
 
-def build_readme(validators):
+def build_readme(validators, bonds):
     environment = Environment(loader=FileSystemLoader("scripts/artifacts"))
     template = environment.get_template("README.jinja")
 
@@ -40,13 +52,12 @@ def build_readme(validators):
     total_staked_token_percentage = round((total_staked_tokens / TOTAL_SUPPLY) * 100, 2)
     total_delegations = sum(map(lambda x: x['total_delegations'], validators))
 
-    print(total_delegations)
-
     content = template.render({
         "validators": validators, 
         "total_staked_token_percentage": total_staked_token_percentage, 
         "total_staked_tokens": total_staked_tokens,
-        "total_delegations": total_delegations
+        "total_delegations": total_delegations,
+        "total_txs": len(validators) + len(bonds)
     })
 
     with open("README.md", mode="w", encoding="utf-8") as message:
@@ -106,7 +117,7 @@ def parse_validators():
                 'total_delegations': target_delegations[validator['address']] if validator['address'] in target_delegations else 0,
             })
 
-    return sorted(validators, key=lambda d: d['voting_power'], reverse=True)
+    return sorted(validators, key=lambda d: d['voting_power'], reverse=True), bonds
 
 
 def merge_transactions():
@@ -129,9 +140,9 @@ def merge_transactions():
 
 
 def main():
-    validators = parse_validators()
+    validators, bonds = parse_validators()
     build_graph(validators)
-    build_readme(validators)
+    build_readme(validators, bonds)
     merge_transactions()
 
 if __name__ == "__main__":
