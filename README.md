@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `195`
-- Total delegations: `110`
-- Staked tokens: `13029701.203579 (~1.3%)`
+- Total delegations: `111`
+- Staked tokens: `13029801.203579 (~1.3%)`
 
 ## Validators
 
@@ -874,6 +874,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `www.famnode.my.id`
     - total delegations: `1`
 
+- address: `tnam1qyd9xx4cw4knl4accyp2epnrfk6fgc3kgqxrzndv`
+    - alias: `MathNodes`
+    - commission: `3.1399999999999997%`
+    - max commission rate change: `3.0%`
+    - total voting power: `100.0 (0.0%)`
+    - email: `support@mathnodes.com`
+    - website: `https://mathnodes.com`
+    - total delegations: `1`
+
 - address: `tnam1q9vdxnkrqwnw5vrgfypqz6ndejp6sy2sfgc9pk5d`
     - alias: `Nodeify`
     - commission: `5.0%`
@@ -899,15 +908,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `namada@newton.zone`
     - website: `https://newton.zone`
-    - total delegations: `0`
-
-- address: `tnam1qyd9xx4cw4knl4accyp2epnrfk6fgc3kgqxrzndv`
-    - alias: `MathNodes`
-    - commission: `3.1399999999999997%`
-    - max commission rate change: `3.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `support@mathnodes.com`
-    - website: `https://mathnodes.com`
     - total delegations: `0`
 
 - address: `tnam1qxl39v5a88cm0cw842mv7znmygmz4etfa5d5raze`
