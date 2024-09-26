@@ -12,9 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
+- Total pre-genesis transactions: `317`
 - Total validators: `195`
-- Total delegations: `108`
-- Staked tokens: `11867035.203579 (~1.19%)`
+- Total delegations: `122`
+- Staked tokens: `14929906.203579 (~1.49%)`
 
 ## Validators
 
@@ -32,9 +33,18 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Knowable`
     - commission: `7.000000000000001%`
     - max commission rate change: `1.0%`
-    - total voting power: `1000000.0 (0.1%)`
+    - total voting power: `2100000.0 (0.21%)`
     - email: `infra@knowable.vc`
     - website: `https://knowable.vc`
+    - total delegations: `2`
+
+- address: `tnam1q96k4cmpem5n6tun5qap7vqfxv5fx9hzucp8lqt0`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `1000000.0 (0.1%)`
+    - email: `infra@poeticte.ch`
+    - website: `Unknown website`
     - total delegations: `1`
 
 - address: `tnam1qya90eeuaxn47ajfjp08f8zzgjtmhy0lmyxn26gu`
@@ -46,6 +56,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://tududes.com`
     - total delegations: `2`
 
+- address: `tnam1qx7wyapm8f9ddlukz3p7gdmhjjvck7lmaqjeflra`
+    - alias: `BXKelePool`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `724900.0 (0.07%)`
+    - email: `winlin@kelepool.com`
+    - website: `https://www.kelepool.com`
+    - total delegations: `2`
+
 - address: `tnam1q87f9g34lagl5e6y482fwtad7870rk4vzsqaq7mf`
     - alias: `L0vd`
     - commission: `0.0%`
@@ -55,14 +74,14 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://l0vd.com`
     - total delegations: `1`
 
-- address: `tnam1qx7wyapm8f9ddlukz3p7gdmhjjvck7lmaqjeflra`
-    - alias: `BXKelePool`
-    - commission: `5.0%`
+- address: `tnam1q8f8uln5yv9zx7sgyaakc3fzldm42kjg9y7tpej2`
+    - alias: `Finoa Consensus Services`
+    - commission: `10.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `624900.0 (0.06%)`
-    - email: `winlin@kelepool.com`
-    - website: `https://www.kelepool.com`
-    - total delegations: `1`
+    - total voting power: `550000.0 (0.06%)`
+    - email: `operations@consensus.finoa.io`
+    - website: `https://www.finoa.io/staking-delegation`
+    - total delegations: `2`
 
 - address: `tnam1q8xasrt0q8qrkqj5s9r9xw3ee0gx5mqwyukhe699`
     - alias: `Cosmic Validator`
@@ -71,6 +90,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `500000.0 (0.05%)`
     - email: `info@cosmicvalidator.com`
     - website: `https://www.cosmicvalidator.com`
+    - total delegations: `2`
+
+- address: `tnam1qx7apjd6puv09zenlgcjg5q9l74y6ax4sqvyhp6y`
+    - alias: `Luganodes`
+    - commission: `10.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `398000.0 (0.04%)`
+    - email: `devops@luganodes.com`
+    - website: `https://www.luganodes.com/`
     - total delegations: `2`
 
 - address: `tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p`
@@ -82,14 +110,23 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://kintsugi.tech`
     - total delegations: `2`
 
-- address: `tnam1q8f8uln5yv9zx7sgyaakc3fzldm42kjg9y7tpej2`
-    - alias: `Finoa Consensus Services`
-    - commission: `10.0%`
+- address: `tnam1q9ctkntly0ggv796axf4flnz3mgtx42ucuh5xhme`
+    - alias: `edenblock`
+    - commission: `5.0%`
     - max commission rate change: `1.0%`
     - total voting power: `350000.0 (0.03%)`
-    - email: `operations@consensus.finoa.io`
-    - website: `https://www.finoa.io/staking-delegation`
-    - total delegations: `1`
+    - email: `infrastructure@edenblock.com`
+    - website: `www.edenblock.com`
+    - total delegations: `2`
+
+- address: `tnam1q9rq7p4wzy6fea96xs5sr8qnsxsfdr2zugfsvw2n`
+    - alias: `Nodes.Guru`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `300210.0 (0.03%)`
+    - email: `security@nodes.guru`
+    - website: `https://nodes.guru`
+    - total delegations: `4`
 
 - address: `tnam1qy0zrla88txv244suxaruqgr9g74vr8vyufd8rp7`
     - alias: `Wavefive`
@@ -136,15 +173,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `Unknown website`
     - total delegations: `1`
 
-- address: `tnam1q9ctkntly0ggv796axf4flnz3mgtx42ucuh5xhme`
-    - alias: `edenblock`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `250000.0 (0.03%)`
-    - email: `infrastructure@edenblock.com`
-    - website: `www.edenblock.com`
-    - total delegations: `1`
-
 - address: `tnam1q829u6jedv7y4yek2gfrh77qaz9qe3veduzkdyk4`
     - alias: `Coverlet`
     - commission: `3.0%`
@@ -163,23 +191,23 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://bitszn.com`
     - total delegations: `1`
 
-- address: `tnam1q9rq7p4wzy6fea96xs5sr8qnsxsfdr2zugfsvw2n`
-    - alias: `Nodes.Guru`
+- address: `tnam1qy6y8ws67ks2p5jl53s6yukre554mhwrugdp8vjh`
+    - alias: `Citadel.one`
     - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `200105.0 (0.02%)`
-    - email: `security@nodes.guru`
-    - website: `https://nodes.guru`
-    - total delegations: `2`
-
-- address: `tnam1qx7apjd6puv09zenlgcjg5q9l74y6ax4sqvyhp6y`
-    - alias: `Luganodes`
-    - commission: `10.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `200000.0 (0.02%)`
-    - email: `devops@luganodes.com`
-    - website: `https://www.luganodes.com/`
+    - max commission rate change: `5.0%`
+    - total voting power: `161666.0 (0.02%)`
+    - email: `nikita@citadel.one`
+    - website: `https://citadel.one`
     - total delegations: `1`
+
+- address: `tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t`
+    - alias: `Stakeflow`
+    - commission: `7.000000000000001%`
+    - max commission rate change: `1.0%`
+    - total voting power: `161500.0 (0.02%)`
+    - email: `team@stakeflow.io`
+    - website: `https://validator.stakeflow.io`
+    - total delegations: `2`
 
 - address: `tnam1q8qt5qy99fvuhltq3pg20k223crauw6phulv0kfj`
     - alias: `EmberStake`
@@ -260,15 +288,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `84180.0 (0.01%)`
     - email: `security@encapsulate.xyz`
     - website: `https://encapsulate.xyz`
-    - total delegations: `1`
-
-- address: `tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t`
-    - alias: `Stakeflow`
-    - commission: `7.000000000000001%`
-    - max commission rate change: `1.0%`
-    - total voting power: `81500.0 (0.01%)`
-    - email: `team@stakeflow.io`
-    - website: `https://validator.stakeflow.io`
     - total delegations: `1`
 
 - address: `tnam1qy7fms2m4kpx5khvp4x7r3pr8e4xdqghpsrsd0pn`
@@ -379,6 +398,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://services.kjnodes.com/mainnet/namada`
     - total delegations: `1`
 
+- address: `tnam1qxfcew76uclxuf5a5qkhwdtt8m6enc58tsqnwupd`
+    - alias: `IRISnet`
+    - commission: `8.0%`
+    - max commission rate change: `6.0%`
+    - total voting power: `41680.0 (0.0%)`
+    - email: `bob@irisnet.org`
+    - website: `https://irisnet.org`
+    - total delegations: `2`
+
 - address: `tnam1qy9htx7f43s3g4220ljzmua65vp5sw9ah5vm6xdu`
     - alias: `Firstset`
     - commission: `5.0%`
@@ -440,15 +468,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `22000.0 (0.0%)`
     - email: `unitylchaos@protonmail.com`
     - website: `https://s9.gay`
-    - total delegations: `1`
-
-- address: `tnam1qxfcew76uclxuf5a5qkhwdtt8m6enc58tsqnwupd`
-    - alias: `IRISnet`
-    - commission: `8.0%`
-    - max commission rate change: `6.0%`
-    - total voting power: `21680.0 (0.0%)`
-    - email: `bob@irisnet.org`
-    - website: `https://irisnet.org`
     - total delegations: `1`
 
 - address: `tnam1q9ude2ceqdj8dk6z3rwxnykm446j5lfkwy747kzp`
@@ -622,6 +641,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://github.com/papadritta`
     - total delegations: `1`
 
+- address: `tnam1qx4ztg0ca0tu2aw056ksuek5y58tmg454shk6svw`
+    - alias: `5ElementsNodes`
+    - commission: `10.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `4000.0 (0.0%)`
+    - email: `security@5elementsnodes.com`
+    - website: `https://www.5elementsnodes.com`
+    - total delegations: `2`
+
 - address: `tnam1q8g669anlgcd490mfdqct8v734ekr7zu2ywgjwqc`
     - alias: `Staketab`
     - commission: `5.0%`
@@ -701,15 +729,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `2260.0 (0.0%)`
     - email: `support@ccvalidators.com`
     - website: `https://ccvalidators.com`
-    - total delegations: `1`
-
-- address: `tnam1qx4ztg0ca0tu2aw056ksuek5y58tmg454shk6svw`
-    - alias: `5ElementsNodes`
-    - commission: `10.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `2000.0 (0.0%)`
-    - email: `security@5elementsnodes.com`
-    - website: `https://www.5elementsnodes.com`
     - total delegations: `1`
 
 - address: `tnam1qxdqsqnrf97vnyf5w2ur3fa0f3wxclxapy2lxy4s`
@@ -847,6 +866,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://github.com/JuliaMoon1`
     - total delegations: `1`
 
+- address: `tnam1q9nnw09fl7a3f2nzmu6dtqea9txthjevnvruc38g`
+    - alias: `HashKey Cloud`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `1000.0 (0.0%)`
+    - email: `admin@hashkey.cloud`
+    - website: `https://www.hashkey.cloud/`
+    - total delegations: `1`
+
 - address: `tnam1qygxf2a3hr9r9vjehp3p3fe6c23hwyvvpucepht6`
     - alias: `famnode`
     - commission: `5.0%`
@@ -854,6 +882,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1000.0 (0.0%)`
     - email: `dityaeth@gmail.com`
     - website: `www.famnode.my.id`
+    - total delegations: `1`
+
+- address: `tnam1qyd9xx4cw4knl4accyp2epnrfk6fgc3kgqxrzndv`
+    - alias: `MathNodes`
+    - commission: `3.1399999999999997%`
+    - max commission rate change: `3.0%`
+    - total voting power: `100.0 (0.0%)`
+    - email: `support@mathnodes.com`
+    - website: `https://mathnodes.com`
     - total delegations: `1`
 
 - address: `tnam1q9vdxnkrqwnw5vrgfypqz6ndejp6sy2sfgc9pk5d`
@@ -881,15 +918,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `namada@newton.zone`
     - website: `https://newton.zone`
-    - total delegations: `0`
-
-- address: `tnam1qyd9xx4cw4knl4accyp2epnrfk6fgc3kgqxrzndv`
-    - alias: `MathNodes`
-    - commission: `3.1399999999999997%`
-    - max commission rate change: `3.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `support@mathnodes.com`
-    - website: `https://mathnodes.com`
     - total delegations: `0`
 
 - address: `tnam1qxl39v5a88cm0cw842mv7znmygmz4etfa5d5raze`
@@ -1153,15 +1181,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `Unknown website`
     - total delegations: `0`
 
-- address: `tnam1q96k4cmpem5n6tun5qap7vqfxv5fx9hzucp8lqt0`
-    - alias: `Unknown alias`
-    - commission: `5.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `infra@poeticte.ch`
-    - website: `Unknown website`
-    - total delegations: `0`
-
 - address: `tnam1qyfmtehvnrrcwtjueygvvqrwy43dtw3r9uwe5tf7`
     - alias: `Stake.systems`
     - commission: `5.0%`
@@ -1232,15 +1251,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `security@chorus.one`
     - website: `https://chorus.one`
-    - total delegations: `0`
-
-- address: `tnam1q9nnw09fl7a3f2nzmu6dtqea9txthjevnvruc38g`
-    - alias: `HashKey Cloud`
-    - commission: `5.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `admin@hashkey.cloud`
-    - website: `https://www.hashkey.cloud/`
     - total delegations: `0`
 
 - address: `tnam1q82fsvmdkjfm7awr04xa0rkn27edztd9fypma6ha`
@@ -1403,15 +1413,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `virtualxgrape@gmail.com`
     - website: `Unknown website`
-    - total delegations: `0`
-
-- address: `tnam1qy6y8ws67ks2p5jl53s6yukre554mhwrugdp8vjh`
-    - alias: `Citadel.one`
-    - commission: `5.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `nikita@citadel.one`
-    - website: `https://citadel.one`
     - total delegations: `0`
 
 - address: `tnam1qxx0wusyz7pkj64zvztkdx9eg2827srsesu7s2a5`
