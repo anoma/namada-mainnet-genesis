@@ -12,6 +12,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
+- Total pre-genesis transactions: `316`
 - Total validators: `195`
 - Total delegations: `121`
 - Staked tokens: `14929801.203579 (~1.49%)`
