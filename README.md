@@ -13,8 +13,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 
 - Total validators: `195`
-- Total delegations: `108`
-- Staked tokens: `12867035.203579 (~1.29%)`
+- Total delegations: `110`
+- Staked tokens: `13029701.203579 (~1.3%)`
 
 ## Validators
 
@@ -179,6 +179,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `200000.0 (0.02%)`
     - email: `devops@luganodes.com`
     - website: `https://www.luganodes.com/`
+    - total delegations: `1`
+
+- address: `tnam1qy6y8ws67ks2p5jl53s6yukre554mhwrugdp8vjh`
+    - alias: `Citadel.one`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `161666.0 (0.02%)`
+    - email: `nikita@citadel.one`
+    - website: `https://citadel.one`
     - total delegations: `1`
 
 - address: `tnam1q8qt5qy99fvuhltq3pg20k223crauw6phulv0kfj`
@@ -847,6 +856,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://github.com/JuliaMoon1`
     - total delegations: `1`
 
+- address: `tnam1q9nnw09fl7a3f2nzmu6dtqea9txthjevnvruc38g`
+    - alias: `HashKey Cloud`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `1000.0 (0.0%)`
+    - email: `admin@hashkey.cloud`
+    - website: `https://www.hashkey.cloud/`
+    - total delegations: `1`
+
 - address: `tnam1qygxf2a3hr9r9vjehp3p3fe6c23hwyvvpucepht6`
     - alias: `famnode`
     - commission: `5.0%`
@@ -1234,15 +1252,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://chorus.one`
     - total delegations: `0`
 
-- address: `tnam1q9nnw09fl7a3f2nzmu6dtqea9txthjevnvruc38g`
-    - alias: `HashKey Cloud`
-    - commission: `5.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `admin@hashkey.cloud`
-    - website: `https://www.hashkey.cloud/`
-    - total delegations: `0`
-
 - address: `tnam1q82fsvmdkjfm7awr04xa0rkn27edztd9fypma6ha`
     - alias: `n1stake`
     - commission: `5.0%`
@@ -1403,15 +1412,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `virtualxgrape@gmail.com`
     - website: `Unknown website`
-    - total delegations: `0`
-
-- address: `tnam1qy6y8ws67ks2p5jl53s6yukre554mhwrugdp8vjh`
-    - alias: `Citadel.one`
-    - commission: `5.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `nikita@citadel.one`
-    - website: `https://citadel.one`
     - total delegations: `0`
 
 - address: `tnam1qxx0wusyz7pkj64zvztkdx9eg2827srsesu7s2a5`
