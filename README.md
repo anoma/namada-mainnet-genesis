@@ -130,7 +130,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 - address: `tnam1qy0zrla88txv244suxaruqgr9g74vr8vyufd8rp7`
     - alias: `Wavefive`
-    - commission: `4.0%`
+    - commission: `5.0%`
     - max commission rate change: `2.0%`
     - total voting power: `279000.0 (0.03%)`
     - email: `hello@wavefive.co`
