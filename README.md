@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `318`
+- Total pre-genesis transactions: `319`
 - Total validators: `195`
-- Total delegations: `123`
-- Staked tokens: `14943906.203579 (~1.49%)`
+- Total delegations: `124`
+- Staked tokens: `14989744.67972 (~1.5%)`
 
 ## Validators
 
@@ -396,6 +396,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `46566.67 (0.0%)`
     - email: `contact@kjnodes.com`
     - website: `https://services.kjnodes.com/mainnet/namada`
+    - total delegations: `1`
+
+- address: `tnam1q8vzrsmuy3av4t5354u07350lsyksg6w7s60tr6f`
+    - alias: `redtrie`
+    - commission: `0.0%`
+    - max commission rate change: `2.0%`
+    - total voting power: `45838.476141 (0.0%)`
+    - email: `joseph@redtrie.com`
+    - website: `Unknown website`
     - total delegations: `1`
 
 - address: `tnam1qxfcew76uclxuf5a5qkhwdtt8m6enc58tsqnwupd`
@@ -1134,15 +1143,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `staking@gateway.fm`
     - website: `https://stakeway.com`
-    - total delegations: `0`
-
-- address: `tnam1q8vzrsmuy3av4t5354u07350lsyksg6w7s60tr6f`
-    - alias: `redtrie`
-    - commission: `0.0%`
-    - max commission rate change: `2.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `joseph@redtrie.com`
-    - website: `Unknown website`
     - total delegations: `0`
 
 - address: `tnam1qygn0qw0knlguygtxz6hgrluxhu5kt9a8vqvtj36`
