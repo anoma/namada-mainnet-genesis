@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `319`
+- Total pre-genesis transactions: `321`
 - Total validators: `195`
-- Total delegations: `124`
-- Staked tokens: `14989744.67972 (~1.5%)`
+- Total delegations: `126`
+- Staked tokens: `14994144.67972 (~1.5%)`
 
 ## Validators
 
@@ -659,6 +659,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://www.5elementsnodes.com`
     - total delegations: `2`
 
+- address: `tnam1q870s4a5zza2ge5d4lteew3cfp8npu9d2clx5xrv`
+    - alias: `nodemeister`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `3400.0 (0.0%)`
+    - email: `nodemeister@pm.me`
+    - website: `Unknown website`
+    - total delegations: `1`
+
 - address: `tnam1q8g669anlgcd490mfdqct8v734ekr7zu2ywgjwqc`
     - alias: `Staketab`
     - commission: `5.0%`
@@ -739,6 +748,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `support@ccvalidators.com`
     - website: `https://ccvalidators.com`
     - total delegations: `1`
+
+- address: `tnam1qyplu8gruqmmvwp7x7kd92m6x4xpyce265fa05r6`
+    - alias: `Grand Valley`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `2000.0 (0.0%)`
+    - email: `cobajohnson90@gmail.com`
+    - website: `https://github.com/hubofvalley`
+    - total delegations: `2`
 
 - address: `tnam1qxdqsqnrf97vnyf5w2ur3fa0f3wxclxapy2lxy4s`
     - alias: `Lapatylin`
@@ -828,15 +846,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1000.0 (0.0%)`
     - email: `sptnode@gmail.com`
     - website: `https://node.sipalingtestnet.com/`
-    - total delegations: `1`
-
-- address: `tnam1qyplu8gruqmmvwp7x7kd92m6x4xpyce265fa05r6`
-    - alias: `Grand Valley`
-    - commission: `5.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `1000.0 (0.0%)`
-    - email: `cobajohnson90@gmail.com`
-    - website: `https://github.com/hubofvalley`
     - total delegations: `1`
 
 - address: `tnam1q8qr408fvssqpqaht2qspryq2yfu7lds0urktcam`
@@ -1701,15 +1710,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `saeedahmad1981@gmail.com`
     - website: `https://github.com/satman81/`
-    - total delegations: `0`
-
-- address: `tnam1q870s4a5zza2ge5d4lteew3cfp8npu9d2clx5xrv`
-    - alias: `nodemeister`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `nodemeister@pm.me`
-    - website: `Unknown website`
     - total delegations: `0`
 
 - address: `tnam1q8qgm85druh6zpvktmeax6zgz6yjxap4w5gmr5c9`

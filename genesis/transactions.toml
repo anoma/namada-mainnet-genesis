@@ -6725,6 +6725,18 @@ tpknam1qrtmf07047fpja9u3svg6j95es8yxhx39chylqyfftppgj9jwv6axt3kyeq = "signam1qr8
 
 
 
+# adding transaction for hubofvalley-bond
+
+[[bond]]
+source = "tpknam1qzaqvxm6g4h7z34pgdqyzh3y4xevx072ednsfcujfza02knwrfkwqrgywah"
+validator = "tnam1qyplu8gruqmmvwp7x7kd92m6x4xpyce265fa05r6"
+amount = "1000"
+
+[bond.signatures]
+tpknam1qzaqvxm6g4h7z34pgdqyzh3y4xevx072ednsfcujfza02knwrfkwqrgywah = "signam1qqh4hsrhe3faqa5p4kqsnwa3ypsms9vfql232flj9am8uau2hfg4c04yy2ngy4efg0u0uje7lxlxlt393x0dztpa2kmnrtxl7h22yyq9lsd4lh"
+
+
+
 # adding transaction for asverty-validator
 
 [[established_account]]
@@ -7442,6 +7454,19 @@ name = "Vitwit"
 
 [validator_account.signatures]
 tpknam1qp7m5ncwq3cctuk2t08vpusehernd6jqw4aa0tpw4h0py0d94fxtuqvq0jg = "signam1qq99h4nnu35jn298kxwvags954csq7aaz649er4jdujfew8qjzaxv9kzg43canpz9ns8mftquq7qy587ptawanpkl4zd2c269h969fgpjdqtxy"
+
+
+
+# adding transaction for nodemeister-bond
+
+
+[[bond]]
+source = "tpknam1qqzzjg8sc5tx5x37yt00ne2wjfylstf6kvhpwluqaq92583myx9x2mt4ulz"
+validator = "tnam1q870s4a5zza2ge5d4lteew3cfp8npu9d2clx5xrv"
+amount = "3400"
+
+[bond.signatures]
+tpknam1qqzzjg8sc5tx5x37yt00ne2wjfylstf6kvhpwluqaq92583myx9x2mt4ulz = "signam1qqr0fz6e00awqrv4m6pwpcy0wzj9ux82s76k5a2t2gtpkkafch8fumn9w0kec044pek7f7aclw44v9u4nm2x22rz76848tp8gcgynlq2tdycm0"
 
 
 
