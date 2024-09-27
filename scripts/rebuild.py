@@ -38,6 +38,7 @@ def build_graph(validators):
     fig.add_vline(x=index, line_width=1, line_dash="dash", line_color="green")
     fig.update_xaxes(
         tickangle=90,
+        tickfont=dict(size=9)
     )
     fig.update_yaxes(automargin=True)
 
