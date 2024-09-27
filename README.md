@@ -166,8 +166,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 - address: `tnam1q8usghsv57lyfr26wtpyx9ry8v5h9lq63uakqupt`
     - alias: `epithea`
-    - commission: `0.0%`
-    - max commission rate change: `2.0%`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
     - total voting power: `250000.0 (0.03%)`
     - email: `admin@epithea.com`
     - website: `Unknown website`
