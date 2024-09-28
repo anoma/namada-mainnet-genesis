@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqpagx6h28y6d6qd5y4zvcjtddh5d08gvzsd2f3qryfcq64hra6q6nat5a4"]
+
+[[validator_account]]
+address = "tnam1qys6lkycftrwxzcge00c3ezgegrqf7pdkqu83zx2"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.217.105.250:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qql7w4j6ax7yewdgg79pukfd0559jznu4m824fv894ncstyhc23qgdnusc4"
+authorization = "signam1qznv87ns9qua6zktu3u8hhpe2js4d484k368z26s98qhqj4cgpmrypan4y04dtjx4r49zpjn2ualqtedfhfx3t600ywh32lauswzx6srvn5wd9"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpe6xmslnwpzdj4vm0wj9fyeux94gq9zfdn3hklasv8rc4cchh8twgx58kj"
+authorization = "signam1qz4fa5quc4e2llyhf87v80rgkzmdg74xveuh9wepukd75vwpdj2m29jc2u9uvjar3qxkm9tuyw7hq77edt5qf7me760xnmng937emncx5mrypy"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpjnl325mn45q86xutm4ytqyj3huh56jjh67u5acu6jdg603rx2swd2k4cg"
+authorization = "signam1qrud87u67wp6eyu94qpuc5yudv452zldplzezya393cq70crwkk5gjmzg0z6szqlneh4r4rc6233j83x0uz7vlh8w7yrp7gdqjyma6gwreze9s"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp4t0tkt09ppx9jt5s4almysgj9gvqn7yasg4k9grkw50ec3tcsc9sl7xwf9"
+authorization = "signam1qyk2p2ecrf3ygtz30q5nnxhpktwgqmpvrvuam92jktvtz8vp4rfvg9p7qa2hun9j85qeztw6dcpzprr3pm0gk04sgqheppfkp7cwqdgfqym5v6gc"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyppdjfgvvqzuy996k0dzk7m6pfz63ate65j3md944v04h96cxk0ltsw4uufv"
+authorization = "signam1q8dxvy86u7kgaudtxyn4vrt2ztwyehck9y35us3kk5s4yaqean0nxtl8ra5r2jnjssac4exgglxlualm2z3y6gmdj6da4q08kwlmr2yfqqy32tmz"
+
+[validator_account.metadata]
+email = "nnathantaylor12@gmail.com"
+discord_handle = "afyethh"
+name = "DWG"
+
+[validator_account.signatures]
+tpknam1qqpagx6h28y6d6qd5y4zvcjtddh5d08gvzsd2f3qryfcq64hra6q6nat5a4 = "signam1qzvx0lw9cxzpnrv0rl0ylgsdzvmx0swp8ndnw0twd5qvg6ryegp4jvlwatku8unn7504kzw8gltyu6krxvqt47zkayryzc3ml5zf4qsd65unz7"

@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrfdawuufjn07vdq2exy6h5djfsel8254452avz6auxdw9y7r3kpcdz7zcz"]
+
+[[validator_account]]
+address = "tnam1q8a2xwh072herrmlgf06gvrhna775sqjuufnxydn"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.21.233.188:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qprrn3ryqkgwr8ta8ky4h5u3s4deqv09v8r693nz3jnrs2vmrludcqt3eqs"
+authorization = "signam1qrs7k385ht0vkeh6dl6wv3hfxdkwt3qqwqz0gxgew6ptwa0wrjvt56rehzt22pwveka7yhsf4ve9pjvwdpqd0r3e8dqm02hn09ktshg9s0hyr7"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz8296vhrnwrdhlfxrx4raenpq9skk7ehp63c7s6q90t609cnmsg6ezkfu8"
+authorization = "signam1qz5rdg7hkl34lahueutzyuc4qzlxpkwkfqmvgx6u6zlgwwkyttkndxwcmyuqfcgqf3z62azwqt3n3m3pckmnr5rgzw094kvg5x2d42g98y8g2l"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr5leutzcv4pa5vytmmrplhyj68xc2wx6373vzarwx995l59wmakqck4krt"
+authorization = "signam1qzksj7scqzy0cdaql90s5lmph8j56de7r9qan9w47azdqres05f83qvlhtx89sncc09a00q6h2v5k253xud2382gmhtlcan5us2lpcstzql9yr"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp29fkrjrj74utjcvsq7tdjfsvt6qhf6ye6w07l0k3a5l57snf4vfg07h4ch"
+authorization = "signam1qykdd9xgs83a37whmyru7ulrz59uluht3dfa863d3mpgjx3rv48r2dmep7dydz6z9y6twxy46y6069tlpfp4ayq9mvw699gzp38qgl6nqqdj0xe4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypan5u78zyel2eej07sutlps0jjuevk4ldlxwn4vq9ndnq9ynxqt0c0z73aa"
+authorization = "signam1q8n2fgfjm07e9ltmg5wua2zulsft9w3c93gfs80ttpnssx42ygx66ezmy29qj9vchm7k2pa2k0cpurquxn3qn8jgddp3cswy4pxctqhlqqkg98p6"
+
+[validator_account.metadata]
+email = "stakeandrelax_validator@proton.me"
+description = "StakeandRelax to get Stake🥩&Rolex⌚Twitter:@StakeandRelax"
+website = "https://linktr.ee/stakeandrelax"
+discord_handle = "manueldb2"
+avatar = "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/cosmos/moniker/cosmosvaloper16qnr6snzq49l6grkyu39lzchnfv3ajfdvejx55.png"
+name = "Stake&Relax 🦥"
+
+[validator_account.signatures]
+tpknam1qrfdawuufjn07vdq2exy6h5djfsel8254452avz6auxdw9y7r3kpcdz7zcz = "signam1qzd4krc8rf485jzx37pnqlvcvwtzaf2nwpwtw2eul97mj39uvnpq779g8zu4lsg65d39myguf9fruq66qqdywc3tckxpxa8m604hf0svg6syxv"
