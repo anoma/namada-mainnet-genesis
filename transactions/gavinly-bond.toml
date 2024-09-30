@@ -1,0 +1,87 @@
+[[bond]]
+source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
+validator = "tnam1q8dtazgc7y9xx00lq4d2pnacvtz29p5mvcxwat74"
+amount = "150000"
+
+[bond.signatures]
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qpwc2zq80ywtae3eu60hq6z57nwac4z6xqslhsasntflfw0sm05vvkwqhz6ez0mghk9nfh2xvg44mm6uf58guqvacwz9xxez9n3druqxu04s6q"
+
+[[bond]]
+source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
+validator = "tnam1q8f8uln5yv9zx7sgyaakc3fzldm42kjg9y7tpej2"
+amount = "350000"
+
+[bond.signatures]
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qzsuae6f5kf428y8tgdvdpuc5xm0euxa7cenavy6pku6enlcxgfm2egc7jc98jn30etht6qn7krzw6raq7hlxrvwxh4ruj33zm9sstgxyarhf4"
+
+[[bond]]
+source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
+validator = "tnam1q8usghsv57lyfr26wtpyx9ry8v5h9lq63uakqupt"
+amount = "250000"
+
+[bond.signatures]
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qrs5gfa93q2kzcsqp8f5k059qekfcncdsvvargnds90xa6nauz7az5qawqp4u4erznuxe9zfswkg5kwgy4y24yvmqqnv9x0zjcweuks2nnqkee"
+
+[[bond]]
+source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
+validator = "tnam1q9ctkntly0ggv796axf4flnz3mgtx42ucuh5xhme"
+amount = "250000"
+
+[bond.signatures]
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qzppzyahl4sju5lc7azvhsv9duw5h5kucm77lc3pf7seqdw97hk42uqxglhwrrw98uhmzlpp3px96693vzr834zj008jkd2wf0kxx5sqrndaq6"
+
+[[bond]]
+source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
+validator = "tnam1qx03fx58wtm6e2g5yt4uu9jpy702h4pjuy9a7653"
+amount = "250000"
+
+[bond.signatures]
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qzztj0suyep2srd5qurg0d3eas0uw43y9zf05rs49jq4wznp44q9hs5h0r3dvdfpf3f82qmlmrq97fru47rsqcpq5vu9ljp62nl7t6sgl0g5xm"
+
+[[bond]]
+source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
+validator = "tnam1qx7apjd6puv09zenlgcjg5q9l74y6ax4sqvyhp6y"
+amount = "200000"
+
+[bond.signatures]
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qqs2259gfxrfrgjrpe7rysnn300l5uhjg52da6vj6vqdju7v2lv2x8y05q0x9ylcagqm7cgh37ruznk9pq49t726dd7s5xt5lk5kauspfs8y0g"
+
+[[bond]]
+source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
+validator = "tnam1qy0zrla88txv244suxaruqgr9g74vr8vyufd8rp7"
+amount = "250000"
+
+[bond.signatures]
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qqjremcpcv6l2km0g9afcm5y7x7uk5ngz49qe0xylcp7f9ff9h3ck9awnltxmwvlmkyumg4chpqlamy55quunsn9jw6hqvfgffgkjtcpjhev2m"
+
+[[bond]]
+source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
+validator = "tnam1qy93z8ek2wwm3l3nd9gl872n2argnjfrwstywpmj"
+amount = "250000"
+
+[bond.signatures]
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qr3tnpg7e7hx0vju9gxpk7pmz65c4wnc2qh5rwwuzyhwv00effgeuzrd4f4045qu3zzzs3sk8nr8u0gvxf7jf96pmv9n8h8cfn3g95g9ru7lhz"
+
+[[bond]]
+source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
+validator = "tnam1qy9htx7f43s3g4220ljzmua65vp5sw9ah5vm6xdu"
+amount = "40833"
+
+[bond.signatures]
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qqgn7yp0z6gspjphcdyqmucnwvuvjc2m7atv3u2lvlmn5x9l8ugkkfrkdy07x323f7fyx7rzyde37h42m336nmfjazyvns5ex5agchs9xd9ke3"
+
+[[bond]]
+source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
+validator = "tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p"
+amount = "350000"
+
+[bond.signatures]
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qzvxkgcv84jd747pkk8kpvp6q9fd7r8wkzhk3eafpucks0zuc4fyn8s66teccsqhe2hs39ydksgzyf2w290z0xaaa0yh8xwfm7rejpsp7g738x"
+
+[[bond]]
+source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
+validator = "tnam1qyx2vmne6th0nfk9lnwdz3mpwzslsaj5xc0x8ucu"
+amount = "2000000"
+
+[bond.signatures]
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qquj30vacc7pz35l678g047yspep5l3dh5anrcyezrggezx0wsezmvutzmhjvzy2rv3nf0qhtnj8snh5n383z3dxwurfkt60jls7cpcya0nc42"

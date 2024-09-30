@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp580kvzw8k9m0qcm0t2e2qje4zqfu0dl2kg5djlhszewsy4032f6me9x87"]
+
+[[validator_account]]
+address = "tnam1q9gvv99t25xam0tq0vg4x77a64tztm320gclvafy"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.119.116.229:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq7wlndlhx334dzp5kcdas902j39dsve4chc0umm4dc76d62s88axqym5sz"
+authorization = "signam1qpeft4jxnm89e2493unsdxz57pwhln9e38sefcx5zg25pjtx9n2jarh0fkxxweal3qhhu7m5fcrewtws92r85xxq66rrudcpgwq62kgyzp94gw"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrcf3nley6hz6xu5a7fwfte8x8dhrfuaw7qvc8wyw0qv7xlrp2czjuat8q3"
+authorization = "signam1qrexvl4nml05te9cawl63m347juxzlk8cj6y6s7234uehey2j8tvzekqm0sx8ggkrzj9wzgcamr4qj02kdm6nvs6z0u4atff067vy8q8fh8puh"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp7attev3ux4mzlq6dfygtefesttmpppt7448tua28f3fasgt053j55s637"
+authorization = "signam1qqrqelujzntks2mayhw9d990t2zalqlun0lul8drlha7v57emjq0w4uafg455x46c39rc8fdyl0qrp2dptschzwle0klgcluf8m28acqvefnpz"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyprt02m8dwzmfwe2hl84ksjvtwugrwuzzvpl7ekxyzc8c3l93u4qcqxkq27d"
+authorization = "signam1qx8wjl43cp8fgrdvl6ww5dxwdmhq3kzd0acu3zz897y4gg8kgcn9yranlc866qy08y5javzy9qfvu5d6w72frpv5hhew29e5tx8z3xpnqqctvvs4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypn42cupw7yy4e8rp7mlrljjjpsqa0kd0t29dtxsye0r3ytvwzc7sgan026t"
+authorization = "signam1q9rzj482clhg7l6hv223errxz4zte6hkpafcdlp3l30ns0nfn2l9kac4ncrp5jyprgy84ymft2dmjh8sd4pmmgx86fthdh6jm2643732qq4jjtuy"
+
+[validator_account.metadata]
+email = "office@daic.capital"
+description = "The official validator node from Coinage (Coinage.Media) and DAIC (https://daic.capital/telegram)"
+website = "https://daic.capital"
+avatar = "https://raw.githubusercontent.com/DAICers/coinage_x_daic/main/files/images/DAIC-CNG-Ape_360_moniker.png"
+name = "Coinage x DAIC"
+
+[validator_account.signatures]
+tpknam1qp580kvzw8k9m0qcm0t2e2qje4zqfu0dl2kg5djlhszewsy4032f6me9x87 = "signam1qp834yu847yj8dc7jv4he2tsprjp8xlqcqnwzzve5phg52kyljr5v2haa0dn03u7xpngxjjm4w69fer089awkd520edfv8c7n2mcjggw7gtp2r"
