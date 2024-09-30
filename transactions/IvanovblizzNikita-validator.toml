@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzm2l06dmknjdkfrkwvqe88x6wfd7pwd8apcn2zvcl6j037lx3vnshn9llh"]
+
+[[validator_account]]
+address = "tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t"
+vp = "vp_user"
+commission_rate = "0.07"
+max_commission_rate_change = "0.01"
+net_address = "65.109.85.203:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqq30ekem9dcc8pp2vcfv3nmfh7f3nhr359tl0nl0m3f3f0w86uxj2ax89s"
+authorization = "signam1qqklhd4spk5ezpumhs2aprrje92rpgqf0ywau07zade4hk7596fa9u54ky7cfaaqnwz99xk5xhtt4zmqx0f06wv6v2qzd2uyu2vzw0g2twxfgf"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrydfx707zez6fstaqds6u3wxpqdf4p5nuv9fcsctp5wcz84w255zq79f5h"
+authorization = "signam1qzp0qhxmqvulpgnqgy8shrkwusr3dv5tqmn0g9z8jt7gsj25xpkce4r2ua5jnfqqvggctlflxgx6eelpa634aujvupcfn95fnfjakxcgqvpxg7"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrktvq62mhklqwf4lnj0kud0h5zgdhtl0hnn4m5437j9jcs8q8jqv2t7c8r"
+authorization = "signam1qz05xhzlxvct83g36svyrgc6hd5van37d2ju9h4q33dzcyc5j8gsxgm6kuatqt0h3maulqvn7vfyw69gfdppfeuf0mxx79dnsl3yf3sy0k3u7r"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypp8n787upe50s5ap34tjtxjxp2485hk3ymp3950zdulg0tgtg2hzgecnpx7"
+authorization = "signam1qywzkdkd7k2r7uhtqptddra6vpx2h8pkxldcxd8vzjed0nwgq6ykytkp8s2rlsmsw8k9pp7an8vjdfuqt650dmg3g8age2yjcyl0dch7qy4jadd9"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypdaw4jduxnvw4zktu234wy8hcx2z99dydk5dv2clssnv9zaapwnnsd5pr88"
+authorization = "signam1qym7jrhu7cm8jgwmc2hj4wt4t3pclfgksk26fc5z3lt809shr4q5jf0u62u6e3un7pu0xnh3xcktfw3xfnfrtzdzty2lsvrnlevxwyqaqy7f0qtd"
+
+[validator_account.metadata]
+email = "team@stakeflow.io"
+description = "Stakeflow is a reliable and secure non-custodial validator that has been running since 2018. We focus on providing public goods for our delegators and supported chains. Check our block explorer https://stakeflow.io and website https://validator.stakeflow.io for more information."
+website = "https://validator.stakeflow.io"
+discord_handle = "ivanovblizznikita"
+avatar = "https://validator.stakeflow.io/img/validator-logo.png"
+name = "Stakeflow"
+
+[validator_account.signatures]
+tpknam1qzm2l06dmknjdkfrkwvqe88x6wfd7pwd8apcn2zvcl6j037lx3vnshn9llh = "signam1qz7f5wyk37zq9z3yzf5rgh3a6zvprq7en2ve3d7dt6uukn5dqejd42kuw3m2wetzcujvvrt6vckmhp4jskkjd34wwg8rzsrh0ln6meqfu4kmff"

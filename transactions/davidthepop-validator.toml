@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpk88mjfyx3n3e7uthxrr66pz4ughqhp97jqzva86fxfmsa8wm5fvv6v9mm"]
+
+[[validator_account]]
+address = "tnam1qyfmtehvnrrcwtjueygvvqrwy43dtw3r9uwe5tf7"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "142.132.151.35:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrdzwnvwce74xfq96zc82z8erxfj3c0tgdfk36k8s5pd7njked3zzw29wql"
+authorization = "signam1qqkwp8pajw2dxdpxewpktam3huvmt8d3mmg8suh9w52xxv7mm7cmj5mrcfew6qrylqlxrkdrqh3gw8cgc39fpw7sshgks9yj0wrep9q8gsyt5u"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr6pz2gfg034atag4s027m29lmg93cz4l0qz9wy9t4xwajmawrstgxng0ez"
+authorization = "signam1qrgyp5e4fw93pajhqxef2xu79zj8l5twtgy2mc6u0p2atdwg94jwelpzylmsae50hfjx6z74jrwy7rqps3ec33gpakwg0l866d042qc8t336kn"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqgcusft9ar8jcqfvyf0k8997l2qt5s7etjhva2akd8w7gtz7ffsj3hfymr"
+authorization = "signam1qqpezvx6nycm5fxz9fkwg2g8gt2htgptasm44kxxyvjzhma9lpau7kckn6z0ce45d9vcr0y0p23pvwpwgm3jlcd5elpsj89uaqxmj6cg00sssw"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp53p79scwzzmkm0r6fufws265acd345jr2puyqpgwjw3jle6jy06sjpqdw2"
+authorization = "signam1q9nny4qlyf678wxg2cm92ry2z5vwemlmd6y8fwferhaqzhgrlv0scwmqunj2pyar3yeeekr59cuvj0sfvytft4d986ur99u9ehjgrx99qyd3znq6"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp7nfl0cpw4ngslzdna2tlp4yakwxv8pc399sgf868a4quuqddj6dc0k4np3"
+authorization = "signam1qycg76szslkjxlw82c9l6drs59sf3dyxx0rdjjeywvk4eh2vkskyw6c67huul69erts2uthngx9dnavhlssdrhtedsk8fq9tpsu5atqgqqncfh6e"
+
+[validator_account.metadata]
+email = "davidthepopescu@gmail.com"
+website = "https://stake.systems"
+discord_handle = "davidthepopescu"
+name = "Stake.systems"
+
+[validator_account.signatures]
+tpknam1qpk88mjfyx3n3e7uthxrr66pz4ughqhp97jqzva86fxfmsa8wm5fvv6v9mm = "signam1qr2hk3ry3m6sdk5hcdfwyex7gtkg23rq7r69xnatxgac4pmz2lfuhm3vpwwu2lqkx2n2s0zjq9zuxlqucla40776tdtc9fzvagu738crgwdgjg"

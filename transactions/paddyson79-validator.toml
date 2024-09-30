@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr0n6jnt6a6jlzd83aj4u8ehaaud9mfrdnwfshkj5644xgru635f7fqtxyc"]
+
+[[validator_account]]
+address = "tnam1qx405kgvey8wwfcyt7rgsr4nvkrqsnztxs2kz7wv"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "176.9.50.55:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzwty0dz2lm7vtvumawut3mmakke4z5pdqevng4dq638htye4tjszg80zxv"
+authorization = "signam1qzu0mk79w42pdg7uqz56kn3g5sf4aew89nnk69876cau5se8rsu6u2q8d4zvn8ezdr9hjz5c0vkp72yuuxp4h6zpu727e8hjkd35j6cr370dgz"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzyh0d2pu9p2kcg0v6mnxr5mzrklg9hd7c3q0qc2cpks59mr0nmly0yya5r"
+authorization = "signam1qrf6gyvt9er48jkjf8sjh3apxhxqxu6yfq8txxtuavkmh8a420ymstvjh5quxrxra0dejcmjgdy5qz53ysx7naymgc78xwhnd27dpccygq2c33"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrgckuugud6avaa9vgzxkw0snq4erm392j6xycdm7zlp5fuk6l5eztkg44s"
+authorization = "signam1qpm0u0fnzdl9vdyqfa0dxukc2lnwetxk92tf9kjl0e0wjs6lrr5sltg2fhgk2p7h0qj4j5el7rjzml6ldcljp8ug79d20y9cxv0k7nsqynmr9h"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypz3y26dsvy5t67g84ep47xqfhg3uwurt0al5ydl9fxqtnvp0r2kusrmvse0"
+authorization = "signam1qy0js69u36la7kgq9mekxjwj342zpspe9uvwlfz5ge5fyrfprad5s8hhuq7c9tgmseunzg5uxfqr8kaw5qvddetjsn54847t4f33ye2nqq0mvyak"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypdnun0ex4awfeu2xyw25y3r9dfal3wqf28ymmtuwyvfwvxpdtkyeg0h2pk5"
+authorization = "signam1q8nu4dj5828d86m53jg62q90c86twevhx0sm775gw7hh5mfxlq6vcx4vd485lsd0e8x2z5z4nrnq8u6s0xwet568axhn0cax7887tmhqqyxhl4nm"
+
+[validator_account.metadata]
+email = "pathrock@protonmail.com"
+description = "Secure Non-Custodial Staking for PoS Blockchain Projects. We run reliable and secure validators and nodes of several different blockchain protocols. Come stake with us!"
+website = "https://pathrocknetwork.org/"
+discord_handle = "paddyson"
+avatar = "https://pathrocknetwork.org/images/logo/prn.png"
+name = "PathrockNetwork"
+
+[validator_account.signatures]
+tpknam1qr0n6jnt6a6jlzd83aj4u8ehaaud9mfrdnwfshkj5644xgru635f7fqtxyc = "signam1qrhe7xts6y0a20a2uayc9la5xslkwq6xuwf03zj4wfk22kak8z7333sejmqslwyfm9t29p308l6a9mn6dsnx5fhc6v2jfry2sngymrsgpdgtld"

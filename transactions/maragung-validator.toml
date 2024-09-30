@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz0r9eyzn9tavmchpanhrd99e94wewkxpkak5y4eldl00nks57agz4xy7gx"]
+
+[[validator_account]]
+address = "tnam1q9zvl5nzd2np5mdgfa2lzccaey4xln55ku3mdlws"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "159.223.196.251:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpw8sjgd90fu5ehkz0mvmvrtc9fzlcfgkyvgmlygpzh832ks8mh35fc0u7v"
+authorization = "signam1qrrcusysv9y8uckvgpyzu0ktmpevqsrvqvkcpc6v7j2d799jppzltenrgxsk98czdtx4wjxfskz04l2nw89ynd67jktece4chkkqdjsy390h6s"
+
+[validator_account.protocol_key]
+pk = "tpknam1qryuz0awkjy8atfg0c6yw80t65f88eux46yqpkx3hxlckuk24yyvyfptzp5"
+authorization = "signam1qp0swvwnytu63hxjt97dynkd39hqcqlquz7x5qcgswmtnwv56xryjrr5q399ah2kqhw0jnntf26x3rhjf83xq43z4w3wcl05n7f3dect3aq36y"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqnj77zkn4xqx53chxe2kdjpz0cpxhhgy6eas8wwuwvnc0tfk4zcxeaukgd"
+authorization = "signam1qp6mgtc5gf0j8w6j7nrz86x3pqpvfn08zl970t79k0c92yaa4835tdgn4yclm5tnd9zqxzuwregn4ghw8nyrpsunuwm3g3vrhvelzjq2lgsc9v"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp54kyjar5jpl35f5p4rqcy6ymsyg99gmvygdc9pyv8g0prewuqcpq5rst75"
+authorization = "signam1qy7p0gaxuw82m5wctpt7zkp4ne976m7m6muck7efg3vshtu70y7f6vnc85vc7rnns7vlf9j6pusglvwv9h8392nhk2m5efv9lt56zpe5qyctmym0"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypyrewv5anksam8r74cgwcgezyrcyngrf9c0f2fnrrpnscnc65s54qc8k0jh"
+authorization = "signam1qxay4v60yenuws9yhvmvhflp8zwn5rt75m38euyvyt3w8w2pxvj0k2f0uxwtq2c3lstsgxvae3zp4ffn867ch6knkcd9mzjpfex9tfydqq409jnd"
+
+[validator_account.metadata]
+email = "0xmaragung@gmail.com"
+website = "https://maragung.com"
+name = "maragung"
+
+[validator_account.signatures]
+tpknam1qz0r9eyzn9tavmchpanhrd99e94wewkxpkak5y4eldl00nks57agz4xy7gx = "signam1qpjpxhmf7jde7t9w754kzunfkcrg38jmk4z23p0jdrkf3fngv5k35un3xrta3lns4nf9t6km49w6g57yr5ep3qkh7uzwmckyhuy0ezqxzzppak"
