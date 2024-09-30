@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz0nznakwzym6qx9x7qnq8zyqpwxq373d9nf7k7lzvqxv2a2nz89ud2rdtu"]
+
+[[validator_account]]
+address = "tnam1qyep6245as3ar6a6ymk9tvsd6rhdnkr9rgx8mnwl"
+vp = "vp_user"
+commission_rate = "0.2"
+max_commission_rate_change = "0"
+net_address = "34.88.193.22:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz6g20l06vjhegca53ncu9mj66g623cgjh7yhjuh0ur9py68gx7jwylu3e8"
+authorization = "signam1qr0rneq4tjj09fpzesn4mfne47j66zn6eydqqnjwswg04rv9k2gr8rz5xt282fm54r4xh833zqnf0a4pzaj4mrl0y70lpm25h9cpj8swlqa3z0"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrd4kqs6qu5lpfjzn6g0wjmwdngzqzfeyej6asmye8yd3adadvpnwde7cq8"
+authorization = "signam1qp03nry2m3507g8zh0avrpezx90v24uqwuwc7cff6q74ukfvxqntyl6xeecdu9h3vflayvdnvzjhuemf8g9dmzkgnaqmw7d7tyzltfgfzcz54x"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzmqd5ckrc4v4tj8n97ldj0gw32nr2uztggkkd9vvsu9jpee25gyulv0r8l"
+authorization = "signam1qzna8jmxjlylhkadtkgmzakvaqjv8tvf9n5yk9xy2fmcz6adrym23vghh5y4vy8vc7sdwjzvfut3f7gfsyrpwg3985nw6dd9me5236g8xxwz6c"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypevclcc7sqrcva23lmlpahuqft64kry89y9srrnettahpg9xrhvlgyz3grd"
+authorization = "signam1q8gy9l6e099tkmacap0r5cjn5x26fpxks9yesqgdg6yrxdvf9l44x07mej6ee9ecc4q990av7lxy2jj0wu4kafgp3unja2wt5tyvhfayqqvzu6qx"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypevvv6rde20flw2wxaa8svcmx6hnvsupckn84wux3dwp0exg8hdtggaxjzv"
+authorization = "signam1q943naxqdc9uztpmlktc8zzanumyfn58n6lrufyuuc593ee7qg3hk7r4umg6fsm6n7kmd5p72jdwwwmsfcs79m38ksvja5w57ez07n7mqyuaad5r"
+
+[validator_account.metadata]
+email = "security@unit410.com"
+description = "Empowering hodlers to use their crypto in secure and novel ways"
+website = "https://unit410.com"
+avatar = "https://unit410.com/images/unit410-square-black.png"
+name = "Unit 410 [2]"
+
+[validator_account.signatures]
+tpknam1qz0nznakwzym6qx9x7qnq8zyqpwxq373d9nf7k7lzvqxv2a2nz89ud2rdtu = "signam1qp0q2d088cljqn3f95kluf2lwdt4lt67lh3d84l5eazd7vsq8utcmcr6dp3j9a35nlelhfwuqk3uq3gtud0h8tx2k6terqlsvadlpdcwu2aylz"

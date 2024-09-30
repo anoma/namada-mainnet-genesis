@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqqq8hscemxm5sz4lsl24ctz8g8hdumhmy65gfcup9e052dqs974zkatchk"]
+
+[[validator_account]]
+address = "tnam1q8vx4sj4myszl7ej847keaurjx4yjhu89cde4530"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "168.119.33.3:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp47jrqgn682fe9tk0px8evh3drmn4p3z9f4tnznu2futtr28wgmz98tqp6"
+authorization = "signam1qzsm2mjlyfz3cj6n7s5fhhdw7fagy4yum46q7r2j3n0dvzv84rz53p677glqeqaapdypc7sqtqvw3rp59d8jk962lqj7l45sl2d2qhs0px3rfr"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpg2g0mlvv9j4zxdm80hkz7s856tzzvwnl66g4zyzc0tngnsuxs4qykhzav"
+authorization = "signam1qrvg2cvevf6zp38ke6tuaap5ch2l23v6k47ex4g293zm758ruc7kdlvh0qm7pgcfclljv0a3yv87dwfeduuvd6e0zctuam7647xnpagt9pepc5"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqq5kxdnf8lhqxktq09qa3rjznxur8hqzcukz972yegwyd6644d7gjfyerm"
+authorization = "signam1qpayj27set0x0xz3tvhuzfz7weps7m39h0n7lzm6es47nu7kafqmv8z83ljprcnqu3n04zxgnpj3dvvs765sxzuuaur397t69urxg9sgx43prw"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypnjxvyeu3v9mhz0hrqr93lmhr2h22xrlwgldd399nr2cxur5nq32qehcjd7"
+authorization = "signam1q86k5j70zrjqhs699vt35avwfamn7zst9ef9jx4uuxxsfs4u5vwrut832q4qp4ugm9ue2mfv9308yamxvgjlsg5v2pd0zz98s7ehyct9qy9szj2n"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyphm9ljt4pha9f57j825yga8nun9ygjhspvkz2vrlc2xmk6303rkdcpemug2"
+authorization = "signam1q8puksdyzyyrsth4q22vq50x95d0ykpjerq03f7s575epaqx8hrgs2azecnsa7xckd8usakx6zxq7rnvrdzlux7q90up3y7vwcet3scwqq9gmwht"
+
+[validator_account.metadata]
+email = "zhrakivskyiandrii@hotmail.com"
+discord_handle = "campbellio"
+name = "Campbell"
+
+[validator_account.signatures]
+tpknam1qqqq8hscemxm5sz4lsl24ctz8g8hdumhmy65gfcup9e052dqs974zkatchk = "signam1qrxeuhtkvlqms6d44p8lzfxsg23sf9n83yjymmjc0h0dddmp7n24hshknapfnvhuddkf3fqgl7zsnsuk03tymaf5zvezrn74wde4nzcxdc7mjl"
