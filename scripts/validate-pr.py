@@ -263,7 +263,7 @@ def main():
     check_deleted_and_modified_files()
 
     if len(changed_files) == 0:
-        print("No valid found found. Rename to '{}-validator.toml' or '{}-account.toml' or '{}-bond.toml'".format(alias))
+        print("No valid found found. Rename to '{}-validator.toml' or '{}-account.toml' or '{}-bond.toml'".format(alias, alias, alias))
         print("Will continue anyway.")
     else:
         print("Found {} file changed/added.".format(len(changed_files)))
