@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `336`
+- Total pre-genesis transactions: `337`
 - Total validators: `196`
-- Total delegations: `140`
-- Staked tokens: `15815554.67972 (~1.58%)`
+- Total delegations: `141`
+- Staked tokens: `15861914.67972 (~1.59%)`
 
 ## Validators
 
@@ -137,6 +137,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://nodes.guru`
     - total delegations: `4`
 
+- address: `tnam1qy93z8ek2wwm3l3nd9gl872n2argnjfrwstywpmj`
+    - alias: `project blanc`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `296360.0 (0.03%)`
+    - email: `it@projectblanc.ch`
+    - website: `https://blanc.group/`
+    - total delegations: `2`
+
 - address: `tnam1qy0zrla88txv244suxaruqgr9g74vr8vyufd8rp7`
     - alias: `Wavefive`
     - commission: `5.0%`
@@ -162,15 +171,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `250000.0 (0.03%)`
     - email: `admin@infraspear.com`
     - website: `Unknown website`
-    - total delegations: `1`
-
-- address: `tnam1qy93z8ek2wwm3l3nd9gl872n2argnjfrwstywpmj`
-    - alias: `project blanc`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `250000.0 (0.03%)`
-    - email: `it@projectblanc.ch`
-    - website: `https://blanc.group/`
     - total delegations: `1`
 
 - address: `tnam1q8usghsv57lyfr26wtpyx9ry8v5h9lq63uakqupt`
