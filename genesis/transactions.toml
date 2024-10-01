@@ -1663,6 +1663,17 @@ tpknam1qpgff9uw9km6f34957xptf3v86sack0p894gfl8lkfr77a3rmqn96lwfl8k = "signam1qzt
 
 
 
+# adding transaction for trivo25-bond
+
+[[bond]]
+source = "tpknam1qqwftx6ekrduvenhc89htm5vsa4pd5q5243wa4culynqhkxja2n765nvtls"
+validator = "tnam1qxr8n7u36jcf82d0ccp0flshpwhz3d3xjv5ryn44"
+amount = "45838"
+
+[bond.signatures]
+tpknam1qqwftx6ekrduvenhc89htm5vsa4pd5q5243wa4culynqhkxja2n765nvtls = "signam1qr95sx94rxl9ulf46rhfxnm8ck4y559emtxrkkq8updug4lczvndrj36xavqwg3tdlv9umlnw8uf5v92pva4mulartu2zwj4ydzuv6q8pg9ysj"
+
+
 # adding transaction for 5elementsnodes-validator
 
 [[established_account]]
@@ -2877,6 +2888,18 @@ name = "project blanc"
 
 [validator_account.signatures]
 tpknam1qrl0dw3m40xm9n0u4jge0q99nkswufn4dxc8yaapptpeq357z82uvk97zz9 = "signam1qzs7tugn63ry5umz56vmvhgrghcr5syxke2qgg732x5mjw4q6wv6t0ygq92atgede3m0uy0l3864y9k79frac7nhltptyn7udrhh8pqytv7ee9"
+
+
+
+# adding transaction for altbro-bond
+
+[[bond]]
+source = "tpknam1qqm9tg8vh3mzdalq59j2q29p9cjaxe74cttz5ycphda3ucl8hgjx7nkapyx"
+validator = "tnam1qxepvwg3c24kv0ltlkaasxscy3fsk89h8vrwzgd7"
+amount = "1000"
+
+[bond.signatures]
+tpknam1qqm9tg8vh3mzdalq59j2q29p9cjaxe74cttz5ycphda3ucl8hgjx7nkapyx = "signam1qplyxr4u39egat9q4jqcrq5jv52dr4fppghmamxfpqd63k3eym5x9wp3wcw7x9hl039cgq38fxecknmmtgxuza4tr0c6gh0xqzsvjrcxv875zn"
 
 
 
@@ -9217,6 +9240,18 @@ name = "EquinoxDao"
 
 [validator_account.signatures]
 tpknam1qrvem3lvgg2975dykwmgzy5netn96gp2m4zx2qlscrwa00lmk4wuves3nu3 = "signam1qr5jkahgu3x5a8lzmpcr295ns2kkwr4gdcdz9m9hqg83008lhzjdz569vjwl3lufydvtwvg4v4ztve3x6qztnpdgxcsg3p7gw8pjczqtxlw2ku"
+
+
+
+# adding transaction for rozmar564-bond
+
+[[bond]]
+source = "tpknam1qq6hr9jgzwqypvhr6w5zggjeu9s555dfgppnkqcvjykc4m4pd6vy6alf5zx"
+validator = "tnam1qx304q35wkfd5zd07rgapwsrmg3tsapncsqdcg25"
+amount = "200"
+
+[bond.signatures]
+tpknam1qq6hr9jgzwqypvhr6w5zggjeu9s555dfgppnkqcvjykc4m4pd6vy6alf5zx = "signam1qp4xtfc7j5sf36qe9xh7t57udp7q0gkgl0uwk5ztq8jlxkz2uesv2pzl8yxj3qpl03egnvqe7yrg38w6gwq840g7tswkn2cpeylngwg8avcdv2"
 
 
 

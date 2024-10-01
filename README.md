@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `337`
+- Total pre-genesis transactions: `340`
 - Total validators: `196`
-- Total delegations: `141`
-- Staked tokens: `15861914.67972 (~1.59%)`
+- Total delegations: `144`
+- Staked tokens: `15908952.67972 (~1.59%)`
 
 ## Validators
 
@@ -423,6 +423,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `45838.476141 (0.0%)`
     - email: `joseph@redtrie.com`
     - website: `Unknown website`
+    - total delegations: `1`
+
+- address: `tnam1qxr8n7u36jcf82d0ccp0flshpwhz3d3xjv5ryn44`
+    - alias: `ZKV`
+    - commission: `10.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `45838.0 (0.0%)`
+    - email: `hello@zkvalidator.com`
+    - website: `https://zkv.xyz/`
     - total delegations: `1`
 
 - address: `tnam1qxfcew76uclxuf5a5qkhwdtt8m6enc58tsqnwupd`
@@ -920,6 +929,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://gatahub.zone`
     - total delegations: `1`
 
+- address: `tnam1qxepvwg3c24kv0ltlkaasxscy3fsk89h8vrwzgd7`
+    - alias: `Bro_n_Bro`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1000.0 (0.0%)`
+    - email: `bro.n.bro.foundation@gmail.com`
+    - website: `bronbro.io`
+    - total delegations: `1`
+
 - address: `tnam1q94p40xwx9ju2qygn43eysyrzpzr0l8rnyztm9k7`
     - alias: `Unknown alias`
     - commission: `5.0%`
@@ -974,6 +992,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://architectnodes.com`
     - total delegations: `1`
 
+- address: `tnam1qx304q35wkfd5zd07rgapwsrmg3tsapncsqdcg25`
+    - alias: `Airdrops_one`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `200.0 (0.0%)`
+    - email: `info@steadycrypto.solutions`
+    - website: `https://airdrops.one/`
+    - total delegations: `1`
+
 - address: `tnam1qyd9xx4cw4knl4accyp2epnrfk6fgc3kgqxrzndv`
     - alias: `MathNodes`
     - commission: `3.1399999999999997%`
@@ -1019,15 +1046,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://stakingcabin.com`
     - total delegations: `0`
 
-- address: `tnam1qxr8n7u36jcf82d0ccp0flshpwhz3d3xjv5ryn44`
-    - alias: `ZKV`
-    - commission: `10.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `hello@zkvalidator.com`
-    - website: `https://zkv.xyz/`
-    - total delegations: `0`
-
 - address: `tnam1q80ajrpqzv0vz9sl5ye22rprjt3k3q0cqy4lwywe`
     - alias: `Stakely.io`
     - commission: `5.0%`
@@ -1071,15 +1089,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `contact@enigma-validator.com`
     - website: `https://enigma-validator.com/`
-    - total delegations: `0`
-
-- address: `tnam1qxepvwg3c24kv0ltlkaasxscy3fsk89h8vrwzgd7`
-    - alias: `Bro_n_Bro`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `bro.n.bro.foundation@gmail.com`
-    - website: `bronbro.io`
     - total delegations: `0`
 
 - address: `tnam1q8wp34dknmcl84t46pk7syjwz7ys36ppksxg6xsc`
@@ -1395,15 +1404,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `vladtrecklo@gmail.com`
     - website: `https://crypto100f.com`
-    - total delegations: `0`
-
-- address: `tnam1qx304q35wkfd5zd07rgapwsrmg3tsapncsqdcg25`
-    - alias: `Airdrops_one`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `info@steadycrypto.solutions`
-    - website: `https://airdrops.one/`
     - total delegations: `0`
 
 - address: `tnam1q8xwyyc9j58w09wqm0z3jjjkt08699t4syfnpgmh`
