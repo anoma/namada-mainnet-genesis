@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `324`
+- Total pre-genesis transactions: `325`
 - Total validators: `195`
-- Total delegations: `129`
-- Staked tokens: `15395154.67972 (~1.54%)`
+- Total delegations: `130`
+- Staked tokens: `15425154.67972 (~1.54%)`
 
 ## Validators
 
@@ -451,6 +451,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `admin@validatorvn.com`
     - website: `https://validatorvn.com`
     - total delegations: `2`
+
+- address: `tnam1qx5psh6xca8n4ezukdy5yynhtr3a6m65lv54ms3p`
+    - alias: `newton-zone`
+    - commission: `5.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `30000.0 (0.0%)`
+    - email: `namada@newton.zone`
+    - website: `https://newton.zone`
+    - total delegations: `1`
 
 - address: `tnam1qyg69x0fvth8tl8z7ylxdppq4hud7755cg0z55n3`
     - alias: `Cryptomolot`
@@ -936,15 +945,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `tecnodes.network@gmail.com`
     - website: `https://tecnodes.network`
-    - total delegations: `0`
-
-- address: `tnam1qx5psh6xca8n4ezukdy5yynhtr3a6m65lv54ms3p`
-    - alias: `newton-zone`
-    - commission: `5.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `namada@newton.zone`
-    - website: `https://newton.zone`
     - total delegations: `0`
 
 - address: `tnam1qxl39v5a88cm0cw842mv7znmygmz4etfa5d5raze`
