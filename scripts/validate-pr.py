@@ -3,9 +3,11 @@ import re
 import os
 from typing import Dict, List
 import toml
+import glob
+from scripts.constant import VERSION
 from utils import is_valid_bech32m
 
-FILE_NAME_PATTER = r"transactions/(.*)-(validator|bond|account).toml"
+FILE_NAME_PATTERN = r"transactions/(.*)-(validator|bond|account).toml"
 EMAIL_PATTERN = r"^\S+@\S+\.\S+$"
 
 
@@ -35,12 +37,13 @@ def get_all_created_files(alias):
     if res.returncode > 0:
         exit(1)
     
-    return list(filter(lambda file_path: "transactions/{}-".format(alias) in file_path, map(lambda file_path: file_path.decode(), res.stdout.splitlines())))
+    return list(filter(lambda file_path: "transactions/{}-".format(alias).lower() in file_path, map(lambda file_path: file_path.decode(), res.stdout.splitlines())))
 
 
 def read_unsafe_toml(file_path):
     try:
-        return toml.load(open(file_path, "r"))
+        with open(file_path, "r") as toml_file:
+            return toml.load(toml_file)
     except Exception as e:
         return None
     
@@ -49,7 +52,7 @@ def get_alias_from_env():
     alias = os.environ.get("ALIAS")
     if alias is None:
         exit(1)
-    return alias
+    return alias.lower()
 
 
 def get_alias_from_file(file):
@@ -82,7 +85,7 @@ def check_if_account_is_valid(accounts_toml: List[Dict]):
 
     return True
 
-def check_if_validator_is_valid(validators_toml: List[Dict]):
+def check_if_validator_is_valid(validators_toml: List[Dict], signatures: List['str']):
     is_valid = check_if_account_is_valid(validators_toml)
     if not is_valid:
         return False
@@ -103,10 +106,10 @@ def check_if_validator_is_valid(validators_toml: List[Dict]):
                 value = validator[field][sub_field]
                 if sub_field == 'pk' and not is_valid_bech32m(value, 'tpknam'):
                     return False
-                elif sub_field == 'authorization' and not is_valid_bech32m(value, 'signam'):
+                elif sub_field == 'authorization' and (not is_valid_bech32m(value, 'signam') or value in signatures):
                     return False
 
-                
+
         for field in ['metadata']:
             for sub_field in ['email']:
                 if sub_field not in validator[field]:
@@ -121,6 +124,9 @@ def check_if_validator_is_valid(validators_toml: List[Dict]):
 
             sig = validator['signatures'][public_key]
             if not is_valid_bech32m(sig, 'signam'):
+                return False
+            
+            if sig in signatures:
                 return False
     
         vp = validator['vp']
@@ -148,7 +154,7 @@ def check_if_validator_is_valid(validators_toml: List[Dict]):
     return True
 
 
-def check_if_bond_is_valid(bonds_toml: List[Dict], balances: Dict[str, Dict]):
+def check_if_bond_is_valid(bonds_toml: List[Dict], signatures: List['str']):
     for bond in bonds_toml['bond']:
         for field in ['source', 'validator', 'amount', 'signatures']:
             if field not in bond:
@@ -163,6 +169,9 @@ def check_if_bond_is_valid(bonds_toml: List[Dict], balances: Dict[str, Dict]):
 
             sig = bond['signatures'][public_key]
             if not is_valid_bech32m(sig, 'signam'):
+                return False
+            
+            if sig in signatures:
                 return False
         
         source = bond['source']
@@ -179,10 +188,7 @@ def check_if_bond_is_valid(bonds_toml: List[Dict], balances: Dict[str, Dict]):
     return True
 
 
-def validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts) -> bool:
-    balances = toml.load(open("genesis/balances.toml", "r"))
-    nam_balances = balances['token']['NAM']
-
+def validate_toml(file, signatures, can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts) -> bool:
     if '-account.toml' in file and can_apply_for_accounts:
         accounts_toml = read_unsafe_toml(file)
         if accounts_toml is None:
@@ -197,7 +203,7 @@ def validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply
         if validators_toml is None:
             print("{} is NOT valid.".format(file))
             return False
-        is_valid = check_if_validator_is_valid(validators_toml)
+        is_valid = check_if_validator_is_valid(validators_toml, signatures)
         if not is_valid:
             print("{} is NOT valid.".format(file))
             return False
@@ -206,7 +212,7 @@ def validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply
         if not bonds_toml:
             print("{} is NOT valid.".format(file))
             return False
-        is_valid = check_if_bond_is_valid(bonds_toml, nam_balances)
+        is_valid = check_if_bond_is_valid(bonds_toml, signatures)
         if not is_valid:
             print("{} is NOT valid.".format(file))
             return False
@@ -215,21 +221,58 @@ def validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply
     
     return True
 
+def read_all_signatures():
+    signatures = []
+    for file in glob.glob("transactions/*.toml"):
+        if '-validator.toml' in file:
+            validators_toml = read_unsafe_toml(file)
+            if validators_toml is None:
+                print("{} is NOT valid.".format(file))
+                continue
+            for validator in validators_toml['validator_account']:
+                for field in ['consensus_key', 'protocol_key', 'tendermint_node_key', 'eth_hot_key', 'eth_cold_key']:
+                    sig = validator[field]['authorization']
+                    signatures.append(sig)
+                
+                for sig in validator['signatures']:
+                    signatures.append(sig)
+                
+        elif '-bond.toml' in file:
+            bonds_toml = read_unsafe_toml(file)
+            if not bonds_toml:
+                print("{} is NOT valid.".format(file))
+                continue
+            for bond in bonds_toml['bond']:
+                for sig in bond['signatures'].values():
+                    signatures.append(sig)
+        else:
+            continue
+
+    return signatures
+
+
 def main():
+    print("Version: {}".format(VERSION))
+    
     alias = get_alias_from_env()
+    signatures = read_all_signatures()
     
     can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts = read_env()
     changed_files = get_all_created_files(alias)
 
     check_deleted_and_modified_files()
 
-    print("Found {} file changed/added.".format(len(changed_files)))
-    
+    if len(changed_files) == 0:
+        print("No valid found found. Rename to '{}-validator.toml' or '{}-account.toml' or '{}-bond.toml'".format(alias))
+        print("Will continue anyway.")
+    else:
+        print("Found {} file changed/added.".format(len(changed_files)))
+
     # only files changes in transactions with a specific format are allowed
     for file in changed_files:
-        res = re.search(FILE_NAME_PATTER, file)
+        res = re.search(FILE_NAME_PATTERN, file)
         if res is None:
-            print("{} doesn't match pattern {}".format(file, FILE_NAME_PATTER))
+            print("{} doesn't match pattern {}".format(file, FILE_NAME_PATTERN))
             exit(1)
 
         file_alias = get_alias_from_file(file)
@@ -239,7 +282,7 @@ def main():
 
         print("{} is allowed, checking if its valid...".format(file))
     
-        res = validate_toml(file, can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts)
+        res = validate_toml(file, signatures, can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts)
         if res:
             print("{} is valid.".format(file))
         else:
