@@ -251,9 +251,11 @@ def validate_toml(file, signatures, can_apply_for_validators, can_apply_for_bond
     
     return True
 
-def read_all_signatures():
+def read_all_signatures(alias):
     signatures = []
     for file in glob.glob("transactions/*.toml"):
+        if current_file in file:
+            continue
         if '-validator.toml' in file:
             validators_toml = read_unsafe_toml(file)
             if validators_toml is None:
@@ -285,7 +287,6 @@ def main():
     print("Version: {}".format(VERSION))
     
     alias = get_alias_from_env()
-    signatures = read_all_signatures()
     
     can_apply_for_validators, can_apply_for_bonds, can_apply_for_accounts = read_env()
     changed_files = get_all_created_files(alias)
@@ -309,6 +310,8 @@ def main():
         if not alias.lower() in file_alias.lower():
             print("alias {} doesn't correspond".format(alias.lower()))
             exit(1)
+
+        signatures = read_all_signatures(alias)
 
         print("{} is allowed, checking if its valid...".format(file))
     
