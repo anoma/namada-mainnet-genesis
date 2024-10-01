@@ -4,6 +4,7 @@ import toml
 import os
 import plotly.graph_objects as go
 from jinja2 import Environment, FileSystemLoader
+from scripts.constant import VERSION
 
 TOTAL_SUPPLY = 1000000000
 
@@ -141,6 +142,8 @@ def merge_transactions():
 
 
 def main():
+    print("Version: {}".format(VERSION))
+    
     validators, bonds = parse_validators()
     build_graph(validators)
     build_readme(validators, bonds)

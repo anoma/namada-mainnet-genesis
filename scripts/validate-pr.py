@@ -4,6 +4,7 @@ import os
 from typing import Dict, List
 import toml
 import glob
+from scripts.constant import VERSION
 from utils import is_valid_bech32m
 
 FILE_NAME_PATTERN = r"transactions/(.*)-(validator|bond|account).toml"
@@ -251,6 +252,8 @@ def read_all_signatures():
 
 
 def main():
+    print("Version: {}".format(VERSION))
+    
     alias = get_alias_from_env()
     signatures = read_all_signatures()
     

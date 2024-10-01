@@ -3,6 +3,8 @@ import os
 import subprocess
 import toml
 
+from scripts.constant import VERSION
+
 def get_all_merged_transactions():
     return glob.glob("transactions/*-*.toml")
 
@@ -60,6 +62,8 @@ def is_valid_template():
 
 
 def main():
+    print("Version: {}".format(VERSION))
+    
     transactions = get_all_merged_transactions()
     check_duplicate_signature(transactions)
 
