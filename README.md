@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `321`
+- Total pre-genesis transactions: `323`
 - Total validators: `195`
-- Total delegations: `126`
-- Staked tokens: `14994144.67972 (~1.5%)`
+- Total delegations: `128`
+- Staked tokens: `15394144.67972 (~1.54%)`
 
 ## Validators
 
@@ -90,6 +90,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `500000.0 (0.05%)`
     - email: `info@cosmicvalidator.com`
     - website: `https://www.cosmicvalidator.com`
+    - total delegations: `2`
+
+- address: `tnam1qy500vdqtcumxzfhjccrhdx9j9wawhsyg536thwn`
+    - alias: `anodeofzen`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `400000.0 (0.04%)`
+    - email: `zenodeapp@gmail.com`
+    - website: `https://zenode.app`
     - total delegations: `2`
 
 - address: `tnam1qx7apjd6puv09zenlgcjg5q9l74y6ax4sqvyhp6y`
@@ -227,6 +236,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://www.staking4all.org/`
     - total delegations: `2`
 
+- address: `tnam1qygycq5aejv4aypdppldrar2jnplmyt8ussdvjyr`
+    - alias: `LiveRaveN`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `150000.0 (0.01%)`
+    - email: `liver23@protonmail.com`
+    - website: `https://services.liveraven.net`
+    - total delegations: `2`
+
 - address: `tnam1q8d8ypu5j88qqvx89grct795uap82dtlqvjqjh3h`
     - alias: `MELLIFERA`
     - commission: `5.0%`
@@ -234,15 +252,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `105000.0 (0.01%)`
     - email: `team@mellifera.network`
     - website: `https://mellifera.network`
-    - total delegations: `1`
-
-- address: `tnam1qy500vdqtcumxzfhjccrhdx9j9wawhsyg536thwn`
-    - alias: `anodeofzen`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `100000.0 (0.01%)`
-    - email: `zenodeapp@gmail.com`
-    - website: `https://zenode.app`
     - total delegations: `1`
 
 - address: `tnam1q8yksf6xqm6u8e2axhy7wyx0elslnh7tdsrp2y9m`
@@ -324,15 +333,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `54900.0 (0.01%)`
     - email: `namada@stakin.com`
     - website: `https://stakin.com`
-    - total delegations: `1`
-
-- address: `tnam1qygycq5aejv4aypdppldrar2jnplmyt8ussdvjyr`
-    - alias: `LiveRaveN`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `50000.0 (0.01%)`
-    - email: `liver23@protonmail.com`
-    - website: `https://services.liveraven.net`
     - total delegations: `1`
 
 - address: `tnam1q8hck7594xqw9dz35m8wwtgtvdxf4xn0mg908r8x`
