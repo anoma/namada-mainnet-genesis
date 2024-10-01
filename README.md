@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `325`
+- Total pre-genesis transactions: `326`
 - Total validators: `195`
-- Total delegations: `130`
-- Staked tokens: `15425154.67972 (~1.54%)`
+- Total delegations: `131`
+- Staked tokens: `15426154.67972 (~1.54%)`
 
 ## Validators
 
@@ -920,6 +920,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `www.famnode.my.id`
     - total delegations: `1`
 
+- address: `tnam1qy43rawgevk9jcun495r9sn8pyu7yhxzhgph6e4g`
+    - alias: `ArchitectNodes`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1000.0 (0.0%)`
+    - email: `architectnodes@gmail.com`
+    - website: `https://architectnodes.com`
+    - total delegations: `1`
+
 - address: `tnam1qyd9xx4cw4knl4accyp2epnrfk6fgc3kgqxrzndv`
     - alias: `MathNodes`
     - commission: `3.1399999999999997%`
@@ -1386,15 +1395,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `q1037573909@gmail.com`
     - website: `Unknown website`
-    - total delegations: `0`
-
-- address: `tnam1qy43rawgevk9jcun495r9sn8pyu7yhxzhgph6e4g`
-    - alias: `ArchitectNodes`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `architectnodes@gmail.com`
-    - website: `https://architectnodes.com`
     - total delegations: `0`
 
 - address: `tnam1q9skz9pj8rac6tnjkcahqw7q68tg5ekgmsxurann`

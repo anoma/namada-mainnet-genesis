@@ -5078,6 +5078,18 @@ tpknam1qz6hvp3h7f8d9mrf7zr4tgusyc0n9flj4urpf3k9hjuc5sywavwjy7uvc6x = "signam1qpp
 
 
 
+# adding transaction for social244305-architect-bond
+
+[[bond]]
+source = "tpknam1qqdxgfs96yv5gsw8sc5vznpa0sxvxlch8yar7l2aazathued36u8ysww2vr"
+validator = "tnam1qy43rawgevk9jcun495r9sn8pyu7yhxzhgph6e4g"
+amount = "1000"
+
+[bond.signatures]
+tpknam1qqdxgfs96yv5gsw8sc5vznpa0sxvxlch8yar7l2aazathued36u8ysww2vr = "signam1qzdxur2gpjvyweep7rk87umk7mrxkqet2c634cl8sqvu8zm5cn3hqw6p2m936g8q493vxkwheehekksahy05t6htqay4jfsuxurmeygdpmaw6v"
+
+
+
 # adding transaction for pa1amar-bond
 
 [[bond]]
