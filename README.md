@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `327`
+- Total pre-genesis transactions: `331`
 - Total validators: `195`
-- Total delegations: `132`
-- Staked tokens: `15448554.67972 (~1.54%)`
+- Total delegations: `136`
+- Staked tokens: `15648554.67972 (~1.56%)`
 
 ## Validators
 
@@ -24,19 +24,19 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Mandragora`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `3024624.0 (0.3%)`
+    - total voting power: `3074624.0 (0.31%)`
     - email: `support@mandragora.io`
     - website: `Unknown website`
-    - total delegations: `1`
+    - total delegations: `2`
 
 - address: `tnam1qyx2vmne6th0nfk9lnwdz3mpwzslsaj5xc0x8ucu`
     - alias: `Knowable`
     - commission: `7.000000000000001%`
     - max commission rate change: `1.0%`
-    - total voting power: `2100000.0 (0.21%)`
+    - total voting power: `2150000.0 (0.21%)`
     - email: `infra@knowable.vc`
     - website: `https://knowable.vc`
-    - total delegations: `2`
+    - total delegations: `3`
 
 - address: `tnam1q96k4cmpem5n6tun5qap7vqfxv5fx9hzucp8lqt0`
     - alias: `Unknown alias`
@@ -51,10 +51,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `TuDudes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `725185.611 (0.07%)`
+    - total voting power: `775185.611 (0.08%)`
     - email: `node-alerts@tududes.com`
     - website: `https://tududes.com`
-    - total delegations: `2`
+    - total delegations: `3`
 
 - address: `tnam1qx7wyapm8f9ddlukz3p7gdmhjjvck7lmaqjeflra`
     - alias: `BXKelePool`
@@ -74,6 +74,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://l0vd.com`
     - total delegations: `1`
 
+- address: `tnam1q8xasrt0q8qrkqj5s9r9xw3ee0gx5mqwyukhe699`
+    - alias: `Cosmic Validator`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `550000.0 (0.06%)`
+    - email: `info@cosmicvalidator.com`
+    - website: `https://www.cosmicvalidator.com`
+    - total delegations: `3`
+
 - address: `tnam1q8f8uln5yv9zx7sgyaakc3fzldm42kjg9y7tpej2`
     - alias: `Finoa Consensus Services`
     - commission: `10.0%`
@@ -81,15 +90,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `550000.0 (0.06%)`
     - email: `operations@consensus.finoa.io`
     - website: `https://www.finoa.io/staking-delegation`
-    - total delegations: `2`
-
-- address: `tnam1q8xasrt0q8qrkqj5s9r9xw3ee0gx5mqwyukhe699`
-    - alias: `Cosmic Validator`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `500000.0 (0.05%)`
-    - email: `info@cosmicvalidator.com`
-    - website: `https://www.cosmicvalidator.com`
     - total delegations: `2`
 
 - address: `tnam1qy500vdqtcumxzfhjccrhdx9j9wawhsyg536thwn`
