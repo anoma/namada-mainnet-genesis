@@ -112,7 +112,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 
 - address: `tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p`
     - alias: `Kintsugi Nodes`
-    - commission: `2.0%`
+    - commission: `5.0%`
     - max commission rate change: `1.0%`
     - total voting power: `350135.922579 (0.04%)`
     - email: `info@kintsugi.tech`
