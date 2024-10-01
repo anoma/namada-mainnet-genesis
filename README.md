@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `335`
+- Total pre-genesis transactions: `336`
 - Total validators: `196`
-- Total delegations: `139`
-- Staked tokens: `15765554.67972 (~1.58%)`
+- Total delegations: `140`
+- Staked tokens: `15815554.67972 (~1.58%)`
 
 ## Validators
 
@@ -351,6 +351,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `50000.0 (0.01%)`
     - email: `hi@originstake.com`
     - website: `https://originstake.com`
+    - total delegations: `1`
+
+- address: `tnam1qyzcm6jay6u624050fucq3uhfe2r9k8e7qhn65l5`
+    - alias: `QuantNode`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `50000.0 (0.01%)`
+    - email: `contact@quantnode.tech`
+    - website: `Unknown website`
     - total delegations: `1`
 
 - address: `tnam1qy24smlm8tdg8vawx8xh30fxa8kcwnudkvufz9zn`
@@ -1764,15 +1773,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `contact@block-pro.net`
     - website: `https://block-pro.net/`
-    - total delegations: `0`
-
-- address: `tnam1qyzcm6jay6u624050fucq3uhfe2r9k8e7qhn65l5`
-    - alias: `QuantNode`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `contact@quantnode.tech`
-    - website: `Unknown website`
     - total delegations: `0`
 
 - address: `tnam1q8d0rndpkyx8599wzcasphsqd3st5q3nsyxj7y9j`
