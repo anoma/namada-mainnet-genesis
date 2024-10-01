@@ -60,9 +60,10 @@ def get_alias_from_file(file):
 
 
 def check_if_account_is_valid(accounts_toml: List[Dict]):
-    for account in accounts_toml['established_account']:
+    for idx, account in enumerate(accounts_toml['established_account']):
         for field in ['vp', 'threshold', 'public_keys']:
             if field not in account:
+                print("Invalid reason: account-1-{}".format(idx))
                 return False
 
         vp = account['vp']
@@ -70,17 +71,21 @@ def check_if_account_is_valid(accounts_toml: List[Dict]):
         public_keys = account['public_keys']
 
         if vp != "vp_user":
+            print("Invalid reason: account-2-{}".format(idx))
             return False
         
         if len(public_keys) < threshold:
+            print("Invalid reason: account-3-{}".format(idx))
             return False
 
         if threshold <= 0:
+            print("Invalid reason: account-4-{}".format(idx))
             return False
         
         for public_key in public_keys:
             is_valid = is_valid_bech32m(public_key, 'tpknam')
             if not is_valid:
+                print("Invalid reason: account-5-{}".format(idx))
                 return False
 
     return True
@@ -88,45 +93,56 @@ def check_if_account_is_valid(accounts_toml: List[Dict]):
 def check_if_validator_is_valid(validators_toml: List[Dict], signatures: List['str']):
     is_valid = check_if_account_is_valid(validators_toml)
     if not is_valid:
+        print("Invalid reason: validator-0")
         return False
     
     if 'bond' in validators_toml:
+        print("Invalid reason: validator-15-{}".format(idx))
         return False
     
-    for validator in validators_toml['validator_account']:
+    for idx, validator in enumerate(validators_toml['validator_account']):
         for field in ['consensus_key', 'protocol_key', 'tendermint_node_key', 'eth_hot_key', 'eth_cold_key', 'metadata', 'signatures', 'address', 'vp', 'commission_rate', 'max_commission_rate_change']:
             if field not in validator:
+                print("Invalid reason: validator-1-{}".format(idx))
                 return False
             
         for field in ['consensus_key', 'protocol_key', 'tendermint_node_key', 'eth_hot_key', 'eth_cold_key']:
             for sub_field in ['pk', 'authorization']:
                 if sub_field not in validator[field]:
+                    print("Invalid reason: validator-2-{}".format(idx))
                     return False
                 
                 value = validator[field][sub_field]
                 if sub_field == 'pk' and not is_valid_bech32m(value, 'tpknam'):
+                    print("Invalid reason: validator-3-{}".format(idx))
                     return False
                 elif sub_field == 'authorization' and (not is_valid_bech32m(value, 'signam') or value in signatures):
+                    print("Invalid reason: validator-4-{}".format(idx))
                     return False
 
 
         for field in ['metadata']:
             for sub_field in ['email']:
                 if sub_field not in validator[field]:
+                    print("Invalid reason: validator-5-{}".format(idx))
                     return False
                 
         if len(validator['signatures']) <= 0:
+            print("Invalid reason: validator-6-{}".format(idx))
             return False
         
         for public_key in validator['signatures'].keys():
             if not is_valid_bech32m(public_key, 'tpknam'):
+                print("Invalid reason: validator-7-{}".format(idx))
                 return False
 
             sig = validator['signatures'][public_key]
             if not is_valid_bech32m(sig, 'signam'):
+                print("Invalid reason: validator-8-{}".format(idx))
                 return False
             
             if sig in signatures:
+                print("Invalid reason: validator-9-{}".format(idx))
                 return False
     
         vp = validator['vp']
@@ -136,42 +152,52 @@ def check_if_validator_is_valid(validators_toml: List[Dict], signatures: List['s
         email = validator['metadata']['email']
 
         if vp != "vp_user":
+            print("Invalid reason: validator-14-{}".format(idx))
             return False
 
         if not 0 <= commission_rate <= 1:
+            print("Invalid reason: validator-10-{}".format(idx))
             return False
         
         if not 0 <= max_commission_rate_change <= 1:
+            print("Invalid reason: validator-11-{}".format(idx))
             return False
         
         if not re.search(EMAIL_PATTERN, email):
+            print("Invalid reason: validator-12-{}".format(idx))
             return False
         
         is_valid = is_valid_bech32m(address, 'tnam')
         if not is_valid:
+            print("Invalid reason: validator-13-{}".format(idx))
             return False
 
     return True
 
 
 def check_if_bond_is_valid(bonds_toml: List[Dict], signatures: List['str']):
-    for bond in bonds_toml['bond']:
+    for idx, bond in enumerate(bonds_toml['bond']):
         for field in ['source', 'validator', 'amount', 'signatures']:
             if field not in bond:
+                print("Invalid reason: bond-1-{}".format(idx))
                 return False
             
         if len(bond['signatures']) <= 0:
+            print("Invalid reason: bond-2-{}".format(idx))
             return False
         
         for public_key in bond['signatures'].keys():
             if not is_valid_bech32m(public_key, 'tpknam'):
+                print("Invalid reason: bond-3-{}".format(idx))
                 return False
 
             sig = bond['signatures'][public_key]
             if not is_valid_bech32m(sig, 'signam'):
+                print("Invalid reason: bond-4-{}".format(idx))
                 return False
             
             if sig in signatures:
+                print("Invalid reason: bond-5-{}".format(idx))
                 return False
         
         source = bond['source']
@@ -179,10 +205,12 @@ def check_if_bond_is_valid(bonds_toml: List[Dict], signatures: List['str']):
         
         is_valid = is_valid_bech32m(source, 'tpknam') or is_valid_bech32m(public_key, 'tnam')
         if not is_valid:
+            print("Invalid reason: bond-5-{}".format(idx))
             return False
         
         is_valid = is_valid_bech32m(validator, 'tnam')
         if not is_valid:
+            print("Invalid reason: bond-6-{}".format(idx))
             return False
 
     return True
