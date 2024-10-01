@@ -36,6 +36,8 @@ def get_all_created_files(alias):
     res = subprocess.run(["git", "diff", "--name-only", "--diff-filter=AM", "origin/main"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     if res.returncode > 0:
         exit(1)
+
+    print("All changes files: {}", res.stdout.splitlines())
     
     return list(filter(lambda file_path: "transactions/{}-".format(alias).lower() in file_path, map(lambda file_path: file_path.decode(), res.stdout.splitlines())))
 
