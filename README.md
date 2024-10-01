@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `323`
+- Total pre-genesis transactions: `324`
 - Total validators: `195`
-- Total delegations: `128`
-- Staked tokens: `15394144.67972 (~1.54%)`
+- Total delegations: `129`
+- Staked tokens: `15395154.67972 (~1.54%)`
 
 ## Validators
 
@@ -839,6 +839,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `Unknown website`
     - total delegations: `1`
 
+- address: `tnam1q8vztqtl5aknthxa3jezezr7amkgz3zp5vz82qe5`
+    - alias: `Validatus`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1010.0 (0.0%)`
+    - email: `support@validatus.com`
+    - website: `https://www.validatus.com`
+    - total delegations: `1`
+
 - address: `tnam1qx7xenrcve38c8lmcmewpk42df6pchlyjg34d3lq`
     - alias: `SIPALING-TESTNET`
     - commission: `10.0%`
@@ -1107,15 +1116,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `contact.crypto.universe@gmail.com`
     - website: `Unknown website`
-    - total delegations: `0`
-
-- address: `tnam1q8vztqtl5aknthxa3jezezr7amkgz3zp5vz82qe5`
-    - alias: `Validatus`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `support@validatus.com`
-    - website: `https://www.validatus.com`
     - total delegations: `0`
 
 - address: `tnam1q8s7jp43sezdmp07g5jn45wd9wdx9ygkgqwr2grj`
