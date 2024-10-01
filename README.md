@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `331`
+- Total pre-genesis transactions: `332`
 - Total validators: `195`
-- Total delegations: `136`
-- Staked tokens: `15648554.67972 (~1.56%)`
+- Total delegations: `137`
+- Staked tokens: `15729554.67972 (~1.57%)`
 
 ## Validators
 
@@ -297,6 +297,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `84180.0 (0.01%)`
     - email: `security@encapsulate.xyz`
     - website: `https://encapsulate.xyz`
+    - total delegations: `1`
+
+- address: `tnam1qx2xz8ggmzgfgkj5n33fzumq3lept6hf7yqxcrex`
+    - alias: `deNodes`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `81000.0 (0.01%)`
+    - email: `core@denodes.xyz`
+    - website: `https://denodes.xyz`
     - total delegations: `1`
 
 - address: `tnam1qy7fms2m4kpx5khvp4x7r3pr8e4xdqghpsrsd0pn`
@@ -1089,15 +1098,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `loser@loserboy.xyz`
     - website: `https://loserboy.xyz`
-    - total delegations: `0`
-
-- address: `tnam1qx2xz8ggmzgfgkj5n33fzumq3lept6hf7yqxcrex`
-    - alias: `deNodes`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `core@denodes.xyz`
-    - website: `https://denodes.xyz`
     - total delegations: `0`
 
 - address: `tnam1qy5dqyv2ygrk2sm84mj0pdl0ralx5wurwu8xz3qa`
