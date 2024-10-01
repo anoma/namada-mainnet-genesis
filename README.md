@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `332`
-- Total validators: `195`
-- Total delegations: `137`
-- Staked tokens: `15729554.67972 (~1.57%)`
+- Total pre-genesis transactions: `334`
+- Total validators: `196`
+- Total delegations: `138`
+- Staked tokens: `15730554.67972 (~1.57%)`
 
 ## Validators
 
@@ -900,6 +900,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1000.0 (0.0%)`
     - email: `support@gatadao.zone`
     - website: `https://gatahub.zone`
+    - total delegations: `1`
+
+- address: `tnam1q94p40xwx9ju2qygn43eysyrzpzr0l8rnyztm9k7`
+    - alias: `Unknown alias`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1000.0 (0.0%)`
+    - email: `kadieu4020@gmail.com`
+    - website: `https://github.com/ethAzero/`
     - total delegations: `1`
 
 - address: `tnam1qx635ya9l2yz3ua92kckrad4v2p59madpspm9dtg`
