@@ -39,7 +39,7 @@ def get_all_created_files(alias):
 
     print("All changes files: {}", res.stdout.splitlines())
     
-    return list(filter(lambda file_path: "transactions/{}-".format(alias).lower() in file_path, map(lambda file_path: file_path.decode(), res.stdout.splitlines())))
+    return list(filter(lambda file_path: "transactions/{}-".format(alias).lower() in file_path.lower(), map(lambda file_path: file_path.decode().lower(), res.stdout.splitlines())))
 
 
 def read_unsafe_toml(file_path):
