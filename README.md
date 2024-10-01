@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `334`
+- Total pre-genesis transactions: `335`
 - Total validators: `196`
-- Total delegations: `138`
-- Staked tokens: `15730554.67972 (~1.57%)`
+- Total delegations: `139`
+- Staked tokens: `15765554.67972 (~1.58%)`
 
 ## Validators
 
@@ -460,6 +460,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `admin@validatorvn.com`
     - website: `https://validatorvn.com`
     - total delegations: `2`
+
+- address: `tnam1qygz4sn400y9g90rt5jx6ja0wrcx3y7u0c0ue6dq`
+    - alias: `Lavender.Five Nodes`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `35000.0 (0.0%)`
+    - email: `security@lavenderfive.com`
+    - website: `https://lavenderfive.com`
+    - total delegations: `1`
 
 - address: `tnam1qx5psh6xca8n4ezukdy5yynhtr3a6m65lv54ms3p`
     - alias: `newton-zone`
@@ -1656,15 +1665,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `citizenweb3@protonmail.com`
     - website: `citizenweb3.com`
-    - total delegations: `0`
-
-- address: `tnam1qygz4sn400y9g90rt5jx6ja0wrcx3y7u0c0ue6dq`
-    - alias: `Lavender.Five Nodes`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `security@lavenderfive.com`
-    - website: `https://lavenderfive.com`
     - total delegations: `0`
 
 - address: `tnam1qyqm3r6kn73ey8mmrc7w34wrkasrnd5wls9ptrwk`
