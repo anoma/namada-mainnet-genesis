@@ -254,7 +254,7 @@ def validate_toml(file, signatures, can_apply_for_validators, can_apply_for_bond
 def read_all_signatures(alias):
     signatures = []
     for file in glob.glob("transactions/*.toml"):
-        if current_file in file:
+        if alias in file:
             continue
         if '-validator.toml' in file:
             validators_toml = read_unsafe_toml(file)
