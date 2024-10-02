@@ -343,14 +343,6 @@ amount = "100"
 tpknam1qq6htjvkw25pcmgpfrnckj372nlplfxpj0w3l3rgwuyuvq43usgx7tuq6kg = "signam1qz0s3yqqv2xkr4305fqjhskx45a8rz50wz6kmy27m06umjs5kwn6lygktfqwdfct36rqw973yq0x8emjss74vhfwy03nrjmzz7r5pkqf5w8n74"
 
 [[bond]]
-source = "tpknam1qqm9tg8vh3mzdalq59j2q29p9cjaxe74cttz5ycphda3ucl8hgjx7nkapyx"
-validator = "tnam1qxepvwg3c24kv0ltlkaasxscy3fsk89h8vrwzgd7"
-amount = "1024"
-
-[bond.signatures]
-tpknam1qqm9tg8vh3mzdalq59j2q29p9cjaxe74cttz5ycphda3ucl8hgjx7nkapyx = "signam1qpaeqfrh8m8zrpnnrdv8nk0d9ffnn0zs272g72u2gq3ze359aqzsr950mcme9vtjx46puwmhkn7kchzjryaj76h345arf05q0tc79lstzs4qyr"
-
-[[bond]]
 source = "tpknam1qphdvk8vn8jehgdns8dvt0x9r324mxhheypxkmkr3m2yt88snfaex0mk5sq"
 validator = "tnam1qygz4sn400y9g90rt5jx6ja0wrcx3y7u0c0ue6dq"
 amount = "170"
@@ -1341,14 +1333,6 @@ amount = "1923"
 
 [bond.signatures]
 tpknam1qpf5xrsrsjc67f7e3ehh8cnw37dahzg76j2yrnxa5ggrrhn270wvvu5vqxl = "signam1qr34np420aqhsqnwahhnzrh0hfnhlhdymjxna7qdermmet33reqxk7j0ejx74mwn90lluekznvh03mgcnv7nuqtshczedvg4p04wjlqzymnlyw"
-
-[[bond]]
-source = "tpknam1qpwyvvd6eqj49mr2sp7l4lmdgf6rls8zy2nh7maqfvgrt64fy3ypgpnzm43"
-validator = "tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k"
-amount = "105"
-
-[bond.signatures]
-tpknam1qpwyvvd6eqj49mr2sp7l4lmdgf6rls8zy2nh7maqfvgrt64fy3ypgpnzm43 = "signam1qqaac8vnzk330fyakqj57qdu84pcr465nfhtxj0gzqvdr56w2ltstty4uqeldps9vcneaptrxdrew5tt6gyyv3zp3kqssdcjmmg2gfsx834f9l"
 
 [[bond]]
 source = "tpknam1qpmew0u8ux0wknzneg7mvj7ndcqn39nv7sarygva4h6znq3geg76yxafp6p"
