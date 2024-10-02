@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `340`
+- Total pre-genesis transactions: `341`
 - Total validators: `196`
-- Total delegations: `144`
-- Staked tokens: `15908952.67972 (~1.59%)`
+- Total delegations: `145`
+- Staked tokens: `15909155.67972 (~1.59%)`
 
 ## Validators
 
@@ -204,10 +204,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Citadel.one`
     - commission: `5.0%`
     - max commission rate change: `5.0%`
-    - total voting power: `161666.0 (0.02%)`
+    - total voting power: `161869.0 (0.02%)`
     - email: `nikita@citadel.one`
     - website: `https://citadel.one`
-    - total delegations: `1`
+    - total delegations: `2`
 
 - address: `tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t`
     - alias: `Stakeflow`
