@@ -12,8 +12,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `526`
-- Total validators: `196`
+- Total pre-genesis transactions: `527`
+- Total validators: `197`
 - Total delegations: `330`
 - Staked tokens: `16069498.39972 (~1.61%)`
 
@@ -1260,6 +1260,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `staking@gateway.fm`
     - website: `https://stakeway.com`
+    - total delegations: `0`
+
+- address: `tnam1q82qwrq2g64a0ldvhrhqn4mdu9cw453phgfsny7q`
+    - alias: `miles`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0 (0.0%)`
+    - email: `sixmiles127@gmail.com`
+    - website: `none`
     - total delegations: `0`
 
 - address: `tnam1qygn0qw0knlguygtxz6hgrluxhu5kt9a8vqvtj36`
