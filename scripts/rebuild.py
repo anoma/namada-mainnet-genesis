@@ -4,6 +4,7 @@ import toml
 import os
 import plotly.graph_objects as go
 from jinja2 import Environment, FileSystemLoader
+from scripts.constant import VERSION
 
 TOTAL_SUPPLY = 1000000000
 
@@ -38,6 +39,7 @@ def build_graph(validators):
     fig.add_vline(x=index, line_width=1, line_dash="dash", line_color="green")
     fig.update_xaxes(
         tickangle=90,
+        tickfont=dict(size=9)
     )
     fig.update_yaxes(automargin=True)
 
@@ -140,6 +142,8 @@ def merge_transactions():
 
 
 def main():
+    print("Version: {}".format(VERSION))
+    
     validators, bonds = parse_validators()
     build_graph(validators)
     build_readme(validators, bonds)
