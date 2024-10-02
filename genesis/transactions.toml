@@ -3410,6 +3410,18 @@ tpknam1qqfd0z5t98u78xyztynrucp8cgwzep4ahm0hyh34uscdvd8ppq6rxc4yn0q = "signam1qrm
 
 
 
+# adding transaction for landerosua-bond
+
+[[bond]]
+source = "tpknam1qp2ypn3tsg69ql5cv29358grnwjda3f6vuc7gwzn2jzmp3gapssesrw2et5"
+validator = "tnam1q96m7kwchdgzjk7dpvxkq3dxwzjhyjcggyuua5xf"
+amount = "100000"
+
+[bond.signatures]
+tpknam1qp2ypn3tsg69ql5cv29358grnwjda3f6vuc7gwzn2jzmp3gapssesrw2et5 = "signam1qp6djwvzx2yvz2m9zzyv2jk7kzgc0xlem2t68ree7a3djgwzh8laf89fnpgmafuqkm7xaelzr69h7t4tv6w8shfawaap8s9ma5fhmfq98kmwzl"
+
+
+
 # adding transaction for rzackr-bond
 
 [[bond]]

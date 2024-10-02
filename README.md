@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `529`
+- Total pre-genesis transactions: `530`
 - Total validators: `197`
-- Total delegations: `332`
-- Staked tokens: `16069948.39972 (~1.61%)`
+- Total delegations: `333`
+- Staked tokens: `16169948.39972 (~1.62%)`
 
 ## Validators
 
@@ -262,6 +262,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `truongquoctuan61@gmail.com`
     - website: `Unknown website`
     - total delegations: `2`
+
+- address: `tnam1q96m7kwchdgzjk7dpvxkq3dxwzjhyjcggyuua5xf`
+    - alias: `StakeUp`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `100000.0 (0.01%)`
+    - email: `info@stakeup.tech`
+    - website: `https://stakeup.tech`
+    - total delegations: `1`
 
 - address: `tnam1qx64zytr93rjj23ztf32y2rnrxwlm9j6svyznxez`
     - alias: `CroutonDigital`
@@ -1152,15 +1161,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `office@daic.capital`
     - website: `https://daic.capital`
-    - total delegations: `0`
-
-- address: `tnam1q96m7kwchdgzjk7dpvxkq3dxwzjhyjcggyuua5xf`
-    - alias: `StakeUp`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `info@stakeup.tech`
-    - website: `https://stakeup.tech`
     - total delegations: `0`
 
 - address: `tnam1q8wp34dknmcl84t46pk7syjwz7ys36ppksxg6xsc`
