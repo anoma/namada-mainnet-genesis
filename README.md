@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `527`
+- Total pre-genesis transactions: `528`
 - Total validators: `197`
-- Total delegations: `330`
-- Staked tokens: `16069498.39972 (~1.61%)`
+- Total delegations: `331`
+- Staked tokens: `16069598.39972 (~1.61%)`
 
 ## Validators
 
@@ -1091,6 +1091,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `Unknown website`
     - total delegations: `1`
 
+- address: `tnam1q8s9kj30dhsnw5kvtf0mq2exgyup64l28sxn953p`
+    - alias: `namada-validator`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `100.0 (0.0%)`
+    - email: `namadavalidator@protonmail.com`
+    - website: `Unknown website`
+    - total delegations: `1`
+
 - address: `tnam1qyawfu5rjgvhezcx0hrj6dkd0g9p97ldlvvtqvwt`
     - alias: `EquinoxDao`
     - commission: `5.0%`
@@ -1404,15 +1413,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `validator@dsrvlabs.com`
     - website: `https://dsrvlabs.com`
-    - total delegations: `0`
-
-- address: `tnam1q8s9kj30dhsnw5kvtf0mq2exgyup64l28sxn953p`
-    - alias: `namada-validator`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `namadavalidator@protonmail.com`
-    - website: `Unknown website`
     - total delegations: `0`
 
 - address: `tnam1q9e2ya0n6d3gaujx5n52qu6clxn4gdqnvshx7uxp`
