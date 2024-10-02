@@ -10285,6 +10285,18 @@ tpknam1qz0j5f4ej78le0yg5ypspqel7mf2q6a3w2ttd65valmk6lnhrmpvq72ljrm = "signam1qps
 
 
 
+# adding transaction for turbine667-bond
+
+[[bond]]
+source = "tpknam1qq6y0kndflxafj75xrajm8s5j95vjzynh7ytquepgmjj96jhkpljztjxw6k"
+validator = "tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p"
+amount = "350"
+
+[bond.signatures]
+tpknam1qq6y0kndflxafj75xrajm8s5j95vjzynh7ytquepgmjj96jhkpljztjxw6k = "signam1qpxtfrwazw9mdf8qpj3943yu5xed45furs0uw76h2ysgm59nzg4jcl2jc5sdnags5zd5knc7rf08zly4v0fyppl2wlgpsuzleff38eg03fwwnp"
+
+
+
 # adding transaction for puneetfinoa-validator
 
 [[established_account]]
