@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `344`
+- Total pre-genesis transactions: `345`
 - Total validators: `196`
-- Total delegations: `148`
-- Staked tokens: `15927355.67972 (~1.59%)`
+- Total delegations: `149`
+- Staked tokens: `15927565.67972 (~1.59%)`
 
 ## Validators
 
@@ -578,6 +578,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://github.com/CyberAlex14`
     - total delegations: `1`
 
+- address: `tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k`
+    - alias: `Stakecito`
+    - commission: `5.0%`
+    - max commission rate change: `2.0%`
+    - total voting power: `10309.0 (0.0%)`
+    - email: `security@stakecito.de`
+    - website: `https://www.stakecito.com`
+    - total delegations: `3`
+
 - address: `tnam1qyx8wdefdg9sd6e22xq8ccyqg5peaersvcm20843`
     - alias: `securesecrets`
     - commission: `1.0%`
@@ -585,15 +594,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `10100.0 (0.0%)`
     - email: `mohammedp@securesecrets.org`
     - website: `https://securesecrets.org`
-    - total delegations: `2`
-
-- address: `tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k`
-    - alias: `Stakecito`
-    - commission: `5.0%`
-    - max commission rate change: `2.0%`
-    - total voting power: `10099.0 (0.0%)`
-    - email: `security@stakecito.de`
-    - website: `https://www.stakecito.com`
     - total delegations: `2`
 
 - address: `tnam1qx58wny2k2tekhafrnujz7fnn44lg2y24cs8zquu`
