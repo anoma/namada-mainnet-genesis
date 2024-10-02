@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `341`
+- Total pre-genesis transactions: `344`
 - Total validators: `196`
-- Total delegations: `145`
-- Staked tokens: `15909155.67972 (~1.59%)`
+- Total delegations: `148`
+- Staked tokens: `15927355.67972 (~1.59%)`
 
 ## Validators
 
@@ -114,10 +114,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Kintsugi Nodes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `350135.922579 (0.04%)`
+    - total voting power: `350235.922579 (0.04%)`
     - email: `info@kintsugi.tech`
     - website: `https://kintsugi.tech`
-    - total delegations: `2`
+    - total delegations: `3`
 
 - address: `tnam1q9ctkntly0ggv796axf4flnz3mgtx42ucuh5xhme`
     - alias: `edenblock`
@@ -542,6 +542,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://staking.chainbase.com`
     - total delegations: `1`
 
+- address: `tnam1q89xnpnrfsefr9ynj4v8ngdu35me8xudzgn94afm`
+    - alias: `Enigma`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `18000.0 (0.0%)`
+    - email: `contact@enigma-validator.com`
+    - website: `https://enigma-validator.com/`
+    - total delegations: `1`
+
 - address: `tnam1q9hafe0nf5k7pnkcmzp4tezgux6v7a6r25yqfe60`
     - alias: `Oneplus`
     - commission: `5.0%`
@@ -576,6 +585,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `10100.0 (0.0%)`
     - email: `mohammedp@securesecrets.org`
     - website: `https://securesecrets.org`
+    - total delegations: `2`
+
+- address: `tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k`
+    - alias: `Stakecito`
+    - commission: `5.0%`
+    - max commission rate change: `2.0%`
+    - total voting power: `10099.0 (0.0%)`
+    - email: `security@stakecito.de`
+    - website: `https://www.stakecito.com`
     - total delegations: `2`
 
 - address: `tnam1qx58wny2k2tekhafrnujz7fnn44lg2y24cs8zquu`
@@ -621,15 +639,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `10000.0 (0.0%)`
     - email: `validator@konsortech.xyz`
     - website: `https://konsortech.xyz`
-    - total delegations: `1`
-
-- address: `tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k`
-    - alias: `Stakecito`
-    - commission: `5.0%`
-    - max commission rate change: `2.0%`
-    - total voting power: `9999.0 (0.0%)`
-    - email: `security@stakecito.de`
-    - website: `https://www.stakecito.com`
     - total delegations: `1`
 
 - address: `tnam1q8re97lpfp5kmj5nu3t5sxvlp8yydnfjkuzw76dp`
@@ -1080,15 +1089,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `info@stakeup.tech`
     - website: `https://stakeup.tech`
-    - total delegations: `0`
-
-- address: `tnam1q89xnpnrfsefr9ynj4v8ngdu35me8xudzgn94afm`
-    - alias: `Enigma`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `contact@enigma-validator.com`
-    - website: `https://enigma-validator.com/`
     - total delegations: `0`
 
 - address: `tnam1q8wp34dknmcl84t46pk7syjwz7ys36ppksxg6xsc`

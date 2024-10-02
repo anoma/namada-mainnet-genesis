@@ -2482,6 +2482,18 @@ name = "Unit 410 [2]"
 tpknam1qz0nznakwzym6qx9x7qnq8zyqpwxq373d9nf7k7lzvqxv2a2nz89ud2rdtu = "signam1qp0q2d088cljqn3f95kluf2lwdt4lt67lh3d84l5eazd7vsq8utcmcr6dp3j9a35nlelhfwuqk3uq3gtud0h8tx2k6terqlsvadlpdcwu2aylz"
 
 
+# adding transaction for sonwvwga-bond
+
+[[bond]]
+source = "tpknam1qpwyvvd6eqj49mr2sp7l4lmdgf6rls8zy2nh7maqfvgrt64fy3ypgpnzm43"
+validator = "tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k"
+amount = "100"
+
+[bond.signatures]
+tpknam1qpwyvvd6eqj49mr2sp7l4lmdgf6rls8zy2nh7maqfvgrt64fy3ypgpnzm43 = "signam1qreq56pymxqnc7g6qj37v8p0l2jsxgumveprx97w5sgv3u0dj8t3rj9yt43r0faz7ewj5mujc67ydxt28j6nfnvyz9cjns09w6rdjzq8678es3"
+
+
+
 # adding transaction for mohammedpatla-validator
 
 [[established_account]]
@@ -7078,6 +7090,18 @@ tpknam1qztc3kr3m0q9dcm9qce2hg7q9h2vwv8uht7m2su60j8k0xpqfsk827f0rt5 = "signam1qpn
 
 
 
+# adding transaction for cakdemir-bond
+
+[[bond]]
+source = "tpknam1qqkd95zkf3kzmfmw2464ugq3mhs5fa64eyeae3nezf272ac35ayw65pcspe"
+validator = "tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p"
+amount = "100"
+
+[bond.signatures]
+tpknam1qqkd95zkf3kzmfmw2464ugq3mhs5fa64eyeae3nezf272ac35ayw65pcspe = "signam1qpq9lasqfaw42ctnh3pxk5hly40h253zxas7a4gn0fje70ajs308vtza953rh6hswjxc2enl5quq5u3g7kzw5zhqp5e745evlfr3tycda025l6"
+
+
+
 # adding transaction for jipan76-bond
 
 [[bond]]
@@ -10527,6 +10551,18 @@ amount = "24000"
 
 [bond.signatures]
 tpknam1qpt9ms4jhry5nsx7xal2wyvatv8tsyqts96a36ln25wdvf4evtw268pn32l = "signam1qrz0dxkekxcgc0cgzmx43pdw067qpgy9kzd7e3tcseruy5ypkt2a0lvmeypu72p2xxk87h02sn505f2dk9t9m78uexdevp4vezjzu4sy38sg9x"
+
+
+
+# adding transaction for enigma-validator-bond
+
+[[bond]]
+source = "tpknam1qpnftukzzk2gjp2gwjdvc7zm7rq0f4qw5wrueglkseg852vhlccrsp96v6f"
+validator = "tnam1q89xnpnrfsefr9ynj4v8ngdu35me8xudzgn94afm"
+amount = "18000"
+
+[bond.signatures]
+tpknam1qpnftukzzk2gjp2gwjdvc7zm7rq0f4qw5wrueglkseg852vhlccrsp96v6f = "signam1qque99ws0zgw9m9p06fztmd880gqhtzgny4a0jarah5cma4cnlzphtpjtwmccev7kd0c06wvgkqnsah5azjv0vr74ewgmxrg79ux7es8v6xecw"
 
 
 
