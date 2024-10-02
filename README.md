@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `530`
+- Total pre-genesis transactions: `531`
 - Total validators: `197`
-- Total delegations: `333`
-- Staked tokens: `16169948.39972 (~1.62%)`
+- Total delegations: `334`
+- Staked tokens: `16171348.39972 (~1.62%)`
 
 ## Validators
 
@@ -884,6 +884,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://moonlet.io`
     - total delegations: `2`
 
+- address: `tnam1qygyng6guhgj7jy4cfe2pxmsle6sakcvqv3cnlg6`
+    - alias: `Cosmostation`
+    - commission: `5.0%`
+    - max commission rate change: `10.0%`
+    - total voting power: `1530.0 (0.0%)`
+    - email: `node@stamper.network`
+    - website: `https://www.cosmostation.io`
+    - total delegations: `2`
+
 - address: `tnam1q8t4hkv7dqjkka7ns42rramvz0dmj98g7q7zq67m`
     - alias: `owl-validator`
     - commission: `5.0%`
@@ -1054,15 +1063,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `info@steadycrypto.solutions`
     - website: `https://airdrops.one/`
     - total delegations: `2`
-
-- address: `tnam1qygyng6guhgj7jy4cfe2pxmsle6sakcvqv3cnlg6`
-    - alias: `Cosmostation`
-    - commission: `5.0%`
-    - max commission rate change: `10.0%`
-    - total voting power: `130.0 (0.0%)`
-    - email: `node@stamper.network`
-    - website: `https://www.cosmostation.io`
-    - total delegations: `1`
 
 - address: `tnam1q80ajrpqzv0vz9sl5ye22rprjt3k3q0cqy4lwywe`
     - alias: `Stakely.io`
