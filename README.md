@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `346`
+- Total pre-genesis transactions: `347`
 - Total validators: `196`
-- Total delegations: `150`
-- Staked tokens: `15937566.67972 (~1.59%)`
+- Total delegations: `151`
+- Staked tokens: `15937677.67972 (~1.59%)`
 
 ## Validators
 
@@ -1010,6 +1010,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://airdrops.one/`
     - total delegations: `1`
 
+- address: `tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595`
+    - alias: `POSTHUMAN`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `111.0 (0.0%)`
+    - email: `validator@posthuman.digital`
+    - website: `https://posthuman.digital`
+    - total delegations: `1`
+
 - address: `tnam1qyd9xx4cw4knl4accyp2epnrfk6fgc3kgqxrzndv`
     - alias: `MathNodes`
     - commission: `3.1399999999999997%`
@@ -1332,15 +1341,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0%)`
     - email: `dima.rabecki@gmail.com`
     - website: `crazydimka.xyz`
-    - total delegations: `0`
-
-- address: `tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595`
-    - alias: `POSTHUMAN`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0%)`
-    - email: `validator@posthuman.digital`
-    - website: `https://posthuman.digital`
     - total delegations: `0`
 
 - address: `tnam1q98f4snsa7r5lmkc9d66k29r4m0eqpv2j5f7vw8d`
