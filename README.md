@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `345`
+- Total pre-genesis transactions: `346`
 - Total validators: `196`
-- Total delegations: `149`
-- Staked tokens: `15927565.67972 (~1.59%)`
+- Total delegations: `150`
+- Staked tokens: `15937566.67972 (~1.59%)`
 
 ## Validators
 
@@ -24,10 +24,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Mandragora`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `3074624.0 (0.31%)`
+    - total voting power: `3084625.0 (0.31%)`
     - email: `support@mandragora.io`
     - website: `Unknown website`
-    - total delegations: `2`
+    - total delegations: `3`
 
 - address: `tnam1qyx2vmne6th0nfk9lnwdz3mpwzslsaj5xc0x8ucu`
     - alias: `Knowable`

@@ -2870,6 +2870,18 @@ name = "Infraspear"
 tpknam1qz0jceelxdmccze00mmxyxg6hz5wjq00l56xuszcx26e0etc8qej6dq4g0v = "signam1qq0jzkavy0yenpxyktxc646u9fwst0sdr4xxtg5x0sl492wpzglueghhkxwu8s85x23xja5f4gjmjr4c5faulepaz5g7xncafzfzargv2cclgs"
 
 
+# adding transaction for pvsairam-bond
+
+[[bond]]
+source = "tpknam1qrhqdk3ryv5e0xjzpnnuyfj5k758xxszkv2jh4zzn2qmf6xl2r2g2af3yuy"
+validator = "tnam1q8sjkutd5kqwcc555wr77p9fjn66nuuqfuzzc3yc"
+amount = "10001"
+
+[bond.signatures]
+tpknam1qrhqdk3ryv5e0xjzpnnuyfj5k758xxszkv2jh4zzn2qmf6xl2r2g2af3yuy = "signam1qrnqx5x6p4lgkplxvn26dxml38m6jvqgv4u0f07fp0elns0gsdgwzla2kpc2zyams4zqkghutcdvkujrk3cy36n8hfnt2ut3ju7h68s86y780a"
+
+
+
 # adding transaction for decanus-validator
 
 [[established_account]]
