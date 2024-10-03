@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `531`
+- Total pre-genesis transactions: `533`
 - Total validators: `197`
-- Total delegations: `334`
-- Staked tokens: `16171348.39972 (~1.62%)`
+- Total delegations: `336`
+- Staked tokens: `16171561.39972 (~1.62%)`
 
 ## Validators
 
@@ -132,10 +132,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Nodes.Guru`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `301290.0 (0.03%)`
+    - total voting power: `301390.0 (0.03%)`
     - email: `security@nodes.guru`
     - website: `https://nodes.guru`
-    - total delegations: `6`
+    - total delegations: `7`
 
 - address: `tnam1qy93z8ek2wwm3l3nd9gl872n2argnjfrwstywpmj`
     - alias: `project blanc`
@@ -348,10 +348,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Swiss Staking`
     - commission: `0.0%`
     - max commission rate change: `2.5%`
-    - total voting power: `59769.0 (0.01%)`
+    - total voting power: `59882.0 (0.01%)`
     - email: `info@swiss-staking.ch`
     - website: `https://swiss-staking.ch`
-    - total delegations: `8`
+    - total delegations: `9`
 
 - address: `tnam1qy9jra0mueg9637r0wlxehecrj0ale9ldgrytymm`
     - alias: `Stakin`
