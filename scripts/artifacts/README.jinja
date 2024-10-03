@@ -26,7 +26,7 @@ There are no validators.
     - alias: `{{ validator.alias or 'Unknown alias' }}`
     - commission: `{{ validator.commission_rate }}%`
     - max commission rate change: `{{ validator.max_commission_rate_change }}%`
-    - total voting power: `{{ validator.voting_power }} ({{ ((validator.voting_power / 1000000000) * 100) | round(2) }}%)`
+    - total voting power: `{{ validator.voting_power }} ({{ ((validator.voting_power / total_staked_tokens) * 100) | round(2) }}% of total voting power)`
     - email: `{{ validator.email }}`
     - website: `{{ validator.website or 'Unknown website' }}`
     - total delegations: `{{ validator.total_delegations }}`
