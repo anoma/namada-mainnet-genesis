@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzvuj0qpzh7f8ddndw2z082rdah3anzefq7yu7xvxmnuch54745tk0qqj69"]
+
+[[validator_account]]
+address = "tnam1q9wqutze9sgfqazjetps5ekjzafeuca8js9d8m6k"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.1"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzp69mwgp6tuq2zt8a28sl20dl8fgfq2my4h0vyc5ammcv60rxngjnyycdp"
+authorization = "signam1qp4jp9ej082p3c645r2u4ags0f4sacvusdcpvz2k8jdj9vd23vn87x5e5zd95p5ht8yqrj8jlmmnpgddnfknhl98s3mlqed5y2sjt3cfa95t3y"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrc40dhun9e5pmsrc76fyjs5a6dpjzmyc27lrh0m9z2w4n2adlaejtzrtsw"
+authorization = "signam1qztqyyu2w0t6g3mnhgqre0rhu8ssjpvpn7mcqzh2h4l87xwtfm0xdhvwtdk4pmuvwluvdcjlsz3tcgpv52gl6zuwedgqnf3dsf4kvggx0c0ens"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrr0myz6ahgefr46nx6rmrza0d4anvhuqunzfvamen9l7v42x27lwktqu7t"
+authorization = "signam1qqjyuyah92zkuljqw4ld97xredv54l7zjrwy7a46rymxt8d8lvw8y2lyyfeklm76kt002dmrmzveaf5cwfz644gattahvlhs6y330uqdagjqty"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypjhk4xwsycgewqlewa5hghm7yulhu0kawfyvm5ccn63mhppzxx9zsyy3f06"
+authorization = "signam1qy0q7hk2wl3vg382skdcrwq67zsp99un73w383hhzmnzzljjuv58zg44u7cgfjspc9hm67gf028gn9dl2u0u743342xwn7r99c2wjuxsqq8rmuq4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypgw9p3gzeslvd8s2fk7e9hmnfuq95g480z9jgw5w56q0y0cgmxjpc9p5cy9"
+authorization = "signam1q99t6e95sxk6vxeqzf2c68dxtfrtnszgngshlkjd5gn6uj9rfcfjzmukt48aqdgj3pkmlrgtk4yxu0gwa00hjege7p5d3ltcy9wds6h7qy3amud0"
+
+[validator_account.metadata]
+email = "hello@2pilot.dev"
+description = "Your trusted staking co-pilot"
+website = "https://2pilot.dev/"
+discord_handle = "stanisloe"
+name = "2pilot"
+
+[validator_account.signatures]
+tpknam1qzvuj0qpzh7f8ddndw2z082rdah3anzefq7yu7xvxmnuch54745tk0qqj69 = "signam1qpnjlflkwcva9yaxmjk7qv3ythp2fgy7s45uag50x8lunzpe8u607fpmmjjglkv0evkxee056h8t9r9ggeyk6crxrx38v3839qxrwzcpn4lm4w"
