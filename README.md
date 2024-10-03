@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `1458`
+- Total pre-genesis transactions: `1459`
 - Total validators: `197`
-- Total delegations: `1261`
-- Staked tokens: `18146498.56672 (~1.81%)`
+- Total delegations: `1262`
+- Staked tokens: `18146566.56672 (~1.81%)`
 
 ## Validators
 
@@ -636,10 +636,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `WhisperNode🤐`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `17932.0 (0.0%)`
+    - total voting power: `18000.0 (0.0%)`
     - email: `security@whispernode.com`
     - website: `whispernode.com`
-    - total delegations: `5`
+    - total delegations: `6`
 
 - address: `tnam1q9hafe0nf5k7pnkcmzp4tezgux6v7a6r25yqfe60`
     - alias: `Oneplus`
