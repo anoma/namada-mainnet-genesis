@@ -1,7 +1,7 @@
 [[bond]]
 source = "tpknam1qzzn5jxtxznp2597qt4gldutf4cqwdtvpcd80dpv0esf45p6kwgajh3ddtl"
 validator = "tnam1qxepvwg3c24kv0ltlkaasxscy3fsk89h8vrwzgd7"
-amount = "100"
+amount = "110"
 
 [bond.signatures]
 tpknam1qzzn5jxtxznp2597qt4gldutf4cqwdtvpcd80dpv0esf45p6kwgajh3ddtl = "signam1qqtrmcgr02f2kw4yxpyc7fc4j5ks9x2u6dqyg6n6fzkj9jegmsatg2u4vtddrkvz7k5gsftt44yeh5pn94s8dgxa4ea9pqk6warptdqrl6ajhm"
