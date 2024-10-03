@@ -3043,6 +3043,18 @@ tpknam1qr0wzjl3hv2zhc0r8u3g0zqtnknpx4sd4e6fjxccw6rdcwzckpstqwj60gk = "signam1qqt
 
 
 
+# adding transaction for vetalz-bond
+
+[[bond]]
+source = "tpknam1qqjxx0svyju73yej4x2elkftq92u93k69qk8n5mx460s6nx6fj3v7rrkanm"
+validator = "tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595"
+amount = "130"
+
+[bond.signatures]
+tpknam1qqjxx0svyju73yej4x2elkftq92u93k69qk8n5mx460s6nx6fj3v7rrkanm = "signam1qz2exw2yhdv9xyaaa54ftp820886jpwscsg6kxx6z8zeck2z0pusukhy352fj2nmzna8qs3jzeteuv7t6u9a492h6rnljm00x962lzgw6amdzu"
+
+
+
 # adding transaction for clemensgg-validator
 
 [[established_account]]
