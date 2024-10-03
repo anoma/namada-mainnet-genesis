@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `1477`
+- Total pre-genesis transactions: `1478`
 - Total validators: `197`
-- Total delegations: `1280`
-- Staked tokens: `20112441.56672 (~2.01%)`
+- Total delegations: `1281`
+- Staked tokens: `20112547.56672 (~2.01%)`
 
 ## Validators
 
@@ -501,10 +501,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Stakecito`
     - commission: `5.0%`
     - max commission rate change: `2.0%`
-    - total voting power: `44255.8 (0.0%)`
+    - total voting power: `44361.8 (0.0%)`
     - email: `security@stakecito.de`
     - website: `https://www.stakecito.com`
-    - total delegations: `59`
+    - total delegations: `60`
 
 - address: `tnam1qxfcew76uclxuf5a5qkhwdtt8m6enc58tsqnwupd`
     - alias: `IRISnet`
