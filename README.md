@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `1453`
+- Total pre-genesis transactions: `1454`
 - Total validators: `197`
-- Total delegations: `1256`
-- Staked tokens: `18146222.56672 (~1.81%)`
+- Total delegations: `1257`
+- Staked tokens: `18146292.56672 (~1.81%)`
 
 ## Validators
 
@@ -762,10 +762,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `POSTHUMAN`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `7440.88 (0.0%)`
+    - total voting power: `7510.88 (0.0%)`
     - email: `validator@posthuman.digital`
     - website: `https://posthuman.digital`
-    - total delegations: `27`
+    - total delegations: `28`
 
 - address: `tnam1q83gqj9fpny50g7pclc62wu7qxjc7mdlwvq5s2ca`
     - alias: `staking-power`
