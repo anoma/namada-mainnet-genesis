@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `1476`
+- Total pre-genesis transactions: `1477`
 - Total validators: `197`
-- Total delegations: `1279`
-- Staked tokens: `20112150.56672 (~2.01%)`
+- Total delegations: `1280`
+- Staked tokens: `20112441.56672 (~2.01%)`
 
 ## Validators
 
@@ -749,6 +749,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `bronbro.io`
     - total delegations: `24`
 
+- address: `tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595`
+    - alias: `POSTHUMAN`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `8340.880000000001 (0.0%)`
+    - email: `validator@posthuman.digital`
+    - website: `https://posthuman.digital`
+    - total delegations: `34`
+
 - address: `tnam1q8re97lpfp5kmj5nu3t5sxvlp8yydnfjkuzw76dp`
     - alias: `Palamar`
     - commission: `5.0%`
@@ -757,15 +766,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `admin@palamar.io`
     - website: `https://palamar.io`
     - total delegations: `2`
-
-- address: `tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595`
-    - alias: `POSTHUMAN`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `8049.88 (0.0%)`
-    - email: `validator@posthuman.digital`
-    - website: `https://posthuman.digital`
-    - total delegations: `33`
 
 - address: `tnam1q83gqj9fpny50g7pclc62wu7qxjc7mdlwvq5s2ca`
     - alias: `staking-power`
