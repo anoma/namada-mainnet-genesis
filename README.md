@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `1459`
+- Total pre-genesis transactions: `1460`
 - Total validators: `197`
-- Total delegations: `1262`
-- Staked tokens: `18146566.56672 (~1.81%)`
+- Total delegations: `1263`
+- Staked tokens: `18148666.56672 (~1.81%)`
 
 ## Validators
 
@@ -479,6 +479,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://lavenderfive.com`
     - total delegations: `20`
 
+- address: `tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k`
+    - alias: `Stakecito`
+    - commission: `5.0%`
+    - max commission rate change: `2.0%`
+    - total voting power: `43713.8 (0.0%)`
+    - email: `security@stakecito.de`
+    - website: `https://www.stakecito.com`
+    - total delegations: `58`
+
 - address: `tnam1qxfcew76uclxuf5a5qkhwdtt8m6enc58tsqnwupd`
     - alias: `IRISnet`
     - commission: `8.0%`
@@ -487,15 +496,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `bob@irisnet.org`
     - website: `https://irisnet.org`
     - total delegations: `2`
-
-- address: `tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k`
-    - alias: `Stakecito`
-    - commission: `5.0%`
-    - max commission rate change: `2.0%`
-    - total voting power: `41613.8 (0.0%)`
-    - email: `security@stakecito.de`
-    - website: `https://www.stakecito.com`
-    - total delegations: `57`
 
 - address: `tnam1qy9htx7f43s3g4220ljzmua65vp5sw9ah5vm6xdu`
     - alias: `Firstset`
