@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `1454`
+- Total pre-genesis transactions: `1458`
 - Total validators: `197`
-- Total delegations: `1257`
-- Staked tokens: `18146292.56672 (~1.81%)`
+- Total delegations: `1261`
+- Staked tokens: `18146498.56672 (~1.81%)`
 
 ## Validators
 
@@ -60,10 +60,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Kintsugi Nodes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `769800.4195789999 (0.08%)`
+    - total voting power: `769841.4195789999 (0.08%)`
     - email: `info@kintsugi.tech`
     - website: `https://kintsugi.tech`
-    - total delegations: `609`
+    - total delegations: `611`
 
 - address: `tnam1qx7wyapm8f9ddlukz3p7gdmhjjvck7lmaqjeflra`
     - alias: `BXKelePool`
@@ -762,10 +762,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `POSTHUMAN`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `7510.88 (0.0%)`
+    - total voting power: `7675.88 (0.0%)`
     - email: `validator@posthuman.digital`
     - website: `https://posthuman.digital`
-    - total delegations: `28`
+    - total delegations: `30`
 
 - address: `tnam1q83gqj9fpny50g7pclc62wu7qxjc7mdlwvq5s2ca`
     - alias: `staking-power`
