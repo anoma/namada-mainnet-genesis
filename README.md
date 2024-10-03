@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `1463`
+- Total pre-genesis transactions: `1465`
 - Total validators: `197`
-- Total delegations: `1266`
-- Staked tokens: `18149473.56672 (~1.81%)`
+- Total delegations: `1268`
+- Staked tokens: `18311906.56672 (~1.83%)`
 
 ## Validators
 
@@ -236,6 +236,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://citadel.one`
     - total delegations: `11`
 
+- address: `tnam1q9vrp45qtphed4q2vc382qrtf2gfykf50vssfe2h`
+    - alias: `Informal Systems`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `175123.82 (0.02%)`
+    - email: `validator@informal.systems`
+    - website: `https://informal.systems`
+    - total delegations: `7`
+
 - address: `tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t`
     - alias: `Stakeflow`
     - commission: `7.000000000000001%`
@@ -375,10 +384,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Swiss Staking`
     - commission: `0.0%`
     - max commission rate change: `2.5%`
-    - total voting power: `66911.88 (0.01%)`
+    - total voting power: `67046.88 (0.01%)`
     - email: `info@swiss-staking.ch`
     - website: `https://swiss-staking.ch`
-    - total delegations: `18`
+    - total delegations: `19`
 
 - address: `tnam1qy9jra0mueg9637r0wlxehecrj0ale9ldgrytymm`
     - alias: `Stakin`
@@ -676,15 +685,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `cyberalex14@gmail.com`
     - website: `https://github.com/CyberAlex14`
     - total delegations: `1`
-
-- address: `tnam1q9vrp45qtphed4q2vc382qrtf2gfykf50vssfe2h`
-    - alias: `Informal Systems`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `12825.82 (0.0%)`
-    - email: `validator@informal.systems`
-    - website: `https://informal.systems`
-    - total delegations: `6`
 
 - address: `tnam1qyx8wdefdg9sd6e22xq8ccyqg5peaersvcm20843`
     - alias: `securesecrets`

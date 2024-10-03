@@ -1940,6 +1940,18 @@ tpknam1qzhfasygvalcd627q0el4ykusa8d4nxmns6s45xemys296ch5eky2vnvscd = "signam1qp9
 
 
 
+# adding transaction for khatkevichkirill-bond
+
+[[bond]]
+source = "tpknam1qqpcevr983xvyykq59zmun7m7fhvkdcpugxyevc5s5cvyqk5r47xc8cwadn"
+validator = "tnam1q9sdarpylwxd5vv3e8u6wstrpz052jhls5g4a3wg"
+amount = "135"
+
+[bond.signatures]
+tpknam1qqpcevr983xvyykq59zmun7m7fhvkdcpugxyevc5s5cvyqk5r47xc8cwadn = "signam1qq82djvdp6sk2z9ts7hwq9yjx5qgqpml4tlurccn0s95s5ucxftjhv8qn2u6pu4sa62yh80nslcjufvmjx4dxa69hxjuaw2v0yym42qtusk7d6"
+
+
+
 # adding transaction for llargues-bond
 
 [[bond]]
@@ -3678,6 +3690,18 @@ amount = "100000"
 
 [bond.signatures]
 tpknam1qr8dwyv7k4vl8pmu6lmv4nymkk3qwlepv07xtpy42rx655jn6hg3xxp30qk = "signam1qzn7rcsccezv8tyng35theneshqwj2au9f82myrs8k88prk0pxja3vcwwa3y0hawusnn47tj9pypmhcqsmpqyvpdtcqf9u4faylqmjgdkxkj7r"
+
+
+
+# adding transaction for superfluffy-bond
+
+[[bond]]
+source = "tpknam1qr54xf489k3snw7qverxdr097n88kg9s8umkt7ugq5v3sdjly9pcy4m3wdj"
+validator = "tnam1q9vrp45qtphed4q2vc382qrtf2gfykf50vssfe2h"
+amount = "162298"
+
+[bond.signatures]
+tpknam1qr54xf489k3snw7qverxdr097n88kg9s8umkt7ugq5v3sdjly9pcy4m3wdj = "signam1qzw0rzz6rkfq50agcrf57znc507eds47uk4d9lg5tn4395lsqj5x5w8zcnuafjp3ha0gakl9k6u3ffnatfeqys3urwlgvchludt3jcqqt7klmy"
 
 
 
