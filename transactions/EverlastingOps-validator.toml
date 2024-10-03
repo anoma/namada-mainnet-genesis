@@ -1,3 +1,4 @@
+
 [[established_account]]
 vp = "vp_user"
 threshold = 1
@@ -35,3 +36,38 @@ email = "paul@everlasting.nz"
 
 [validator_account.signatures]
 tpknam1qp7hnlgqzu0z022nsd3hcugjf9v97392g7l27h9slqjddsxretpf5esnyhy = "signam1qz48pl58frsk34mx8z6drt2y0qzedq4sz6aa6km3skugy5d44tz2wdppngphmvkuafnq74kl4rhms7hw6t3rx2z82vpa7rz2h6dgaegfy8vhn3"
+
+[[validator_account]]
+address = "tnam1q98jzz306gldxvtg5quwnej4zvna6pgnquk2t4dc"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "109.123.230.3:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpzwpmk8tslfkclpl7e9pk6erf2uzdqrfakxjxpzr2z0tl7c7x2w6hkhcxh"
+authorization = "signam1qz5rtg3j8xlcegxzvzcuwk6qq3j08p6g8nfna62669sscs64fkz6ty5dx50fdlpyx6sa2e4dux8jced6lzcrhyexy5wfrxr8dm895tcgpplrr0"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq2v9g05d0cugllxu4p4356t654n6ajzp2dkwsjv3zryx7fxn5mxvwvaycc"
+authorization = "signam1qrwsxzm7efectx8tfp8r30wzadlr020wykf4zuannl8gp4mpvwc4aea8tpwf9dud2ze02ppcqnx5kzaqswn4wh596lla8l4a8n53gpgfqx8xyr"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrkka9fe5a54pyha3ghd9tjvlf4fdaa7e0lmypu0u9872392pj2gw28r5f9"
+authorization = "signam1qztsu27tccc2tpr38kx9qkf53qavtqj54eem2g4tcdxzk0qp9n70x8h32xdquxn0dra6mfe4vlct4u02uykqr0m5yjjveszk97qjkxg099s4xn"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypl8dftjte2cjn7nlmhrzdm053szw2m05p9fe59ne4zcwzel6039pq20w7q4"
+authorization = "signam1qxr0mg34s369j6f6cu6p35dxuy5v03f4pkz8kr4r9u5n6xwvc4e8vfemts23y4x9ua8vpyagjkwpz4qcpmtlqtdyfaqltxy25lvqu49tqyc4fjgl"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypuytjcfqs235w4ucpxfnnc8fg5j75wd6ryl9627yq2chlv8zyh0mczu0tch"
+authorization = "signam1q9mly7d9rlvln2404lu04f6sft7d05wzhxftk4g0qutqe9hjug56s9ffkky5dvduf7lh7r6ugxlrs70k6la0lq3wz6fhys7ype74y0uwqqe4hhzp"
+
+[validator_account.metadata]
+email = "operations@everlasting.io"
+website = "www.everlasting.io/products/staking"
+name = "Everlasting"
+
+[validator_account.signatures]
+tpknam1qp7hnlgqzu0z022nsd3hcugjf9v97392g7l27h9slqjddsxretpf5esnyhy = "signam1qqa2lnmtlmvvygqfa4xv9pmegpy2dpwqc7jjcq729ne4ce7pwj5kc3nx5cz65xjqxeazcyscgp6jazjef7wnlr6cyn84fdg2hrep0qg2rm4jxx"
