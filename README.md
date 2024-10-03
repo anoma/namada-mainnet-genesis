@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `1461`
+- Total pre-genesis transactions: `1463`
 - Total validators: `197`
-- Total delegations: `1264`
-- Staked tokens: `18148796.56672 (~1.81%)`
+- Total delegations: `1266`
+- Staked tokens: `18149473.56672 (~1.81%)`
 
 ## Validators
 
@@ -60,10 +60,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Kintsugi Nodes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `769841.4195789999 (0.08%)`
+    - total voting power: `769976.4195789999 (0.08%)`
     - email: `info@kintsugi.tech`
     - website: `https://kintsugi.tech`
-    - total delegations: `611`
+    - total delegations: `612`
 
 - address: `tnam1qx7wyapm8f9ddlukz3p7gdmhjjvck7lmaqjeflra`
     - alias: `BXKelePool`
@@ -483,10 +483,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Stakecito`
     - commission: `5.0%`
     - max commission rate change: `2.0%`
-    - total voting power: `43713.8 (0.0%)`
+    - total voting power: `44255.8 (0.0%)`
     - email: `security@stakecito.de`
     - website: `https://www.stakecito.com`
-    - total delegations: `58`
+    - total delegations: `59`
 
 - address: `tnam1qxfcew76uclxuf5a5qkhwdtt8m6enc58tsqnwupd`
     - alias: `IRISnet`
