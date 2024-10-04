@@ -31,9 +31,11 @@ pk = "tpknam1qype4sw2ay5zs3986ut3m3ykwtgymupfr0mghtfpy9xsvzlh0mvurgqmw29jx"
 authorization = "signam1qxfhw5uc5dj8gwyd0frucns8jvsky4wjdah8rjxxr8yws4yfxjut72xjngxw34c2jqtcqkujzvlwjrkuuy52q4tr4y827aetruq5kfk3qqj9dfty"
 
 [validator_account.metadata]
-email = "“hello@clorophilla.io\nVALIDATOR_NAME=“Clorophilla"
-description = ""
-name = "“Clorophilla # This is optional\nSELF_BOND_AMOUNT=1000000 # Set this to the amount of NAM you want to self-bond. This must be less than or equal to the amount of NAM allocated to the pre-genesis keys in the  that was published by the network coordinator.\nVALIDATOR_ALIAS=“validator"
+email = "hello@clorophilla.io"
+description = "Build WEB3 Solutions"
+website = "https://www.clorophilla.io"
+discord_handle = "cosmin_bg"
+name = "Clorophilla"
 
 [validator_account.signatures]
 tpknam1qp6h7twtyk2zq8rt7590ntun0nnj9rehm6jge38vly4mp6l7rhrz2k9t5ky = "signam1qr5wmy9axt48ugz6m9uc4ps55ffk2gnsenqgmhscwg3480uf2appga0q62q73sent2l2aqwg6eae7vyl6z66qtsfy5km4ny9207wmegts3zewe"
