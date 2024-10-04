@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqa5lwdwjlcfh6tu5s3g208g9x84zg6w8a89nkmn3czjhucu287jckg0wrk"]
+
+[[validator_account]]
+address = "tnam1qyswpl4wvk4zq45axze9mdghqr9n9ls9yvm9t66c"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "62.171.161.9:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp9qrelxsmqt28h879axxjnr63ynzts7s395gfa6cxcyjklf7g8fu67znaz"
+authorization = "signam1qrpkqymz0xq8fvjnctkvnux37h08c8g9p0kcc780474mk24yp2plm66kngvzh3zzh7dgyyt9yrc4jqe4qxvukdesvgy5zv56tntnkxstyxvamx"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzrswtxvcu2zxmqetuhz8j5x36azkyszlnrzqdtst9vwcqh3a74es5yvx04"
+authorization = "signam1qz62qdvqxuzvv7a7uycmeu2mua3x2t4lnvdnc8uzlyz3eh9sk0rky47wg0f28tp7fcxhs2zguwmlctu5mm4f8u3rvlgkn6hfdxrjejcyvvtx6z"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzd3zpm6x6f4mgte5wlqs2g2s5levcpnhc002rtkf5ktm6n4uar7u7kvu48"
+authorization = "signam1qq50zyzuqhk2ud2c470rs6fruk4glqkccxku3umxrv5u570sym34n4nlgx7d8j4kfta8lrhw3cv4x726a5hd6ugsdvx06qp3cv9kpmcgv9z7cy"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyplw8um5u0znuds88n8a08xxhnw88s6ws5c7sa82srgwqtl5q9kqas450fd0"
+authorization = "signam1qyes5cjcafgvuhd85vzpuqsrtr8xjw68m7gc7nln98yx8mle328c2zwapv0n7utzkxu2swxdsh83lj2zv0ukfmxka7yxdxanh3t3rru5qydt65y9"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp02yzasjzkkehu4396r726jhnl0un0945dtt0epr9uxyeydv9r2ts6gd9fm"
+authorization = "signam1q80k7vvxf50fcafu7vuyv2yn8gskwh4pm8w5fpq3v3wdczch3khmqqeh9ssvpn0m6f06md2ueeau5eyh7ctdrzdmgxfftetwkveqpn2uqq8g8z46"
+
+[validator_account.metadata]
+email = "murphynodeteam@gmail.com"
+description = "MurphyNode - Reliable Namada validator"
+website = "https://murphynode.com"
+avatar = "https://i.ibb.co/PtFJ5Cq/Murphy-2.png"
+name = "MurphyNode"
+
+[validator_account.signatures]
+tpknam1qqa5lwdwjlcfh6tu5s3g208g9x84zg6w8a89nkmn3czjhucu287jckg0wrk = "signam1qqks4tjjl6ewacpgtf0km75wdxs0alen24j9g5fzq070wszp8wkhtwwcnl3gsne9zk3h3ckj0s2xrx2tts2vq3mmuv3k5f6jjq09qycrwlz3fe"

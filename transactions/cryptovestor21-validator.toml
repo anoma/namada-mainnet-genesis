@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrmkwepf3za57jy6lnejqjhcm3ssrv9dcsc4369fjp480hrn66qgxy6yv5a"]
+
+[[validator_account]]
+address = "tnam1qy0zrla88txv244suxaruqgr9g74vr8vyufd8rp7"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.02"
+net_address = "195.224.80.26:28656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzx6v6fuwt69zswswg6ulkxsuxw2mpsqe9m89uuu8ultysz0u6df6d3nm0m"
+authorization = "signam1qztghvw72nq9lt4k49d2gdagpc87gp5sqlgta9432yfquxrwps3vw33pfvpcaz97e77cu8yvc6th7v9aht8q3fxmjqe5tte2hqt2ugqpk6r9c4"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpu48vwl86gfzgke437ucq4ejajtstvuw5v3n7s0x5fha3fqeu92g0w4hvg"
+authorization = "signam1qzdpamm6e7jgqnxnh5yxypgnlgda7gf9pnh6t8rqvhuwjwpexg6smpaj760tyzetvxclgfvmylqfup6kpp985n65clhwqzsa8uds74cw6c3p3d"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz97a30wp9h290uh3fvggc0uj85auvagz8jm7pttvujnxvyv3mzvc3dhc4q"
+authorization = "signam1qp65vwpanx42ptthqm4u5h5yrwvxpvzuvwkjenqtfnrfv2yeyz9y33s6gz5ax9dup8f4pzxte8jf3n3z6sp0m8gn3lxlx3wcgd0gc6gqqs0pp2"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypyrwkz9vuletepcc5a96msnwjhxz7dkcve30ys04hdzlryrd6tdcchy5s77"
+authorization = "signam1q80jcnhvak0hwvh7fnv6uf8cj7ul44jatdqvvkfpmagrcy0lm3sawds9kqruqslg2sgyxc05588gfwwmplfzz0pl27kcwmrtt28pewu4qqr2emyp"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypg0z39zhvpedxk76zyac7ce9zz8zft50ae43tvpy290jktzpjscjs08wmuz"
+authorization = "signam1qyq5fyzl9z6nr7glh64dmv7hmkruelyj0qqzq5mqvhdxakkqlw25yk6weqmwve0y7yw3ucdlrc4uzk8vhmc47p2xukmrj9fymkxcxwc0qqwsjjur"
+
+[validator_account.metadata]
+email = "hello@wavefive.co"
+description = "Wavefive - We work for protocols and protocols work for us."
+website = "https://wavefive.co"
+discord_handle = "cryptovestor"
+avatar = "https://i.imgur.com/1wfrWrY.png"
+name = "Wavefive"
+
+[validator_account.signatures]
+tpknam1qrmkwepf3za57jy6lnejqjhcm3ssrv9dcsc4369fjp480hrn66qgxy6yv5a = "signam1qp808hne40z6s738pwq4qeyq8uc3kqlpg48hn0llvk80gxsgeafx2t2aedcve36hg78mphwmphlp5r35820fmu2fw027zwx874ya7ns0fp2czz"

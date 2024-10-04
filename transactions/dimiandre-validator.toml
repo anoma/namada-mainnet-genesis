@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq7c36qc2s2ny5qlvynyw6960842w2qrgq6cvflcw74jksgps97h7k236h3"]
+
+[[validator_account]]
+address = "tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpg47efugzvyxpjms5rham7zca6cyj6ve8ukrqej5ja644sk0kl3zjpvhl9"
+authorization = "signam1qqgufc0qj9g3el8umttvk7rhdhgxps7xs99q6zya55knmfk3mm8es9nwc9qervafvrlezw8zusfhp85lrvytn42yxhy0pm3km8lyeysvv9w0fa"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpw5t9dpngg4zm6jt8c8j2qn6u0n9w03w85hnkltv73wt4p3kr04qg3nvte"
+authorization = "signam1qpcxqqf6y4xqdmrsxk46rkeg3rm0s5xkp2wjfq3p9rf2hjl34fg248m5f04al4ffq3g6zmddxhakv8yh9rey6qj4c5umexc6dypzntcv0ae55n"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzumrum0vvnesrwkdwlu06ue4wq8wfa33h67gsyu4legvgylhjhtxccf755"
+authorization = "signam1qzxqc8drj6tm42uln32l0szqemx0nxwczspp6hh37qewpwy4zqxka05yvycevfxfxp9c2p90f36r89zgrmya2r7szerdgz0afznk9rqf0x0x55"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp86ynuyx9aawdt0phds6cjwqzyw0f7myjf4l6hvjlqdpur65jgg0g9plc2t"
+authorization = "signam1qywwqundzv7y0sfg45wumpzfcdyu544txeggxwc2k99td4trc9rkjksmjxlez38z5gx0kttyyysftluf2eg5frprr0ynjg4knwu63c2rqq6r2kns"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp4n560mdayttxy4eurnmwh2gycjdqrdd2z9geycxv0acg3apn0pdca9nd7h"
+authorization = "signam1q8jk0an42mk9jq95qe9p78dwm2gnwyc3nrthm0v5xuutqf0ng3kfzphjz3cuegpd8qt0phf2rsmmy38hfzru2zsny0rzuxa9j2vm082wqydpf9hv"
+
+[validator_account.metadata]
+email = "info@kintsugi.tech"
+description = "Your professional, global PoS validator. Delegate, earn, and join our journey to a golden blockchain."
+website = "https://kintsugi.tech"
+discord_handle = "dimiandre"
+avatar = "https://github.com/zaketac/chainlist/blob/main/chain/cosmos/moniker/cosmosvaloper1usvshtypjw57edkwxq3tagme665398f0hf4wuc.png?raw=true"
+name = "Kintsugi Nodes"
+
+[validator_account.signatures]
+tpknam1qq7c36qc2s2ny5qlvynyw6960842w2qrgq6cvflcw74jksgps97h7k236h3 = "signam1qql9s0hxsstrp628ff8ug5dj3tgpg02kn4ppcravx4u49hntqjdqm39skjej435zwavzvtrgczple967f3rjwaca443y0evdwc86l4g0zrru2n"
