@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `3489`
+- Total pre-genesis transactions: `3491`
 - Total validators: `198`
-- Total delegations: `3291`
-- Staked tokens: `21483197.33672 (~2.15%)`
+- Total delegations: `3293`
+- Staked tokens: `21483297.33672 (~2.15%)`
 
 ## Validators
 
@@ -44,11 +44,11 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Kintsugi Nodes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `1471760.4755789998 (6.85% of total voting power)`
+    - total voting power: `1471780.4755789998 (6.85% of total voting power)`
     - percentage of total supply: `0.15%`
     - email: `info@kintsugi.tech`
     - website: `https://kintsugi.tech`
-    - total delegations: `1663`
+    - total delegations: `1664`
 
 - address: `tnam1qya90eeuaxn47ajfjp08f8zzgjtmhy0lmyxn26gu`
     - alias: `TuDudes`
@@ -164,11 +164,11 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Nodes.Guru`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `315404.92 (1.47% of total voting power)`
+    - total voting power: `315484.92 (1.47% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `security@nodes.guru`
     - website: `https://nodes.guru`
-    - total delegations: `17`
+    - total delegations: `18`
 
 - address: `tnam1qy7fms2m4kpx5khvp4x7r3pr8e4xdqghpsrsd0pn`
     - alias: `Keplr`
