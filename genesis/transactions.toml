@@ -219,18 +219,6 @@ tpknam1qzf5scxn8q44pw0xs9pxp7vsxcvel3t4d9hw0t3hrkxc7xhduyq3yvp9rg8 = "signam1qzg
 
 
 
-# adding transaction for me-delegator
-
-[[bond]]
-source = "tpknam1qp8hcnay25lw3eeyw0wmynfzztfx7wyx577z8cjmvqpsekcffd2lj4mem6m"
-validator = "tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p"
-amount = "6400"
-
-[bond.signatures]
-tpknam1qp8hcnay25lw3eeyw0wmynfzztfx7wyx577z8cjmvqpsekcffd2lj4mem6m = "signam1qpj8fjf9jj99l87pufpe99la764qk33scgw3he34p5tjasrlcmvq7y9ck3s6g3pcvd53vt2m2cdl5p6lthf03p260hjexczu7qnf0kg97wxy5m"
-
-
-
 # adding transaction for ekhvalov-validator
 
 [[established_account]]
@@ -35783,6 +35771,18 @@ amount = "46566.67"
 
 [bond.signatures]
 tpknam1qrnv634m658zu75ku35nh00qwylmskuc2kl6njn3krkv7pzj4g7x6rn50c8 = "signam1qzm6py20na3geerevuvew9nfe2vfq796rptl5qxrv3f6d0ezvusmws7k8zfeac2w2kd394a9k43nmh29hpspakaklut3sefan9vxhjgf83l679"
+
+
+
+# adding transaction for zacurik-delegator
+
+[[bond]]
+source = "tpknam1qp8hcnay25lw3eeyw0wmynfzztfx7wyx577z8cjmvqpsekcffd2lj4mem6m"
+validator = "tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p"
+amount = "6400"
+
+[bond.signatures]
+tpknam1qp8hcnay25lw3eeyw0wmynfzztfx7wyx577z8cjmvqpsekcffd2lj4mem6m = "signam1qpj8fjf9jj99l87pufpe99la764qk33scgw3he34p5tjasrlcmvq7y9ck3s6g3pcvd53vt2m2cdl5p6lthf03p260hjexczu7qnf0kg97wxy5m"
 
 
 
