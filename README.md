@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `3458`
+- Total pre-genesis transactions: `3459`
 - Total validators: `197`
-- Total delegations: `3261`
-- Staked tokens: `21141971.33672 (~2.11%)`
+- Total delegations: `3262`
+- Staked tokens: `21142072.33672 (~2.11%)`
 
 ## Validators
 
@@ -551,6 +551,15 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://irisnet.org`
     - total delegations: `4`
 
+- address: `tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595`
+    - alias: `POSTHUMAN`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `40907.619 (0.0%)`
+    - email: `validator@posthuman.digital`
+    - website: `https://posthuman.digital`
+    - total delegations: `125`
+
 - address: `tnam1qy9htx7f43s3g4220ljzmua65vp5sw9ah5vm6xdu`
     - alias: `Firstset`
     - commission: `5.0%`
@@ -559,15 +568,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `hi@firstset.xyz`
     - website: `https://firstset.xyz`
     - total delegations: `1`
-
-- address: `tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595`
-    - alias: `POSTHUMAN`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `40806.619 (0.0%)`
-    - email: `validator@posthuman.digital`
-    - website: `https://posthuman.digital`
-    - total delegations: `124`
 
 - address: `tnam1q9mnn2qkg3fzuw8hzwgnuxa42rvdjhkn5s065aa3`
     - alias: `stake-machine`

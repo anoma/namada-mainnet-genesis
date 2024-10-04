@@ -33964,6 +33964,18 @@ amount = "54900"
 tpknam1qr7rp6mz9pkc5c0wcd4ntudq22ek8vmeafhtw5zvpc5ccgq63yfguzvgwuw = "signam1qprjxpmq7tc8sqzzwr5agr23ee448r5uavm7kcd4n6450hg0czve7z0zzvwhwc2s35yhzum8c5kp3sv4fgdr7qmgrgarhn0kqlgv6qs03h2nlj"
 
 
+# adding transaction for kinkyror-bond
+
+[[bond]]
+source = "tpknam1qr85hqd33rwfucqnzm563488sc7cyvntdk4zxr8zpkxt85xjlt8ns9dklhf"
+validator = "tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595"
+amount = "101"
+
+[bond.signatures]
+tpknam1qr85hqd33rwfucqnzm563488sc7cyvntdk4zxr8zpkxt85xjlt8ns9dklhf = "signam1qzwa3n36x6nj0h77m8v98gyq6h8ju48fmjaj8mnvyjq9u924w9v3gx9cl3vktrrkkfuxdr4uzxt6tze465elf5lqxrf2r9exaef5e4qpp0atsz"
+
+
+
 # adding transaction for carameleon-validator
 
 [[established_account]]
