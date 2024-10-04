@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `3474`
+- Total pre-genesis transactions: `3475`
 - Total validators: `198`
-- Total delegations: `3276`
-- Staked tokens: `21193197.33672 (~2.12%)`
+- Total delegations: `3277`
+- Staked tokens: `21203197.33672 (~2.12%)`
 
 ## Validators
 
@@ -24,7 +24,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Mandragora`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `3326937.96 (15.7% of total voting power)`
+    - total voting power: `3326937.96 (15.69% of total voting power)`
     - percentage of total supply: `0.33%`
     - email: `support@mandragora.io`
     - website: `Unknown website`
@@ -34,7 +34,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Knowable`
     - commission: `7.000000000000001%`
     - max commission rate change: `1.0%`
-    - total voting power: `2350101.0 (11.09% of total voting power)`
+    - total voting power: `2350101.0 (11.08% of total voting power)`
     - percentage of total supply: `0.24%`
     - email: `infra@knowable.vc`
     - website: `https://knowable.vc`
@@ -184,7 +184,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `project blanc`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `297765.5 (1.41% of total voting power)`
+    - total voting power: `297765.5 (1.4% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `it@projectblanc.ch`
     - website: `https://blanc.group/`
@@ -868,6 +868,16 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - percentage of total supply: `0.0%`
     - email: `validator@konsortech.xyz`
     - website: `https://konsortech.xyz`
+    - total delegations: `1`
+
+- address: `tnam1qyx7d7vm30tgf3fj4awa60syk9rhcjv8uulhkpq5`
+    - alias: `itudou`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `10000.0 (0.05% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `ajianmeige@gmail.com`
+    - website: `Unknown website`
     - total delegations: `1`
 
 - address: `tnam1q973h5dwpl0wv4t8zy9gmafllmrnalde0vek58zq`
@@ -1878,16 +1888,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - percentage of total supply: `0.0%`
     - email: `andyroddick6600@gmail.com`
     - website: `www.spidey.services`
-    - total delegations: `0`
-
-- address: `tnam1qyx7d7vm30tgf3fj4awa60syk9rhcjv8uulhkpq5`
-    - alias: `itudou`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `ajianmeige@gmail.com`
-    - website: `Unknown website`
     - total delegations: `0`
 
 - address: `tnam1q8munsehazrlgm65g7dpu0c2qfnxxg93tu0c6nm6`
