@@ -3424,6 +3424,18 @@ name = "alexit"
 tpknam1qzsmt8lksjezlepf2zcj58uw0s8m43ur8x8j8u6fspzm73xlcysxxa56685 = "signam1qpq80mx5gl38z6s8a36kwszjkmzqv86qrhlxe8lrhu59vjurh37vdufnq2j3t06uu7tydnt022urkv3pttnqrs9uyfv0ns57y4g2xpsr8le9dx"
 
 
+# adding transaction for snsmln-bond
+
+[[bond]]
+source = "tpknam1qpzv0hqmt6t9wee5ctx3p4n3a9y3pheaxsvdts347eqvfec9cvuzzv2cszg"
+validator = "tnam1q8d0rndpkyx8599wzcasphsqd3st5q3nsyxj7y9j"
+amount = "50000"
+
+[bond.signatures]
+tpknam1qpzv0hqmt6t9wee5ctx3p4n3a9y3pheaxsvdts347eqvfec9cvuzzv2cszg = "signam1qzn9wl2vx3u4p22htdpsndhum66xjqqpgsjhttk7xzy6sepdq9xavv596vgnpcwlmjvn4gggqgfh4wqcgv9p2s8kax7sl4chqjwltnqyv99dus"
+
+
+
 # adding transaction for clemensgg-bond
 
 [[bond]]
