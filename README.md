@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `3459`
+- Total pre-genesis transactions: `3472`
 - Total validators: `197`
-- Total delegations: `3262`
-- Staked tokens: `21142072.33672 (~2.11%)`
+- Total delegations: `3275`
+- Staked tokens: `21143197.33672 (~2.11%)`
 
 ## Validators
 
@@ -42,10 +42,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Kintsugi Nodes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `1471372.4755789998 (0.15%)`
+    - total voting power: `1471760.4755789998 (0.15%)`
     - email: `info@kintsugi.tech`
     - website: `https://kintsugi.tech`
-    - total delegations: `1658`
+    - total delegations: `1663`
 
 - address: `tnam1qya90eeuaxn47ajfjp08f8zzgjtmhy0lmyxn26gu`
     - alias: `TuDudes`
@@ -366,10 +366,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Stakecito`
     - commission: `5.0%`
     - max commission rate change: `2.0%`
-    - total voting power: `96950.79999999999 (0.01%)`
+    - total voting power: `97095.79999999999 (0.01%)`
     - email: `security@stakecito.de`
     - website: `https://www.stakecito.com`
-    - total delegations: `203`
+    - total delegations: `205`
 
 - address: `tnam1q8jrrf8s22cwd22yxhwc38tlvahplh2wyqjzl9gx`
     - alias: `P2P.org 💙`
@@ -555,10 +555,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `POSTHUMAN`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `40907.619 (0.0%)`
+    - total voting power: `41399.619 (0.0%)`
     - email: `validator@posthuman.digital`
     - website: `https://posthuman.digital`
-    - total delegations: `125`
+    - total delegations: `130`
 
 - address: `tnam1qy9htx7f43s3g4220ljzmua65vp5sw9ah5vm6xdu`
     - alias: `Firstset`
@@ -717,10 +717,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Cosmostation`
     - commission: `5.0%`
     - max commission rate change: `10.0%`
-    - total voting power: `10307.695 (0.0%)`
+    - total voting power: `10407.695 (0.0%)`
     - email: `node@stamper.network`
     - website: `https://www.cosmostation.io`
-    - total delegations: `23`
+    - total delegations: `24`
 
 - address: `tnam1qyx8wdefdg9sd6e22xq8ccyqg5peaersvcm20843`
     - alias: `securesecrets`
