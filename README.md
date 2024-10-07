@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `5383`
+- Total pre-genesis transactions: `5384`
 - Total validators: `198`
-- Total delegations: `5185`
-- Staked tokens: `26460829.83672 (~2.65%)`
+- Total delegations: `5186`
+- Staked tokens: `26460831.37672 (~2.65%)`
 
 ## Validators
 
@@ -44,11 +44,11 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Kintsugi Nodes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `1960354.4755789998 (7.41% of total voting power)`
+    - total voting power: `1960356.0155789999 (7.41% of total voting power)`
     - percentage of total supply: `0.2%`
     - email: `info@kintsugi.tech`
     - website: `https://kintsugi.tech`
-    - total delegations: `2797`
+    - total delegations: `2798`
 
 - address: `tnam1qya90eeuaxn47ajfjp08f8zzgjtmhy0lmyxn26gu`
     - alias: `TuDudes`
