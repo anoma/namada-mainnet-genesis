@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `5394`
+- Total pre-genesis transactions: `5397`
 - Total validators: `198`
-- Total delegations: `5196`
-- Staked tokens: `26963697.37672 (~2.7%)`
+- Total delegations: `5199`
+- Staked tokens: `26971247.37672 (~2.7%)`
 
 ## Validators
 
@@ -24,7 +24,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Mandragora`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `3331666.96 (12.36% of total voting power)`
+    - total voting power: `3331666.96 (12.35% of total voting power)`
     - percentage of total supply: `0.33%`
     - email: `support@mandragora.io`
     - website: `Unknown website`
@@ -44,11 +44,11 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Kintsugi Nodes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `1960783.0155789999 (7.27% of total voting power)`
+    - total voting power: `1960983.0155789999 (7.27% of total voting power)`
     - percentage of total supply: `0.2%`
     - email: `info@kintsugi.tech`
     - website: `https://kintsugi.tech`
-    - total delegations: `2802`
+    - total delegations: `2803`
 
 - address: `tnam1q87f9g34lagl5e6y482fwtad7870rk4vzsqaq7mf`
     - alias: `L0vd`
@@ -280,6 +280,16 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://blanc.group/`
     - total delegations: `5`
 
+- address: `tnam1qygyng6guhgj7jy4cfe2pxmsle6sakcvqv3cnlg6`
+    - alias: `Cosmostation`
+    - commission: `5.0%`
+    - max commission rate change: `10.0%`
+    - total voting power: `293991.695 (1.09% of total voting power)`
+    - percentage of total supply: `0.03%`
+    - email: `node@stamper.network`
+    - website: `https://www.cosmostation.io`
+    - total delegations: `45`
+
 - address: `tnam1q8yksf6xqm6u8e2axhy7wyx0elslnh7tdsrp2y9m`
     - alias: `HadesGuard`
     - commission: `5.0%`
@@ -289,16 +299,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `truongquoctuan61@gmail.com`
     - website: `Unknown website`
     - total delegations: `5`
-
-- address: `tnam1qygyng6guhgj7jy4cfe2pxmsle6sakcvqv3cnlg6`
-    - alias: `Cosmostation`
-    - commission: `5.0%`
-    - max commission rate change: `10.0%`
-    - total voting power: `286776.695 (1.06% of total voting power)`
-    - percentage of total supply: `0.03%`
-    - email: `node@stamper.network`
-    - website: `https://www.cosmostation.io`
-    - total delegations: `44`
 
 - address: `tnam1qx03fx58wtm6e2g5yt4uu9jpy702h4pjuy9a7653`
     - alias: `Infraspear`
@@ -634,11 +634,11 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `POSTHUMAN`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `59769.619 (0.22% of total voting power)`
+    - total voting power: `59904.619 (0.22% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `validator@posthuman.digital`
     - website: `https://posthuman.digital`
-    - total delegations: `172`
+    - total delegations: `173`
 
 - address: `tnam1qy9jra0mueg9637r0wlxehecrj0ale9ldgrytymm`
     - alias: `Stakin`
