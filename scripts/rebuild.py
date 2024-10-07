@@ -115,6 +115,7 @@ def parse_validators():
                 'email': validator['metadata']['email'],
                 'alias': validator['metadata']['name'] if 'name' in validator['metadata'] else None,
                 'website': validator['metadata']['website'] if 'website' in validator['metadata'] else None,
+                'discord_handle': validator['metadata']['discord_handle'] if 'discord_handle' in validator['metadata'] else None,
                 'voting_power': target_vp[validator['address']] if validator['address'] in target_vp else 0,
                 'total_delegations': target_delegations[validator['address']] if validator['address'] in target_delegations else 0,
             })

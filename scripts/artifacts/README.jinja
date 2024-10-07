@@ -30,6 +30,7 @@ There are no validators.
     - percentage of total supply: `{{ ((validator.voting_power / 1000000000) * 100) | round(2) }}%`
     - email: `{{ validator.email }}`
     - website: `{{ validator.website or 'Unknown website' }}`
+    - discord: `{{ validator.discord_handle or 'Unknown discord handle' }}`
     - total delegations: `{{ validator.total_delegations }}`
 {% endfor %}
 {% else %}
