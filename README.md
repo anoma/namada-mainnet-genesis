@@ -12,8 +12,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `5401`
-- Total validators: `199`
+- Total pre-genesis transactions: `5402`
+- Total validators: `200`
 - Total delegations: `5202`
 - Staked tokens: `27025998.37672 (~2.7%)`
 
@@ -1728,6 +1728,16 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - percentage of total supply: `0.0%`
     - email: `i.dred.one@gmail.com`
     - website: `Unknown website`
+    - total delegations: `0`
+
+- address: `tnam1q8lhvxys53dlc8wzlg7dyqf9avd0vff6wvav4amt`
+    - alias: `ValidityOps`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0 (0.0% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `operations@validityops.com`
+    - website: `validityops.com`
     - total delegations: `0`
 
 - address: `tnam1q82fsvmdkjfm7awr04xa0rkn27edztd9fypma6ha`
