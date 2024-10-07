@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `5402`
+- Total pre-genesis transactions: `5403`
 - Total validators: `200`
-- Total delegations: `5202`
-- Staked tokens: `27025998.37672 (~2.7%)`
+- Total delegations: `5203`
+- Staked tokens: `27026105.25672 (~2.7%)`
 
 ## Validators
 
@@ -954,11 +954,11 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Bro_n_Bro`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `15952.92 (0.06% of total voting power)`
+    - total voting power: `16059.800000000001 (0.06% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `bro.n.bro.foundation@gmail.com`
     - website: `bronbro.io`
-    - total delegations: `57`
+    - total delegations: `58`
 
 - address: `tnam1q9hafe0nf5k7pnkcmzp4tezgux6v7a6r25yqfe60`
     - alias: `Oneplus`
