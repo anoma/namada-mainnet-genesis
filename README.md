@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `5351`
+- Total pre-genesis transactions: `5352`
 - Total validators: `198`
-- Total delegations: `5153`
-- Staked tokens: `22535518.83672 (~2.25%)`
+- Total delegations: `5154`
+- Staked tokens: `22536519.83672 (~2.25%)`
 
 ## Validators
 
@@ -1320,6 +1320,16 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `Unknown website`
     - total delegations: `1`
 
+- address: `tnam1q8hfzffj0ckxumqgvu3thal3wprzt4c7eypss6ts`
+    - alias: `Centauri`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1001.0 (0.0% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `79nicolas79@gmail.com`
+    - website: `Unknown website`
+    - total delegations: `1`
+
 - address: `tnam1qy7u3y3sqltmd68a43lsr0khu8c9y8uyyuzy7sck`
     - alias: `Unknown alias`
     - commission: `5.0%`
@@ -1817,16 +1827,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `eudorakelseykj262@gmail.com`
-    - website: `Unknown website`
-    - total delegations: `0`
-
-- address: `tnam1q8hfzffj0ckxumqgvu3thal3wprzt4c7eypss6ts`
-    - alias: `Centauri`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `79nicolas79@gmail.com`
     - website: `Unknown website`
     - total delegations: `0`
 

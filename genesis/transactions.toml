@@ -2401,6 +2401,18 @@ tpknam1qznlxfz55q4jyd0ama7cj8jtsl939g3t77va8qwnq5alnnvwrxyhu00s60t = "signam1qq4
 
 
 
+# adding transaction for amadison79-bond
+
+[[bond]]
+source = "tpknam1qzvhxat66g2cn4l5usrgqfn5yjuuy7n80fx90545za7cw6dt7fccjv3a5p3"
+validator = "tnam1q8hfzffj0ckxumqgvu3thal3wprzt4c7eypss6ts"
+amount = "1001"
+
+[bond.signatures]
+tpknam1qzvhxat66g2cn4l5usrgqfn5yjuuy7n80fx90545za7cw6dt7fccjv3a5p3 = "signam1qr2p0eucn935pem4539q7k6e8p6al6w9uafdrpnrshzr8gfzvn2eatglnjdqt0qvtz70waam082hsx48nagq8jmstgj37s7dzpq05kqxzun5sw"
+
+
+
 # adding transaction for tevfikefeaydin-bond
 
 [[bond]]
