@@ -12,8 +12,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `5400`
-- Total validators: `198`
+- Total pre-genesis transactions: `5401`
+- Total validators: `199`
 - Total delegations: `5202`
 - Staked tokens: `27025998.37672 (~2.7%)`
 
@@ -1978,6 +1978,16 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - percentage of total supply: `0.0%`
     - email: `waynewayner@protonmail.com`
     - website: `https://waynewayner.de`
+    - total delegations: `0`
+
+- address: `tnam1qyauvf4gmvtthknkrftu9jpjaqn6k0k6nu3jucey`
+    - alias: `Ping`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0 (0.0% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `marco@kleomed.es`
+    - website: `https://ping.pub`
     - total delegations: `0`
 
 - address: `tnam1q8qgm85druh6zpvktmeax6zgz6yjxap4w5gmr5c9`
