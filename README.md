@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `5398`
+- Total pre-genesis transactions: `5400`
 - Total validators: `198`
-- Total delegations: `5200`
-- Staked tokens: `27011808.37672 (~2.7%)`
+- Total delegations: `5202`
+- Staked tokens: `27025998.37672 (~2.7%)`
 
 ## Validators
 
@@ -34,7 +34,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Knowable`
     - commission: `7.000000000000001%`
     - max commission rate change: `1.0%`
-    - total voting power: `2051935.0 (7.6% of total voting power)`
+    - total voting power: `2051935.0 (7.59% of total voting power)`
     - percentage of total supply: `0.21%`
     - email: `infra@knowable.vc`
     - website: `https://knowable.vc`
@@ -84,7 +84,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Chorus One`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `825390.0 (3.06% of total voting power)`
+    - total voting power: `825390.0 (3.05% of total voting power)`
     - percentage of total supply: `0.08%`
     - email: `security@chorus.one`
     - website: `https://chorus.one`
@@ -234,7 +234,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Keplr`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `344451.92000000004 (1.28% of total voting power)`
+    - total voting power: `344451.92000000004 (1.27% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `node-operator@chainapsis.com`
     - website: `https://infra.keplr.app`
@@ -414,7 +414,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `OriginStake`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `201250.0 (0.75% of total voting power)`
+    - total voting power: `201250.0 (0.74% of total voting power)`
     - percentage of total supply: `0.02%`
     - email: `hi@originstake.com`
     - website: `https://originstake.com`
@@ -980,6 +980,16 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://IONode.Online`
     - total delegations: `4`
 
+- address: `tnam1q8lzhgzezqew6z20wy64gw6q64vkv84k45ygue6v`
+    - alias: `BlockPro`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `14135.0 (0.05% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `contact@block-pro.net`
+    - website: `https://block-pro.net/`
+    - total delegations: `2`
+
 - address: `tnam1q82gtcy6cpf26zd0pp82ped9phwn523azvy8h3s5`
     - alias: `cyberalex`
     - commission: `5.0%`
@@ -1230,6 +1240,16 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `Unknown website`
     - total delegations: `2`
 
+- address: `tnam1q8pdrz6p2h8z9m9x9drf3d4r5sqkhw6epv2shrjy`
+    - alias: `Noderunners`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `2029.0 (0.01% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `info@noderunners.biz`
+    - website: `http://noderunners.biz`
+    - total delegations: `6`
+
 - address: `tnam1qyxp2w0e006nwr3ln9gxcvpnypcx40857ytfgyyt`
     - alias: `Wave`
     - commission: `5.0%`
@@ -1259,16 +1279,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `contact@moonlet.io`
     - website: `https://moonlet.io`
     - total delegations: `4`
-
-- address: `tnam1q8pdrz6p2h8z9m9x9drf3d4r5sqkhw6epv2shrjy`
-    - alias: `Noderunners`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `1924.0 (0.01% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `info@noderunners.biz`
-    - website: `http://noderunners.biz`
-    - total delegations: `5`
 
 - address: `tnam1q88jgxj5qhmcwxgn9frngrd30207awvdjgkwn674`
     - alias: `ByNode`
@@ -1558,16 +1568,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - percentage of total supply: `0.0%`
     - email: `info@blackblocks.io`
     - website: `https://blackblocks.io`
-    - total delegations: `1`
-
-- address: `tnam1q8lzhgzezqew6z20wy64gw6q64vkv84k45ygue6v`
-    - alias: `BlockPro`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `50.0 (0.0% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `contact@block-pro.net`
-    - website: `https://block-pro.net/`
     - total delegations: `1`
 
 - address: `tnam1qymvjx342ns6qqx0cyhxwrqumjphcfuk9yp0eywf`
