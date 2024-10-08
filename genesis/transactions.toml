@@ -3784,6 +3784,18 @@ tpknam1qrkq7h3sdwvmfe5agmhcqkxw428tcegwwg4l6zuhshur9kv5hsf0wr5daem = "signam1qqa
 
 
 
+# adding transaction for m15crypto-bond
+
+[[bond]]
+source = "tpknam1qp55csejnrak8k500f7jac7c6zcw3pr7c699jcp0k09cek2zcwrk566hd7h"
+validator = "tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p"
+amount = "1000"
+
+[bond.signatures]
+tpknam1qp55csejnrak8k500f7jac7c6zcw3pr7c699jcp0k09cek2zcwrk566hd7h = "signam1qr056psvf4gz8rjrj8w44j7av9x0ywahad5lf6hpa8yza9tp8xkckyusfs9wzv5v2l2cdjf3k3y2thnt2af6mn4l0pj4xszjd9ekmzstpupxpz"
+
+
+
 # adding transaction for tonystarkman2-bond
 
 [[bond]]
@@ -45242,6 +45254,18 @@ amount = "10000"
 
 [bond.signatures]
 tpknam1qq5zmdsgjtg5clzdqajr0kmmyud6gs62yw0j9cr52ruk094t43p050hjwtw = "signam1qqd3zqjg5xl7q6vmll3sq5waktsvpn7wyalahlcuruzwy569lqreygyw26uxuy208wtp8vl5jp3vtjr5w3p8vua0cwcfeljfrztwcecv4z4ajz"
+
+
+
+# adding transaction for rayray2k-bond
+
+[[bond]]
+source = "tpknam1qpd7ns08crp8fhzy38mv6wpezsstr88krxfww9jaku3d8why053kxrpztfn"
+validator = "tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p"
+amount = "650"
+
+[bond.signatures]
+tpknam1qpd7ns08crp8fhzy38mv6wpezsstr88krxfww9jaku3d8why053kxrpztfn = "signam1qz5wn39yek04vjh5chf29p3tes0rjaum0e4d5hz9t5drchcrdtgslgw66tluhzctkp4253ljz3xljqs6fyexd8e2v9cxcd9ggcwnf6spchkj0h"
 
 
 
