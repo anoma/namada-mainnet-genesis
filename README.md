@@ -27,6 +27,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `3331666.96 (12.32% of total voting power)`
     - percentage of total supply: `0.33%`
     - email: `support@mandragora.io`
+    - discord: `danielmandragora`
     - website: `Unknown website`
     - total delegations: `42`
 
@@ -37,6 +38,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `2051935.0 (7.59% of total voting power)`
     - percentage of total supply: `0.21%`
     - email: `infra@knowable.vc`
+    - discord: `Unknown discord handle`
     - website: `https://knowable.vc`
     - total delegations: `9`
 
@@ -47,6 +49,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1963202.0155789999 (7.26% of total voting power)`
     - percentage of total supply: `0.2%`
     - email: `info@kintsugi.tech`
+    - discord: `dimiandre`
     - website: `https://kintsugi.tech`
     - total delegations: `2807`
 
@@ -57,6 +60,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1202148.0 (4.45% of total voting power)`
     - percentage of total supply: `0.12%`
     - email: `info@l0vd.com`
+    - discord: `jango_l0vd`
     - website: `https://l0vd.com`
     - total delegations: `5`
 
@@ -67,6 +71,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1029590.611 (3.81% of total voting power)`
     - percentage of total supply: `0.1%`
     - email: `node-alerts@tududes.com`
+    - discord: `sirouk`
     - website: `https://tududes.com`
     - total delegations: `8`
 
@@ -77,6 +82,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1000000.0 (3.7% of total voting power)`
     - percentage of total supply: `0.1%`
     - email: `infra@poeticte.ch`
+    - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `1`
 
@@ -87,6 +93,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `825390.0 (3.05% of total voting power)`
     - percentage of total supply: `0.08%`
     - email: `security@chorus.one`
+    - discord: `Unknown discord handle`
     - website: `https://chorus.one`
     - total delegations: `12`
 
@@ -97,6 +104,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `724900.0 (2.68% of total voting power)`
     - percentage of total supply: `0.07%`
     - email: `winlin@kelepool.com`
+    - discord: `klearth`
     - website: `https://www.kelepool.com`
     - total delegations: `2`
 
@@ -107,6 +115,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `601389.5900000001 (2.22% of total voting power)`
     - percentage of total supply: `0.06%`
     - email: `hello@polkachu.com`
+    - discord: `polkachu`
     - website: `https://polkachu.com`
     - total delegations: `65`
 
@@ -117,6 +126,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `572187.0 (2.12% of total voting power)`
     - percentage of total supply: `0.06%`
     - email: `zenodeapp@gmail.com`
+    - discord: `keymasterzen`
     - website: `https://zenode.app`
     - total delegations: `5`
 
@@ -127,6 +137,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `563990.1799999999 (2.09% of total voting power)`
     - percentage of total supply: `0.06%`
     - email: `info@cosmicvalidator.com`
+    - discord: `harish0x12`
     - website: `https://www.cosmicvalidator.com`
     - total delegations: `48`
 
@@ -137,6 +148,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `553050.0 (2.05% of total voting power)`
     - percentage of total supply: `0.06%`
     - email: `operations@consensus.finoa.io`
+    - discord: `finoaconsensusservices`
     - website: `https://www.finoa.io/staking-delegation`
     - total delegations: `4`
 
@@ -147,6 +159,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `508760.0 (1.88% of total voting power)`
     - percentage of total supply: `0.05%`
     - email: `bitszn.com@gmail.com`
+    - discord: `alxbitszn`
     - website: `https://bitszn.com`
     - total delegations: `4`
 
@@ -157,6 +170,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `484500.0 (1.79% of total voting power)`
     - percentage of total supply: `0.05%`
     - email: `contact.crypto.universe@gmail.com`
+    - discord: `cryptodruide`
     - website: `Unknown website`
     - total delegations: `2`
 
@@ -167,6 +181,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `400000.0 (1.48% of total voting power)`
     - percentage of total supply: `0.04%`
     - email: `official@crouton.digital`
+    - discord: `ak32821`
     - website: `https:/crouton.digital`
     - total delegations: `3`
 
@@ -177,6 +192,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `398424.0 (1.47% of total voting power)`
     - percentage of total supply: `0.04%`
     - email: `devops@luganodes.com`
+    - discord: `@luganodes_hakai`
     - website: `https://www.luganodes.com/`
     - total delegations: `6`
 
@@ -187,6 +203,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `381000.0 (1.41% of total voting power)`
     - percentage of total supply: `0.04%`
     - email: `core@denodes.xyz`
+    - discord: `bombermine`
     - website: `https://denodes.xyz`
     - total delegations: `2`
 
@@ -197,6 +214,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `371028.0 (1.37% of total voting power)`
     - percentage of total supply: `0.04%`
     - email: `nikita@citadel.one`
+    - discord: `krewedk0`
     - website: `https://citadel.one`
     - total delegations: `43`
 
@@ -207,6 +225,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `365032.0 (1.35% of total voting power)`
     - percentage of total supply: `0.04%`
     - email: `hello@2pilot.dev`
+    - discord: `stanisloe`
     - website: `https://2pilot.dev/`
     - total delegations: `4`
 
@@ -217,6 +236,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `355450.0 (1.31% of total voting power)`
     - percentage of total supply: `0.04%`
     - email: `team@mellifera.network`
+    - discord: `ruslan_mellifera`
     - website: `https://mellifera.network`
     - total delegations: `4`
 
@@ -227,6 +247,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `350000.0 (1.29% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `infrastructure@edenblock.com`
+    - discord: `Unknown discord handle`
     - website: `www.edenblock.com`
     - total delegations: `2`
 
@@ -237,6 +258,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `344451.92000000004 (1.27% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `node-operator@chainapsis.com`
+    - discord: `daniel_ck`
     - website: `https://infra.keplr.app`
     - total delegations: `73`
 
@@ -247,6 +269,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `316982.0 (1.17% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `hello@zkvalidator.com`
+    - discord: `Unknown discord handle`
     - website: `https://zkv.xyz/`
     - total delegations: `4`
 
@@ -257,6 +280,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `316016.92 (1.17% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `security@nodes.guru`
+    - discord: `0xan_nodes_guru`
     - website: `https://nodes.guru`
     - total delegations: `23`
 
@@ -267,6 +291,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `300100.0 (1.11% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `liver23@protonmail.com`
+    - discord: `liver23`
     - website: `https://services.liveraven.net`
     - total delegations: `4`
 
@@ -277,6 +302,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `297865.5 (1.1% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `it@projectblanc.ch`
+    - discord: `Unknown discord handle`
     - website: `https://blanc.group/`
     - total delegations: `5`
 
@@ -287,6 +313,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `293991.695 (1.09% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `node@stamper.network`
+    - discord: `Unknown discord handle`
     - website: `https://www.cosmostation.io`
     - total delegations: `45`
 
@@ -297,6 +324,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `290099.67 (1.07% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `truongquoctuan61@gmail.com`
+    - discord: `hades99.hooked`
     - website: `Unknown website`
     - total delegations: `5`
 
@@ -307,6 +335,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `281000.0 (1.04% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `admin@infraspear.com`
+    - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `2`
 
@@ -317,6 +346,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `279932.0 (1.04% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `hello@wavefive.co`
+    - discord: `cryptovestor`
     - website: `https://wavefive.co`
     - total delegations: `4`
 
@@ -327,6 +357,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `275394.0 (1.02% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `security@lavenderfive.com`
+    - discord: `reversesigh`
     - website: `https://lavenderfive.com`
     - total delegations: `81`
 
@@ -337,6 +368,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `272429.0 (1.01% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `citizenweb3@protonmail.com`
+    - discord: `alibabaedge`
     - website: `citizenweb3.com`
     - total delegations: `4`
 
@@ -347,6 +379,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `260083.0 (0.96% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `pathrock@protonmail.com`
+    - discord: `paddyson`
     - website: `https://pathrocknetwork.org/`
     - total delegations: `3`
 
@@ -357,6 +390,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `250226.0 (0.93% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `n75pro@protonmail.com`
+    - discord: `shurinoff`
     - website: `https://node75.org`
     - total delegations: `4`
 
@@ -367,6 +401,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `250000.0 (0.92% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `admin@epithea.com`
+    - discord: `epithea_capital`
     - website: `Unknown website`
     - total delegations: `1`
 
@@ -377,6 +412,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `246346.8 (0.91% of total voting power)`
     - percentage of total supply: `0.02%`
     - email: `security@stakecito.de`
+    - discord: `Unknown discord handle`
     - website: `https://www.stakecito.com`
     - total delegations: `410`
 
@@ -387,6 +423,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `243337.0 (0.9% of total voting power)`
     - percentage of total supply: `0.02%`
     - email: `m@cryptosj.net`
+    - discord: `cryptosj.net`
     - website: `https://cryptosj.net`
     - total delegations: `4`
 
@@ -397,6 +434,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `240000.0 (0.89% of total voting power)`
     - percentage of total supply: `0.02%`
     - email: `leon@coverlet.io`
+    - discord: `leongameon`
     - website: `https://coverlet.io/`
     - total delegations: `1`
 
@@ -407,6 +445,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `202040.54 (0.75% of total voting power)`
     - percentage of total supply: `0.02%`
     - email: `namadavalidator@protonmail.com`
+    - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `14`
 
@@ -417,6 +456,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `201250.0 (0.74% of total voting power)`
     - percentage of total supply: `0.02%`
     - email: `hi@originstake.com`
+    - discord: `mrspir`
     - website: `https://originstake.com`
     - total delegations: `3`
 
@@ -427,6 +467,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `183964.82 (0.68% of total voting power)`
     - percentage of total supply: `0.02%`
     - email: `validator@informal.systems`
+    - discord: `Unknown discord handle`
     - website: `https://informal.systems`
     - total delegations: `13`
 
@@ -437,6 +478,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `168593.0 (0.62% of total voting power)`
     - percentage of total supply: `0.02%`
     - email: `info@staking4all.org`
+    - discord: `sheznez`
     - website: `https://www.staking4all.org/`
     - total delegations: `50`
 
@@ -447,6 +489,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `167908.0 (0.62% of total voting power)`
     - percentage of total supply: `0.02%`
     - email: `team@stakeflow.io`
+    - discord: `ivanovblizznikita`
     - website: `https://validator.stakeflow.io`
     - total delegations: `7`
 
@@ -457,6 +500,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `160212.0 (0.59% of total voting power)`
     - percentage of total supply: `0.02%`
     - email: `contact@emberstake.xyz`
+    - discord: `4rash`
     - website: `https://emberstake.xyz`
     - total delegations: `2`
 
@@ -467,6 +511,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `153384.0 (0.57% of total voting power)`
     - percentage of total supply: `0.02%`
     - email: `staking@simplystaking.com`
+    - discord: `Unknown discord handle`
     - website: `https://simplystaking.com`
     - total delegations: `10`
 
@@ -477,6 +522,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `148791.6300000007 (0.55% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `silentvalidator@gmail.com`
+    - discord: `silent666`
     - website: `https://silentvalidator.com`
     - total delegations: `343`
 
@@ -487,6 +533,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `140058.0 (0.52% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `namada@chainflow.io`
+    - discord: `Unknown discord handle`
     - website: `https://chainflow.io`
     - total delegations: `5`
 
@@ -497,6 +544,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `119000.0 (0.44% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `unitylchaos@protonmail.com`
+    - discord: `unitychaos`
     - website: `https://s9.gay`
     - total delegations: `3`
 
@@ -507,6 +555,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `100000.0 (0.37% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `info@stakeup.tech`
+    - discord: `landeros`
     - website: `https://stakeup.tech`
     - total delegations: `1`
 
@@ -517,6 +566,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `100000.0 (0.37% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `hello@chainlayer.io`
+    - discord: `Unknown discord handle`
     - website: `https://chainlayer.io`
     - total delegations: `1`
 
@@ -527,6 +577,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `100000.0 (0.37% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `fastrpl@gmail.com`
+    - discord: `itrocket`
     - website: `https://itrocket.net/`
     - total delegations: `1`
 
@@ -537,6 +588,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `99865.0 (0.37% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `cosmos-security@p2p.org`
+    - discord: `frodo_p2p`
     - website: `https://p2p.org/`
     - total delegations: `11`
 
@@ -547,6 +599,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `99150.0 (0.37% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `security@whispernode.com`
+    - discord: `whispernode`
     - website: `whispernode.com`
     - total delegations: `28`
 
@@ -557,6 +610,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `84580.0 (0.31% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `admin@cyphercore.io`
+    - discord: `pepeforlife`
     - website: `https://cyphercore.io`
     - total delegations: `3`
 
@@ -567,6 +621,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `84180.0 (0.31% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `security@encapsulate.xyz`
+    - discord: `kingsuper`
     - website: `https://encapsulate.xyz`
     - total delegations: `1`
 
@@ -577,6 +632,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `79394.88 (0.29% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `info@swiss-staking.ch`
+    - discord: `creeea`
     - website: `https://swiss-staking.ch`
     - total delegations: `45`
 
@@ -587,6 +643,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `77400.0 (0.29% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `office@noders.team`
+    - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `1`
 
@@ -597,6 +654,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `75100.0 (0.28% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `encipher88@protonmail.com`
+    - discord: `enbit88`
     - website: `https://keybase.io/encipher`
     - total delegations: `2`
 
@@ -607,6 +665,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `66600.0 (0.25% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `contact@dteam.tech`
+    - discord: `doodleoo`
     - website: `https://dteam.tech/`
     - total delegations: `2`
 
@@ -617,6 +676,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `63270.85 (0.23% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `contact@enigma-validator.com`
+    - discord: `enigma_validator`
     - website: `https://enigma-validator.com/`
     - total delegations: `134`
 
@@ -627,6 +687,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `60000.0 (0.22% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `contact@quantnode.tech`
+    - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `2`
 
@@ -637,6 +698,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `59954.619 (0.22% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `validator@posthuman.digital`
+    - discord: `posthuman_validator`
     - website: `https://posthuman.digital`
     - total delegations: `174`
 
@@ -647,6 +709,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `55004.0 (0.2% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `namada@stakin.com`
+    - discord: `Unknown discord handle`
     - website: `https://stakin.com`
     - total delegations: `2`
 
@@ -657,6 +720,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `52181.0 (0.19% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `stake@huginn.tech`
+    - discord: `gokay5690`
     - website: `https://huginn.tech`
     - total delegations: `24`
 
@@ -667,6 +731,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `50000.0 (0.18% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `llocallhost@gmail.com`
+    - discord: `katrin9253`
     - website: `Unknown website`
     - total delegations: `1`
 
@@ -677,6 +742,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `50000.0 (0.18% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `katekrasv@gmail.com`
+    - discord: `katekrasv`
     - website: `https://perfect-nodes.com/`
     - total delegations: `1`
 
@@ -687,6 +753,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `50000.0 (0.18% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `saeedahmad1981@gmail.com`
+    - discord: `.satman`
     - website: `https://github.com/satman81/`
     - total delegations: `1`
 
@@ -697,6 +764,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `50000.0 (0.18% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `snsmlnn@gmail.com`
+    - discord: `@snsmlnn`
     - website: `https://github.com/snsmln`
     - total delegations: `1`
 
@@ -707,6 +775,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `49910.67 (0.18% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `contact@kjnodes.com`
+    - discord: `kjnodes`
     - website: `https://services.kjnodes.com/mainnet/namada`
     - total delegations: `5`
 
@@ -717,6 +786,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `48400.0 (0.18% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `89686697888@mail.ru`
+    - discord: `888tnso`
     - website: `https://namadascan.io`
     - total delegations: `2`
 
@@ -727,6 +797,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `47726.0 (0.18% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `adiadi2411@gmail.com`
+    - discord: `mdlog123`
     - website: `mdnodes.com`
     - total delegations: `1`
 
@@ -737,6 +808,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `47130.0 (0.17% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `security@contributiondao.com`
+    - discord: `ntpcontribute`
     - website: `https://contributiondao.com`
     - total delegations: `3`
 
@@ -747,6 +819,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `46001.68 (0.17% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `support@ccvalidators.com`
+    - discord: `@ccclaimens`
     - website: `https://ccvalidators.com`
     - total delegations: `28`
 
@@ -757,6 +830,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `45838.476141 (0.17% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `joseph@redtrie.com`
+    - discord: `jspadave`
     - website: `Unknown website`
     - total delegations: `1`
 
@@ -767,6 +841,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `44901.0 (0.17% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `bob@irisnet.org`
+    - discord: `Unknown discord handle`
     - website: `https://irisnet.org`
     - total delegations: `7`
 
@@ -777,6 +852,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `44291.40999999999 (0.16% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `info@steadycrypto.solutions`
+    - discord: `Unknown discord handle`
     - website: `https://airdrops.one/`
     - total delegations: `219`
 
@@ -787,6 +863,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `42501.0 (0.16% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `connect@nocturnallabs.org`
+    - discord: `Unknown discord handle`
     - website: `https://nocturnallabs.org`
     - total delegations: `3`
 
@@ -797,6 +874,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `41161.0 (0.15% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `admin@validatorvn.com`
+    - discord: `validatorvn`
     - website: `https://validatorvn.com`
     - total delegations: `8`
 
@@ -807,6 +885,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `40833.0 (0.15% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `hi@firstset.xyz`
+    - discord: `bernatf`
     - website: `https://firstset.xyz`
     - total delegations: `1`
 
@@ -817,6 +896,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `40800.0 (0.15% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `iam@stake-machine.com`
+    - discord: `stakemachine`
     - website: `https://stake-machine.com`
     - total delegations: `2`
 
@@ -827,6 +907,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `40000.0 (0.15% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `contact@decentrio.ventures`
+    - discord: `dunguyen29`
     - website: `https://decentrio.ventures`
     - total delegations: `1`
 
@@ -837,6 +918,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `38467.0 (0.14% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `contact@stakepool.dev.br`
+    - discord: `stakepool`
     - website: `https://stakepool.dev.br/`
     - total delegations: `7`
 
@@ -847,6 +929,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `37482.42 (0.14% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `support@stakely.io`
+    - discord: `Unknown discord handle`
     - website: `https://stakely.io`
     - total delegations: `21`
 
@@ -857,6 +940,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `34800.0 (0.13% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `namada@newton.zone`
+    - discord: `Unknown discord handle`
     - website: `https://newton.zone`
     - total delegations: `2`
 
@@ -867,6 +951,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `27700.0 (0.1% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `boyrdr2@gmail.com`
+    - discord: `q.w.e.r.t.y`
     - website: `https://github.com/BrainCord`
     - total delegations: `3`
 
@@ -877,6 +962,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `27073.0 (0.1% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `validators@vitwit.com`
+    - discord: `k_kappa`
     - website: `https://vitwit.com`
     - total delegations: `6`
 
@@ -887,6 +973,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `26951.0 (0.1% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `staking@chainbase.com`
+    - discord: `conanxyz`
     - website: `https://staking.chainbase.com`
     - total delegations: `4`
 
@@ -897,6 +984,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `25981.0 (0.1% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `stakeandrelax_validator@proton.me`
+    - discord: `manueldb2`
     - website: `https://linktr.ee/stakeandrelax`
     - total delegations: `20`
 
@@ -907,6 +995,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `25004.6 (0.09% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `support@autostake.com`
+    - discord: `Unknown discord handle`
     - website: `autostake.com`
     - total delegations: `13`
 
@@ -917,6 +1006,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `24000.0 (0.09% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `unlimitedmolotnorilsk@gmail.com`
+    - discord: `freesson`
     - website: `https://cryptomolotstake.com/`
     - total delegations: `1`
 
@@ -927,6 +1017,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `20000.0 (0.07% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `cryptobtcbuyer@gmail.com`
+    - discord: `cryptobtcbuyer`
     - website: `https://github.com/cryptobtcbuyer`
     - total delegations: `1`
 
@@ -937,6 +1028,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `19304.0 (0.07% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `validator@dsrvlabs.com`
+    - discord: `heeheejin`
     - website: `https://dsrvlabs.com`
     - total delegations: `2`
 
@@ -947,6 +1039,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `16985.0 (0.06% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `ajianmeige@gmail.com`
+    - discord: `jacky1998`
     - website: `Unknown website`
     - total delegations: `6`
 
@@ -957,6 +1050,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `16091.800000000001 (0.06% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `bro.n.bro.foundation@gmail.com`
+    - discord: `Unknown discord handle`
     - website: `bronbro.io`
     - total delegations: `59`
 
@@ -967,6 +1061,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `15000.0 (0.06% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `oneplus9159@gmail.com`
+    - discord: `oneplus`
     - website: `Unknown website`
     - total delegations: `1`
 
@@ -977,6 +1072,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `14922.0 (0.06% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `ionodeonline@gmail.com`
+    - discord: `orochiionode`
     - website: `https://IONode.Online`
     - total delegations: `4`
 
@@ -987,6 +1083,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `14135.0 (0.05% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `contact@block-pro.net`
+    - discord: `shoni_crypto`
     - website: `https://block-pro.net/`
     - total delegations: `2`
 
@@ -997,6 +1094,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `13235.0 (0.05% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `cyberalex14@gmail.com`
+    - discord: `cyberalex14`
     - website: `https://github.com/CyberAlex14`
     - total delegations: `1`
 
@@ -1007,6 +1105,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `12383.0 (0.05% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `validator@forbole.com`
+    - discord: `forbole`
     - website: `https://forbole.com`
     - total delegations: `6`
 
@@ -1017,6 +1116,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `10200.0 (0.04% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `mohammedp@securesecrets.org`
+    - discord: `@mohammedpatla`
     - website: `https://securesecrets.org`
     - total delegations: `3`
 
@@ -1027,6 +1127,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `10100.0 (0.04% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `zaebaza@rambler.ru`
+    - discord: `zaebaza`
     - website: `private`
     - total delegations: `2`
 
@@ -1037,6 +1138,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `10000.0 (0.04% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `nguyen@mekonglabs.tech`
+    - discord: `nguyenthenguyen`
     - website: `https://mekonglabs.tech`
     - total delegations: `1`
 
@@ -1047,6 +1149,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `10000.0 (0.04% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `validator@konsortech.xyz`
+    - discord: `konsortech`
     - website: `https://konsortech.xyz`
     - total delegations: `1`
 
@@ -1057,6 +1160,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `8229.0 (0.03% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `admin@palamar.io`
+    - discord: `pa1amar`
     - website: `https://palamar.io`
     - total delegations: `3`
 
@@ -1067,6 +1171,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `7991.0 (0.03% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `bngq323@outlook.com`
+    - discord: `daviduok`
     - website: `Unknown website`
     - total delegations: `2`
 
@@ -1077,6 +1182,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `7295.0 (0.03% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `aquariusluo@gmail.com`
+    - discord: `sy.lai`
     - website: `www.staking-power.com`
     - total delegations: `1`
 
@@ -1087,6 +1193,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `6909.0 (0.03% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `murphynodeteam@gmail.com`
+    - discord: `Unknown discord handle`
     - website: `https://murphynode.com`
     - total delegations: `2`
 
@@ -1097,6 +1204,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `6400.0 (0.02% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `cryptech.nodes@gmail.com`
+    - discord: `romashkin_cryptech`
     - website: `https://services.cryptech.com.ua`
     - total delegations: `1`
 
@@ -1107,6 +1215,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `6200.0 (0.02% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `igrgusarov@gmail.com`
+    - discord: `igorgusarov`
     - website: `Unknown website`
     - total delegations: `1`
 
@@ -1117,6 +1226,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `5555.0 (0.02% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `papadritta@gmail.com`
+    - discord: `papadritta`
     - website: `https://github.com/papadritta`
     - total delegations: `1`
 
@@ -1127,6 +1237,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `4000.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `security@5elementsnodes.com`
+    - discord: `5elementsnodes`
     - website: `https://www.5elementsnodes.com`
     - total delegations: `2`
 
@@ -1137,6 +1248,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `3636.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `partners@staketab.com`
+    - discord: `duccaofficial`
     - website: `https://staketab.com/`
     - total delegations: `6`
 
@@ -1147,6 +1259,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `3400.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `nodemeister@pm.me`
+    - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `1`
 
@@ -1157,6 +1270,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `3339.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `security@figment.io`
+    - discord: `Unknown discord handle`
     - website: `https://figment.io`
     - total delegations: `14`
 
@@ -1167,6 +1281,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `3121.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `nomad@nomadvalidator.com`
+    - discord: `nomadval`
     - website: `www.nomadvalidator.com`
     - total delegations: `3`
 
@@ -1177,6 +1292,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `3100.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `0xmaragung@gmail.com`
+    - discord: `Unknown discord handle`
     - website: `https://maragung.com`
     - total delegations: `1`
 
@@ -1187,6 +1303,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `3016.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `contact@synergynodes.com`
+    - discord: `aries_1504`
     - website: `https://www.synergynodes.com`
     - total delegations: `2`
 
@@ -1197,6 +1314,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `3001.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `alex.it.prof@gmail.com`
+    - discord: `alex_it_prof`
     - website: `https://github.com/AlexITProf`
     - total delegations: `2`
 
@@ -1207,6 +1325,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `3000.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `rossoman2k@gmail.com`
+    - discord: `rossoman`
     - website: `https://onthepluto.com`
     - total delegations: `1`
 
@@ -1217,6 +1336,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `2333.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `yarco@pragma.ooo`
+    - discord: `yaboha`
     - website: `https://pragma.ooo`
     - total delegations: `1`
 
@@ -1227,6 +1347,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `2278.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `cobajohnson90@gmail.com`
+    - discord: `baconvalley`
     - website: `https://github.com/hubofvalley`
     - total delegations: `4`
 
@@ -1237,6 +1358,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `2100.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `bigpaopao@outlook.com`
+    - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `2`
 
@@ -1247,6 +1369,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `2029.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `info@noderunners.biz`
+    - discord: `Unknown discord handle`
     - website: `http://noderunners.biz`
     - total delegations: `6`
 
@@ -1257,6 +1380,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `2000.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `contact@0xwave.com`
+    - discord: `waves9228`
     - website: `https://0xwave.com`
     - total delegations: `4`
 
@@ -1267,6 +1391,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `2000.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `alokhinoleksii92@gmail.com`
+    - discord: `lapatylin`
     - website: `https://t.me/Lapatylin`
     - total delegations: `1`
 
@@ -1277,6 +1402,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1955.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `contact@moonlet.io`
+    - discord: `Unknown discord handle`
     - website: `https://moonlet.io`
     - total delegations: `4`
 
@@ -1287,6 +1413,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1724.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `q1037573909@gmail.com`
+    - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `4`
 
@@ -1297,6 +1424,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1667.0 (0.01% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `blocks@disperze.network`
+    - discord: `giansalex`
     - website: `https://disperze.network`
     - total delegations: `6`
 
@@ -1307,6 +1435,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1285.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `sptnode@gmail.com`
+    - discord: `@sptnode`
     - website: `https://node.sipalingtestnet.com/`
     - total delegations: `4`
 
@@ -1317,6 +1446,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1261.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `davidthepopescu@gmail.com`
+    - discord: `davidthepopescu`
     - website: `https://stake.systems`
     - total delegations: `1`
 
@@ -1327,6 +1457,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1250.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `staking@blocknth.com`
+    - discord: `blocknthxyz`
     - website: `https://blocknth.com`
     - total delegations: `1`
 
@@ -1337,6 +1468,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1222.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `support@validatus.com`
+    - discord: `validatus.com`
     - website: `https://www.validatus.com`
     - total delegations: `3`
 
@@ -1347,6 +1479,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1130.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `security@unit410.com`
+    - discord: `Unknown discord handle`
     - website: `https://unit410.com`
     - total delegations: `2`
 
@@ -1357,6 +1490,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1100.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `mkhananov@gmail.com`
+    - discord: `khanami.eth`
     - website: `https://hedonismteam.com/`
     - total delegations: `1`
 
@@ -1367,6 +1501,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1051.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `security@unit410.com`
+    - discord: `Unknown discord handle`
     - website: `https://unit410.com`
     - total delegations: `1`
 
@@ -1377,6 +1512,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1010.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `mus56@mail.ru`
+    - discord: `vladislav7137`
     - website: `Unknown website`
     - total delegations: `1`
 
@@ -1387,6 +1523,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1001.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `79nicolas79@gmail.com`
+    - discord: `amadison79`
     - website: `Unknown website`
     - total delegations: `1`
 
@@ -1397,6 +1534,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1000.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `support@gatadao.zone`
+    - discord: `Unknown discord handle`
     - website: `https://gatahub.zone`
     - total delegations: `1`
 
@@ -1407,6 +1545,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1000.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `kadieu4020@gmail.com`
+    - discord: `kadieu`
     - website: `https://github.com/ethAzero/`
     - total delegations: `1`
 
@@ -1417,6 +1556,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1000.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `sale.laliola@gmail.com`
+    - discord: `julvinn`
     - website: `https://github.com/JuliaMoon1`
     - total delegations: `1`
 
@@ -1427,6 +1567,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1000.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `admin@hashkey.cloud`
+    - discord: `Unknown discord handle`
     - website: `https://www.hashkey.cloud/`
     - total delegations: `1`
 
@@ -1437,6 +1578,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1000.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `dityaeth@gmail.com`
+    - discord: `ditya_eth`
     - website: `www.famnode.my.id`
     - total delegations: `1`
 
@@ -1447,6 +1589,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1000.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `alezz@protonmail.com`
+    - discord: `alezz7997`
     - website: `nodesnavigator.xyz`
     - total delegations: `1`
 
@@ -1457,6 +1600,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `1000.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `architectnodes@gmail.com`
+    - discord: `architectnodes`
     - website: `https://architectnodes.com`
     - total delegations: `1`
 
@@ -1467,6 +1611,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `983.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `loser@loserboy.xyz`
+    - discord: `tonymarma`
     - website: `https://loserboy.xyz`
     - total delegations: `2`
 
@@ -1477,6 +1622,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `694.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `staking@gateway.fm`
+    - discord: `Unknown discord handle`
     - website: `https://stakeway.com`
     - total delegations: `4`
 
@@ -1487,6 +1633,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `533.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `stakearmy@gmail.com`
+    - discord: `andreimp4`
     - website: `https://stakearmy.com`
     - total delegations: `6`
 
@@ -1497,6 +1644,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `228.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `richard@stakingcabin.com`
+    - discord: `richardstakingcabin`
     - website: `https://stakingcabin.com`
     - total delegations: `2`
 
@@ -1507,6 +1655,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `214.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `support@mathnodes.com`
+    - discord: `freQniK`
     - website: `https://mathnodes.com`
     - total delegations: `3`
 
@@ -1517,6 +1666,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `202.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `admin@nodeify.net`
+    - discord: `kw1k`
     - website: `https://nodeify.net`
     - total delegations: `3`
 
@@ -1527,6 +1677,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `167.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `office@daic.capital`
+    - discord: `Unknown discord handle`
     - website: `https://daic.capital`
     - total delegations: `2`
 
@@ -1537,6 +1688,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `116.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `blockcoin1@126.com`
+    - discord: `pangzi_90610`
     - website: `https://www.equinoxdao.xyz/`
     - total delegations: `2`
 
@@ -1547,6 +1699,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `106.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `vladtrecklo@gmail.com`
+    - discord: `vladdislaves`
     - website: `https://crypto100f.com`
     - total delegations: `1`
 
@@ -1557,6 +1710,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `101.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `hello@validator.company`
+    - discord: `cosmoscan`
     - website: `https://validator.company`
     - total delegations: `1`
 
@@ -1567,6 +1721,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `84.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `tecnodes.network@gmail.com`
+    - discord: `tecnodes`
     - website: `https://tecnodes.network`
     - total delegations: `1`
 
@@ -1577,6 +1732,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `80.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `info@blackblocks.io`
+    - discord: `blackblocks.io`
     - website: `https://blackblocks.io`
     - total delegations: `1`
 
@@ -1587,6 +1743,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `30.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `chillvalidation@gmail.com`
+    - discord: `chillyvee`
     - website: `https://chillvalidation.com`
     - total delegations: `1`
 
@@ -1597,6 +1754,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `10.0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `namada.raft186@passinbox.com`
+    - discord: `gnosed`
     - website: `Unknown website`
     - total delegations: `1`
 
@@ -1607,6 +1765,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `contact@brightlystake.com`
+    - discord: `crypto_new`
     - website: `https://brightlystake.com`
     - total delegations: `0`
 
@@ -1617,6 +1776,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `info@mhventures.io`
+    - discord: `Unknown discord handle`
     - website: `https://mhventures.io`
     - total delegations: `0`
 
@@ -1627,6 +1787,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `nnathantaylor12@gmail.com`
+    - discord: `afyethh`
     - website: `Unknown website`
     - total delegations: `0`
 
@@ -1637,6 +1798,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `contact@tdrsys.com`
+    - discord: `tdr4877`
     - website: `https://www.tdrsys.com`
     - total delegations: `0`
 
@@ -1647,6 +1809,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `cto@cosmowiz.com`
+    - discord: `cosmowizard`
     - website: `https://cosmowiz.com`
     - total delegations: `0`
 
@@ -1657,6 +1820,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `contact@ubik.capital`
+    - discord: `Unknown discord handle`
     - website: `https://ubik.capital/`
     - total delegations: `0`
 
@@ -1667,6 +1831,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `2094174328@qq.com`
+    - discord: `kiki022605`
     - website: `Unknown website`
     - total delegations: `0`
 
@@ -1677,6 +1842,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `an0drei83@gmail.com`
+    - discord: `an0drei83`
     - website: `https://powerstaking.tech`
     - total delegations: `0`
 
@@ -1687,6 +1853,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `sixmiles127@gmail.com`
+    - discord: `@sixmiles`
     - website: `none`
     - total delegations: `0`
 
@@ -1697,6 +1864,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `81279589@qq.com`
+    - discord: `PeachStake`
     - website: `Unknown website`
     - total delegations: `0`
 
@@ -1707,6 +1875,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `paul@everlasting.nz`
+    - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `0`
 
@@ -1717,6 +1886,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `web34ever@gmail.com`
+    - discord: `web34ever`
     - website: `https://web3validator.info`
     - total delegations: `0`
 
@@ -1727,6 +1897,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `gomerflinkt@hotmail.com`
+    - discord: `_implorea`
     - website: `Unknown website`
     - total delegations: `0`
 
@@ -1737,6 +1908,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `i.dred.one@gmail.com`
+    - discord: `ches0494`
     - website: `Unknown website`
     - total delegations: `0`
 
@@ -1747,6 +1919,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `operations@validityops.com`
+    - discord: `Unknown discord handle`
     - website: `validityops.com`
     - total delegations: `0`
 
@@ -1757,6 +1930,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `hello@n1stake.com`
+    - discord: `Vincagame`
     - website: `https://n1stake.com`
     - total delegations: `0`
 
@@ -1767,6 +1941,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `viachaslau85@gmail.com`
+    - discord: `viachaslaur`
     - website: `https://github.com/Viachaslau85/Portfolio`
     - total delegations: `0`
 
@@ -1777,6 +1952,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `dima.rabecki@gmail.com`
+    - discord: `crazydimka7`
     - website: `crazydimka.xyz`
     - total delegations: `0`
 
@@ -1787,6 +1963,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `theroadz@proton.me`
+    - discord: `theroadz`
     - website: `Unknown website`
     - total delegations: `0`
 
@@ -1797,6 +1974,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `virtualxgrape@gmail.com`
+    - discord: `alekh_w`
     - website: `Unknown website`
     - total delegations: `0`
 
@@ -1807,6 +1985,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `nodemeister@pm.me`
+    - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `0`
 
@@ -1817,6 +1996,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `thanhlv195@gmail.com`
+    - discord: `suntzu_t`
     - website: `https://azclub.pro`
     - total delegations: `0`
 
@@ -1827,6 +2007,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `merlin@wetez.io`
+    - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `0`
 
@@ -1837,6 +2018,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `nodiums@gmail.com`
+    - discord: `nodiums`
     - website: `https://nodiums.com`
     - total delegations: `0`
 
@@ -1847,6 +2029,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `eudorakelseykj262@gmail.com`
+    - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `0`
 
@@ -1857,6 +2040,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `zhrakivskyiandrii@hotmail.com`
+    - discord: `campbellio`
     - website: `Unknown website`
     - total delegations: `0`
 
@@ -1867,6 +2051,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `ilfats559@gmail.com`
+    - discord: `jetrix`
     - website: `Unknown website`
     - total delegations: `0`
 
@@ -1877,6 +2062,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `validator@neuler.xyz`
+    - discord: `Unknown discord handle`
     - website: `https://neuler.xyz`
     - total delegations: `0`
 
@@ -1887,6 +2073,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `hello@dominodes.io`
+    - discord: `igoodvvin`
     - website: `https://dominodes.io`
     - total delegations: `0`
 
@@ -1897,6 +2084,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `tarabukinivan@gmail.com`
+    - discord: `tarabukinivan`
     - website: `https://tarabukinivan.github.io/personal/`
     - total delegations: `0`
 
@@ -1907,6 +2095,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `validator@genznodes.dev`
+    - discord: `@genznodes`
     - website: `https://genznodes.dev/`
     - total delegations: `0`
 
@@ -1917,6 +2106,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `andyroddick6600@gmail.com`
+    - discord: `Unknown discord handle`
     - website: `www.spidey.services`
     - total delegations: `0`
 
@@ -1927,6 +2117,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `core@f5nodes.com`
+    - discord: `redwest88`
     - website: `https://f5nodes.com`
     - total delegations: `0`
 
@@ -1937,6 +2128,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `james@namada.bond`
+    - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `0`
 
@@ -1947,6 +2139,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `info@blockscape.network`
+    - discord: `Unknown discord handle`
     - website: `blockscape.network`
     - total delegations: `0`
 
@@ -1957,6 +2150,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `niloki555@gmail.com`
+    - discord: `niloki555`
     - website: `niloki.xyz`
     - total delegations: `0`
 
@@ -1967,6 +2161,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `info@validatrium.com`
+    - discord: `validatrium_ndevops`
     - website: `https://validatrium.com`
     - total delegations: `0`
 
@@ -1977,6 +2172,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `timagixe@protonmail.com`
+    - discord: `timagixe`
     - website: `https://tmgx.xyz/`
     - total delegations: `0`
 
@@ -1987,6 +2183,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `waynewayner@protonmail.com`
+    - discord: `waynewayner`
     - website: `https://waynewayner.de`
     - total delegations: `0`
 
@@ -1997,6 +2194,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `marco@kleomed.es`
+    - discord: `Unknown discord handle`
     - website: `https://ping.pub`
     - total delegations: `0`
 
@@ -2007,6 +2205,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `admin@idekubagus.com`
+    - discord: `idekubagus`
     - website: `idekubagus.com`
     - total delegations: `0`
 
@@ -2017,6 +2216,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - total voting power: `0 (0.0% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `max0476@protonmail.com`
+    - discord: `power542`
     - website: `Unknown website`
     - total delegations: `0`
 
