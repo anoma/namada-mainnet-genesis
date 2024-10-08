@@ -6,13 +6,18 @@ If you have received an allocation, check the [docs on how to make a pre-genesis
 
 If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW3)!
 
-## Voting power distribution
+## Voting power distribution 
 
 {% if validators|length > 0 %}
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 {% else %}
 There are no validators.
 {% endif %}
+
+- Total pre-genesis transactions: `{{ total_txs }}`
+- Total validators: `{{ validators|length }}`
+- Total delegations: `{{ total_delegations }}`
+- Staked tokens: `{{ total_staked_tokens }} (~{{ total_staked_token_percentage }}%)`
 
 ## Validators
 {% if validators|length > 0 %}
@@ -21,9 +26,12 @@ There are no validators.
     - alias: `{{ validator.alias or 'Unknown alias' }}`
     - commission: `{{ validator.commission_rate }}%`
     - max commission rate change: `{{ validator.max_commission_rate_change }}%`
-    - total voting power: `{{ validator.voting_power }}`
+    - total voting power: `{{ validator.voting_power }} ({{ ((validator.voting_power / total_staked_tokens) * 100) | round(2) }}% of total voting power)`
+    - percentage of total supply: `{{ ((validator.voting_power / 1000000000) * 100) | round(2) }}%`
     - email: `{{ validator.email }}`
+    - discord: `{{ validator.discord_handle or 'Unknown discord handle' }}`
     - website: `{{ validator.website or 'Unknown website' }}`
+    - total delegations: `{{ validator.total_delegations }}`
 {% endfor %}
 {% else %}
 There are no validators.
