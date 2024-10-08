@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `5403`
+- Total pre-genesis transactions: `5404`
 - Total validators: `200`
-- Total delegations: `5203`
-- Staked tokens: `27026105.25672 (~2.7%)`
+- Total delegations: `5204`
+- Staked tokens: `27027355.25672 (~2.7%)`
 
 ## Validators
 
@@ -224,7 +224,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `edenblock`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `350000.0 (1.3% of total voting power)`
+    - total voting power: `350000.0 (1.29% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `infrastructure@edenblock.com`
     - website: `www.edenblock.com`
@@ -364,7 +364,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `epithea`
     - commission: `5.0%`
     - max commission rate change: `5.0%`
-    - total voting power: `250000.0 (0.93% of total voting power)`
+    - total voting power: `250000.0 (0.92% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `admin@epithea.com`
     - website: `Unknown website`
@@ -664,7 +664,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `localhost`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `50000.0 (0.19% of total voting power)`
+    - total voting power: `50000.0 (0.18% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `llocallhost@gmail.com`
     - website: `Unknown website`
@@ -674,7 +674,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Perfect`
     - commission: `5.0%`
     - max commission rate change: `5.0%`
-    - total voting power: `50000.0 (0.19% of total voting power)`
+    - total voting power: `50000.0 (0.18% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `katekrasv@gmail.com`
     - website: `https://perfect-nodes.com/`
@@ -684,7 +684,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `0xgen`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `50000.0 (0.19% of total voting power)`
+    - total voting power: `50000.0 (0.18% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `saeedahmad1981@gmail.com`
     - website: `https://github.com/satman81/`
@@ -694,7 +694,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `SNSMLNN`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `50000.0 (0.19% of total voting power)`
+    - total voting power: `50000.0 (0.18% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `snsmlnn@gmail.com`
     - website: `https://github.com/snsmln`
@@ -1318,6 +1318,16 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - percentage of total supply: `0.0%`
     - email: `davidthepopescu@gmail.com`
     - website: `https://stake.systems`
+    - total delegations: `1`
+
+- address: `tnam1q8mqm9s984ldqclk6qn4x3jd5t03vhjp9s60thf3`
+    - alias: `BlockNth`
+    - commission: `4.0%`
+    - max commission rate change: `2.0%`
+    - total voting power: `1250.0 (0.0% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `staking@blocknth.com`
+    - website: `https://blocknth.com`
     - total delegations: `1`
 
 - address: `tnam1q8vztqtl5aknthxa3jezezr7amkgz3zp5vz82qe5`
@@ -1968,16 +1978,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - percentage of total supply: `0.0%`
     - email: `timagixe@protonmail.com`
     - website: `https://tmgx.xyz/`
-    - total delegations: `0`
-
-- address: `tnam1q8mqm9s984ldqclk6qn4x3jd5t03vhjp9s60thf3`
-    - alias: `BlockNth`
-    - commission: `4.0%`
-    - max commission rate change: `2.0%`
-    - total voting power: `0 (0.0% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `staking@blocknth.com`
-    - website: `https://blocknth.com`
     - total delegations: `0`
 
 - address: `tnam1qylae4e5x3zpsfgsktywngdw943m4t07cqxdu6uy`
