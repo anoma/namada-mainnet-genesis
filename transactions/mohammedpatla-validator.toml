@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzq5chxy99hym52qesz9hecxvukj0dlnkr2s0ee0ph27wcaf7zf8cdjg8kl"]
+
+[[validator_account]]
+address = "tnam1qyx8wdefdg9sd6e22xq8ccyqg5peaersvcm20843"
+vp = "vp_user"
+commission_rate = "0.01"
+max_commission_rate_change = "0.01"
+net_address = "45.77.150.135:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qza4a9qjg8p09zknk2a78wdh6tjv908mw7kf07d095gzhvtjg2zz5g44mx8"
+authorization = "signam1qqrq7yvdpu0pagzcf09j0zldvz8wmgf3f5lhzdvhrwhe8zznphdtfc9cvyxazg3a8guq77szwg6sa70afu2wqjk3vd47h9kda6n2e5gwtpxw4s"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr3a5mdstkfavsgs0al0w5v4ypannnd5dm8l3eg8tdl4s93zvsxkx90lngv"
+authorization = "signam1qr8a3ugdf6qstvzxm283d8yzclhfwj2hm0smrxnuvz86mh50hdzd52v4nne32ew0gdy6u40k23wuzplmf7dpkx3ljm750lymktnz6eq82weeug"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzuyruw5u50x0f98ltz60eukq5sc4afhhh0ql7h8s0hkc0gr2d6pcc4tmta"
+authorization = "signam1qzcg66dd552cnll9vp36sg87vygt7rlflamnm6xq7u05cd54zgx40vdfnxyt0veptylt3cm6dmh3yt0q0a4rtvcuxdfwfl3y3ynl4pcpr3lzqq"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypv94m7rd5r756s66rsqfa730ler2r7vupeydkegkk0m7y67tjeetgfsch9d"
+authorization = "signam1qypmzle6gkgu5az6z84a5crfe6v4p3297y29lwttuwx4qgtwpsuczlwu3364rfapeh9cngzfft377367darkyyhh8llem2m6pshvf8gqqqqws3sn"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypvxmkrwm84utgfpky6kshjkz57cgehqkysj29rrrvceg56g7qy69gwnffht"
+authorization = "signam1q9n95x6wfkv0zanjgu83lwx2yfd02ekwn84sdnfde48uzsnxl6fnclw9z2qc6c30q0t3a9kzj9v4gx5p8h0xgckm4ke27stx7ua3ugnhqqq6wwsd"
+
+[validator_account.metadata]
+email = "mohammedp@securesecrets.org"
+description = "Focused on Privacy, Building shadeprotocol.io"
+website = "https://securesecrets.org"
+discord_handle = "@mohammedpatla"
+avatar = "C5C28A947096C28A"
+name = "securesecrets"
+
+[validator_account.signatures]
+tpknam1qzq5chxy99hym52qesz9hecxvukj0dlnkr2s0ee0ph27wcaf7zf8cdjg8kl = "signam1qrkyvfvwj6v8qen63flk7jjge8284ndlgsnvaulgmy449fpm9ud645lmr498j70tj432u0q3epn9srmuqe0cdw6u6p53aqcu64e22ls2vvarj6"

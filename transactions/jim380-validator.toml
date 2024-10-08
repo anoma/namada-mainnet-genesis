@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr8g6kcmsna54pp0xr0wtv823xeg6w5vtz4tk42wh45y5zquuqpyqn0pn92"]
+
+[[validator_account]]
+address = "tnam1q973h5dwpl0wv4t8zy9gmafllmrnalde0vek58zq"
+vp = "vp_user"
+commission_rate = "0.1"
+max_commission_rate_change = "0.01"
+net_address = "209.133.211.98:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr4zvd8v6v8dhyrywzn04mq3s73mlm87t89pequzmpy8r8aw524xjxdjq4v"
+authorization = "signam1qr27w2ttfkclzpjxekfw0dvr9p00rrmnkaz5z698cyfjnprcqkdcmkd94j47phuw9qqd5r8rry0u6drwe25erdnz7npnu7dnqu5mkhqgs2gh2f"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp9ws0w6fj2ae66q5q2nm5xyspgf4vqg43snevwjd6jm4nc0m4kkxs8r4cs"
+authorization = "signam1qrahnyldhmk2ksszxgf0g42vzlddrr3sjt65nt0samagt8xj5zaa3m8khtpfr9gpx7j94cjan9p8k4y4shhg23yvzyu5uu0vjg9308gyp6lf7k"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp9hntmkvy95jzcgq5zu4qxft2fvhq7998muaay22yahr98krlcvyvh4ddh"
+authorization = "signam1qrz8dvc77s053wzgc3j2z04m7ztar46gmgwjc55h38ew2yurq62lv8em2n36n3pu8ln5cp39d9k6tqtwnm2lrk9sseyeyner3rjp7lcdlzszs7"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypuyf3xtka6zwck8k6arnf54s33753h4shs3427skwmzs3z0cmd8vglhgr2w"
+authorization = "signam1q9jrd8eaevuz6uzuj5xuva9lcj6gee206x6z3hr94z5t45j2vtvkqdxfa8uusfrm2z44t4dsfykssf52thqsmtqd8pwf0fl2kzyvpjlpqqvc6kk6"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypv8pp3duwaek4y3hfv773z0zhf3j27vd5n83r45x5t42z4hxt7kxgvuug8s"
+authorization = "signam1qxvvhqkwyeecfx4q7c35lczwevrgnmne53hm75fzx05uwzuzk6lxgp0ehakwjdtyvn4qmkclp0vl98j7s6tm6j6ek6c0ctzdxgxcqrrcqqtr35j3"
+
+[validator_account.metadata]
+email = "admin@cyphercore.io"
+description = "We are devoted to bringing financial freedom to everyone. For questions contact admin@cyphercore.io"
+website = "https://cyphercore.io"
+discord_handle = "pepeforlife"
+name = "Cypher Core"
+
+[validator_account.signatures]
+tpknam1qr8g6kcmsna54pp0xr0wtv823xeg6w5vtz4tk42wh45y5zquuqpyqn0pn92 = "signam1qqwdyxg2vrlzqahrqp64pan9pz6ln48zkzky4jj3rgxe4dtkffxavy0l6mge06g9n4st8uxp22aw0fx0f9s8rz6ylqq7sstse80a8qcdn85m09"

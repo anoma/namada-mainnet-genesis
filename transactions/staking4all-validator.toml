@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrq294p20qh24vylhfrhgzwh8223vwc9kq33ucdjtcrqtpzk9034vs2jfgs"]
+
+[[validator_account]]
+address = "tnam1q8dtazgc7y9xx00lq4d2pnacvtz29p5mvcxwat74"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.216.245.181:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzaakas47spmqx89r5llj7xckynls5l607xxeu6zux2shg8mqdjtzr5f95l"
+authorization = "signam1qzwn82hrdxw82we8jnwqz256xy3psyrrh5v072e6h98ghekfx2vnyfnr2plx5kg7kn3sg5e707evlzlyncs2h54hf7cdc2u6puxe9pcdu7w9e4"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzsmrv0hvxhmynhh72njml26qw6qj200ugkdl0gle7tpl9c0u3gdvvhvr9m"
+authorization = "signam1qzzm0uukyunptwzz8w0z5jk0gzc7mllgmlpvmh2yjhz67wr9ls47qn6pvhkn9lnxj0wzhtlwjy0wfug4kxnaxulsg0amgw4x38zphsg2256ena"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrf6t7yc06sr8r4gdw6glwu8n2xxah9mx9txsg0wnlm24cqtjj7vxea7tar"
+authorization = "signam1qqc32p8za226dkzazhm554wptlhlpduqh43d3qaav66jul07pq8t9ncvfnxuhrvwyu02ak6tf4u4gnskcfsjs50azgyl824m6qy09rsv02s8nz"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp8uspsmhxy2qczh96ky5k4qxq2zhlkea58e80uvlnmrctvsxln5rgmfl260"
+authorization = "signam1qxv6acrnfsshtqvrrcfcuvr0j84gtat5q3l2qwuw2lva0fc7735a6twdhzjpa7vflx6rq3vnx69pkssj3w3f2fmmukdvw9n45eqacrhxqymmjvrw"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypq62zey0dag3f08w0jtnty4xqgt5j287psrsgkayyvnth9p9sp2qgxekslt"
+authorization = "signam1qx74rhjwtrcvfr78d6shjf30faxnm908pk9m6z5r7fccpccm26wwscv2e5s46t3e8nhqlsvls8q8vhv3yv8ntta8vg7sd5k66l62sz75qy0gscuu"
+
+[validator_account.metadata]
+email = "info@staking4all.org"
+description = "Validator for Proof of Stake blockchains. Delegate to us for a easy staking experience"
+website = "https://www.staking4all.org/"
+discord_handle = "sheznez"
+avatar = "https://raw.githubusercontent.com/staking4all/eigenlayer/main/Stake4All_logo.png"
+name = "Staking4All"
+
+[validator_account.signatures]
+tpknam1qrq294p20qh24vylhfrhgzwh8223vwc9kq33ucdjtcrqtpzk9034vs2jfgs = "signam1qqhl8y8sg689xn990ssk7p7u9ss20gtyuufl9xuxx47jw54d8xrkv6shmtjrhggkznezwmg0shswndpmvezpg5desl4ppc72dpp9d9qqqjyvxv"

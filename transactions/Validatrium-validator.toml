@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr5q3npnaecmpe4hlkl5utgfaefkfe0l0nckz9vy0gd4knf7mzt4wleytyx"]
+
+[[validator_account]]
+address = "tnam1qxypnz2hsgdn6avhz6szk82c6nzxq7gvvvexmnrt"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "23.88.73.158:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qppm8ucy6nzx9z6xdmj6pyv7pqw5dkz4ekvgknh8ytc9m99xdjpzunj8vt6"
+authorization = "signam1qrlldjem757sygu5p7d7s23hs2v3y5ddeveey5qvuunkgvn4pr0y4r0cf2pp04amkanekrye0q3l2eeq25awhta49lt2u64c4shxf5gxpdcf2h"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqq3lph2rj943sazxnv4ddypx2lx85twlqhc8ryzdrtwacyud78usnnz5hr"
+authorization = "signam1qzxuuvchdzptu57ermf43dsxu86mf5eugk2hg2v95uzj5ge5ckcccefndauxtkrutrj2da3lh4j8wvewudgkkhu9k0z2ucxmyqrt26sd26ful7"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz39n5tpknrhs2j9mshjxz0c68ewxp5k6sy7zppavw6lp54svkwlku5n4vw"
+authorization = "signam1qqcwcmnh9gz23t4qd54v2r0e5y4km5gcd52j99es8nht87zahywpe66s8vheh925rl5lfnhdazk68hfsqj6vk6fvkt9x6wu0fwhrpyszr0cfns"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypk2lpr8gz2z08m8psh00vh7dtwux9h26e3py2ppyfpjk590pmfrsck77e8e"
+authorization = "signam1qygn4d8g9r0n22vq0aj7xgt7qwp0qqnp35e6plajtff5dtnct0hvxza7kx0styx4dv92vs3k4uy4zew9wsfplf3j8nhz837329cqd7epqq8y477l"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyppsa6cknfme4ax9tcs7us8rcmsuqxufcz7dsldz4lj9ncfck0xkesr4qv70"
+authorization = "signam1qxny6ct0nymyexrs2rkcpnwjdgc07g3wnrsa8atqlxetslgakhs4sy4u42xxyareweraj3ca2mn3d55rhj9620adckte6qw7qkstttvmqqxlq0mn"
+
+[validator_account.metadata]
+email = "info@validatrium.com"
+description = "Stake"
+website = "https://validatrium.com"
+discord_handle = "validatrium_ndevops"
+avatar = "https://raw.githubusercontent.com/Validatrium/validatrium/main/validatrium.png"
+name = "Validatrium.com"
+
+[validator_account.signatures]
+tpknam1qr5q3npnaecmpe4hlkl5utgfaefkfe0l0nckz9vy0gd4knf7mzt4wleytyx = "signam1qznf55nn492aazhusj30lrep3z9uh09lxchr4h5kdtvcqv7yzagr4t6t4pax8dphnhsvdpm5n5tftw3ek9g3s343yleme5p8s5z58gqrmszrk9"

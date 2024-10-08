@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzfrxcqrw7re02l6m4qv5svrpk5pp3fzrtrvr0jefmt368ccg50w55f9zyk"]
+
+[[validator_account]]
+address = "tnam1qyqm3r6kn73ey8mmrc7w34wrkasrnd5wls9ptrwk"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "94.130.15.170:36656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp0ddxrvapc90lz0ehn5trkr32hwy93qx5m599rw2d8vtr3xtluezy4dchx"
+authorization = "signam1qzh0f0607eaqpjh7c6yyexf3jjv28c0sgk3h3yhnxe98re0me36ge6v5ljwxx3753hnnm3lywmnc2rg6q4d3ec7u7y02xhnategfhsc8c5x8as"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz35yjzuu2d8ddp5xrgkj0jph2xqxuz4e5y7s2y70xy8gtlf9k7njypgq4f"
+authorization = "signam1qrevwnh8aeyu6mygan63krvxgzc84tjfs8rph00cv36gzdjnnpfftlznganxtr8lf44slqk3w330fe2yddlv85wny7ga9g6jle78nkgtjgznew"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qruy0xqfpwt2njahv28c2w5967ygad9k6dqtxeqklg7rwu5y7yg4wm7a50t"
+authorization = "signam1qppgvvnjyj5ls68n9yy5kzwdefpn05rj2gqkrdjtgmudeqpuuvpmz477apf7umxhpk4jw60gfv47gkyp3l0l462ka6qf9ch68g2a7gq2h266a8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp9y9ex4rrvzdu679dcgndm9wup7ywnvj0h0cs44rxyn7jyn3fccmgmjftge"
+authorization = "signam1q94sk5s2xlxpzzu4574se304cq9dta88rpzhm4xvatzn9khwugrxsucd5gt70rpka29zsyqy5q70vh5jx8mq0ga9u4t3vp8lrypph7eeqqtg8qfm"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypl84cmd8xg4gxktlajge95y9gm5e00mzrjse0fva258d3rganvudcqcm8sy"
+authorization = "signam1qxm0m45updp9x4wjwnfdwcxyky8te7g0p9h39qtj69yugcs08qnrxythxe65aap6lrx2sdkfkdkmhpmn39lxe66pflhs3uk655n7ghyxqq4kwhjq"
+
+[validator_account.metadata]
+email = "niloki555@gmail.com"
+description = "validator"
+website = "niloki.xyz"
+discord_handle = "niloki555"
+avatar = "https://avatars.githubusercontent.com/u/102181017?v=4"
+name = "Niloki"
+
+[validator_account.signatures]
+tpknam1qzfrxcqrw7re02l6m4qv5svrpk5pp3fzrtrvr0jefmt368ccg50w55f9zyk = "signam1qz2g8ayqu5htdc3e0mkay64pqkaj7230hyd27kmlxz8xud64am37sujz8hpm58w7gacr0qlkkkjp48vteqasg7n4u96024j3dxvvekgrjngvh8"

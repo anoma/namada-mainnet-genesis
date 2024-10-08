@@ -1,0 +1,37 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqraurna3ax7kxq0juzmnnap0yphq5wf3tc4nw0lpdxw2jav0c3wz2jat5e"]
+
+[[validator_account]]
+address = "tnam1q8lx8va8vmqwftfw3435q8e9ddpyddtkw56mr3tp"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.73.124:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qznjtrn2kc00ylefjp6cm4auezt7s9mzdm5vd58qrywqtn2ln33xxspr7zz"
+authorization = "signam1qpq9kqtyk540483nwjhgrcl4f9m5r5c72x3g3fy7v4dzsh8qtphmf8r3mknzeu4tk5sjvd62zas07nrexc2yuyp94j9tjvaker5m4vcysd8yr5"
+
+[validator_account.protocol_key]
+pk = "tpknam1qry0cc9zcrr3t2r3am06e6229jn06akwfjnku3xnz27p7nartyk6ghfpgrh"
+authorization = "signam1qrh4kax5tgnng5a6u4a2hwjkwgmstefkw6m3ha5tkyn43nzkr57y5wrzcau2fh9t45c3glggr3qgzjkksge4hy7jt6lw2t2gy9fa5aqx08msfj"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpr7fgnhg925s2zs9pwfmkmwh8pdva6x9m8jg053cr6ksejmahkk2dehvc8"
+authorization = "signam1qqzspyhsl89w4e7wal3s8p70v33xrjlv7fvjgrytcyg77n9xsefsasr6kcaxlyepgqch5eqs7p34xf2hp83kgnwy6vvgvrnpqfng7jc0ttwrx2"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypn8ecjphvmjdjcupz7frqc27adhyfp9gm0j54nslxzhsx0cp8xjagp4q8c0"
+authorization = "signam1qy7z8javxnyhgzlf5x504g9y0zxgqj369ptu8smr99s2ffwnv6wazwys9ls9rgx25w4856qvq7rl7pu8xpzm46x8svccqcaj6r4unmlaqyze7ctp"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp6adz5fqn3zry6kwzr4vexae0p5cc46vevew3u3x8tmkur9yrrgsqh45lsa"
+authorization = "signam1q9sqm39qntwcw2j8g3cql34skgv7jfek9wnpyvxr0tag3wvdrs2yyr4fjwp734svqq9nvyfmenmcgwmcskg2ga6d0c7dl9t2w8gz67ruqycsy6p0"
+
+[validator_account.metadata]
+email = "merlin@wetez.io"
+
+[validator_account.signatures]
+tpknam1qqraurna3ax7kxq0juzmnnap0yphq5wf3tc4nw0lpdxw2jav0c3wz2jat5e = "signam1qqjlhcf28jvpassgefh605erx8vntvysg3nls43a860h0025r5fpsp5zvweenwne2eatss9e4hxsa2dgla62ef9ycf7xh6tc9dqma4s2xcu7mh"

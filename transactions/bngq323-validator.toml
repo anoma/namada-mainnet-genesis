@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrqsf945pzt0p5890vszqq0r57r0qcegd7sp4660yxle627ra65pjkmu0x2"]
+
+[[validator_account]]
+address = "tnam1q86ydne27sxc4tzgzy5wcv9mwrwa0gwtqg4rfuue"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "75.119.159.247:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzf39sggrjvqprvalelax5le7zaq8ly02n07vq38dpl85y30w9vngxkxrmm"
+authorization = "signam1qzx87pw7gpdn5rlsexhhj5ap5s9uv8fta8m4x8432xyfrfn3dhgnurq8er0ffekwe280w0zk593ucrvk2837587r6gsqc3jw9jhcj6szu2nhrh"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzfwhh7g6regfkyelgem4dpzz7z72hhfpn08g6hu9vg09vpp7duv50ef78q"
+authorization = "signam1qqt7msagjf2wnvq9dedvuhnxxuvypjkzj6wk84s4judh4s93fvvr00tpn9qqpcmp9e334xfyu9kj93txvm7a5awdye8rftusf92m7vqgkf0z2x"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzukzyreqrqeyqtqjr94u2larsdkrzza5g0qtsncxadzhk32zjs72lxd69u"
+authorization = "signam1qpzq0cshqaexvhnm64gg620kla8ln2umls3jelfnq39cn8hvjqntjxgwrkfdahlsn4s6s3feq0zn008erkfm33lsxmzqhygmhaz97hgqa467mz"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypchtxaxqn33tj8tsl2gapmnzysqepf0nr0ax5cs4ultyscdeh6aaqfpeyqe"
+authorization = "signam1q89nkjl3stdxqjxj9y08uu42dl4ddxz475vhqleht4vesep3rt2yxlkdy8gmxkcs64eqnl04245hy682cyf628kuz48dklvszhlvcymaqy8stgyp"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypwshm65kankkg3rx3uwv6gsftrw29phw2cae8nupta8pxkkp7zrwgw9m7yq"
+authorization = "signam1qxggvelualqw5tzx8smwkyfs8zjwxtxhmhpkg5qvsrkdgv98z64lxf067njc9pggqpd2490ta6e6ph43g0ldzwsmgv5j6qp0zqx6fqm4qqs836d5"
+
+[validator_account.metadata]
+email = "bngq323@outlook.com"
+discord_handle = "daviduok"
+name = "Moonode"
+
+[validator_account.signatures]
+tpknam1qrqsf945pzt0p5890vszqq0r57r0qcegd7sp4660yxle627ra65pjkmu0x2 = "signam1qqvtrhy55ag7lykqwsyacswmlxpnry5c6w6u969u29ce4u0p4dt7dhxvajtds9x8us3epcsxrllnjurxsw34t9m4vsg880kq7u2murgye4hkgx"
