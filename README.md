@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `5415`
-- Total validators: `200`
-- Total delegations: `5215`
-- Staked tokens: `27059372.25672 (~2.71%)`
+- Total pre-genesis transactions: `5419`
+- Total validators: `202`
+- Total delegations: `5217`
+- Staked tokens: `27059508.13672 (~2.71%)`
 
 ## Validators
 
@@ -695,12 +695,12 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `POSTHUMAN`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `59954.619 (0.22% of total voting power)`
+    - total voting power: `59990.498999999996 (0.22% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `validator@posthuman.digital`
     - discord: `posthuman_validator`
     - website: `https://posthuman.digital`
-    - total delegations: `174`
+    - total delegations: `175`
 
 - address: `tnam1qy9jra0mueg9637r0wlxehecrj0ale9ldgrytymm`
     - alias: `Stakin`
@@ -1725,6 +1725,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://validator.company`
     - total delegations: `1`
 
+- address: `tnam1qxr5duqjc3fm7y73d40fjk2s9f9mpfd25uy5evfr`
+    - alias: `ChainTools`
+    - commission: `5.0%`
+    - max commission rate change: `10.0%`
+    - total voting power: `100.0 (0.0% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `contact@chaintools.tech`
+    - discord: `qf3l3k_chaintools`
+    - website: `https://chaintools.tech`
+    - total delegations: `1`
+
 - address: `tnam1q9tf86cusctv2c679ssflsrq0ymd9qxnluuewvt8`
     - alias: `Tecnodes`
     - commission: `5.0%`
@@ -1910,6 +1921,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `i.dred.one@gmail.com`
     - discord: `ches0494`
     - website: `Unknown website`
+    - total delegations: `0`
+
+- address: `tnam1q939yqd6pgqfms8t75tz8rrwpnj0d9epqq07a7an`
+    - alias: `staking-explorer.com`
+    - commission: `1.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0 (0.0% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `stakingexplorer@yahoo.com`
+    - discord: `Unknown discord handle`
+    - website: `https://staking-explorer.com/`
     - total delegations: `0`
 
 - address: `tnam1q8lhvxys53dlc8wzlg7dyqf9avd0vff6wvav4amt`
