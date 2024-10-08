@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `5414`
+- Total pre-genesis transactions: `5415`
 - Total validators: `200`
-- Total delegations: `5214`
-- Staked tokens: `27058372.25672 (~2.71%)`
+- Total delegations: `5215`
+- Staked tokens: `27059372.25672 (~2.71%)`
 
 ## Validators
 
@@ -68,7 +68,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `TuDudes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `1029590.611 (3.81% of total voting power)`
+    - total voting power: `1029590.611 (3.8% of total voting power)`
     - percentage of total supply: `0.1%`
     - email: `node-alerts@tududes.com`
     - discord: `sirouk`
@@ -1593,6 +1593,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `www.famnode.my.id`
     - total delegations: `1`
 
+- address: `tnam1q82qwrq2g64a0ldvhrhqn4mdu9cw453phgfsny7q`
+    - alias: `miles`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1000.0 (0.0% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `sixmiles127@gmail.com`
+    - discord: `@sixmiles`
+    - website: `none`
+    - total delegations: `1`
+
 - address: `tnam1q8xwyyc9j58w09wqm0z3jjjkt08699t4syfnpgmh`
     - alias: `nodes_navigator`
     - commission: `5.0%`
@@ -1844,17 +1855,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `an0drei83@gmail.com`
     - discord: `an0drei83`
     - website: `https://powerstaking.tech`
-    - total delegations: `0`
-
-- address: `tnam1q82qwrq2g64a0ldvhrhqn4mdu9cw453phgfsny7q`
-    - alias: `miles`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `sixmiles127@gmail.com`
-    - discord: `@sixmiles`
-    - website: `none`
     - total delegations: `0`
 
 - address: `tnam1qygn0qw0knlguygtxz6hgrluxhu5kt9a8vqvtj36`
