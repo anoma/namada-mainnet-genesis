@@ -312,6 +312,18 @@ tpknam1qzr8qtf7kqpuf3d2fqqjeknwl7pwpnt58maeay25z9yxvfre7yprg57x00v = "signam1qzp
 
 
 
+# adding transaction for i7495-bond
+
+[[bond]]
+source = "tpknam1qrpg9d47uszf66xmxkqd960w5lxcgpjht6c9ds9z3mw203gxcxtnqy549jm"
+validator = "tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t"
+amount = "1131"
+
+[bond.signatures]
+tpknam1qrpg9d47uszf66xmxkqd960w5lxcgpjht6c9ds9z3mw203gxcxtnqy549jm = "signam1qqs9z2ysy8y2dzaapnuchgud7a4dw05fzthxrx0yj9f3267zv0hw5xl6yyd2qqssn6ecar88cqwa6nm25alfumylgkngdeqjzuduzfqfkqqvca"
+
+
+
 # adding transaction for sipalingtestnet-bond
 
 [[bond]]
@@ -51561,6 +51573,18 @@ amount = "84180"
 
 [bond.signatures]
 tpknam1qzluhwmzp9aek7hpvj8a2q8afacw4gcjs5g457cjq4l5sfuqj8dd2w26hqw = "signam1qr476vm2aku2x80jsx6vjwnm3uwfaexw5wcugvju3rlvv63y90ah3mqwsalmwu33yz3q7u52zxnvwget0mxd72l3djt5c2dp9ad30jqxdfzxja"
+
+
+
+# adding transaction for kwunyeung-bond
+
+[[bond]]
+source = "tpknam1qpfjlg9zywuuhg85kw66zxsh5ra9uge2u4xn4gcyxq86lgtaw4ysu9sxwly"
+validator = "tnam1qyac9kyffah40tta7xvdlhet5zcc04s46gqfl2ge"
+amount = "10000"
+
+[bond.signatures]
+tpknam1qpfjlg9zywuuhg85kw66zxsh5ra9uge2u4xn4gcyxq86lgtaw4ysu9sxwly = "signam1qpg8a4dc07j2g8p58v62zx8msc4fsy0yjc9r6tgtc3ch4rvefkcdjdqlxfs3scvgpkgdxsn543y8gyq9flky6ewx2wjt3cz2yhduftct7qgywl"
 
 
 

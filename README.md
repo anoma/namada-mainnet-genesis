@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `5409`
+- Total pre-genesis transactions: `5411`
 - Total validators: `200`
-- Total delegations: `5209`
-- Staked tokens: `27029095.25672 (~2.7%)`
+- Total delegations: `5211`
+- Staked tokens: `27040226.25672 (~2.7%)`
 
 ## Validators
 
@@ -24,7 +24,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Mandragora`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `3331666.96 (12.33% of total voting power)`
+    - total voting power: `3331666.96 (12.32% of total voting power)`
     - percentage of total supply: `0.33%`
     - email: `support@mandragora.io`
     - website: `Unknown website`
@@ -214,7 +214,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `MELLIFERA`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `355450.0 (1.32% of total voting power)`
+    - total voting power: `355450.0 (1.31% of total voting power)`
     - percentage of total supply: `0.04%`
     - email: `team@mellifera.network`
     - website: `https://mellifera.network`
@@ -444,11 +444,11 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Stakeflow`
     - commission: `7.000000000000001%`
     - max commission rate change: `1.0%`
-    - total voting power: `166777.0 (0.62% of total voting power)`
+    - total voting power: `167908.0 (0.62% of total voting power)`
     - percentage of total supply: `0.02%`
     - email: `team@stakeflow.io`
     - website: `https://validator.stakeflow.io`
-    - total delegations: `6`
+    - total delegations: `7`
 
 - address: `tnam1q8qt5qy99fvuhltq3pg20k223crauw6phulv0kfj`
     - alias: `EmberStake`
@@ -1000,6 +1000,16 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://github.com/CyberAlex14`
     - total delegations: `1`
 
+- address: `tnam1qyac9kyffah40tta7xvdlhet5zcc04s46gqfl2ge`
+    - alias: `Forbole`
+    - commission: `5.0%`
+    - max commission rate change: `10.0%`
+    - total voting power: `12383.0 (0.05% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `validator@forbole.com`
+    - website: `https://forbole.com`
+    - total delegations: `6`
+
 - address: `tnam1qyx8wdefdg9sd6e22xq8ccyqg5peaersvcm20843`
     - alias: `securesecrets`
     - commission: `1.0%`
@@ -1199,16 +1209,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `rossoman2k@gmail.com`
     - website: `https://onthepluto.com`
     - total delegations: `1`
-
-- address: `tnam1qyac9kyffah40tta7xvdlhet5zcc04s46gqfl2ge`
-    - alias: `Forbole`
-    - commission: `5.0%`
-    - max commission rate change: `10.0%`
-    - total voting power: `2383.0 (0.01% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `validator@forbole.com`
-    - website: `https://forbole.com`
-    - total delegations: `5`
 
 - address: `tnam1qxlahm9qqxqhyjezsxvrpkn9ajekrkg2xq5v8rz8`
     - alias: `forest`
