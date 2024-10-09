@@ -1,0 +1,47 @@
+name: Update Validator Data
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Runs at the top of every hour
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+permissions:
+  contents: write # Allows the workflow to push changes to the repository
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Script
+        run: node index.js
+
+      - name: Create .nojekyll File
+        run: |
+          touch .nojekyll
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Update combined_data.json [skip ci]" || echo "No changes to commit"
+
+      - name: Push changes to main
+        uses: ad-m/github-push-action@master
+        with:
+          branch: "main"
+          force: true

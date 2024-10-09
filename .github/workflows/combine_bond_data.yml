@@ -1,0 +1,31 @@
+name: Update Combined Data
+on:
+  schedule:
+    - cron: "45 * * * *" # Runs at 45 minutes past every hour  
+  workflow_dispatch:
+permissions:
+  contents: write 
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:                  
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          node-version: "16"
+      - name: Install Dependencies
+        run: npm install
+      - name: Run Script
+        run: node combiner_bond.js
+      - name: Commit and Push Changes        
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add combined_bond_data.json
+          git commit -m "Update combined_bond_data.json [skip ci]" || echo "No changes to commit"
+          git push

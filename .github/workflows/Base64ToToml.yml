@@ -1,0 +1,43 @@
+name: Process PR into Toml
+on:
+  pull_request:
+    types:
+      - opened
+    paths:
+      - '**.toml'
+permissions:
+  contents: write
+jobs:
+  process-last-commit-changes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (fetch last two commits) of the PR
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 2
+      - name: Checkout again for reasons
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr checkout ${{ github.event.pull_request.number }}
+      - name: Process files changed in the current commit
+        run: |
+          changedFiles=$(git diff --name-only HEAD^)
+          for file in $changedFiles; do
+            echo "Processing file: $file"
+            if [[ $file == *.toml ]]
+            then
+              cat $file | base64 -d > valid-bond.toml;
+              rm $file;
+              cat valid-bond.toml > $file;
+            fi
+          done
+      - name: Commit and Push Changes        
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add valid-bond.toml
+          git commit -a -m "Parsed base64 into valid toml [skip ci]" || echo "No changes to commit"
+          rm valid-bond.toml
+          git commit -a -m "Cleaning up bond toml [skip ci]"
+          git push
