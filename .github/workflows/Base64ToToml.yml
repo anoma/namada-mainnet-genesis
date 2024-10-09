@@ -8,7 +8,7 @@ on:
 permissions:
   contents: write
 jobs:
-  process-last-commit-changes:
+  first:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout (fetch last two commits) of the PR
@@ -41,8 +41,8 @@ jobs:
           rm valid-bond.toml
           git commit -a -m "Cleaning up bond toml [skip ci]"
           git push
-  create-upstream-pr:
-    needs: process-last-commit-changes
+  second:
+    needs: first
     runs-on: ubuntu-latest
     steps:
       - name: Create Upstream Pull Request
@@ -60,8 +60,8 @@ jobs:
           else
             echo "PR already exists: $PR_EXISTS"
           fi
-  close-this-pr:
-    needs: create-upstream-pr
+  last:
+    needs: [first, second]
     runs-on: ubuntu-latest
     steps:
       - name: Close Original PR
