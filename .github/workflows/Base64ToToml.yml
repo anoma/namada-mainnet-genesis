@@ -42,6 +42,7 @@ jobs:
           git commit -a -m "Cleaning up bond toml [skip ci]"
           git push
   create-upstream-pr:
+    needs: process-last-commit-changes
     runs-on: ubuntu-latest
     steps:
       - name: Create Upstream Pull Request
@@ -60,10 +61,10 @@ jobs:
             echo "PR already exists: $PR_EXISTS"
           fi
   close-this-pr:
+    needs: create-upstream-pr
     runs-on: ubuntu-latest
     steps:
       - name: Close Original PR
+        run: gh pr close ${{ github.event.pull_request.number }} --comment "Auto-closing pull request" --delete-branch
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          gh pr close ${{ github.event.pull_request.number }} --repo ${{ github.repository }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
