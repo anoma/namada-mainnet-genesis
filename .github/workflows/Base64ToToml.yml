@@ -39,3 +39,43 @@ jobs:
           rm valid-bond.toml
           git commit -a -m "Cleaning up bond toml [skip ci]"
           git push
+      - name: Create clean branch
+        uses: peterjgrainger/action-create-branch@v2.2.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          branch: 'patch-${{ github.event.pull_request.number }}'
+          sha: '6649294b1ab42131ffcdf643a7e1c985d29addf2'
+      - name: Checkout again for more reasons
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr checkout ${{ github.event.pull_request.number }}
+      - name: Commit changes to clean branch then upstream PR
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          changedFiles=$(git diff --name-only HEAD^)
+          for file in $changedFiles; do
+            echo "Processing file: $file"
+            if [[ $file == *.toml ]]
+            then
+              git add $file
+              git commit -a -m '${{ github.event.pull_request.title }}'
+              git push
+            fi
+          done
+      - name: Create Upstream Pull Request
+        env:
+          GITHUB_TOKEN: ${{ secrets.SERVICE_TOKEN }}
+        run: |
+          PR_EXISTS=$(gh pr list --repo anoma/namada-mainnet-genesis --head "${{ github.repository_owner }}:${{ github.event.pull_request.head.ref }}" --json number --jq '.[].number')
+          if [ -z "$PR_EXISTS" ]; then
+            gh pr create \
+              --title "${{ github.event.pull_request.title }}" \
+              --body "${{ github.event.pull_request.body }}" \
+              --head "${{ github.repository_owner }}:${{ github.event.pull_request.head.ref }}" \
+              --base main \
+              --repo anoma/namada-mainnet-genesis
+          else
+            echo "PR already exists: $PR_EXISTS"
+          fi
