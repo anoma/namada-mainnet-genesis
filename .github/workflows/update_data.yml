@@ -27,7 +27,7 @@ jobs:
         run: npm install
 
       - name: Run Script
-        run: node index.js
+        run: node fetchValidatorsData.js
 
       - name: Create .nojekyll File
         run: |
