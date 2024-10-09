@@ -1,10 +1,10 @@
-name: Process PR into Toml
+name: Process Bond PRs into valid toml
 on:
   pull_request:
     types:
       - opened
     paths:
-      - '**.toml'
+      - '**-bond.toml'
 permissions:
   contents: write
 jobs:
