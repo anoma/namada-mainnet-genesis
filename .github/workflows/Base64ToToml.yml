@@ -3,8 +3,10 @@ on:
   pull_request:
     types:
       - opened
+    branches:
+      - 'patch-**'
     paths:
-      - '**-bond.toml'
+      - 'transactions/*-bond.toml'
 permissions:
   contents: write
 jobs:
