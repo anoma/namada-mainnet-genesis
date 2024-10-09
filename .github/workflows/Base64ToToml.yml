@@ -6,8 +6,7 @@ on:
 permissions:
   contents: write
 jobs:
-  process_pr_upstream:
-    if:  startsWith(github.event.pull_request.head.ref, 'patch')
+  process_pr:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout (fetch last two commits) of the PR
@@ -40,22 +39,3 @@ jobs:
           rm valid-bond.toml
           git commit -a -m "Cleaning up bond toml [skip ci]"
           git push
-      - name: Create Upstream Pull Request
-        env:
-          GITHUB_TOKEN: ${{ secrets.SERVICE_TOKEN }}
-        run: |
-          PR_EXISTS=$(gh pr list --repo anoma/namada-mainnet-genesis --head "${{ github.repository_owner }}:${{ github.event.pull_request.head.ref }}" --json number --jq '.[].number')
-          if [ -z "$PR_EXISTS" ]; then
-            gh pr create \
-              --title "${{ github.event.pull_request.title }}" \
-              --body "${{ github.event.pull_request.body }}" \
-              --head "${{ github.repository_owner }}:${{ github.event.pull_request.head.ref }}" \
-              --base main \
-              --repo anoma/namada-mainnet-genesis
-          else
-            echo "PR already exists: $PR_EXISTS"
-          fi
-      - name: Close Original PR
-        run: gh pr close ${{ github.event.pull_request.number }} --comment "Auto-closing pull request" --delete-branch
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
