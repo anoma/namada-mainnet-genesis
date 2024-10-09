@@ -4,9 +4,9 @@ on:
     types:
       - opened
     branches:
-      - patch-**
+      - 'default_upstream'
     paths:
-      - transactions/*-bond.toml
+      - 'transactions/*-bond.toml'
 permissions:
   contents: write
 jobs:
