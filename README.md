@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `6168`
+- Total pre-genesis transactions: `6169`
 - Total validators: `203`
-- Total delegations: `5965`
-- Staked tokens: `27563829.13672 (~2.76%)`
+- Total delegations: `5966`
+- Staked tokens: `27564829.13672 (~2.76%)`
 
 ## Validators
 
@@ -1395,6 +1395,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://onthepluto.com`
     - total delegations: `1`
 
+- address: `tnam1q88jgxj5qhmcwxgn9frngrd30207awvdjgkwn674`
+    - alias: `ByNode`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `2724.0 (0.01% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `q1037573909@gmail.com`
+    - discord: `Unknown discord handle`
+    - website: `Unknown website`
+    - total delegations: `5`
+
 - address: `tnam1q9krl9ltzmwj6m4q60ugnmrz3uwnm450ayt42h7v`
     - alias: `PowerStaking`
     - commission: `5.0%`
@@ -1493,17 +1504,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - discord: `giansalex`
     - website: `https://disperze.network`
     - total delegations: `8`
-
-- address: `tnam1q88jgxj5qhmcwxgn9frngrd30207awvdjgkwn674`
-    - alias: `ByNode`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `1724.0 (0.01% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `q1037573909@gmail.com`
-    - discord: `Unknown discord handle`
-    - website: `Unknown website`
-    - total delegations: `4`
 
 - address: `tnam1qx7xenrcve38c8lmcmewpk42df6pchlyjg34d3lq`
     - alias: `SIPALING-TESTNET`
