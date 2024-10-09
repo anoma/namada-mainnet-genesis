@@ -30,8 +30,8 @@ def build_graph(validators):
     fig.update_layout(
         xaxis={'categoryorder':'total descending'},
         autosize=False,
-        width=1500,
-        height=750,
+        width=1500 * 1.5,
+        height=750 * 1.5,
         title="First 150 validators by voting power. Green line is 67% voting power.",
         uniformtext_minsize=2,
         uniformtext_mode='hide',
