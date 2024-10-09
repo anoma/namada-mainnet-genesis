@@ -54,7 +54,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          changedFiles=$(git diff --name-only --diff-filter=d "${{ github.event.base_ref }}~1" "${{ github.event.head_ref }}")
+          firstCommit='${{ github.event.base_ref }}'
+          lastCommit='${{ github.event.head_ref }}'
+          changedFiles=$(git diff --name-only --diff-filter=d "${firstCommit}~1" "${lastCommit}")
           for file in $changedFiles; do
             echo "Processing file: $file"
             if [[ $file != valid-bond.toml ]]
