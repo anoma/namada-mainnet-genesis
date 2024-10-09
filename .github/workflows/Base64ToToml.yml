@@ -10,7 +10,7 @@ on:
 permissions:
   contents: write
 jobs:
-  first:
+  process_pr_upstream:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout (fetch last two commits) of the PR
@@ -43,10 +43,6 @@ jobs:
           rm valid-bond.toml
           git commit -a -m "Cleaning up bond toml [skip ci]"
           git push
-  second:
-    needs: first
-    runs-on: ubuntu-latest
-    steps:
       - name: Create Upstream Pull Request
         env:
           GITHUB_TOKEN: ${{ secrets.SERVICE_TOKEN }}
@@ -62,10 +58,6 @@ jobs:
           else
             echo "PR already exists: $PR_EXISTS"
           fi
-  last:
-    needs: [first, second]
-    runs-on: ubuntu-latest
-    steps:
       - name: Close Original PR
         run: gh pr close ${{ github.event.pull_request.number }} --comment "Auto-closing pull request" --delete-branch
         env:
