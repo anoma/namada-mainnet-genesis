@@ -12,8 +12,8 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `6163`
-- Total validators: `202`
+- Total pre-genesis transactions: `6164`
+- Total validators: `203`
 - Total delegations: `5961`
 - Staked tokens: `27558623.13672 (~2.76%)`
 
@@ -1942,6 +1942,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - percentage of total supply: `0.0%`
     - email: `i.dred.one@gmail.com`
     - discord: `ches0494`
+    - website: `Unknown website`
+    - total delegations: `0`
+
+- address: `tnam1qymaj7ac574c56t8x58mgwl20ztxaeh22ctcpcdy`
+    - alias: `Clorophilla`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `0 (0.0% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `hello@clorophilla.io`
+    - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `0`
 
