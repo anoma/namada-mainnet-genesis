@@ -3,14 +3,11 @@ on:
   pull_request:
     types:
       - opened
-    branches:
-      - 'default_upstream'
-    paths:
-      - 'transactions/*-bond.toml'
 permissions:
   contents: write
 jobs:
   process_pr_upstream:
+    if:  startsWith(github.event.pull_request.head.ref, 'patch')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout (fetch last two commits) of the PR
