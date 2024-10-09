@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzepp9xeqpwlej9cq0t3r5e2rc8lgtkh7s0q0ac9xvhc6ujxxq05vn6dmv7"]
+
+[[validator_account]]
+address = "tnam1q9ce3q9nxhl29eyn3cm4f2nxlhvq5v3q05mwrmck"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "35.222.113.104:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzygycfc5t7wryss4nug3s8lxrkuswavvcc23ew4w922xq2rrtyyzdhxf06"
+authorization = "signam1qq5fnyku6d2g66ycmqls6t2wlvw5hqms76rfcgmrf55mqewzurv32wgsvk2qktllvgl7qpmmmlxfa24r8ycg39yf6glgngnztwa0vxs2rxpapa"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpt2vf8x6f2ht8e4y055yyjp9x607rx8ql64k4nhpkj5a5q2fj0gg8lsjyk"
+authorization = "signam1qq8nwnc4nlchv2hv9erdkapyghmk272t0h2thxfjpp5fjs74zmgmt9ekwvtxcmdfpl407rx5mu537hx6qt8hp79vfklhvt547lxp97g9jeye76"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrgu8rcl98m8rhsg0y5tdqrz0d7zhq0pwyh6dywp0ya0mn6lf2q7wpt3q35"
+authorization = "signam1qqqc3lafsmn95lex7f4tr4wug2kzqughdqewc87sewgr45dedtkhc396kuepuh6dglqekhexvqymqx2wqgj93te76w5w7ft6anh294cd9dd4k2"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp9cy2h0le2k02x63y2zgrvj3rwpvpfzv8ktuhm4v09c2vthwk9v7gf8utkh"
+authorization = "signam1q8wkcdw855y5kzedcypurjpch34rg2jslhuu6yzddryrexg56w4wwy2mj3qkysvcglmc750ft6dnc36mpm4mtu39rz5zm6w6fgpevc89qyr5vy83"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp0dxnqclu04g9fdhsrgzq45x95r27edh65quszj0svaskdlga4xrsjutdxm"
+authorization = "signam1qx2mzdyuak7p4e49gpyewlwha2427sz2w8779xg580varey72u2ducvq38quzetkastmz5sr83kvtteux3gt6ncepv6a3tynnt9wfw9sqq8p667f"
+
+[validator_account.metadata]
+email = "serhii@piertwo.com"
+website = "www.piertwo.com"
+name = "PierTwo"
+
+[validator_account.signatures]
+tpknam1qzepp9xeqpwlej9cq0t3r5e2rc8lgtkh7s0q0ac9xvhc6ujxxq05vn6dmv7 = "signam1qpymtf6tw9pqxuwjnzqjf70ypy7k5f45909c77xgar3r26qfv095lhe8nl303rx2g8j66l4ptezxp0y68u9qn5jgslpqtl7p73zcfcczweqepn"
