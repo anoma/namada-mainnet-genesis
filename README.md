@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `6162`
+- Total pre-genesis transactions: `6163`
 - Total validators: `202`
-- Total delegations: `5960`
-- Staked tokens: `27528623.13672 (~2.75%)`
+- Total delegations: `5961`
+- Staked tokens: `27558623.13672 (~2.76%)`
 
 ## Validators
 
@@ -24,7 +24,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Mandragora`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `3334953.96 (12.11% of total voting power)`
+    - total voting power: `3334953.96 (12.1% of total voting power)`
     - percentage of total supply: `0.33%`
     - email: `support@mandragora.io`
     - discord: `danielmandragora`
@@ -46,7 +46,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Knowable`
     - commission: `7.000000000000001%`
     - max commission rate change: `1.0%`
-    - total voting power: `2056502.0 (7.47% of total voting power)`
+    - total voting power: `2056502.0 (7.46% of total voting power)`
     - percentage of total supply: `0.21%`
     - email: `infra@knowable.vc`
     - discord: `Unknown discord handle`
@@ -57,7 +57,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `L0vd`
     - commission: `0.0%`
     - max commission rate change: `5.0%`
-    - total voting power: `1202292.0 (4.37% of total voting power)`
+    - total voting power: `1202292.0 (4.36% of total voting power)`
     - percentage of total supply: `0.12%`
     - email: `info@l0vd.com`
     - discord: `jango_l0vd`
@@ -222,7 +222,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `2pilot`
     - commission: `5.0%`
     - max commission rate change: `10.0%`
-    - total voting power: `365037.0 (1.33% of total voting power)`
+    - total voting power: `365037.0 (1.32% of total voting power)`
     - percentage of total supply: `0.04%`
     - email: `hello@2pilot.dev`
     - discord: `stanisloe`
@@ -954,6 +954,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - discord: `k_kappa`
     - website: `https://vitwit.com`
     - total delegations: `15`
+
+- address: `tnam1q9ykk4xex3g36wzzegs9ul5fajkt3uk6zvdjlec8`
+    - alias: `spidey`
+    - commission: `8.0%`
+    - max commission rate change: `5.0%`
+    - total voting power: `30000.0 (0.11% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `andyroddick6600@gmail.com`
+    - discord: `Unknown discord handle`
+    - website: `www.spidey.services`
+    - total delegations: `1`
 
 - address: `tnam1q8t4hkv7dqjkka7ns42rramvz0dmj98g7q7zq67m`
     - alias: `owl-validator`
@@ -2119,17 +2130,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `validator@genznodes.dev`
     - discord: `@genznodes`
     - website: `https://genznodes.dev/`
-    - total delegations: `0`
-
-- address: `tnam1q9ykk4xex3g36wzzegs9ul5fajkt3uk6zvdjlec8`
-    - alias: `spidey`
-    - commission: `8.0%`
-    - max commission rate change: `5.0%`
-    - total voting power: `0 (0.0% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `andyroddick6600@gmail.com`
-    - discord: `Unknown discord handle`
-    - website: `www.spidey.services`
     - total delegations: `0`
 
 - address: `tnam1q8munsehazrlgm65g7dpu0c2qfnxxg93tu0c6nm6`
