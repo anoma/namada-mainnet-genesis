@@ -269,3 +269,19 @@ amount = "250000"
 
 [bond.signatures]
 tpknam1qzfptgwles7yd2vc3n54fp342phcua3tcda0mvupmst6s555z5anxygesdk = "signam1qrlyt2w6huwc3gdt9e9dgqrt2ztmtu46elhl7m82e3j5u8nmngmuszgqu7rhwy0rphd9hefpppcrwllt8jzy974kcgs68arzapwz9rsxk0jps0"
+
+[[bond]]
+source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
+validator = "tnam1qyauvf4gmvtthknkrftu9jpjaqn6k0k6nu3jucey"
+amount = "350000"
+
+[bond.signatures]
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qr605ncmaqee237q6yuy4vksfvensfn5gyrrartunzj7sdyalkhu0hvpr8y96l8xwdhfeyj6sclmmvmza8a4ys75f45cjw5kckprrygfny8ehn"
+
+[[bond]]
+source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
+validator = "tnam1qymaj7ac574c56t8x58mgwl20ztxaeh22ctcpcdy"
+amount = "100000"
+
+[bond.signatures]
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qr2f5tgn2u66ykzazssnkhufkpfleqvhdlwz54y2a2x8p029zp64lt5m8v2hdzj0qp4pv0fzm8msda97qhw7ud54fs5k4qhnmgzgl8qtevcy3a"
