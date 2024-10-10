@@ -57628,10 +57628,10 @@ tpknam1qpeh2v6cg8t7hre03xpjfc8q5uxfcm0fud2z976a4hpf08t85dnr5a4jwfc = "signam1qzf
 [[bond]]
 source = "tpknam1qp438afp28ftm4e59m2chhk62s28kku7vksq3mvfp46q38aesexv2dv9dts"
 validator = "tnam1qxkkaflgfr6c7crvj4jwshy99zsdw346nv4ay0rn"
-amount = "1999"
+amount = "46660"
 
 [bond.signatures]
-tpknam1qp438afp28ftm4e59m2chhk62s28kku7vksq3mvfp46q38aesexv2dv9dts = "signam1qqptj8nmlp86p8t4rwxrjj9a7gezvukhzeqkhju66qzvu4tm7w4z7fnxvx37x00vrw8t3v5fd04cw6mt8hjrlcp072k22tk8ya8hzqctqy3e8c"
+tpknam1qp438afp28ftm4e59m2chhk62s28kku7vksq3mvfp46q38aesexv2dv9dts = "signam1qp2n987hv7j8yjp5etln7yz5uqduyfefg8zgg97zra9esw5jxkcc4e4k69wcfa32ltzyyp2uq3pdl2lqq54pprudtgfl0swzaz3h4eg27t8wqw"
 
 
 
