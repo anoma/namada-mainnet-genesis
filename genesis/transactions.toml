@@ -49414,6 +49414,18 @@ tpknam1qr5xqf5stdmljlnate00s43plpldwf6c8ufa5z8hy924r732ydx2wqvzply = "signam1qzr
 
 
 
+# adding transaction for diversant777-bond
+
+[[bond]]
+source = "tpknam1qrpd37r9fhewxn3u3x7ynmppe3hr3nndj7r2numusgprpglhwvfuwl0wlky"
+validator = "tnam1q8sjkutd5kqwcc555wr77p9fjn66nuuqfuzzc3yc"
+amount = "101"
+
+[bond.signatures]
+tpknam1qrpd37r9fhewxn3u3x7ynmppe3hr3nndj7r2numusgprpglhwvfuwl0wlky = "signam1qrqlqc65j9w72a5yl3n6cwqkvc7e770atf5edzvzwqmqn52ptpt8aw5v7v2q4zld848s47t4z8zeectapq7w94zqm6stn58y6nhe30gfgqzj8r"
+
+
+
 # adding transaction for cyberalex14-bond
 
 [[bond]]
@@ -51808,6 +51820,18 @@ name = "ContributionDAO"
 
 [validator_account.signatures]
 tpknam1qprpwvr4fv8tya4836t9wwy7ly2yr3suf6v0c223tz89805z0hyekazyd20 = "signam1qr7f4djtnu6km20a8j5jcsd3ufw7xgyhlrdqaev258yju7thdcwfygayvf432mneuetczdy36ct80pufhe8p268yq9s2rs5k9e5l7qsr93nqv3"
+
+
+
+# adding transaction for t3d3r3-bond
+
+[[bond]]
+source = "tpknam1qq7dwvfl5hp89dqcv7esfpgazd8jlettplgmfytddeam3vl9he5hy4zyluq"
+validator = "tnam1qxc286h5qmx9x2vdv8k9gy0ll878gna9dgy4rv40"
+amount = "30000"
+
+[bond.signatures]
+tpknam1qq7dwvfl5hp89dqcv7esfpgazd8jlettplgmfytddeam3vl9he5hy4zyluq = "signam1qr58m6ed3g3y37fcjzpnt8pjflxvuxq7s3zfmteapvwj4ayj7ckyruce2v8yu8fepc65pvujc7pkl5v8gx409zjd5zkeltgvrn906tqv733ke8"
 
 
 
