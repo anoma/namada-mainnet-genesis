@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `6169`
+- Total pre-genesis transactions: `6170`
 - Total validators: `203`
-- Total delegations: `5966`
-- Staked tokens: `27564829.13672 (~2.76%)`
+- Total delegations: `5967`
+- Staked tokens: `27564894.13672 (~2.76%)`
 
 ## Validators
 
@@ -1813,6 +1813,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://blackblocks.io`
     - total delegations: `1`
 
+- address: `tnam1q9446mq8ack40w965p7ry6p84fv3kyewxqhknhd0`
+    - alias: `VirtualReality`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `65.0 (0.0% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `viachaslau85@gmail.com`
+    - discord: `viachaslaur`
+    - website: `https://github.com/Viachaslau85/Portfolio`
+    - total delegations: `1`
+
 - address: `tnam1qymvjx342ns6qqx0cyhxwrqumjphcfuk9yp0eywf`
     - alias: `Chill Validation`
     - commission: `5.0%`
@@ -2020,17 +2031,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `validator@genznodes.dev`
     - discord: `@genznodes`
     - website: `https://genznodes.dev/`
-    - total delegations: `0`
-
-- address: `tnam1q9446mq8ack40w965p7ry6p84fv3kyewxqhknhd0`
-    - alias: `VirtualReality`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `viachaslau85@gmail.com`
-    - discord: `viachaslaur`
-    - website: `https://github.com/Viachaslau85/Portfolio`
     - total delegations: `0`
 
 - address: `tnam1q9mnuc2tkkmglpsf293uzhx8lnvvmem0ygq7qf95`

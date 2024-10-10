@@ -51664,6 +51664,18 @@ tpknam1qp0a2qgsgmxuurg8x6ye7na8vf7ec4ckf9kpv24kdch7prxd2feks4v84c8 = "signam1qrq
 
 
 
+# adding transaction for viachaslau85-bond
+
+[[bond]]
+source = "tpknam1qr5xqf5stdmljlnate00s43plpldwf6c8ufa5z8hy924r732ydx2wqvzply"
+validator = "tnam1q9446mq8ack40w965p7ry6p84fv3kyewxqhknhd0"
+amount = "65"
+
+[bond.signatures]
+tpknam1qr5xqf5stdmljlnate00s43plpldwf6c8ufa5z8hy924r732ydx2wqvzply = "signam1qzvpjjhcdmrjd7rc4axcm7hqjmzl8kllxa4luuet04yk4meq0qkc40llacltx7zhcyvt2edxkysufdrejptyg55wuet704valslxqwc8vmtwur"
+
+
+
 # adding transaction for gopnik25-bond
 
 [[bond]]
