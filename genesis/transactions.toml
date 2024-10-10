@@ -49935,6 +49935,18 @@ name = "alexit"
 tpknam1qzsmt8lksjezlepf2zcj58uw0s8m43ur8x8j8u6fspzm73xlcysxxa56685 = "signam1qpq80mx5gl38z6s8a36kwszjkmzqv86qrhlxe8lrhu59vjurh37vdufnq2j3t06uu7tydnt022urkv3pttnqrs9uyfv0ns57y4g2xpsr8le9dx"
 
 
+# adding transaction for nodiums-bond
+
+[[bond]]
+source = "tpknam1qz4prs7ya4d9y9z2k2vlealwklf2f4zlj3lsf5dx2an32drvthsmwavx9jx"
+validator = "tnam1qxrm6dyrrmwz5thy565jzzuhgs4m02u9t52v9z3g"
+amount = "59000"
+
+[bond.signatures]
+tpknam1qz4prs7ya4d9y9z2k2vlealwklf2f4zlj3lsf5dx2an32drvthsmwavx9jx = "signam1qr6cjlawjy9l3u6fnws0tgl9hmgpmlf04mym08j60dwshfl62lqvvuxvdzhvgpyycayqv6h2lrp0e4hc0z7sxpl06ggppzznr9kse4q8ecqgxr"
+
+
+
 # adding transaction for maricalucian-bond
 
 [[bond]]
