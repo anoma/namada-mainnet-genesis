@@ -56242,6 +56242,18 @@ tpknam1qrhqdk3ryv5e0xjzpnnuyfj5k758xxszkv2jh4zzn2qmf6xl2r2g2af3yuy = "signam1qrn
 
 
 
+# adding transaction for tecnodes-network-bond
+
+[[bond]]
+source = "tpknam1qrlkgfd6zmzucgejccqxzusvcapu6u27c47zsap0hyvky3r4gadyzg8nyxt"
+validator = "tnam1q9tf86cusctv2c679ssflsrq0ymd9qxnluuewvt8"
+amount = "5000"
+
+[bond.signatures]
+tpknam1qrlkgfd6zmzucgejccqxzusvcapu6u27c47zsap0hyvky3r4gadyzg8nyxt = "signam1qq3nhrus4gp45cdjpjwleppxxwhsvwn7ffexx4wlu8kjhga9fvyg68zk37zaflxz9nwylgrkslcxav005mwulaak4q3293y8q9qhcgsftls8sm"
+
+
+
 # adding transaction for crypto-druide-validator
 
 [[established_account]]

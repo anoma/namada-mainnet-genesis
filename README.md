@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `6176`
+- Total pre-genesis transactions: `6177`
 - Total validators: `203`
-- Total delegations: `5973`
-- Staked tokens: `29418255.13672 (~2.94%)`
+- Total delegations: `5974`
+- Staked tokens: `29423255.13672 (~2.94%)`
 
 ## Validators
 
@@ -145,7 +145,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `anodeofzen`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `572187.0 (1.95% of total voting power)`
+    - total voting power: `572187.0 (1.94% of total voting power)`
     - percentage of total supply: `0.06%`
     - email: `zenodeapp@gmail.com`
     - discord: `keymasterzen`
@@ -222,7 +222,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `deNodes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `381000.0 (1.3% of total voting power)`
+    - total voting power: `381000.0 (1.29% of total voting power)`
     - percentage of total supply: `0.04%`
     - email: `core@denodes.xyz`
     - discord: `bombermine`
@@ -1329,6 +1329,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://github.com/papadritta`
     - total delegations: `1`
 
+- address: `tnam1q9tf86cusctv2c679ssflsrq0ymd9qxnluuewvt8`
+    - alias: `Tecnodes`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `5084.0 (0.02% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `tecnodes.network@gmail.com`
+    - discord: `tecnodes`
+    - website: `https://tecnodes.network`
+    - total delegations: `2`
+
 - address: `tnam1qx4ztg0ca0tu2aw056ksuek5y58tmg454shk6svw`
     - alias: `5ElementsNodes`
     - commission: `10.0%`
@@ -1811,17 +1822,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `contact@chaintools.tech`
     - discord: `qf3l3k_chaintools`
     - website: `https://chaintools.tech`
-    - total delegations: `1`
-
-- address: `tnam1q9tf86cusctv2c679ssflsrq0ymd9qxnluuewvt8`
-    - alias: `Tecnodes`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `84.0 (0.0% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `tecnodes.network@gmail.com`
-    - discord: `tecnodes`
-    - website: `https://tecnodes.network`
     - total delegations: `1`
 
 - address: `tnam1qycjura8y6uceeuh4wtlyyt0pam6av9xegxtvrkz`
