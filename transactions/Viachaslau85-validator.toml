@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr5xqf5stdmljlnate00s43plpldwf6c8ufa5z8hy924r732ydx2wqvzply"]
+
+[[validator_account]]
+address = "tnam1q9446mq8ack40w965p7ry6p84fv3kyewxqhknhd0"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "75.119.141.44:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr8rfcmz4ufmlyg5xd4uyuqvw4x36tmtzfp85kfu25452qrvyg4ts79lwhj"
+authorization = "signam1qr06c878keja8decaqw56ahrn4zu65fsqxhgdksj6ma9d7lz9y77y34et84fx6sn6459qprexfv72anatja9jav4glmz9y5u3m940ksrdauf5g"
+
+[validator_account.protocol_key]
+pk = "tpknam1qztpn7fqxce3ujyxznue2tp3j52x67xcvcqr3cad34jkc29h3s9kk2dceyk"
+authorization = "signam1qrtq9dk3da73ugehze30ztakjyug7nwjeujnnfq2tcuud4te2jfwwewn3s8uz6fygt2ptqg525dvductthy08rnegvy5emjj9hjqkwqyeyvnk4"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp9wj7ckj2h8p4cfhwqlyrslmq3jfw50cefa8np4mxvwcd77j3gezuu8xsc"
+authorization = "signam1qpzqmljwhac39enwc8tjv9k85uc460tsq32yychp5n6hqsx98q7v9r2mamsggqx223d8075ryvvp04djrlxq3tu7m8arztxdc3xzp9qxfhp73n"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypgajz94yvar0438d4nqvl05dexqallp7suukrk3wq927ntn9mv56shspmun"
+authorization = "signam1qyluhdv64dl2s8p0yl6l55nxcxpyndssek8t48ey3786m5ju8rj9cz6xqrxm7gyps6f90trlyex73x0eguul03g6nup5pe0fxjkhgzjpqq46cqvv"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypcx5eml3xpl9a0nc6d260v22vy80ellxypf3t072k3vjg4vym3k4szjhp59"
+authorization = "signam1q9tfym9r75qlmrp72xzm454dhk2ctl2c646v8xlw9pf38h5mmgqk6etfh5le6xvwwc8j9tfqmdt84m7jc48rk7anlzpkv8d9wstl4lmgqypfyswg"
+
+[validator_account.metadata]
+email = "viachaslau85@gmail.com"
+description = "COSMOnaut"
+website = "https://github.com/Viachaslau85/Portfolio"
+discord_handle = "viachaslaur"
+avatar = "https://x.com/Viachas90390701/photo"
+name = "VirtualReality"
+
+[validator_account.signatures]
+tpknam1qr5xqf5stdmljlnate00s43plpldwf6c8ufa5z8hy924r732ydx2wqvzply = "signam1qzrue36xad5x9lkfv9qr2s7fyxuvuhlmaxqdke5mwymktrpmjk027qs4pnej54jk7uzuzt7r8q05vkhhayjvqtvrayrx8xqhp9tyjxsy8pjpka"

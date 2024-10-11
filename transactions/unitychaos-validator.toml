@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz2actvwlgjrgyuumvhkgz8mj9q30rfwuhfw45q6rzxhgsxfedr6j3use8p"]
+
+[[validator_account]]
+address = "tnam1q96knx9lhndg9749waeqq974zyqxz8yv0slmy39v"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "143.198.140.55:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzzcnh6tdmwn0wdd69uzuhwrln0tkduf9utee2tnk2vn63fhl5jevhr338t"
+authorization = "signam1qq4cas57w4ad9ra6d9jrp6dymc3chzzdnylh2k9gu82t47wz5ww0da904sz8llfhrks2k0kjnhy5a6prg3xclpdnfc7lzvr7nlr9wjcrz36r69"
+
+[validator_account.protocol_key]
+pk = "tpknam1qphtmn29dmyjdeg3ehl2jhsscpnwq206n2eg86yf5r6uzxtm7qtx2u886a6"
+authorization = "signam1qqkfvjrqzq75nnxam4lzu58gka2sn9mtlpc8r6w42laepkukx3zm4r8xeevnp235s3v5md7v34rqm6luums2cnj45k6wywrpkkqd27qgprw66r"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqq33x64rrn55x9fj0lmt9xufkdng6688fggf3jvrmvcx0jp9vnq6ae2kgm"
+authorization = "signam1qqysvjvcrux9zrehct874sgqgk55k6n850k6enztz5dr2vj9yxna2lzjm6zkhct604sy39j3e36l7sygl230ethxsu47m0l599uhj7cyac8hdv"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypu4psdt29tychsf8yl89vz59ej0pcdys8n2geqmqsnn2uphunxp6cgq5hvs"
+authorization = "signam1q99mgxqgw3mvapkpfpf9hp28z8z4zpxcxfa8df4w9lecp8p58v7qzqda8drxfdh4th6z2r67gapfdzflq4rukehm46ln2c4qr2hcxmcpqymewd8y"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypth8ungytaeke29h7nwfxuk6ca8gn5j8sjeza0e55sza74azpu8fqva7ee8"
+authorization = "signam1qxakh0wsmy8eucs5zfdjaun90t5cfkvkyn0p4cswjg8tcstldwjzj77mn62kwte8gzqn3qh6phcq83cq62aa6mwd6kj9zdzvr632zhkmqqgvy4hk"
+
+[validator_account.metadata]
+email = "unitylchaos@protonmail.com"
+website = "https://s9.gay"
+discord_handle = "unitychaos"
+avatar = "https://avatars.githubusercontent.com/u/110506429"
+name = "⊤⊥"
+
+[validator_account.signatures]
+tpknam1qz2actvwlgjrgyuumvhkgz8mj9q30rfwuhfw45q6rzxhgsxfedr6j3use8p = "signam1qq0uhhq49r3udfdya4as90lgc93ycdpvw3ywh420ewakgp6r88kt9h6nzkjwzxgsz9pmarw2y63kqfzfy8yfc9lfqdefk7nn8sjelhgyl8ray5"

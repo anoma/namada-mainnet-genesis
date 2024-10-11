@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr79jchyyzvxyrynpq2q40auhfl0kn07zxyxawjrl5a5e8ml6p7yqrkvnuu"]
+
+[[validator_account]]
+address = "tnam1qx6k7xv66y58jw2jngtt98x0r9k3wtljxqd7qe2l"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "89.109.112.42:45656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpnaxsdxku5u5pgvk427ydutq0akqt8pja7fq8k7nph585ah2ul57d4ned7"
+authorization = "signam1qrfw92uxk04h07llxh5m4wtsrrc2g0xyjcmnv5cctfs7p5m80y7kepazamlm8m8zk3tx2ugdksw606m0pfet7mmwltn0ppz2v4p9qnsgxtddxj"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzukymxuvtksyfjp9sj3q9u7e57ddquqvhzapul2htg7rqj8jd87z6ruut5"
+authorization = "signam1qpyxf8jpz4uc5cudj0649l2fj2krv0ljad62eeevpgf0uvmmwfv8r4nna8gvu0vnjllcngu8hn8jhvye46jwqaees03avul8qarrevqwzvpn0v"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqwkn6kx0nk9k2usfl4f33gusgl5hygl0kvljyq7xgepghegyelx5f3p5za"
+authorization = "signam1qzdkp604zdfknfhpgh3h84dwxdsjxtj4d99hu85z307x0mk6a4zwx03nx9d7l236wu64u5wvxwcqd3vh39azarhz5p4g54v0r6k024qveuhfwh"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypn8q6zg05jgytdcwz643nucn0pru5404jwmxnfma4fwtda8j6nwwsulrwpm"
+authorization = "signam1q9szw7wzak4stnh5h544ysqr5vtneu4a7k2almn58e7duvgn5nrk5df7zjmgf4a8y3q86fzs49xkpfy82hvkqlv47wech5kvp9lv5g9xqqve3e9j"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyphxm62e46ucpxnvplgc60dhn5zfxhq5q604q80a8tadvrvy2r8facaeea0f"
+authorization = "signam1q87mfdsp875s2g9lzgmhq6cg26w6e8wr7gz5mwrqlttx0m7ts4atkecp8fp0xaw5m2enesnxxr8gz7v4kh0vr050ewt866ccq5pa02nxqqkg4xlr"
+
+[validator_account.metadata]
+email = "citizenweb3@protonmail.com"
+description = "Citizen Web3: Non-Custodial, Bare-Metal Validator. The Voice of Web3. ValidatorInfo. Web3 Society"
+website = "citizenweb3.com"
+discord_handle = "alibabaedge"
+avatar = "https://i.postimg.cc/tCvB7shK/logoweb3.png"
+name = "Citizen Web3"
+
+[validator_account.signatures]
+tpknam1qr79jchyyzvxyrynpq2q40auhfl0kn07zxyxawjrl5a5e8ml6p7yqrkvnuu = "signam1qqyjcrylsddd50w8qurfk00k88uepzw6m73sp5l2tpccxp6wwvu7d2qx6y9djfllangczcge3whl5g5ffy25xrammrtk94rkm7v6k3svm82wl4"

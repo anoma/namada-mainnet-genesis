@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqylhkxph3f7t5qxds0h50xl53udnx97evaj8kj2msw6t7smtd27vuvqj5a"]
+
+[[validator_account]]
+address = "tnam1q8f8uln5yv9zx7sgyaakc3fzldm42kjg9y7tpej2"
+vp = "vp_user"
+commission_rate = "0.1"
+max_commission_rate_change = "0.01"
+net_address = "178.23.126.6:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzpkj0e53wslycndcaf7ej4v83pm5ms8fqpe69hnqk6rkyqm302e6myjatx"
+authorization = "signam1qpskrw5t26mdqu6mven0p6t8z93q9v4kw4zhnjsdek83zy8p9p3s567k6e9ze7tuxc70wxvjpwht47kkf58djcfv07ydhj3y0h3g2ugp5xdv0e"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrcz0devql9s4zdtuz7fr3n0wuyuaeydejckyua05w59xed3l4crzumm47p"
+authorization = "signam1qqly6g4j9yshsepfe30fv0gu7zlysp70ulppk82wpsu5u46j2drrpgrp0j6qwa6dv0ywllzmzcj0wppmg58zq37xx8wvtsatre4xm8g00jkwg7"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpkwxpk3uz455a6897v68udzt97fv4zppnhn4c77wypqjedg4d6lxy5dzju"
+authorization = "signam1qqj6hgmrrwunmnsqea70hm5cevlfxaqva6qnjmvk3exutme2he668dd8mdfaz482ayhjdvtyjz283ctuw4u0un9fp2fzp0g96uxa70ctyt6wmg"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypdl36m69ucqs75ak632u4j57td6gsds2a64aunz3x0crn6sd7u7pcq4egn8"
+authorization = "signam1q895fctkjsjgfu06drrv72rnnnea5f00ewvsuhnte32jmrlhrceyu4n528z49zvqzftln29q6qy7hrhpltxwqrqzxf57nscm34mc4chvqqe2hecq"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp859es8j9jryymvzh4hpgnjj83pszzgrqq0jlx8qs8ladg5zxet5stgdltv"
+authorization = "signam1qx36qcwh7yavjhg907qk8ds53xd74yzyhlfrwrga4ynzsvnrmju8gyn3yskjffyf8sc4d8h6ps3vsj37r0ve9hj0yaj07avj2df5yx4lqqrssgh4"
+
+[validator_account.metadata]
+email = "operations@consensus.finoa.io"
+description = "Stake and grow your assets using Finoa's institutional-grade infrastructure."
+website = "https://www.finoa.io/staking-delegation"
+discord_handle = "finoaconsensusservices"
+name = "Finoa Consensus Services"
+
+[validator_account.signatures]
+tpknam1qqylhkxph3f7t5qxds0h50xl53udnx97evaj8kj2msw6t7smtd27vuvqj5a = "signam1qq9npc9gcsw4g3cq7wj0jsapudz9au0hn2j9avw9fu6g2snuvszghxrxk3wnzgjsckmrx4le7sc5e2k59cgv3hvdql0lvmdym5w0f6cgawp0f4"

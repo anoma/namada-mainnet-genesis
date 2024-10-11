@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzf8uzgxst2zfle9528emkvy6vyhjrqn0tdglnacgjl930mmrs90j5umgm0"]
+
+[[validator_account]]
+address = "tnam1qx58wny2k2tekhafrnujz7fnn44lg2y24cs8zquu"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "116.202.241.157:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqs8neqcv3zwmykyvpcz8gzmhwun07mjer05p0sqxyt4r37zlgf2jqlnfz9"
+authorization = "signam1qqd80zme90mj3har72y8mhhn29s6qpcwc4uqawcee7gysal8zy6eu623zwz0g0fhnshxtyfp5efcjyxfrl6mrjfl6ctu7zsz985sktgq3agp4a"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzcd6tve7lkyuzrvh5dc7hn4jgk4l6hxt8c0w89utwekk54an9yqqru7tku"
+authorization = "signam1qpd59s6c6796trx96cyrer6245aml447u40eclykre2xpxcd5z07wu63uq8ae7y34nu2lx46nc4zj807s59nz0xzglef908sg426xvqrhstq9q"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qze3ctke7kc8uvldfufc5h0zvhytyxxfg3ltrg04h08fmsvjty4tjdnv2q7"
+authorization = "signam1qrrkwc4arrhg8ht8mmfrlve6wp3t3rpchtm7yndvnz4f9aw0yyys9k86z4ep3y0n0umfwyksg0yej26qegar0tgheewxq0l8j5evwtsyzz7r29"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypfdtd763uj03905q6q476dzmzv0lrusxm9tmz9gtxs4qxpmdzu3hgt8gdd9"
+authorization = "signam1q8fags8y6wvd6f5qw3l3v383nuksvmmpg73qg7y0xj2hdhdtfkvwg0u6v0h0e8u370sa6e4t6usyrduzjtj6dfkmzp4u5yf40w6w57t0qynewze3"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp9eqslmdclmhygws4c6vx4zvr86ddusuuvkfs59wy4d7umf83czasrkjt8e"
+authorization = "signam1qxgnhctlhf7fnzj5f2y5p09ka7f3w6sae422fr7ukw2wkwrxew2mqhsu7zm55rt5rstq3sqe84t2z069u3lty40gjms06d5avf8jmf5eqqj5xrur"
+
+[validator_account.metadata]
+email = "llocallhost@gmail.com"
+description = "Professional validator team from Ukraine"
+discord_handle = "katrin9253"
+name = "localhost"
+
+[validator_account.signatures]
+tpknam1qzf8uzgxst2zfle9528emkvy6vyhjrqn0tdglnacgjl930mmrs90j5umgm0 = "signam1qrca05m42nzg2paggmhyery6x37d7z24n9nmzeeg7je0sw6y4naxvpry3t7lk7zu59gddzqdycap6cnp2hpmyj204p35epadtpthl4gxp5yunu"

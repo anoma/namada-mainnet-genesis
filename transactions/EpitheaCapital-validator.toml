@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqwhgy754yvjj8kpejx99kw79k62kkz8vzlh208gj7jlfl4lz3srcg4jdym"]
+
+[[validator_account]]
+address = "tnam1q8usghsv57lyfr26wtpyx9ry8v5h9lq63uakqupt"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "62.3.101.89:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpuvg2nygruk40r072lhukvukgm72yhqreveqydhv77ypf5d4e9nvycqahv"
+authorization = "signam1qr7dyz8vz3r720kvjyuh00c9jxrx6qm2ejn0uq8vnucagvfvuxjzlwzyp82jl02pm68tsdu0q6m0n5v3fy89wxxtnvacw9svxfagn2qzwpluc0"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpjrrcduyvv5n4zz8t8ctvskn5ku0zhukj53w9cx8t9s6ltwgpmykh5fz4u"
+authorization = "signam1qze3x8n8x86z0ysqqy85ran86sp36pfaj26ca6sxpfnxknmav33lsea67ayje7pllxe9a6j29muyweu85dd92er4y4f2mlhen79ecdgr85qkg3"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzpmxky5xw9pv3rcd5ruphu4808ar8dvhw9u5wemjsq0mezzngh9x3u49qa"
+authorization = "signam1qqxhtgxe273sj87lajkst96atvcfy84xmtkqr7zfl7rslygdvf0c4g42qwh20p77v9cj9xeekz7lg42jwagj89t44dwspezshlauf6sygx2qr5"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp4y5rp8xknmat40vvxme466m3mmfqqhl9agguv2ejxy6h62avq7dcrhcdgf"
+authorization = "signam1q8m9fj70e5z6069h8t6skrpswpuqz7w30xhg0q3e8xgj0xkekqn8q0fzdelcrg236skkcvxj7nxjgqd5tay44lzmzzuc3w8csg8g7v6nqq4qss6q"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypnmvc6rg5pd97ghyv7mv2det2wxlgft74d8rmtvga2740z3trhcesjw3p75"
+authorization = "signam1q8hegm59kfd24dakyv6cx6lqmnwwkgavkfzxygtjzswergta2curj0v2eee8adxw8lv0jpg2hhcs0mt98fucrt2yva3sdt7d7dlpn7x2qyugysgq"
+
+[validator_account.metadata]
+email = "admin@epithea.com"
+discord_handle = "epithea_capital"
+name = "epithea"
+
+[validator_account.signatures]
+tpknam1qqwhgy754yvjj8kpejx99kw79k62kkz8vzlh208gj7jlfl4lz3srcg4jdym = "signam1qzsdlaze97kd40m9dgv3lc3q90fqzk99dken5tp5yeyseurqhdl0yfsvaj4gxv9axsraxv27up4ec79elsaam96mtd58tduzqqgm44sdtv34eg"

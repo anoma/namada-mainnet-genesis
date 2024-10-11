@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq2lhj5mllyl9tdgcavaqvwfk4yn5lqcrvp62lewrxffvk9yuphcve9e0j8"]
+
+[[validator_account]]
+address = "tnam1qxgukz303wrw5xkcfy3agpc4lh2s7e7l0ucu6n0w"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "195.3.221.249:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qreevwws7vtfgu5004xf23mzlx4svma03g4z8llkgmnlnnksyr3my9yhwgk"
+authorization = "signam1qq6c6ye8l45stz7rm6m6l4h0pg4cv7snywpfqzq3s6tj68jfkruxltu0frmtwfkjlj3lp4p3nl8gvn39fjlr8v7yf3rxls247l04zucqruevdf"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpa5wg9jnp68vnd3knsr4jhpucg32ac765j77l5c9hjwea57q5nrzkcfrha"
+authorization = "signam1qr2hx95pjxf78uq9gtwqgg4ulvs9k4evkyks75vlruc76cdxcx2upe0d3258lfxnqtyv0sj6jwc3pgrlh306kv8gkxc3pv652xklhjcg2jxzdw"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp4yzx2ypll9u82w69znf2rhf0e2umtetg75xuggn4x389uuf6fd2fgnrlt"
+authorization = "signam1qqqaydy2zgj4yx79gdy9rfluns3w4e5j3rh7dhhh5qhdjxjmx2r3lfzexyg6q9j6cj4dkntq5ar83vmucm6f7l9k60fcd3hdpv4shkq9z0h2vv"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypyl4t8x48yghek3tspyucf285a6sc5xp7w47kv82plmvw3a0j2tusu9sgeh"
+authorization = "signam1qya054rjpfh3fx8rrr0ea8pq08jf6gjhs4fzck77w0ahecypge4c57unzgxxyyecyhdrzzqyqp0wskuym83my5efzg6etktpugyu4ammqq7nezra"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypm0naadvwtu4swe4k4dkjeqpm3sfrcec9z22m3wnzy8nh93kcnd9c2crhxj"
+authorization = "signam1qxfvqrxgv6npjqm7dl8u5wxyyqcmyy6kwaxe0mzkq0svtjhtlpr7szda7vl9ye3e8gnsjhv689mcrpr653vtu43rnnn0fa2fvwwn6m4zqys5nx4h"
+
+[validator_account.metadata]
+email = "rossoman2k@gmail.com"
+website = "https://onthepluto.com"
+discord_handle = "rossoman"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/29b5d51b196307b1576604c8e93b2805_360_360.jpg"
+name = "OnThePluto"
+
+[validator_account.signatures]
+tpknam1qq2lhj5mllyl9tdgcavaqvwfk4yn5lqcrvp62lewrxffvk9yuphcve9e0j8 = "signam1qpnjczknmg7m4ufwplrjnhs6m2q7pl7j407x0024nlu22e8p7mfg90xupc93fj8z84xus766jgejh4fs2dd8e2z26mn95xq8y4twayczj766r0"

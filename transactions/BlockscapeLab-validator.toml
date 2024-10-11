@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqj2zymkmkf46pwrplstqzgy40szylecm8mj6yd8qhxle5yk30s2w8z48q4"]
+
+[[validator_account]]
+address = "tnam1q8plan3j4na87g7s8kxu3659gra8ye30evdjrxea"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqxrp32zypstzr66cflr6h37j3h3m9rz5zf5q6whdk6x74xurg0pzesjn4n"
+authorization = "signam1qrfr5ql0exel8acc7wk8fehlyhyu87xrv8znqzfvrhahth0wxf09lk9063waau6wzh3vadu7kjt8zm3u22jd8fk83p34wz2eqsp0kag8qhy9ev"
+
+[validator_account.protocol_key]
+pk = "tpknam1qql6zmze6zqe63xm8zed088znnk54js8hhysg6t3saf3kcg5zvyyqzr0lll"
+authorization = "signam1qzmvgsemnaeuz00wy9cvellhqm0gqxzfcn96hqf8mgjvppdgxc4fxvejuqqs507nyla0utecuvawmezecdjwkhkvtgm6r226q8dgevczc266sd"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qphzj23d3yuvk0s03dup9qje86pstelar3t3y5ut6awkmpht0p3z5kxkahy"
+authorization = "signam1qp7re78d870pe94sxum0r68vrrzd8958dmsm5ufl4yndwxwcn6m37klrwjj7wgmdcdeueh3vr7v8lj7cxah4x79fkwv2n86mkc2flcgvz0knaz"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypdvlj06z9tekac4hmfjss9ug36g9uspe6zn7kx8d0zczqhrxxng3c7sz98r"
+authorization = "signam1qytkxzh4wq0kfj9aw62cs04f98kekuysdkcnr5p8php2ssruyu78qakd44gtzh7462pp4djarqlplf0gms3xwrn6qmtc8wmqjygdxyc5qy0y7z3e"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp7r746yrqtaj2ee3f6aj0n3p080lf08qm0p7qrl95xl6s3z4ltmgs0wtwdf"
+authorization = "signam1qxkufvtt2r3x0867h4jdkpl7t09sh537359t3fsczvrud63npd4n7dr2zr0u8refkggme3uzvv5ex0emkm68rdm7zradr8u28g7nw62rqqgfzryk"
+
+[validator_account.metadata]
+email = "info@blockscape.network"
+description = "By delegating, you confirm that you are aware of the risk of slashing and that Blockscape Finance AG is not liable for any potential damages to your investment."
+website = "blockscape.network"
+name = "blockscape"
+
+[validator_account.signatures]
+tpknam1qqj2zymkmkf46pwrplstqzgy40szylecm8mj6yd8qhxle5yk30s2w8z48q4 = "signam1qz6kxv0qjzuww3c7wtttsf8kpuhkmghn5vsjhudmlpujtdeey85r5uvhtjsvyaa4ptgcpvud80syagaf2ze8sfldks4rz8wkjqm5xwqt47ggma"

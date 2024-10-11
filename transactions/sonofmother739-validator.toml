@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpf0pjqet28jfcq9wwjvtha3mefgevmpffwts2ku78mt8xuymkfzygduze6"]
+
+[[validator_account]]
+address = "tnam1q84yp9wy9xmhu9ykf4442k37qlypnvt34upvy9py"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "167.235.39.5:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz9nm0t8sgqgak37r85k0aj6hk3w3phfxg9dk8xgevklawes4d6zvjzv4pl"
+authorization = "signam1qqd4x2vxmvrtejts2cdysy2yp9gx67ltayl87czxy6nltjsx8gt5nl6m78way2v8pdt0sf7p6vtu2nkvexp3v2lwyjecpc2qs6x4k9spqaqqd2"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzxzh44wsqlkrn9y9cn7r34k3tpyg9lyl7znf58fz3gq9223tj77s8n9ufp"
+authorization = "signam1qrt4jc0nmmxawej0xw30l2dcgv3hesytv02dlskp95dg50xax5ttum4wa7c2z5g9cuxxar8v8mkvqfs7xjrm6jzcna9rrscwcs43zucvz22yjp"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp6c23s7daaag7vzlas4cnv7905tnh740m8zdhfgf766gc0nydqexnkl9cm"
+authorization = "signam1qpz3s0fuqlhd48vna2cpchr6dtcqn3tl3clmxzjr6p2hhtx9uz7nmp7e6wxkkwasnusrypupnf3gxvyk80h276gl3lesggrqde96d5q97hkv69"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qype5dvu906u9t8tmyvnt8q9zjktwagtvvlcysd6cjud950pt0qp8wg5afgzy"
+authorization = "signam1qxc93k0nrg47j40r3hgudttjyvukgpqnk7p9ger29yyqern8dc76qfeygqq36hcu0sslccy2e5rp8leacql9yuvj8c7whzq32ur5dz9gqyf7czd8"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypz5nyvpyxtz95kgg727dlv72ekc9vu83mnklujds5e5z5vac2jnmsue9syq"
+authorization = "signam1qyfz82qhvdv5lschx0wvyefg9rjall37c5py9anzy8kznxc53df7qftuwxlvzvtfs9uk4ea6cfslz7j3re5tk3wk2xlf4tgkpyuq7uawqqhgxycq"
+
+[validator_account.metadata]
+email = "tarabukinivan@gmail.com"
+description = "namaValidator"
+website = "https://tarabukinivan.github.io/personal/"
+discord_handle = "tarabukinivan"
+avatar = "https://raw.githubusercontent.com/tarabukinivan/personal/main/img/avatar.png"
+name = "taronchain"
+
+[validator_account.signatures]
+tpknam1qpf0pjqet28jfcq9wwjvtha3mefgevmpffwts2ku78mt8xuymkfzygduze6 = "signam1qp5pe5zugtrtd9hum368nsr2kxwskzne4swqhp09lv4ydpgjagqjrx5u3scnt6q7spmac5jd494z0up2j7egmtmadz4z692u9ywt4kct842x3f"
