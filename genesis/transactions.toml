@@ -368,6 +368,18 @@ tpknam1qrffv9pzff7cwg3ly7e2u0vw7gp5gf96vlqawvq7msrk0e3xsen96p8e3xx = "signam1qpn
 
 
 
+# adding transaction for mnm-is-aleks-bond
+
+[[bond]]
+source = "tpknam1qqugy0cu8q6fgfnsp2yla6t699a50cv6ydwqe9nggcuz35d7kuxey9fwkrx"
+validator = "tnam1q8xwyyc9j58w09wqm0z3jjjkt08699t4syfnpgmh"
+amount = "1200"
+
+[bond.signatures]
+tpknam1qqugy0cu8q6fgfnsp2yla6t699a50cv6ydwqe9nggcuz35d7kuxey9fwkrx = "signam1qzuepatvv39rqk2295d6f3sndqdy2da9jcv7zu4gye3dr036qa3rku3cxny6v6ewxwl07wayfghj5gpyfxpwpwksvdxvkev0kdya8aq9ddp63u"
+
+
+
 # adding transaction for 2020dwg-validator
 
 [[established_account]]

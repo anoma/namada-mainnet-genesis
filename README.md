@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `7125`
+- Total pre-genesis transactions: `7126`
 - Total validators: `204`
-- Total delegations: `6921`
-- Staked tokens: `30510279.25672 (~3.05%)`
+- Total delegations: `6922`
+- Staked tokens: `30511479.25672 (~3.05%)`
 
 ## Validators
 
@@ -112,7 +112,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Unit 410 [2]`
     - commission: `20.0%`
     - max commission rate change: `0.0%`
-    - total voting power: `819230.0 (2.69% of total voting power)`
+    - total voting power: `819230.0 (2.68% of total voting power)`
     - percentage of total supply: `0.08%`
     - email: `security@unit410.com`
     - discord: `Unknown discord handle`
@@ -255,7 +255,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `MELLIFERA`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `355450.0 (1.17% of total voting power)`
+    - total voting power: `355450.0 (1.16% of total voting power)`
     - percentage of total supply: `0.04%`
     - email: `team@mellifera.network`
     - discord: `ruslan_mellifera`
@@ -1626,6 +1626,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `Unknown website`
     - total delegations: `2`
 
+- address: `tnam1q8xwyyc9j58w09wqm0z3jjjkt08699t4syfnpgmh`
+    - alias: `nodes_navigator`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `2200.0 (0.01% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `alezz@protonmail.com`
+    - discord: `alezz7997`
+    - website: `nodesnavigator.xyz`
+    - total delegations: `2`
+
 - address: `tnam1qxdqsqnrf97vnyf5w2ur3fa0f3wxclxapy2lxy4s`
     - alias: `Lapatylin`
     - commission: `10.0%`
@@ -1779,17 +1790,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - discord: `Unknown discord handle`
     - website: `https://www.hashkey.cloud/`
     - total delegations: `2`
-
-- address: `tnam1q8xwyyc9j58w09wqm0z3jjjkt08699t4syfnpgmh`
-    - alias: `nodes_navigator`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `1000.0 (0.0% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `alezz@protonmail.com`
-    - discord: `alezz7997`
-    - website: `nodesnavigator.xyz`
-    - total delegations: `1`
 
 - address: `tnam1qysez03jadg5uann2vpr3tdap3ahyfl2hv0kg085`
     - alias: `laliola`
