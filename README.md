@@ -15,7 +15,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 - Total pre-genesis transactions: `7125`
 - Total validators: `204`
 - Total delegations: `6921`
-- Staked tokens: `30487079.25672 (~3.05%)`
+- Staked tokens: `30496979.25672 (~3.05%)`
 
 ## Validators
 
@@ -46,7 +46,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Knowable`
     - commission: `7.000000000000001%`
     - max commission rate change: `1.0%`
-    - total voting power: `2056502.0 (6.75% of total voting power)`
+    - total voting power: `2056502.0 (6.74% of total voting power)`
     - percentage of total supply: `0.21%`
     - email: `infra@knowable.vc`
     - discord: `Unknown discord handle`
@@ -1274,6 +1274,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://mekonglabs.tech`
     - total delegations: `2`
 
+- address: `tnam1q9vdxnkrqwnw5vrgfypqz6ndejp6sy2sfgc9pk5d`
+    - alias: `Nodeify`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `10102.0 (0.03% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `admin@nodeify.net`
+    - discord: `kw1k`
+    - website: `https://nodeify.net`
+    - total delegations: `3`
+
 - address: `tnam1q8ww8zgchxju5dr55tl2xqgfh3vwsh8kh53gkp2f`
     - alias: `zaebaza`
     - commission: `5.0%`
@@ -1878,17 +1889,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - discord: `qf3l3k_chaintools`
     - website: `https://chaintools.tech`
     - total delegations: `2`
-
-- address: `tnam1q9vdxnkrqwnw5vrgfypqz6ndejp6sy2sfgc9pk5d`
-    - alias: `Nodeify`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `202.0 (0.0% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `admin@nodeify.net`
-    - discord: `kw1k`
-    - website: `https://nodeify.net`
-    - total delegations: `3`
 
 - address: `tnam1q9gvv99t25xam0tq0vg4x77a64tztm320gclvafy`
     - alias: `Coinage x DAIC`
