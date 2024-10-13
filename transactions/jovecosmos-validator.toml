@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpwzqyhlm93rqgt5swj4j2yaf2xxlx274dw9f35nheuaxlehr5d9q495yrl"]
+
+[[validator_account]]
+address = "tnam1qy7u3y3sqltmd68a43lsr0khu8c9y8uyyuzy7sck"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "37.27.63.150:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzhqk976q0e5xyesek30utuxwlaxxn6d3hke7h8gq5jxy0m03ncqyrmh005"
+authorization = "signam1qq3r3vsesnnsuqcyflx5jh6j47d9tw35dumhw2rxtgr5d2f9m4rdykjwvqflhn5hhdcat3ek7mzrlcxf5fahz0trhrrv3hpv7zrr4ccdm6j0ky"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzfywz56qw7mq5d2e45ldj02jdypjfp043v84s7925ycnnm27hryjqanjaw"
+authorization = "signam1qrkwk9tvhdjhslpvj3zz5vw58u36rke8xc9d6ssd2l8la7hgwgzmey5crxgsh4r4rnmq9fwad6yyuh9hh0x883a7na8dwrlv2c7dfqg9p7qhsr"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzrgd362tnhn3jta4xjqt4vplkluh73qzq99k4u5gcljand9fuyac7kfx6p"
+authorization = "signam1qpr6jn4yt3wfw3pq4tnfsw248rkkq0a9h6jcnpqkewulu3d269hhe33fxzlxdjrn43dpukzuvwak70v7ky60treh2wark5dcygx5dqsxk2tnx6"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypnwcx2d5lfr2qjn5u8g2ax2uz4398vlfxk6p9kde5lxg0eqc5hn2gdja9fg"
+authorization = "signam1q9qkms3pw8l4e6mcxuzyymjkd7a0ey7k4zr5sq7mnt08ppa7maptc689ra5gkkprhh3l49lj70hs7hcmssjaspfx6h76vvqgalkscxmdqy2kckpm"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypwqn8qhldgwztfuqzqcr6twjkmvtaczduzzuqf99g2hgg384sp2dskp5umr"
+authorization = "signam1qymr69hmefnsx59utc67k6qztjce22p3etn2unq4re7x4t2nxjpkg2myjy790mct09lph9g3vmd0accxsy3p55drxqzu73x63y8yyzppqqwlcquy"
+
+[validator_account.metadata]
+email = "jovecosmos@gmail.com"
+description = "Cat brings you the max rewards. Decentralized community-owned public infrastucture, trusted by thousands of delegators with millions of funds. Join GATA family 🐾"
+website = "https://gatahub.zone"
+discord_handle = "jovegatadao"
+avatar = "https://s3.amazonaws.com/keybase_processed_uploads/fd84e961633cef5f59f07fc847d56b05_360_360.jpg"
+name = "GATA HUB"
+
+[validator_account.signatures]
+tpknam1qpwzqyhlm93rqgt5swj4j2yaf2xxlx274dw9f35nheuaxlehr5d9q495yrl = "signam1qpnpqapldk287978s9v80r7vxadzhl0whc0epnh46jrmgk4dsxp4yry5acntxm9hyh6vz6jyrclf88zw8lhckfg4y04mcrl2a6nnxnc0rx5clg"
