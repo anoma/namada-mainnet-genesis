@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqxtup9zgnk6guj06a3tx8jfjemngv68p07nft4hjtpkzhfrx6gsz40rv36"]
+
+[[validator_account]]
+address = "tnam1qxr5duqjc3fm7y73d40fjk2s9f9mpfd25uy5evfr"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.1"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp3x494am60gn90q6r3p2xpsukx24s3gm6lxk590t5der66xa8nzqln56ad"
+authorization = "signam1qqd5p4tspj6v4fd449uz20gguyqsggr2yunzmje3jsgfk006qwpsm0kr82hs2p3gerfaztpzafln6kdlglpak9wd85k6gwwpayjx8dq9ps3vnn"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz99z45fkm3c0grmzcu89h58fvwcmu3pupmdkycu5ekeg5zkyyc7cs4k4cp"
+authorization = "signam1qrlv5uyqr9es7wk7vlw2k7t3828k3eygycdwkgay2hu4q9nex4yp4uujrfkf52u96w76tgz4s8lwjf3q5mk9tsenecnhz3ukam46w9qxg902n6"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqnywu33myjsdylntyzkwj8z7zd23pz6ruzzjmusc039llh8ggm9gxaa927"
+authorization = "signam1qqcg4ya7ljdhkx8hhvwdleuuffytw5jxtfw4e829x8g7ewm02pydlykxffw4zrvjda2j4drgwj2mq9sn48jzvczj2pzahjgzpnmwgjqfq5ku0x"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyptz35xzzfygwa32ffxgc20rtcw0llvxn3nrwqlqsam0jyjhmnyxwc9g3r0a"
+authorization = "signam1qyvmjfdha5xz34hcv706xdad300r6x6zk6hj9fm4h2hs7t4pgwe8zp6n3ktr53ke0cuck07gj2e5utljj25swpwd0w0t22wkv60fmxlkqy2h7dz7"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp796dklp0gec29m9udhm98muhpd0ffwrmaqjtl3cwmagnx36rgy8qycqefw"
+authorization = "signam1qxcpdgnhl8gj9ah6k2wsaww9nwz6tya5qn7kqtz36cr9fv538t586mfhu48juuszp9xllj25jftv6007x4627nfaggatjj2nt7t4znkdqqcen0yu"
+
+[validator_account.metadata]
+email = "contact@chaintools.tech"
+website = "https://chaintools.tech"
+discord_handle = "qf3l3k_chaintools"
+name = "ChainTools"
+
+[validator_account.signatures]
+tpknam1qqxtup9zgnk6guj06a3tx8jfjemngv68p07nft4hjtpkzhfrx6gsz40rv36 = "signam1qr5893hr4n45pj5kax3058f8cktmgutyv53fm5tnrreq0a6tcctwukdvamz5ja3enww4pmwa9jx0c6k7xumhtxfjfantcyt0qf7mzksx6ajhvu"

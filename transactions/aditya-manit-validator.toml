@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzluhwmzp9aek7hpvj8a2q8afacw4gcjs5g457cjq4l5sfuqj8dd2w26hqw"]
+
+[[validator_account]]
+address = "tnam1q985emxj29hpz3dlye0yfe5hm66pmwqalu0y06p4"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.04"
+net_address = "37.27.69.99:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz04u5z5tjdgfj425r35m7uzfvvx04jgszky82q5mfe2fkfvay2757cwep7"
+authorization = "signam1qr7lt0dfwx3wdt4p92llal6l2j594653t2sfpaxr5w69lhcn7gmxfuz8tx5dmelmtlyk8wv3ahwpggfwg72tx8r3ymzkumc7hlu8y2cty44w2m"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrvzhlyf2lnjcv6vsyrdpwnn6gkmcr8xyscw2pxkw6kscukjfhds2gyd5q7"
+authorization = "signam1qra2j83ntdecuysuy96dnnaxcm37qn8q8ts5fqwekg4chgdpj4dwvhfek6smv8kshfy9f4028jx42ram35kprx8ukhwpkzpyc5krxusvd4n5c2"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqvr2kxkus3f77eq7gh3p7nuu029ews4x7pust0y9rplwyffcr9f7r0m3nn"
+authorization = "signam1qrcugdmlrzwunm5clard8vyang90jlkxt3muxw2nk48tdx34yn59a7qzgldr00y3mvvls0cwyld4zh48xk78cnyy9uxd8jgnqx8emrqpewn4kq"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypuk2qksrnqymhvqnw06yftncdejdyvk3vwr7zs0fuas04jamxaaagpp06jz"
+authorization = "signam1q889tycthye0yg79va2k8xfcr785rf6fymjvgvzy0wrhxru26a66qkrf26tqsrtcwqnpq86g8e736a2tdjkpc8553zw432n6szjjga9kqqpnps82"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypg3mh2mu9nzed5wvhs04hzcr5cp3dsr3zlyghgkd5zju8rluwec3qtct048"
+authorization = "signam1qyhgz3qtt7px7njq3xauxxuhkn94c8pp78c2njrjzuechc7devv56vcn9euk4e8hyetk79vgusmra0xgxr52hwvnyynj6e3tt9jlpuxlqqdsml3f"
+
+[validator_account.metadata]
+email = "security@encapsulate.xyz"
+description = "Others trust, we validate! Your stake is important to us. Help us secure networks while you earn rewards"
+website = "https://encapsulate.xyz"
+discord_handle = "kingsuper"
+avatar = "https://multimedias.nyc3.cdn.digitaloceanspaces.com/brand/encapsulate%20brand%20kit/icon%20logo/encapsulate.png"
+name = "Encapsulate (fka KingSuper)"
+
+[validator_account.signatures]
+tpknam1qzluhwmzp9aek7hpvj8a2q8afacw4gcjs5g457cjq4l5sfuqj8dd2w26hqw = "signam1qzh0zneamu62esz49v38ev7fl6xp0mffphjaggykzjqmftc4a04yvk4vsgnym403nuhyaz72djmwhzpdg0ru33zauf3w368v2ymt30g05r3ylw"
