@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpav0qyqa950qa5km9k85khwuz0gnca708p4dlvxg7k2xtc2lt33qgjm38v"]
+
+[[validator_account]]
+address = "tnam1q9pnpud5ha22twh44y333rcadlx34xflysvhqtw8"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "149.50.96.83:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qppnyu4vxvfpsppzry832pyh7pyywncgc0zen8venw5a9sz6p4h460eks3t"
+authorization = "signam1qrggvs6uqcmrmxv3asandnst7n7qjku6hdahuvuxchyyp2xd7r4fnjrjmhx08y9vs6exwhfw44kk09y67gzsh20pfcf303xxc0xyc2gv59pcuy"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzsh4x7efy2kpy5smkrmtmw7vskcagz0dv4nkrg5uygl8eg3vdd9w8xc0mc"
+authorization = "signam1qz3jgaslkrcupvadv9845szhqyje8rjcqrn7lczkap3k85zqtm27kqngxk58ad9rnhvcssq5kgztzy2eqgmpt3yfnkw3ge7k40sdfhst5wluzu"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrl9r0vpj03z8uu2cjh69kckcnh30rjc3ld0mhxe2flgjn35ud4jsmnv2ra"
+authorization = "signam1qpncjw47zzk89mydpqswqszfwzh4hz3q7r6d0v2zn40kc4gteh2whxx0lersjffmwdk9e6lvtafg8f4jjp7sezxz4wrq9gxzhyquypcq6jwlym"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypj9dpfzf2cfc37wagm69dudf2fnexn0q06l9e895hg93ck9jeny0sj6up97"
+authorization = "signam1q808ltru5cc9dmen0q05ph8a9vtdywlahvjl6hjcl2w38jyqywpfgfxlm32ehp8lnys9uu8rctk8fkqm3azqyjm6y03sa268mrepnu0dqqnhcm6w"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp2hqe2k7yq7pafs5d46wk4n0cxuamcrnnhr4xu77tkagkr38fwfespnvhd0"
+authorization = "signam1q8d77dqr74lupa0x2p2sl43cr7ncwhkjk2enuxvuw746xv9mz7jpclkfnp6x0k9r87gha757km35wryqrwsfzewn3eapymy7qsd8gfkjqq6xq6c4"
+
+[validator_account.metadata]
+email = "in0Ywetrust@gmail.com"
+description = "0Y — social-graph collective focused on validating, defi, infrastructure, LP, investment, and content creation."
+website = "0y.io"
+discord_handle = "cyberomanov"
+avatar = "http://i.hmp.me/m/af9a433b12c1f884204dd19fc0dfaf8d.png"
+name = "0Y"
+
+[validator_account.signatures]
+tpknam1qpav0qyqa950qa5km9k85khwuz0gnca708p4dlvxg7k2xtc2lt33qgjm38v = "signam1qqw7zpn6nkxa7urp6xgzqg4yyjdp9gr2r020kmm65swcr09ptgtr233wxg2dceeu2a2xj9g0c956gtd9tddasve0pk0dt99zxymtw5s9qwmffc"
