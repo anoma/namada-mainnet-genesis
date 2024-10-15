@@ -73252,6 +73252,18 @@ tpknam1qza64ksqd0n5e5m9j8j66e0r7gnyjcckpsue333hv0rej9pjxlkaw2trslj = "signam1qzt
 
 
 
+# adding transaction for timagixe-bond
+
+[[bond]]
+source = "tpknam1qq3cqxntn9q0upcgmjkrls43m22qvqk75p4zzcrs3x7gxn526na6jvnqgm4"
+validator = "tnam1q9d42duqyl2flcvcg42urx4d7hsjd6dnxs8z00ve"
+amount = "1000"
+
+[bond.signatures]
+tpknam1qq3cqxntn9q0upcgmjkrls43m22qvqk75p4zzcrs3x7gxn526na6jvnqgm4 = "signam1qrfm9cjwukqc6skfx58w3uv2prjws6agpz0tmjdz92pm2wc9kt78nt4j70z5t7zkddnckrlrdjaqzztjldcz0p4ddy24hy9x6qj4vhqzmx5nxy"
+
+
+
 # adding transaction for vitalys1-bond
 
 [[bond]]

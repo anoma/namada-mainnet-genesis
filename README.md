@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `8280`
+- Total pre-genesis transactions: `8281`
 - Total validators: `204`
-- Total delegations: `8076`
-- Staked tokens: `34694789.656720005 (~3.47%)`
+- Total delegations: `8077`
+- Staked tokens: `34695789.656720005 (~3.47%)`
 
 ## Validators
 
@@ -1890,6 +1890,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://github.com/JuliaMoon1`
     - total delegations: `1`
 
+- address: `tnam1q9d42duqyl2flcvcg42urx4d7hsjd6dnxs8z00ve`
+    - alias: `timagixe`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `1000.0 (0.0% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `timagixe@protonmail.com`
+    - discord: `timagixe`
+    - website: `https://tmgx.xyz/`
+    - total delegations: `1`
+
 - address: `tnam1q82fsvmdkjfm7awr04xa0rkn27edztd9fypma6ha`
     - alias: `n1stake`
     - commission: `5.0%`
@@ -2196,17 +2207,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - email: `paul@everlasting.nz`
     - discord: `Unknown discord handle`
     - website: `Unknown website`
-    - total delegations: `0`
-
-- address: `tnam1q9d42duqyl2flcvcg42urx4d7hsjd6dnxs8z00ve`
-    - alias: `timagixe`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `0 (0.0% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `timagixe@protonmail.com`
-    - discord: `timagixe`
-    - website: `https://tmgx.xyz/`
     - total delegations: `0`
 
 - address: `tnam1q8m8m40w44z9nlstzh37wxssdqd44mq4xypv05e2`
