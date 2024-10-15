@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `8317`
+- Total pre-genesis transactions: `8318`
 - Total validators: `204`
-- Total delegations: `8113`
-- Staked tokens: `35739479.796720006 (~3.57%)`
+- Total delegations: `8114`
+- Staked tokens: `35800479.796720006 (~3.58%)`
 
 ## Validators
 
@@ -24,7 +24,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Mandragora`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `3454765.96 (9.67% of total voting power)`
+    - total voting power: `3454765.96 (9.65% of total voting power)`
     - percentage of total supply: `0.35%`
     - email: `support@mandragora.io`
     - discord: `danielmandragora`
@@ -35,7 +35,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Kintsugi Nodes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `2451794.1155790025 (6.86% of total voting power)`
+    - total voting power: `2451794.1155790025 (6.85% of total voting power)`
     - percentage of total supply: `0.25%`
     - email: `info@kintsugi.tech`
     - discord: `dimiandre`
@@ -46,7 +46,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Knowable`
     - commission: `7.000000000000001%`
     - max commission rate change: `1.0%`
-    - total voting power: `2156677.0 (6.03% of total voting power)`
+    - total voting power: `2156677.0 (6.02% of total voting power)`
     - percentage of total supply: `0.22%`
     - email: `infra@knowable.vc`
     - discord: `Unknown discord handle`
@@ -57,7 +57,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `L0vd`
     - commission: `0.0%`
     - max commission rate change: `5.0%`
-    - total voting power: `1203198.0 (3.37% of total voting power)`
+    - total voting power: `1203198.0 (3.36% of total voting power)`
     - percentage of total supply: `0.12%`
     - email: `info@l0vd.com`
     - discord: `jango_l0vd`
@@ -90,7 +90,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Unknown alias`
     - commission: `5.0%`
     - max commission rate change: `5.0%`
-    - total voting power: `1000135.0 (2.8% of total voting power)`
+    - total voting power: `1000135.0 (2.79% of total voting power)`
     - percentage of total supply: `0.1%`
     - email: `infra@poeticte.ch`
     - discord: `Unknown discord handle`
@@ -167,7 +167,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Cosmic Validator`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `688690.18 (1.93% of total voting power)`
+    - total voting power: `688690.18 (1.92% of total voting power)`
     - percentage of total supply: `0.07%`
     - email: `info@cosmicvalidator.com`
     - discord: `harish0x12`
@@ -409,7 +409,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Nodes.Guru`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `320074.92 (0.9% of total voting power)`
+    - total voting power: `320074.92 (0.89% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `security@nodes.guru`
     - discord: `0xan_nodes_guru`
@@ -431,7 +431,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Infraspear`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `281000.0 (0.79% of total voting power)`
+    - total voting power: `281000.0 (0.78% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `admin@infraspear.com`
     - discord: `Unknown discord handle`
@@ -453,7 +453,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Citizen Web3`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `273637.0 (0.77% of total voting power)`
+    - total voting power: `273637.0 (0.76% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `citizenweb3@protonmail.com`
     - discord: `alibabaedge`
@@ -508,7 +508,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Coverlet`
     - commission: `3.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `241369.0 (0.68% of total voting power)`
+    - total voting power: `241369.0 (0.67% of total voting power)`
     - percentage of total supply: `0.02%`
     - email: `leon@coverlet.io`
     - discord: `leongameon`
@@ -866,6 +866,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `10`
+
+- address: `tnam1qxl39v5a88cm0cw842mv7znmygmz4etfa5d5raze`
+    - alias: `Brightlystake`
+    - commission: `7.000000000000001%`
+    - max commission rate change: `1.0%`
+    - total voting power: `61270.0 (0.17% of total voting power)`
+    - percentage of total supply: `0.01%`
+    - email: `contact@brightlystake.com`
+    - discord: `crypto_new`
+    - website: `https://brightlystake.com`
+    - total delegations: `3`
 
 - address: `tnam1qyxd5eh0mf49at77dursxnlsygn5se6d45tj5y47`
     - alias: `✅ CryptoCrew`
@@ -1966,17 +1977,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - discord: `richardstakingcabin`
     - website: `https://stakingcabin.com`
     - total delegations: `3`
-
-- address: `tnam1qxl39v5a88cm0cw842mv7znmygmz4etfa5d5raze`
-    - alias: `Brightlystake`
-    - commission: `7.000000000000001%`
-    - max commission rate change: `1.0%`
-    - total voting power: `270.0 (0.0% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `contact@brightlystake.com`
-    - discord: `crypto_new`
-    - website: `https://brightlystake.com`
-    - total delegations: `2`
 
 - address: `tnam1q939yqd6pgqfms8t75tz8rrwpnj0d9epqq07a7an`
     - alias: `staking-explorer.com`
