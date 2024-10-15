@@ -68465,6 +68465,18 @@ tpknam1qpmfpse3acelyrkvzvptt9506f0qqkfe0valq3h6msuhc3rz74a45sdhr3r = "signam1qq5
 
 
 
+# adding transaction for sprintaway-bond
+
+[[bond]]
+source = "tpknam1qp7hkpzk483mt3x23gzc8leslzulwsq452g59fscxseua6jrax02vxggy6h"
+validator = "tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p"
+amount = "43.48"
+
+[bond.signatures]
+tpknam1qp7hkpzk483mt3x23gzc8leslzulwsq452g59fscxseua6jrax02vxggy6h = "signam1qzh9dwn2ym6f9vkhamglmxuu0cvxv9phz48j3h833ewehtcurdxrafmraxm62pd7wuszu8f02rwz4zd3g60lsvusf0kj9k68vukpapqz9aysnr"
+
+
+
 # adding transaction for sshamanov-bond
 
 [[bond]]
@@ -75192,4 +75204,16 @@ discord_handle = "itrocket"
 
 [validator_account.signatures]
 tpknam1qrt77k69kgahp0c9ajskf64z72amkvn3usagulqgluk6vdznxcpx29l9xnn = "signam1qp83efyj40d5sqgw8kf03yzsq7rjmk7kn5vuyzqsay98c6cdsyrn32uame6k2yetwu20ke92a9x48mmg3mafk82xrmzl9mdcnx3tcxc0xrh0mu"
+
+
+
+# adding transaction for cosmowiz-bond
+
+[[bond]]
+source = "tpknam1qqnuu3qm70c056wkzvunfsxrt5jxlh8d57rm7v27q35c9t52a6ycg8f5z2h"
+validator = "tnam1qy5dqyv2ygrk2sm84mj0pdl0ralx5wurwu8xz3qa"
+amount = "46600"
+
+[bond.signatures]
+tpknam1qqnuu3qm70c056wkzvunfsxrt5jxlh8d57rm7v27q35c9t52a6ycg8f5z2h = "signam1qzjsk8ly97rhh0969nj9x5343n58zsal8gft0mvm7hv4sr5jgsh37a3d4k57mnupct94f7lmr8qnp4c8rs2c4kvfu5pdyflevzeunwqwszdy26"
 
