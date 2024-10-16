@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `8322`
+- Total pre-genesis transactions: `8324`
 - Total validators: `204`
-- Total delegations: `8118`
-- Staked tokens: `35801421.796720006 (~3.58%)`
+- Total delegations: `8120`
+- Staked tokens: `35860421.796720006 (~3.59%)`
 
 ## Validators
 
@@ -24,7 +24,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Mandragora`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `3454765.96 (9.65% of total voting power)`
+    - total voting power: `3454765.96 (9.63% of total voting power)`
     - percentage of total supply: `0.35%`
     - email: `support@mandragora.io`
     - discord: `danielmandragora`
@@ -35,7 +35,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Kintsugi Nodes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `2451794.1155790025 (6.85% of total voting power)`
+    - total voting power: `2451794.1155790025 (6.84% of total voting power)`
     - percentage of total supply: `0.25%`
     - email: `info@kintsugi.tech`
     - discord: `dimiandre`
@@ -46,7 +46,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Knowable`
     - commission: `7.000000000000001%`
     - max commission rate change: `1.0%`
-    - total voting power: `2156677.0 (6.02% of total voting power)`
+    - total voting power: `2156677.0 (6.01% of total voting power)`
     - percentage of total supply: `0.22%`
     - email: `infra@knowable.vc`
     - discord: `Unknown discord handle`
@@ -68,7 +68,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `TuDudes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `1180967.611 (3.3% of total voting power)`
+    - total voting power: `1180967.611 (3.29% of total voting power)`
     - percentage of total supply: `0.12%`
     - email: `node-alerts@tududes.com`
     - discord: `sirouk`
@@ -79,7 +79,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `ValidityOps`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `1002285.66 (2.8% of total voting power)`
+    - total voting power: `1002285.66 (2.79% of total voting power)`
     - percentage of total supply: `0.1%`
     - email: `operations@validityops.com`
     - discord: `Unknown discord handle`
@@ -101,7 +101,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `nodemeister`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `965900.0 (2.7% of total voting power)`
+    - total voting power: `965900.0 (2.69% of total voting power)`
     - percentage of total supply: `0.1%`
     - email: `nodemeister@pm.me`
     - discord: `Unknown discord handle`
@@ -112,7 +112,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `deNodes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `890290.0 (2.49% of total voting power)`
+    - total voting power: `890290.0 (2.48% of total voting power)`
     - percentage of total supply: `0.09%`
     - email: `core@denodes.xyz`
     - discord: `bombermine`
@@ -123,7 +123,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Unit 410 [1]`
     - commission: `20.0%`
     - max commission rate change: `0.0%`
-    - total voting power: `882951.0 (2.47% of total voting power)`
+    - total voting power: `882951.0 (2.46% of total voting power)`
     - percentage of total supply: `0.09%`
     - email: `security@unit410.com`
     - discord: `Unknown discord handle`
@@ -134,7 +134,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Chorus One`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `833155.0 (2.33% of total voting power)`
+    - total voting power: `833155.0 (2.32% of total voting power)`
     - percentage of total supply: `0.08%`
     - email: `security@chorus.one`
     - discord: `Unknown discord handle`
@@ -145,7 +145,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Unit 410 [2]`
     - commission: `20.0%`
     - max commission rate change: `0.0%`
-    - total voting power: `819230.0 (2.29% of total voting power)`
+    - total voting power: `819230.0 (2.28% of total voting power)`
     - percentage of total supply: `0.08%`
     - email: `security@unit410.com`
     - discord: `Unknown discord handle`
@@ -189,7 +189,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `polkachu.com`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `650814.49 (1.82% of total voting power)`
+    - total voting power: `650814.49 (1.81% of total voting power)`
     - percentage of total supply: `0.07%`
     - email: `hello@polkachu.com`
     - discord: `polkachu`
@@ -211,7 +211,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Crypto Universe`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `586309.0 (1.64% of total voting power)`
+    - total voting power: `586309.0 (1.63% of total voting power)`
     - percentage of total supply: `0.06%`
     - email: `contact.crypto.universe@gmail.com`
     - discord: `cryptodruide`
@@ -233,7 +233,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `CroutonDigital`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `500000.0 (1.4% of total voting power)`
+    - total voting power: `500000.0 (1.39% of total voting power)`
     - percentage of total supply: `0.05%`
     - email: `official@crouton.digital`
     - discord: `ak32821`
@@ -332,7 +332,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Keplr`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `352975.92000000004 (0.99% of total voting power)`
+    - total voting power: `352975.92000000004 (0.98% of total voting power)`
     - percentage of total supply: `0.04%`
     - email: `node-operator@chainapsis.com`
     - discord: `daniel_ck`
@@ -805,12 +805,23 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Encapsulate (fka KingSuper)`
     - commission: `5.0%`
     - max commission rate change: `4.0%`
-    - total voting power: `84180.0 (0.24% of total voting power)`
+    - total voting power: `84180.0 (0.23% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `security@encapsulate.xyz`
     - discord: `kingsuper`
     - website: `https://encapsulate.xyz`
     - total delegations: `1`
+
+- address: `tnam1q9vjuxuwdv9muek3ekvvjfngyt973agg2c5c7hxp`
+    - alias: `DSRV`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `78404.0 (0.22% of total voting power)`
+    - percentage of total supply: `0.01%`
+    - email: `validator@dsrvlabs.com`
+    - discord: `heeheejin`
+    - website: `https://dsrvlabs.com`
+    - total delegations: `6`
 
 - address: `tnam1q8tzr86aw8kh2f66vukkhnghppkp0xckdy3xzrgx`
     - alias: `Unknown alias`
@@ -893,7 +904,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `nodiums`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `59080.0 (0.17% of total voting power)`
+    - total voting power: `59080.0 (0.16% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `nodiums@gmail.com`
     - discord: `nodiums`
@@ -981,7 +992,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `888Tnso`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `48400.0 (0.14% of total voting power)`
+    - total voting power: `48400.0 (0.13% of total voting power)`
     - percentage of total supply: `0.0%`
     - email: `89686697888@mail.ru`
     - discord: `888tnso`
@@ -1229,17 +1240,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - discord: `davidthepopescu`
     - website: `https://stake.systems`
     - total delegations: `5`
-
-- address: `tnam1q9vjuxuwdv9muek3ekvvjfngyt973agg2c5c7hxp`
-    - alias: `DSRV`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `19404.0 (0.05% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `validator@dsrvlabs.com`
-    - discord: `heeheejin`
-    - website: `https://dsrvlabs.com`
-    - total delegations: `4`
 
 - address: `tnam1q8lzhgzezqew6z20wy64gw6q64vkv84k45ygue6v`
     - alias: `BlockPro`
