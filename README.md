@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `8318`
+- Total pre-genesis transactions: `8322`
 - Total validators: `204`
-- Total delegations: `8114`
-- Staked tokens: `35800479.796720006 (~3.58%)`
+- Total delegations: `8118`
+- Staked tokens: `35801421.796720006 (~3.58%)`
 
 ## Validators
 
@@ -68,23 +68,23 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `TuDudes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `1180936.611 (3.3% of total voting power)`
+    - total voting power: `1180967.611 (3.3% of total voting power)`
     - percentage of total supply: `0.12%`
     - email: `node-alerts@tududes.com`
     - discord: `sirouk`
     - website: `https://tududes.com`
-    - total delegations: `12`
+    - total delegations: `13`
 
 - address: `tnam1q8lhvxys53dlc8wzlg7dyqf9avd0vff6wvav4amt`
     - alias: `ValidityOps`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `1002043.66 (2.8% of total voting power)`
+    - total voting power: `1002285.66 (2.8% of total voting power)`
     - percentage of total supply: `0.1%`
     - email: `operations@validityops.com`
     - discord: `Unknown discord handle`
     - website: `validityops.com`
-    - total delegations: `13`
+    - total delegations: `14`
 
 - address: `tnam1q96k4cmpem5n6tun5qap7vqfxv5fx9hzucp8lqt0`
     - alias: `Unknown alias`
@@ -156,7 +156,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `BXKelePool`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `724968.0 (2.03% of total voting power)`
+    - total voting power: `724968.0 (2.02% of total voting power)`
     - percentage of total supply: `0.07%`
     - email: `winlin@kelepool.com`
     - discord: `klearth`
@@ -222,7 +222,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Finoa Consensus Services`
     - commission: `10.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `553119.0 (1.55% of total voting power)`
+    - total voting power: `553119.0 (1.54% of total voting power)`
     - percentage of total supply: `0.06%`
     - email: `operations@consensus.finoa.io`
     - discord: `finoaconsensusservices`
@@ -376,12 +376,12 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Stakecito`
     - commission: `5.0%`
     - max commission rate change: `2.0%`
-    - total voting power: `338901.92 (0.95% of total voting power)`
+    - total voting power: `339001.92 (0.95% of total voting power)`
     - percentage of total supply: `0.03%`
     - email: `security@stakecito.de`
     - discord: `Unknown discord handle`
     - website: `https://www.stakecito.com`
-    - total delegations: `714`
+    - total delegations: `715`
 
 - address: `tnam1qyx57588ejm4ltfldr4kvftmcr8plkx7eykxkmsj`
     - alias: `pro-nodes75`
@@ -1417,6 +1417,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `www.staking-power.com`
     - total delegations: `2`
 
+- address: `tnam1q9pnpud5ha22twh44y333rcadlx34xflysvhqtw8`
+    - alias: `0Y`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `6969.0 (0.02% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `in0Ywetrust@gmail.com`
+    - discord: `cyberomanov`
+    - website: `0y.io`
+    - total delegations: `2`
+
 - address: `tnam1qyswpl4wvk4zq45axze9mdghqr9n9ls9yvm9t66c`
     - alias: `MurphyNode`
     - commission: `5.0%`
@@ -1482,17 +1493,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - discord: `romashkin_cryptech`
     - website: `https://services.cryptech.com.ua`
     - total delegations: `2`
-
-- address: `tnam1q9pnpud5ha22twh44y333rcadlx34xflysvhqtw8`
-    - alias: `0Y`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `6400.0 (0.02% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `in0Ywetrust@gmail.com`
-    - discord: `cyberomanov`
-    - website: `0y.io`
-    - total delegations: `1`
 
 - address: `tnam1qyxp2w0e006nwr3ln9gxcvpnypcx40857ytfgyyt`
     - alias: `Wave`
