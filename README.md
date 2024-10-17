@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `8332`
+- Total pre-genesis transactions: `8333`
 - Total validators: `204`
-- Total delegations: `8128`
-- Staked tokens: `35912000.99672 (~3.59%)`
+- Total delegations: `8129`
+- Staked tokens: `35942000.99672 (~3.59%)`
 
 ## Validators
 
@@ -24,7 +24,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Mandragora`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `3455375.96 (9.62% of total voting power)`
+    - total voting power: `3455375.96 (9.61% of total voting power)`
     - percentage of total supply: `0.35%`
     - email: `support@mandragora.io`
     - discord: `danielmandragora`
@@ -35,7 +35,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Kintsugi Nodes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `2451794.1155789993 (6.83% of total voting power)`
+    - total voting power: `2451794.1155789993 (6.82% of total voting power)`
     - percentage of total supply: `0.25%`
     - email: `info@kintsugi.tech`
     - discord: `dimiandre`
@@ -46,7 +46,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Knowable`
     - commission: `7.000000000000001%`
     - max commission rate change: `1.0%`
-    - total voting power: `2156677.0 (6.01% of total voting power)`
+    - total voting power: `2156677.0 (6.0% of total voting power)`
     - percentage of total supply: `0.22%`
     - email: `infra@knowable.vc`
     - discord: `Unknown discord handle`
@@ -178,7 +178,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `anodeofzen`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `673507.0 (1.88% of total voting power)`
+    - total voting power: `673507.0 (1.87% of total voting power)`
     - percentage of total supply: `0.07%`
     - email: `zenodeapp@gmail.com`
     - discord: `keymasterzen`
@@ -944,6 +944,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://services.kjnodes.com/mainnet/namada`
     - total delegations: `19`
 
+- address: `tnam1q92xh4k7acxegvlgm3nfgg584f3hx0xalgxyjrh8`
+    - alias: `cryptobtcbuyer`
+    - commission: `5.0%`
+    - max commission rate change: `10.0%`
+    - total voting power: `53320.0 (0.15% of total voting power)`
+    - percentage of total supply: `0.01%`
+    - email: `cryptobtcbuyer@gmail.com`
+    - discord: `cryptobtcbuyer`
+    - website: `https://github.com/cryptobtcbuyer`
+    - total delegations: `4`
+
 - address: `tnam1q8munsehazrlgm65g7dpu0c2qfnxxg93tu0c6nm6`
     - alias: `F5 Nodes`
     - commission: `5.0%`
@@ -1218,17 +1229,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - discord: `pangzi_90610`
     - website: `https://www.equinoxdao.xyz/`
     - total delegations: `4`
-
-- address: `tnam1q92xh4k7acxegvlgm3nfgg584f3hx0xalgxyjrh8`
-    - alias: `cryptobtcbuyer`
-    - commission: `5.0%`
-    - max commission rate change: `10.0%`
-    - total voting power: `23320.0 (0.06% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `cryptobtcbuyer@gmail.com`
-    - discord: `cryptobtcbuyer`
-    - website: `https://github.com/cryptobtcbuyer`
-    - total delegations: `3`
 
 - address: `tnam1qxepvwg3c24kv0ltlkaasxscy3fsk89h8vrwzgd7`
     - alias: `Bro_n_Bro`
