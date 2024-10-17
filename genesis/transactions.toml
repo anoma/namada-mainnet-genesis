@@ -1300,6 +1300,18 @@ tpknam1qzv3laswayhhhjr4uu46ukr399rhcwn9559a2jggtq4ymy3kshpzswwlx6x = "signam1qrh
 
 
 
+# adding transaction for carameleon-bond
+
+[[bond]]
+source = "tpknam1qrwf99mx4nk8tl0mnea4lsqgs0jgflqa2tptpd3g7w83cus252a4kw2z8vm"
+validator = "tnam1qygyng6guhgj7jy4cfe2pxmsle6sakcvqv3cnlg6"
+amount = "65665"
+
+[bond.signatures]
+tpknam1qrwf99mx4nk8tl0mnea4lsqgs0jgflqa2tptpd3g7w83cus252a4kw2z8vm = "signam1qq2uan8yk5crvrzjfq8yjalllatvzw9at5zmj7cjews8x78pec0f2404nhng3tyjxhpp03d7u625ajtpmafl45d57eqr66uczvdslzc9yvf4hk"
+
+
+
 # adding transaction for blockscapelab-validator
 
 [[established_account]]
