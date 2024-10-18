@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `9219`
+- Total pre-genesis transactions: `9221`
 - Total validators: `204`
-- Total delegations: `9015`
-- Staked tokens: `38049638.32672 (~3.8%)`
+- Total delegations: `9017`
+- Staked tokens: `38049738.32672 (~3.8%)`
 
 ## Validators
 
@@ -35,12 +35,12 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Kintsugi Nodes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `2698878.6955789994 (7.09% of total voting power)`
+    - total voting power: `2698898.6955789994 (7.09% of total voting power)`
     - percentage of total supply: `0.27%`
     - email: `info@kintsugi.tech`
     - discord: `dimiandre`
     - website: `https://kintsugi.tech`
-    - total delegations: `3980`
+    - total delegations: `3981`
 
 - address: `tnam1qyx2vmne6th0nfk9lnwdz3mpwzslsaj5xc0x8ucu`
     - alias: `Knowable`
@@ -354,12 +354,12 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Lavender.Five Nodes`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `360779.88 (0.95% of total voting power)`
+    - total voting power: `360859.88 (0.95% of total voting power)`
     - percentage of total supply: `0.04%`
     - email: `security@lavenderfive.com`
     - discord: `reversesigh`
     - website: `https://lavenderfive.com`
-    - total delegations: `156`
+    - total delegations: `157`
 
 - address: `tnam1qy7fms2m4kpx5khvp4x7r3pr8e4xdqghpsrsd0pn`
     - alias: `Keplr`
