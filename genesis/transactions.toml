@@ -1791,6 +1791,18 @@ tpknam1qqh9gu556m47vny2h58gfr0zardjl68j57dy4caw6mr9nkvgjes0uuwgz9m = "signam1qpt
 
 
 
+# adding transaction for bompaandrei-bond
+
+[[bond]]
+source = "tpknam1qp7leayn9ahpg2c4qg30732g8kzn48ck7vunq8rjnke3mcrnta2rkrzuqwe"
+validator = "tnam1q9xecndf4dpp83v393myhlzzs2g7g7df2c9cdzll"
+amount = "3100"
+
+[bond.signatures]
+tpknam1qp7leayn9ahpg2c4qg30732g8kzn48ck7vunq8rjnke3mcrnta2rkrzuqwe = "signam1qq3smw3yk3txyrvnttr9duh06xhkj8mgqcpde35aga9hwy2qjmuvwp2x56y2f0x389zthld2w266ecgzcwdxwjx5fc5k3cnv56remmsrr4f6jj"
+
+
+
 # adding transaction for mrspir-validator
 
 [[established_account]]
@@ -74760,6 +74772,27 @@ tpknam1qpttdd9hy06jy5whq270hxwnudlncnh34t6p36m5psd333hnukr7w0qxe8l = "signam1qrs
 
 
 
+# adding transaction for pavrych-bond
+
+[[bond]]
+source = "tpknam1qzt8x7gpypv0dtrx2xmfrx2al6nvqk6q9kz7w5p9ppj6t6rysw3v7dq9tk9"
+validator = "tnam1qxq08djyzzrhgchwv2datwhk3cghtseg953ruh2y"
+amount = "4800"
+
+[bond.signatures]
+tpknam1qzt8x7gpypv0dtrx2xmfrx2al6nvqk6q9kz7w5p9ppj6t6rysw3v7dq9tk9 = "signam1qrr69mnstvz9dj86dwy7fxg58ktch99m33qdxpyqry9wwvgu2rjncfefkur0hxzkgpeahrl4gqengtk4tt2w4adh5znecag8hzgq3uqf3w24yn"
+
+
+[[bond]]
+source = "tpknam1qzt8x7gpypv0dtrx2xmfrx2al6nvqk6q9kz7w5p9ppj6t6rysw3v7dq9tk9"
+validator = "tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p"
+amount = "1200"
+
+[bond.signatures]
+tpknam1qzt8x7gpypv0dtrx2xmfrx2al6nvqk6q9kz7w5p9ppj6t6rysw3v7dq9tk9 = "signam1qpl3484ec45rfdk03m37hld667vu0aq2350hxzwyzq59jtkwk237hjuk3fghtzucfu67v66uh694uqrfs9kz77tprhupms3ka9jyzgct5czkr4"
+
+
+
 # adding transaction for antropocosmist-bond
 
 [[bond]]
@@ -78545,6 +78578,18 @@ tpknam1qq5zmdsgjtg5clzdqajr0kmmyud6gs62yw0j9cr52ruk094t43p050hjwtw = "signam1qre
 
 
 
+# adding transaction for ptzruslan-bond
+
+[[bond]]
+source = "tpknam1qq4ykxcn9mm53qk8l0z3uw4xe3jzsxk3xmf88lm4wevkm8ytefj3c8z33pd"
+validator = "tnam1q8re97lpfp5kmj5nu3t5sxvlp8yydnfjkuzw76dp"
+amount = "40000"
+
+[bond.signatures]
+tpknam1qq4ykxcn9mm53qk8l0z3uw4xe3jzsxk3xmf88lm4wevkm8ytefj3c8z33pd = "signam1qppgtawap7gyrr2yx40mdq77wpg8pkee7666ac7u2499ku2eatx8k3hn8skhtqx53v28dc4rlwrdkxhds4la894qklp8eqa6ej3m5eqrtrt0m6"
+
+
+
 # adding transaction for clemensgg-bond
 
 [[bond]]
@@ -81793,6 +81838,18 @@ amount = "3400"
 
 [bond.signatures]
 tpknam1qqzzjg8sc5tx5x37yt00ne2wjfylstf6kvhpwluqaq92583myx9x2mt4ulz = "signam1qqr0fz6e00awqrv4m6pwpcy0wzj9ux82s76k5a2t2gtpkkafch8fumn9w0kec044pek7f7aclw44v9u4nm2x22rz76848tp8gcgynlq2tdycm0"
+
+
+
+# adding transaction for bbroad25-bond
+
+[[bond]]
+source = "tpknam1qpvm8m5hs9kq9wzl9052xk8xpagtjugc3jcwv6pcgumwnkhdh0yxxz2xt0u"
+validator = "tnam1q8sjkutd5kqwcc555wr77p9fjn66nuuqfuzzc3yc"
+amount = "6000"
+
+[bond.signatures]
+tpknam1qpvm8m5hs9kq9wzl9052xk8xpagtjugc3jcwv6pcgumwnkhdh0yxxz2xt0u = "signam1qqp6mfnmd2wyk0n83mfzj729s62rf4dvpqnkc03nh9tc73vryxnwdgkupahgvcf5umqhgmz5lh3r5x6h0hmz7wqj7mu53348vfjlkdgf20ykuz"
 
 
 
