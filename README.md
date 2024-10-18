@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `9222`
+- Total pre-genesis transactions: `9225`
 - Total validators: `204`
-- Total delegations: `9018`
-- Staked tokens: `38049858.32672 (~3.8%)`
+- Total delegations: `9021`
+- Staked tokens: `38064858.32672 (~3.81%)`
 
 ## Validators
 
@@ -24,12 +24,12 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Mandragora`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `3465529.96 (9.11% of total voting power)`
+    - total voting power: `3470529.96 (9.12% of total voting power)`
     - percentage of total supply: `0.35%`
     - email: `support@mandragora.io`
     - discord: `danielmandragora`
     - website: `Unknown website`
-    - total delegations: `68`
+    - total delegations: `69`
 
 - address: `tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p`
     - alias: `Kintsugi Nodes`
@@ -156,7 +156,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `BXKelePool`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `724968.0 (1.91% of total voting power)`
+    - total voting power: `724968.0 (1.9% of total voting power)`
     - percentage of total supply: `0.07%`
     - email: `winlin@kelepool.com`
     - discord: `klearth`
@@ -178,12 +178,12 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `anodeofzen`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `673607.0 (1.77% of total voting power)`
+    - total voting power: `678607.0 (1.78% of total voting power)`
     - percentage of total supply: `0.07%`
     - email: `zenodeapp@gmail.com`
     - discord: `keymasterzen`
     - website: `https://zenode.app`
-    - total delegations: `20`
+    - total delegations: `21`
 
 - address: `tnam1qxzwta6uhcsv40a8l4g5t07q0ey50c9dlyt3s272`
     - alias: `polkachu.com`
@@ -295,6 +295,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `Unknown website`
     - total delegations: `9`
 
+- address: `tnam1qygycq5aejv4aypdppldrar2jnplmyt8ussdvjyr`
+    - alias: `LiveRaveN`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `405100.0 (1.06% of total voting power)`
+    - percentage of total supply: `0.04%`
+    - email: `liver23@protonmail.com`
+    - discord: `liver23`
+    - website: `https://services.liveraven.net`
+    - total delegations: `6`
+
 - address: `tnam1qx7apjd6puv09zenlgcjg5q9l74y6ax4sqvyhp6y`
     - alias: `Luganodes`
     - commission: `10.0%`
@@ -316,17 +327,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - discord: `Unknown discord handle`
     - website: `https://ping.pub`
     - total delegations: `8`
-
-- address: `tnam1qygycq5aejv4aypdppldrar2jnplmyt8ussdvjyr`
-    - alias: `LiveRaveN`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `400100.0 (1.05% of total voting power)`
-    - percentage of total supply: `0.04%`
-    - email: `liver23@protonmail.com`
-    - discord: `liver23`
-    - website: `https://services.liveraven.net`
-    - total delegations: `5`
 
 - address: `tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k`
     - alias: `Stakecito`
@@ -871,7 +871,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `DTEAM`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `66600.0 (0.18% of total voting power)`
+    - total voting power: `66600.0 (0.17% of total voting power)`
     - percentage of total supply: `0.01%`
     - email: `contact@dteam.tech`
     - discord: `doodleoo`
