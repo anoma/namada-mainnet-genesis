@@ -66676,14 +66676,6 @@ amount = "100"
 tpknam1qphf430tmdd3m4kj0wvecdaxqjlfredxlslcqpya2pulr69wuw5x23xgh5y = "signam1qp806ry362up3gs8e59qff90qynkzet30jsyxgwhr8fzpgs4uw07vqgl3pnucjfxqx4ly9wlkse5wg8mx8lzkcsxp8vlvgfg6ukcmgc9a9u8gr"
 
 [[bond]]
-source = "tpknam1qq3slkaul8e6q6txpljcemxenc308lhwlfmd7cfnfm80gqdng0chjvefvfh"
-validator = "tnam1q9pnpud5ha22twh44y333rcadlx34xflysvhqtw8"
-amount = "101"
-
-[bond.signatures]
-tpknam1qq3slkaul8e6q6txpljcemxenc308lhwlfmd7cfnfm80gqdng0chjvefvfh = "signam1qrtg20qmdphg26ykg2dueytl6gswk84jmj2dwdqjrnn0yjh5xjcc3c9ah5alm4q2f3h2sqf3jyfsyr0cwdxe0z9wm244r5jykurhnrc0hgav2y"
-
-[[bond]]
 source = "tpknam1qzpz32pcd6rg22u0p4nrceemh9cvgkwh4wlswl7l3z9xrs2j578qj32jpwh"
 validator = "tnam1qyx2vmne6th0nfk9lnwdz3mpwzslsaj5xc0x8ucu"
 amount = "20000"
