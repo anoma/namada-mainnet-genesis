@@ -15,7 +15,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 - Total pre-genesis transactions: `8427`
 - Total validators: `204`
 - Total delegations: `8223`
-- Staked tokens: `37427506.32672 (~3.74%)`
+- Staked tokens: `37432506.32672 (~3.74%)`
 
 ## Validators
 
@@ -24,7 +24,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Mandragora`
     - commission: `5.0%`
     - max commission rate change: `1.0%`
-    - total voting power: `3455475.96 (9.23% of total voting power)`
+    - total voting power: `3459475.96 (9.24% of total voting power)`
     - percentage of total supply: `0.35%`
     - email: `support@mandragora.io`
     - discord: `danielmandragora`
@@ -1538,6 +1538,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `Unknown website`
     - total delegations: `3`
 
+- address: `tnam1qxxp8yu7ceh7hymkclutkqwhlgcydqzjryflmx32`
+    - alias: `max-02`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `5000.0 (0.01% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `max0476@protonmail.com`
+    - discord: `power542`
+    - website: `Unknown website`
+    - total delegations: `1`
+
 - address: `tnam1q9fxma4kqfrgn8ul4fdaexgavlhug746wcvra4f8`
     - alias: `Synergy Nodes`
     - commission: `5.0%`
@@ -1592,17 +1603,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - discord: `5elementsnodes`
     - website: `https://www.5elementsnodes.com`
     - total delegations: `2`
-
-- address: `tnam1qxxp8yu7ceh7hymkclutkqwhlgcydqzjryflmx32`
-    - alias: `max-02`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `4000.0 (0.01% of total voting power)`
-    - percentage of total supply: `0.0%`
-    - email: `max0476@protonmail.com`
-    - discord: `power542`
-    - website: `Unknown website`
-    - total delegations: `1`
 
 - address: `tnam1q88jgxj5qhmcwxgn9frngrd30207awvdjgkwn674`
     - alias: `ByNode`
