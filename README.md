@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `9227`
+- Total pre-genesis transactions: `9226`
 - Total validators: `204`
-- Total delegations: `9023`
-- Staked tokens: `38134675.32672 (~3.81%)`
+- Total delegations: `9022`
+- Staked tokens: `38131675.32672 (~3.81%)`
 
 ## Validators
 
@@ -552,7 +552,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - alias: `Forbole`
     - commission: `5.0%`
     - max commission rate change: `10.0%`
-    - total voting power: `215454.0 (0.56% of total voting power)`
+    - total voting power: `215454.0 (0.57% of total voting power)`
     - percentage of total supply: `0.02%`
     - email: `validator@forbole.com`
     - discord: `forbole`
@@ -603,17 +603,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://validator.stakeflow.io`
     - total delegations: `14`
 
-- address: `tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595`
-    - alias: `POSTHUMAN`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `157086.499 (0.41% of total voting power)`
-    - percentage of total supply: `0.02%`
-    - email: `validator@posthuman.digital`
-    - discord: `posthuman_validator`
-    - website: `https://posthuman.digital`
-    - total delegations: `273`
-
 - address: `tnam1q8qr408fvssqpqaht2qspryq2yfu7lds0urktcam`
     - alias: `Simply Staking`
     - commission: `5.0%`
@@ -624,6 +613,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - discord: `Unknown discord handle`
     - website: `https://simplystaking.com`
     - total delegations: `19`
+
+- address: `tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595`
+    - alias: `POSTHUMAN`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `154086.499 (0.4% of total voting power)`
+    - percentage of total supply: `0.02%`
+    - email: `validator@posthuman.digital`
+    - discord: `posthuman_validator`
+    - website: `https://posthuman.digital`
+    - total delegations: `272`
 
 - address: `tnam1q85gzuzhu60s7gd3vg4umeccu39fv8c6tqafxaqq`
     - alias: `0xgen`
