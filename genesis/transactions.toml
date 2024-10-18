@@ -72976,6 +72976,18 @@ tpknam1qzuqzur3zph6znf4yq2688r2nlatd78v2w7tw548g7rrnsmhpa26qwefarc = "signam1qqu
 
 
 
+# adding transaction for jobamboo4-bond
+
+[[bond]]
+source = "tpknam1qqlhwkqdv9tuynwp9la78z400n82lflg2gzg392f4q56a2jrew4z5hzcm2r"
+validator = "tnam1q9pnpud5ha22twh44y333rcadlx34xflysvhqtw8"
+amount = "260"
+
+[bond.signatures]
+tpknam1qqlhwkqdv9tuynwp9la78z400n82lflg2gzg392f4q56a2jrew4z5hzcm2r = "signam1qr5wq669w7cq4l2cx7c9e6rl7z4pj975jnnl3mfzenr24j2e6wgzmzdswq7qf2wp6p2gkg4zcvt2apfk8ktutawfz8rm5g3ggxlhuhgyghskhk"
+
+
+
 # adding transaction for vegas555-bond
 
 [[bond]]

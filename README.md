@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `9226`
+- Total pre-genesis transactions: `9227`
 - Total validators: `204`
-- Total delegations: `9022`
-- Staked tokens: `38131675.32672 (~3.81%)`
+- Total delegations: `9023`
+- Staked tokens: `38131935.32672 (~3.81%)`
 
 ## Validators
 
@@ -900,6 +900,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `Unknown website`
     - total delegations: `12`
 
+- address: `tnam1q9pnpud5ha22twh44y333rcadlx34xflysvhqtw8`
+    - alias: `0Y`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `61600.0 (0.16% of total voting power)`
+    - percentage of total supply: `0.01%`
+    - email: `in0Ywetrust@gmail.com`
+    - discord: `cyberomanov`
+    - website: `0y.io`
+    - total delegations: `85`
+
 - address: `tnam1qxl39v5a88cm0cw842mv7znmygmz4etfa5d5raze`
     - alias: `Brightlystake`
     - commission: `7.000000000000001%`
@@ -910,17 +921,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - discord: `crypto_new`
     - website: `https://brightlystake.com`
     - total delegations: `5`
-
-- address: `tnam1q9pnpud5ha22twh44y333rcadlx34xflysvhqtw8`
-    - alias: `0Y`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `61340.0 (0.16% of total voting power)`
-    - percentage of total supply: `0.01%`
-    - email: `in0Ywetrust@gmail.com`
-    - discord: `cyberomanov`
-    - website: `0y.io`
-    - total delegations: `84`
 
 - address: `tnam1qyxd5eh0mf49at77dursxnlsygn5se6d45tj5y47`
     - alias: `✅ CryptoCrew`
