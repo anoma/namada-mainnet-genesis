@@ -972,10 +972,15 @@ validator = "tnam1q9pt4hukg0ga362jq2slhg4tuf692zqqngzzz54k"
 amount    = "800"
 
 [bond.signatures]
+tpknam1qq3ktkpxtfhzd60mh4x9fx5nanx74y6ejt2nsv24p956pcffwe45cysnlr0 = "signam1qq5fj37kgytf2qrkaylzm45tsjm6200csm6yqqc62n4pj4awpuk5lulq5yqrrn9t4hzrwm5e597sge9pnctk0sc7w0xxdaz5awp747c9jwaw6t"
+
+[[bond]]
+source    = "tpknam1qq3ktkpxtfhzd60mh4x9fx5nanx74y6ejt2nsv24p956pcffwe45cysnlr0"
+validator = "tnam1q8lhvxys53dlc8wzlg7dyqf9avd0vff6wvav4amt"
+amount    = "200"
+
+[bond.signatures]
 tpknam1qq3ktkpxtfhzd60mh4x9fx5nanx74y6ejt2nsv24p956pcffwe45cysnlr0 = "signam1qrqpdqcwkj68c3pxjfyjnzhar8ya76n5afqxq65g69xxj2dzq7nt0l8ayz8swkur8wdptxx6ws4gp3gymef7y74mn0g949nezwllc3cf5vvdln"
-source                                                             = "tpknam1qq3ktkpxtfhzd60mh4x9fx5nanx74y6ejt2nsv24p956pcffwe45cysnlr0"
-validator                                                          = "tnam1q8lhvxys53dlc8wzlg7dyqf9avd0vff6wvav4amt"
-amount                                                             = "200"
 
 [[bond]]
 source    = "tpknam1qpam3wfnkrz9mlnquen4zmvdkljc673acz67w5rg99rzt2z0yzluy2wzqtf"
@@ -991,10 +996,15 @@ validator = "tnam1qya90eeuaxn47ajfjp08f8zzgjtmhy0lmyxn26gu"
 amount    = "80"
 
 [bond.signatures]
+tpknam1qq72yjxd706e4v6myann3t6f6dptvdeyz4u9curcezxp9hkdmjpcse8akdn = "signam1qrmwv0cheqtzkqk53t38vwev9wdjpdzz44yak22r772cyr2ws8zxh4xs4ky3kq7hhe6kxz5efxvf9qeswul6x2vs744eufh790gh6lc2sjdxen"
+
+[[bond]]
+source    = "tpknam1qq72yjxd706e4v6myann3t6f6dptvdeyz4u9curcezxp9hkdmjpcse8akdn"
+validator = "tnam1q8lhvxys53dlc8wzlg7dyqf9avd0vff6wvav4amt"
+amount    = "20"
+
+[bond.signatures]
 tpknam1qq72yjxd706e4v6myann3t6f6dptvdeyz4u9curcezxp9hkdmjpcse8akdn = "signam1qrgldsfn602va8wjpt4sslx3g9u8lcuy38g2uxtacu6qh6mz5tgssclujpnm2l492c5tkx3rmu0myuymehkjel7culrgswzjjv5slzstam3cuz"
-source                                                             = "tpknam1qq72yjxd706e4v6myann3t6f6dptvdeyz4u9curcezxp9hkdmjpcse8akdn"
-validator                                                          = "tnam1q8lhvxys53dlc8wzlg7dyqf9avd0vff6wvav4amt"
-amount                                                             = "20"
 
 [[bond]]
 source    = "tpknam1qzcmpxled59zvxh9qtwapqtjq7pg0ajdwetmkmyz5w2up6xch630s6jh620"
