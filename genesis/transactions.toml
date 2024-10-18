@@ -76509,6 +76509,18 @@ tpknam1qrsfcz75l3suc2m8lv3slen6deelg0pv93d58wtd0u7hnmk654m6uc5etpn = "signam1qqh
 
 
 
+# adding transaction for nikolas07-master-bond
+
+[[bond]]
+source = "tpknam1qp068w3gvny5f0guef5qt9engeqsqw9uqum4r882sdegzk0w6829v8st8zr"
+validator = "tnam1q9pnpud5ha22twh44y333rcadlx34xflysvhqtw8"
+amount = "110"
+
+[bond.signatures]
+tpknam1qp068w3gvny5f0guef5qt9engeqsqw9uqum4r882sdegzk0w6829v8st8zr = "signam1qrpwvep9k7c88ja4wvslcaewv6n6awr6w95nlpr3t84ds60gwahdnwwu6tqjy0j7ulrjfmpkktgl5llmtc2ufnnum2qnggfu7rq4mxq06w2ycu"
+
+
+
 # adding transaction for staking-explorer-bond
 
 [[bond]]
