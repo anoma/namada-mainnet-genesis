@@ -280,14 +280,6 @@ tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qzp
 
 [[bond]]
 source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
-validator = "tnam1qya90eeuaxn47ajfjp08f8zzgjtmhy0lmyxn26gu"
-amount = "300000"
-
-[bond.signatures]
-tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qrwuuhkjlngkgl3e6d2t5fjek4ynfpwgc0wx3zcl5lql028mrkvv8xpjyydp9tz5cns9gmtx7trktypadj7mv7f0q9vpz2nqm56ggmgzctxpft"
-
-[[bond]]
-source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
 validator = "tnam1qyac9kyffah40tta7xvdlhet5zcc04s46gqfl2ge"
 amount = "200000"
 
@@ -312,8 +304,24 @@ tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qry
 
 [[bond]]
 source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
-validator = "tnam1qyx2vmne6th0nfk9lnwdz3mpwzslsaj5xc0x8ucu"
-amount = "200000"
+validator = "tnam1q8plan3j4na87g7s8kxu3659gra8ye30evdjrxea"
+amount = "100000"
 
 [bond.signatures]
-tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qz8fg4qrwvs5ewtryuq7p7e2g73lkxjkka603jyn554rz29wa6vap7s6hw0vrj3qt8rpkm3dyz9znhvceqyfvf5kzpywsjsuwhwfawqpjxja4n"
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qzsqq574g0xjmjqya24z3wxc6a4klhk6jcm4v0rhqut9wkw2jrm2n5g0d4e0tte8c2kdpecr9l66qg2w0g8t04v74la70y4v5m7ar9stnwzy8x"
+
+[[bond]]
+source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
+validator = "tnam1qya90eeuaxn47ajfjp08f8zzgjtmhy0lmyxn26gu"
+amount = "400000"
+
+[bond.signatures]
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qrmdxy3kmzu2zvw0uk8sz3pvne6nf6kt9uvauk9sxmvrpyctp9575400gfrjy2ehf3cgkzrcmlknavzq32wn4gnf4l6tnv6rhmxug6g9lxuzrv"
+
+[[bond]]
+source = "tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw"
+validator = "tnam1qyx2vmne6th0nfk9lnwdz3mpwzslsaj5xc0x8ucu"
+amount = "69707"
+
+[bond.signatures]
+tpknam1qzdknxn2mr6s0sqltt5lgsz9fda9ssff778fgezrkg5aqzzh5jf0w4e40uw = "signam1qrd294r7nryflva63yx29p3290wwmtsr48pr9c9d3rg3754lrh0h6pg2efgarngerjz39wnftsv2annr8uw0h6z50uvmtvmcuxt4hcsvzqsp8h"
