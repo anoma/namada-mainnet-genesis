@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzetlvkwtm6l2z3zsl28gxecs0c4aghxykzd79erv4g68y5fzpljsctmmts"]
+
+[[validator_account]]
+address = "tnam1q80ajrpqzv0vz9sl5ye22rprjt3k3q0cqy4lwywe"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "0.0.0.0:26670"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrzafhhrmuf2v0nn87w59vhxsdflmg4u9vfxgwq5fta45dd4qjfxwh57unt"
+authorization = "signam1qp9r4rmnjru9jq7aljtvsn6gmwhh8fy9sz4er6z6xj69gkyncu44d8wm4jxf7vxjfpdy9qvn4jj0tncxlw8ku4ly6gywgcmr03wz3wqtcjph8x"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr2368x5u86zef5jxn869usfy3jcs3dp50ze6xvsx57w4c6w97lkz4z8h65"
+authorization = "signam1qqfyjuhjmxzdlhgyzuglatmt85s9mtykdskuztd42xjdr54r2cwyhwjfq6v6pj6g6e6autxfvqpezj7jvzzyjjtsmsm9c5ngckhdr2qygummm2"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzykyyw3w7hjtjnnrtdc8y76w3n6ats2f8c7wntexgt83yhdwp45wf653kq"
+authorization = "signam1qqwvt2yausvaggm660wzck43yq9rg4sjffpy050uddyg3m74z8dyfmwrmnldyrpuj0wpgy9hjafusr70e575cspj27wssenvwa7s0mqgqt5lwk"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypk37u4av6lgzejtzmq7mdqmurp7ng69wcnmdzql059ll9h7yjar5g00ev9x"
+authorization = "signam1qyp3cnak83sjw9hcnflalhpe6sw24rk0v3mepam2ssmt7tnmurzcsd8qkg4l5eltpy2t2cr3rsexeqcl4dgvj27hz80ukx4gg573ku60qq6pm3qm"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypgrll4dysdztuz54f9t7qarz85wsd46950x4gx5gufyluvuvu0g2s286prt"
+authorization = "signam1qxvdzd6gxvzg8mv8jm9gl4yvwcf79x0lhpqalap02a6cdqcs3rj9js434msh2nw5qlevvakdsvx2e0xnvl7qpesmd5ydz0lmsmlcg7wkqy9drvs9"
+
+[validator_account.metadata]
+email = "support@stakely.io"
+description = "🔥 Professional validator highly experienced in PoS 🔥 Slashing protection & Eligible for airdrops | Learn with our staking guides, video tutorials and FAQs | Part of the commission of our nodes will go to our Multicoin Faucet funds and other tools 🌱 Carbon Neutral 🌱"
+website = "https://stakely.io"
+name = "Stakely.io"
+
+[validator_account.signatures]
+tpknam1qzetlvkwtm6l2z3zsl28gxecs0c4aghxykzd79erv4g68y5fzpljsctmmts = "signam1qpzf6pce2aj7qwlrrzqy8myl0gkxy3hzjmx4gzzt94zqtpeq2y28xvg3gu9j6gjj6ax7t0au23x8n82kmujq8nzglv29zy4a6hpqr2c0ncxhh3"

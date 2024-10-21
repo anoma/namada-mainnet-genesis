@@ -1,0 +1,40 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzjhgnyhtqg2ss883n54pwm6pd00rku3vastrqc2szj8t6dhktv4kt68gxa"]
+
+[[validator_account]]
+address = "tnam1q939yqd6pgqfms8t75tz8rrwpnj0d9epqq07a7an"
+vp = "vp_user"
+commission_rate = "0.01"
+max_commission_rate_change = "0.01"
+net_address = "37.27.89.33:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr5eztc25tu4vpazdcphnvz4xv6zkcty3km4pey0j7r7u2pzc7wsuzn0c4r"
+authorization = "signam1qpkpefzvs34qtag9nnt9ka42346d32dutz9masjh8nxjze79w3tyhd5pg336p36xp9khrt923yna5mtmp7c8qptee0zd80n40dk2fcg2gq755u"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpz5kwtf5fgmee52u67tdk9jmrsrwnqktg68r60hsdv4z0mlkuuwkfrs0rs"
+authorization = "signam1qqeymr9uw5smvz4k63zlx37ynllqqv68397dlg90snujxkyxzay648y3582gjgd5efgx50e20mkw9xnkj0rs7ywuuhe243m87tc3h0gvtzg0j9"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpghnejrmgcpx68n43a3vt8y3klzfm2rw5g46q7cf24e7hxnx3kzck3nlae"
+authorization = "signam1qrvegwmq9ddp0l690cxlk372lwam5znadjmc4yg04y8k6fnlv92gsu6jmfzq6j2uwmq7k6uzhmm4lp0gydqp39glhcw9wqx2wf5uytqpcxg9eq"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypy474qvq52jxvatrfzc7w9fwpn5n5se4gljvxwlv3gpz9mps45nzgl0hf02"
+authorization = "signam1q9vdzwgpqrw3ga87fs5s6ynwt9esqpwmml8se6mdlr2thh2mjswwxjwqk4rd7c6u97rfgerh7fm3s9cywf3v6l45d0mw589vqw8suevrqq5kjxx7"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypz5kj3dcjmuefx9r7xjqwe0m7zhfqv9rg325248gf8w6pcc33k0lqs5lual"
+authorization = "signam1qynr5aw0fsjn7fale9wd52azgjtvq07qa8c3680vrwghhh78sv7fsu4vrwm03rwnnlxmaulx7d2umnpqhw4g7mjazxul8930dfpmq3mvqydh505k"
+
+[validator_account.metadata]
+email = "stakingexplorer@yahoo.com"
+description = "Blockchain explorer for Cosmos ecosystem"
+website = "https://staking-explorer.com/"
+name = "staking-explorer.com"
+
+[validator_account.signatures]
+tpknam1qzjhgnyhtqg2ss883n54pwm6pd00rku3vastrqc2szj8t6dhktv4kt68gxa = "signam1qq7upwhz0r060junk2z9zytacqqrnhnvag9lyxg7m5m2eyctfzqxgdtf8v8d78fe7h80unlpdkutup6zp73e4x2sgmtel0gcfh3rv5cvq8vxdc"

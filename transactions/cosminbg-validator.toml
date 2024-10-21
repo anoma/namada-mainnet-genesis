@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp6h7twtyk2zq8rt7590ntun0nnj9rehm6jge38vly4mp6l7rhrz2k9t5ky"]
+
+[[validator_account]]
+address = "tnam1qymaj7ac574c56t8x58mgwl20ztxaeh22ctcpcdy"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "48.217.34.55:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpdq33yvsxv8eze32f7cfkw7nmut23g9syzn6a3y0qs8s86ek4tpvn4ynd5"
+authorization = "signam1qqfnn9qyxu3flfw9s7ymw2swjuwcxg5n9eswgddd3m5nqpuv5799fs7pfjlsrcx3c0feqzs6v3jculq476a39xngllf8zqe0jxq0ugg9utwjgq"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrdldeuujhhhmz09jkgxdat3kye4cckswuzv7jhnmpj53vrw03j9xupx5lx"
+authorization = "signam1qz0al4c8y8pyhej8q2588gnaemrtjvaj4qhrz7457pn4nzh628m2vxq5eed6g52a0hmmm34crxuysr00fcpepmvqav4s09sy3dsma6qxck9y79"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzv0rfedflrnemrq0kalu6td76uvlylezwq6vhmq2u5phhennzgjwtc6w7j"
+authorization = "signam1qq9edd5ym8kdytf75yllrejl4se4ldu0nug4mxra39hjn7ec7xvgse7k39mdnxsuymccnzaz2s9a0qe05ed7fw7f6lgy65nc2gzmfcsvzr9d0t"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyptlg9k4u74tpg3276v3jzjdvvr0428ckegqe3zerrdp34y7crcx5cvnkl4s"
+authorization = "signam1qy626exljn3czg3yewxe7zt7jc8stax7hukwaup9ukpepgvvetrqj3jgegcwrjcs55rr55j93wm6lprgyvvmlk82538fhhk2p5evhj6rqywm7amg"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp3zafuwlpsagxpazxp8wl09qzq54qy79ncf4ng740m4p3h98hsrcsearzvh"
+authorization = "signam1qyw25uqk0nee8vp5u4cgmyq6npkrx5mrjjug2h2uan4seg7nqr3uynxp44s2fh78k4x6xmfewwng2vw4xdthhnud4jpy66x8rxhjrt5sqy66jt2x"
+
+[validator_account.metadata]
+email = "hello@clorophilla.io"
+description = "Clorophilla"
+name = "Clorophilla"
+
+[validator_account.signatures]
+tpknam1qp6h7twtyk2zq8rt7590ntun0nnj9rehm6jge38vly4mp6l7rhrz2k9t5ky = "signam1qryu9fs35w43n22kcnsxqlqjytawev4hl4f02vnpmlt0g950jf0lmvpvaces8pyftf323lw7sn0xrtmgnet9fz0we5z6emtehz45qxsv90d9fz"
