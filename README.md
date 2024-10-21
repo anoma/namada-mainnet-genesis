@@ -12,10 +12,10 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `9228`
-- Total validators: `204`
-- Total delegations: `9024`
-- Staked tokens: `38181465.32672 (~3.82%)`
+- Total pre-genesis transactions: `9230`
+- Total validators: `205`
+- Total delegations: `9025`
+- Staked tokens: `38181570.32672 (~3.82%)`
 
 ## Validators
 
@@ -2140,6 +2140,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - percentage of total supply: `0.0%`
     - email: `nodemeister@pm.me`
     - discord: `Unknown discord handle`
+    - website: `Unknown website`
+    - total delegations: `1`
+
+- address: `tnam1q8gzlxud46wtxmsn2e3hh3xgrnnjmu9fuq7yjhdz`
+    - alias: `BigBro`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `105.0 (0.0% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `flbigbro@gmail.com`
+    - discord: `michaelbigbro`
     - website: `Unknown website`
     - total delegations: `1`
 
