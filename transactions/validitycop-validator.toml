@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr6c4y97ayvtlwgqf5edqtny2g5r6ke3h3srg9k5j2fgr6gkyrw4kslktwy"]
+
+[[validator_account]]
+address = "tnam1q8lhvxys53dlc8wzlg7dyqf9avd0vff6wvav4amt"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "109.123.230.3:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqgjhctr2638m8ltkek52hpzasrdvgyxj9axv8tfxal7wvpk97upvz50dgm"
+authorization = "signam1qzweyrlej4lg8lcj5rfnzad2r05ux8p7yt7v3czudl9msf44qcftxpk9we76c4e6va27nq80u2mrjc8wmk852lm7vdla8awaxjejtgsgv3wzr4"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzsa2uqsx9gxuerx4g6vd9hfagjkr9rwqkgdmmk82tyc95xamdz9kvuxqh9"
+authorization = "signam1qqpg9yz9a4pa9qjjcvdfk9s5y594mu8gdxqakjwn0fndx6xr8dnjtfumpalh20r3sjv56jw89r6j9hjggnwrxdeaxvrp4ql06u40hsqdepg2wt"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqrsf0609g0zwjz7vdafttmp0htgl7m279xnjtlut44xwv09gq0373qv92l"
+authorization = "signam1qrrl2v9reqexvycung3nhsapaq0y9j2v5ze06sthvsm2ert8gh8nmwnultdmkm7du0f83lxr8ujpzrpw8qj8ass6n0qzzehhl7dw4jqpsg5y30"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypvywy8pyvxlrj2fsksg5pk6085yh45pgr035gacag8jvtp0nwcc9g0uzzqm"
+authorization = "signam1qx3dp3reyashg9f6tw6lwyhvytymr5pna7jn6wtzquw37nsy6t9gket7qp89qgdydcpfx7yh8nh8c8978d6v68fpnp9shv6cn09rvtknqy7zfxef"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypjr2y7kguvuw36kx7vp8lg9nlyl079re909jza4qs53z2vhecznxc9c3nfs"
+authorization = "signam1qy5lldcnzjr8hjw7u54j9y4pd5lark6vm3apeeq0lmpzk3e9207dqet3u0r8tq45mrywvl2yafwm64tf83f5z6l3xcm2p4warnzkpvg6qqv7ljyx"
+
+[validator_account.metadata]
+email = "operations@validityops.com"
+website = "validityops.com"
+name = "ValidityOps"
+
+[validator_account.signatures]
+tpknam1qr6c4y97ayvtlwgqf5edqtny2g5r6ke3h3srg9k5j2fgr6gkyrw4kslktwy = "signam1qpr9ua2hkgds0tqr90qjnca7mvtpz2lcqw0wpsl77r2ae7spy6uktn59xmnsh3s6aemtpnpxw9dejrpq73ry0sl7e74lxs8x030ycrqrg4ks5y"
