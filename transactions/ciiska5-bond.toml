@@ -1,0 +1,34 @@
+[[bond]]
+source = "tpknam1qqw83lprdfkkcmw8g3nc5gkdg632xw0q5f3gkwc2xfsxx3mz7x74zg2vz23"
+validator = "tnam1q87f9g34lagl5e6y482fwtad7870rk4vzsqaq7mf"
+amount = "400"
+
+[bond.signatures]
+tpknam1qqw83lprdfkkcmw8g3nc5gkdg632xw0q5f3gkwc2xfsxx3mz7x74zg2vz23 = "signam1qz34yaa8ng0yac9e7ucah4arjjqam8tvndg0mgpzhdw6hsg388aj0mc7uu8ftaeydghckaleqk2sngjp46j59d5ktx9mhua7f3h8m9cg06hpt8"
+
+
+[[bond]]
+source = "tpknam1qqw83lprdfkkcmw8g3nc5gkdg632xw0q5f3gkwc2xfsxx3mz7x74zg2vz23"
+validator = "tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p"
+amount = "100"
+
+[bond.signatures]
+tpknam1qqw83lprdfkkcmw8g3nc5gkdg632xw0q5f3gkwc2xfsxx3mz7x74zg2vz23 = "signam1qzr4tahf9lthx0vx4nyd0y7xqd5wflz8axl8p0xqvza4974x2dmfnpch6g2ydz9zsgeldzsdcwczf0t9cdpt338f72wcgutue9wd26cxqjt3el"
+
+
+[[bond]]
+source = "tpknam1qqw83lprdfkkcmw8g3nc5gkdg632xw0q5f3gkwc2xfsxx3mz7x74zg2vz23"
+validator = "tnam1q9rq7p4wzy6fea96xs5sr8qnsxsfdr2zugfsvw2n"
+amount = "400"
+
+[bond.signatures]
+tpknam1qqw83lprdfkkcmw8g3nc5gkdg632xw0q5f3gkwc2xfsxx3mz7x74zg2vz23 = "signam1qrvjn6t25cupz8hkz3aq8vrlx5wncx70rtx88t9evrsph6mg6et843quaz74es23j2jr40wrxw8altxlgyt3d5pft07usz8vtjrsxgcdm2eqy5"
+
+
+[[bond]]
+source = "tpknam1qqw83lprdfkkcmw8g3nc5gkdg632xw0q5f3gkwc2xfsxx3mz7x74zg2vz23"
+validator = "tnam1q85gzuzhu60s7gd3vg4umeccu39fv8c6tqafxaqq"
+amount = "261"
+
+[bond.signatures]
+tpknam1qqw83lprdfkkcmw8g3nc5gkdg632xw0q5f3gkwc2xfsxx3mz7x74zg2vz23 = "signam1qqgajcv4mdv4wmenzgkwm2kg7zhp533cqnucgkrjp4lv28kfr7qw20nnu65e3yz2desvrngewu6hd8kwhplsed0c4qhujy4yvjeudmqdm5xs7v"
