@@ -1,0 +1,38 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp90uez0wd4e53yne7u4au7maspp6vpzlnt9d3a7uexvth2stcelsams9e9"]
+
+[[validator_account]]
+address = "tnam1qx4uek4lkm8238ewlwh8syrxn00che083qq2gpn3"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "192.168.2.64:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qps6xklgdg37lyk30yg9hv3gehjjsdkgp2pp0mu4t0ele763g6rzy9zpxng"
+authorization = "signam1qzw2kg6we5t5p56spj8qrsc5aua74t4dw4qfzvwszz6lv9rtjk3tdgcscng6kx57jqfj6j8xhgj83xnyrv2reky0jkcfes6rls89krgyjldets"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr3mlzg5tmtvq3vm7xj3ajkzwujaw27ax43495lpspl50pf8p23dcn8znaq"
+authorization = "signam1qzxrawdklgtemdh0gjv42vm242g6gfk69ex9eswxx9cc72nk0e49humw4yf05aky8e2nq53w0srrptn8g3lnr98lc36kzvk9cd39ctg88m9q72"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqkqzry39cu9qflrud0v4ty5w452kjaxwhke6dmkhfy99c7gughzvz5aukd"
+authorization = "signam1qp8jukhtpfnc5s4527q6ads9r32e0ggjuhnstfnppaqr0cmsf68f678esl9c3y29xg48duvzze3mthnaj3xjq6hlx2esn44sykqtgcg8k4xfd8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyplhhfh9j2tvu2gxuc8hhvj7ln2scg99q58mhqfx4ja04rdastf7ls8cfw62"
+authorization = "signam1q8rvy8jrd0dhc3ze9l5d8jm6lrradm7qp9zyw3hdkmfj5chwt978ygdqa7e5ec6ewausq9mwujnwz9wuy2zrcsrqqs8rgn942cvrauhcqyacu3nd"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp6463z2duhgqg9p3gzj7rqed39hqf463jqhu06pwylc08wq64z2ks657z0c"
+authorization = "signam1qy3adsa6f8sxumlsamefzeplkgzfcn9789sa82ly5f5cm6c84qye5a7zdfumd3576yuk3xqzmc9krf89kmxkhz2fd5cvfhf6q76pvau8qytq4ydn"
+
+[validator_account.metadata]
+email = "nigel@sign.net"
+name = "spaceship"
+
+[validator_account.signatures]
+tpknam1qp90uez0wd4e53yne7u4au7maspp6vpzlnt9d3a7uexvth2stcelsams9e9 = "signam1qqtv7skht72264ljuxe7dgev49g6cg9uuenmwgtzl88tshsvkh6ntrt9mk3t4jw55tq0yq75trf7ekj4644jstkezau3ecrjk204pgsv5dn6nw"
