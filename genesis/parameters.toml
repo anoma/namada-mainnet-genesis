@@ -49,7 +49,7 @@ block_vote_reward = "0.1"
 # Maximum inflation rate per annum
 max_inflation_rate = "0"
 # Targeted ratio of staked tokens to total tokens in the supply
-target_staked_ratio = "0.4"
+target_staked_ratio = "0.0"
 # Portion of a validator's stake that should be slashed on a duplicate
 # vote.
 duplicate_vote_min_slash_rate = "0.001"
