@@ -82663,3 +82663,52 @@ amount = "50000"
 [bond.signatures]
 tpknam1qqnx74y72jt80yjgljac5d0432ppjk6675f7r8mg0lwe532avxcl65k3e9j = "signam1qptd6dsfdzqawek54j8awt3s2kw8s55a3p5hysmx05su6k9hlwetuwa08dcszmsxnyjakx4yrzalu0cxhrz7vpgme9hrf90surp8cdstjqk9u6"
 
+# Genesis multisignature accounts
+
+# Luminara
+[[established_account]]
+vp = "vp_user"
+threshold = 2
+public_keys = ["tpknam1qznkjea724764zp328vzm8ft8pk3h38y5qsjgnmll5ep05yzq949szadxxq", "tpknam1qqurg9ev4n0yj7hzct3xylqkaxujwmpadat88w56cl4pf6u3g0s2wqwpgzp", "tpknam1qr4tzfltdqussjxg3rxlxxp8zu0c8pcvtu9agl79undavhmz8ehr23zd3y8"]
+
+# Heliax 1
+[[established_account]]
+vp = "vp_user"
+threshold = 2
+public_keys = ["tpknam1qzu72qdv8t8eh8n77hugt259l560zgdu500cavajs2pax72q4uq97v9af4k", "tpknam1qrv93f6yaqaq6vez0tecs39dshue9u9wxljs6hg4yk2m3zypkzepucvn7mc", "tpknam1qpfunuvr6200ekug6xnthtu26v2z500dy9a9dzjvshc9klwc6fym500kext"]
+
+# Heliax 2
+[[established_account]]
+vp = "vp_user"
+threshold = 2
+public_keys = ["tpknam1qqzxsl3kp3gt8zs9zrhv9u2c3wdq00excjvvck4swu2kra608hu8wwa7tn7", "tpknam1qq6mysh8nkdzxekxq4mqlff6uxh3ansgewjn34s808gnv40n0lxlju44mu0", "tpknam1qrcq4yafva9pxy6whm4k9tt3nr2zfj4526wsdsnn25yzmdrv768r54vv39f"]
+
+# Anoma Foundation (r&d_ecosystem_dev)
+[[established_account]]
+vp = "vp_user"
+threshold = 2
+public_keys = ["tpknam1qpfg5vhwpl3h82p6mnkfx8dyle65uqnfmc6x8akse7f9yvwgcgnty0vdjec", "tpknam1qzc0xknpctwdap35uysujy3ng6046qf24ge8mpr4jqmhtykruy2ysy7fgzq", "tpknam1qp9trqswg6350y6gz8glgtt8fufrjt4snh7uxkvj42tsjnwym72g6gw39x6"]
+
+# Anoma Foundation (public_allocations_future)
+[[established_account]]
+vp = "vp_user"
+threshold = 2
+public_keys = ["tpknam1qz4uhnqqx7nxg4lugdz7w3l6u6r605v4fc5fa4tx04e7crcw23vykgnfxcn", "tpknam1qq2s8gz3dxh9pdm284nw2reljya9t4f6x04qe7n7qrx8xjgmygejusg60wd", "tpknam1qqckwdzrddhvhpsslef9fa3uv5gtcsaju2nmpfj3f474j34gkwkagd7mle0"]
+
+# Anoma Foundation (public_allocations_future)
+[[established_account]]
+vp = "vp_user"
+threshold = 2
+public_keys = ["tpknam1qrjmg9pyh4nw30u3g9cvcl9av4sccl6p8y6p0eujhz34aqp3fp7kx93y5t0", "tpknam1qqj3dntsjj56rrgagzzqk6qazafaujzkecrgysgudtsq0vfqc8sxcpwqnx4", "tpknam1qzyvhl7f33m6u23rd2wjz7rd08tt3lhahcpxj358ruzdtyf5tsffgslwjq2"]
+
+# Anoma Foundation (af_backers)
+[[established_account]]
+vp = "vp_user"
+threshold = 2
+public_keys = ["tpknam1qzuagsc7j9spv39ry2p2557eshmxru7h86cae80jry7yejyne5c4umul72z", "tpknam1qzktg4m2sgfgaemwhyqkqjw8pukh0zxv9ssy54p9rwngdrvaqqa0sg9r3q6", "tpknam1qpqmkljurhal9xzg8e8sk257dcuv2pyqghnqmupr983px42d0d42yjqg4j0"]
+
+# Anoma Foundation (early_core_contributors)
+[[established_account]]
+vp = "vp_user"
+threshold = 2
+public_keys = ["tpknam1qzmmumvf6hkfwuz4crjyt0eumg9557ykjh7w2ezgdxnuq36jddq82d9plcg", "tpknam1qzuvwwzxdchp8yz6xua9egckk59fhldhqv3fqff90vzj6lqu5wh2zxva0c2", "tpknam1qq6t0lqd77fja77l698crq9spdf444gdx8guucyjj4655dqdnfm5yzewmvh"]
