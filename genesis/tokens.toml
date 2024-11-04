@@ -1,8 +1,8 @@
 [token.NAM]
 denom = 6
 
-[token.NAM.parameters]
+[token.NAM.masp_params]
 max_reward_rate = "0.0"
-kd_gain_nom = "0.1"
-kp_gain_nom = "0.1"
-locked_ratio_target = "0.6667"
+kd_gain_nom = "0.0"
+kp_gain_nom = "0.0"
+locked_amount_target = 0
