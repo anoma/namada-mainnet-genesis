@@ -1,0 +1,38 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzye6wupjxjx6khqqhl2fnqzezw6pfxzp2ntxrescz5fpfsfea90j8ful2f"]
+
+[[validator_account]]
+address = "tnam1q9nf7ntz807xzjtlyz7g88f2thu20fj2zsk7ss0s"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpeqsww2dlcfp22x9gnjzyvndlsq8v7ssc8qqucanzk8h6u8jec5weq23n9"
+authorization = "signam1qzc0uj72yrg5xl9vnj6jnr409ad3y2xdyfz89fer3tsmer7w7dpwm38k2z5dnjcvre3j04l03d7alwd86937m7q0zcl2kltjz0tfs9g08wffqz"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrhe7m5w0s2q856rsd7rj4sle8w2qpyvanu5wzvhm323zj0ac48uja7hsj5"
+authorization = "signam1qqhw9lg9c7ypn3ktyur3wzt3ajj7qsnnc7ku3vsvj6mcy7rnrtez6ffpnvvevklz8l5zqt2rds27uwc0ashxavwuqghfvv50x0xsyycx5dtygw"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzfttnun5jf44aygmaj7d0dcxz09yx9frv2k7dsuj8qp0j3w3c0a7eam0vd"
+authorization = "signam1qrgca05w0nvdg2zp8wk2x9uezy7x0ygrt4sdc78c763p9ux2pajazws4d2c3ltrw8mml5lg9m94rl5ysvy7qwuslzs64v6ycrp9skgcvd29460"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypa5fx7pgvj0xq4tjv8qyh60n8mxdw2d30pszcncurnkrp2s3fzsws4y8rjg"
+authorization = "signam1q8ug4m32ldeq4fdh47xftvqx89hk6p36tquf5ju292g7cngusa52w3yv5evff9ayln2slglvautqhtgvtqnlhct7x6kvcvzeted67edcqqdngrkc"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypv6h2kctqfpwjgnv8rz8eagdsjfnj8kj3egyca0zlnzask9lk77ws2vxvtq"
+authorization = "signam1qx7xz36wkd9vc3nhhsnylf6crtcwk5x2hmwyckrq83rv390fts02zn80z4sqf73q667xnucqta7hyy08eflw5dtelxjwzss8efwwtjssqqqfx92m"
+
+[validator_account.metadata]
+email = "andrei.david@gmail.com"
+name = "atomico"
+
+[validator_account.signatures]
+tpknam1qzye6wupjxjx6khqqhl2fnqzezw6pfxzp2ntxrescz5fpfsfea90j8ful2f = "signam1qpd9chs27y8hkfy0nza8s4wnsezqfcuqavvf946f47uxpslgrl53n3ccsnurcdwf44ltmwwytz3cwd9sdeh0t0kgxrfkv0lxd7tteagrqjltq3"
