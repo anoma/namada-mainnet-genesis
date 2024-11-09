@@ -99,6 +99,6 @@ else:
 
 print()
 
-for addr in with_balance:
-    if addr in validator_accounts:
-        print('NOTE: Established account {} with balance was found in init-validator txs'.format(addr))
+# for addr in with_balance:
+#     if addr in validator_accounts:
+#         print('NOTE: Established account {} with balance was found in init-validator txs'.format(addr))
