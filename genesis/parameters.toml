@@ -3,7 +3,7 @@
 native_token = "NAM"
 is_native_token_transferable = false   # Phase 5: turn to true
 # Minimum number of blocks in an epoch.
-min_num_of_blocks = 2_700
+min_num_of_blocks = 900
 # Max payload size, in bytes, for a tx.
 max_tx_bytes = 1048576
 # Max payload size, in bytes, for a tx batch proposal.
@@ -15,7 +15,7 @@ tx_allowlist = []
 # Implicit VP WASM name
 implicit_vp = "vp_implicit"
 # Expected number of epochs per year (also sets the min duration of an epoch in seconds)
-epochs_per_year = 1_460
+epochs_per_year = 4_380
 # The multiplier for masp epochs
 masp_epoch_multiplier = 4
 # Max gas for block
