@@ -6,6 +6,13 @@ If you have received an allocation, check the [docs on how to make a pre-genesis
 
 If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW3)!
 
+## Mainnet Genesis Guide
+The guide with instructions to join the network is located inside [here](./MAINNET-GUIDE.md). Below are lists of seed nodes and peers that you can use to connect your node.
+
+### Seed nodes
+
+### Peers
+
 ## Voting power distribution 
 
 
