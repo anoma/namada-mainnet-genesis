@@ -58,7 +58,7 @@ echo "Building genesis files..."
 
 ./binaries/namadac utils init-network --templates-path $GENESIS_TEMPLATE_PATH --wasm-dir $WASM_DIR --consensus-timeout-commit $TIMEOUT_CONSENSUS_COMMIT --wasm-checksums-path $WASM_CHECKSUMS_PATH --chain-prefix $CHAIN_PREFIX  --genesis-time $GENESIS_TIME
 
-CHECKSUM="6435b0b3774cf3cac501006"
+CHECKSUM="5f5de2dd1b88cba30586420"
 FILE="namada.$CHECKSUM.tar.gz"
 
 if [ -e "$FILE" ]; then
