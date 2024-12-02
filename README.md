@@ -19,6 +19,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://2bf5cdd25975c239e8feb68153d69c5eec004fdb@64.118.250.82:46656
 - tcp://509f1e843cf881650a4151aa804ddd7a7188e88f@195.201.197.246:32656
 - tcp://3879583b9c6b1ac29d38fefb5a14815dd79282d6@peer-mainnet-namada.grandvalleys.com:38656
+- tcp://e75f49448703666b26eb6f414e044fdb6842dd9a@37.27.56.233:26656
 
 ## Voting power distribution 
 
