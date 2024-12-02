@@ -29,12 +29,21 @@ export CHAIN_ID=namada.5f5de2dd1b88cba30586420
 namadac utils join-network --chain-id $CHAIN_ID --genesis-validator $VALIDATOR_ALIAS
 ```
 
-6. Add some persistent peers to your `config.toml` file. First, select from the published list of peers at the bottom of this page. Then, open your node's configuration located at `$BASE_DIR/$CHAIN_ID/config.toml` and find the field `persistent_peers` (which should be empty). Add peers in the format `tcp://<node id>@<IP address>:<port>` separated by commas. Aim to add about 10 persistent peers to your config.  
+6. Add some persistent peers to your `config.toml` file. First, select from the published list of peers at the bottom of this page. Then, open your node's configuration located at `$BASE_DIR/$CHAIN_ID/config.toml` and find the field `persistent_peers` (which should be empty). Add peers in the format `tcp://<node id>@<IP address>:<port>` separated by commas. Aim to add about 10 persistent peers to your config.
+
 **Example on Ubuntu:**
 In the file `~/.local/share/namada/$CHAIN_ID/config.toml`
-Add peers following this format (more peers can be found at the bottom of this page):
+Add peers following this format (you can contribute your peers with the instructions found at the bottom of this page):
 ```
-persistent_peers = "tcp://05309c2cce2d163027a47c662066907e89cd6b99@74.50.93.254:26656,tcp://2bf5cdd25975c239e8feb68153d69c5eec004fdb@64.118.250.82:46656"
+persistent_peers = "tcp://05309c2cce2d163027a47c662066907e89cd6b99@104.251.123.123:26656,tcp://54386c1252ecabe5ba1fae2f083b37ca5ebd57dc@192.64.82.62:26656,tcp://2bf5cdd25975c239e8feb68153d69c5eec004fdb@64.118.250.82:46656"
+```
+This can be done by executing the following examle command (replace addresses with your actual desired peers):
+```bash
+sed -i 's#persistent_peers = ".*"#persistent_peers = "'\
+'tcp://05309c2cce2d163027a47c662066907e89cd6b99@104.251.123.123:26656,'\
+'tcp://54386c1252ecabe5ba1fae2f083b37ca5ebd57dc@192.64.82.62:26656,'\
+'tcp://2bf5cdd25975c239e8feb68153d69c5eec004fdb@64.118.250.82:46656'\
+'"#' $HOME/.local/share/namada/namada.5f5de2dd1b88cba30586420/config.toml
 ```
 
 7. Start *before genesis time* and leave it running -- at genesis time, it will become active. Start your node using the command  
