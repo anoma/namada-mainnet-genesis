@@ -32,6 +32,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://1deac802af491449c6461a693b34bc8c1f0f2a12@45.63.2.161:26656
 - tcp://b7f19137e79ed78319f407c3e0fd6d86a98da5cf@namada-mainnet-ps.mellifera.network:26656
 - tcp://d5a2383cdcdde08149f809e7e98ab37b03f5444d@namada-mainnet.peers.l0vd.com:26656
+- tcp://c1410f11db5522e176e69100816ea5bbe8c99e36@188.214.130.102:26670
 
 ## Voting power distribution 
 
