@@ -10,7 +10,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 The guide with instructions to join the network is located inside [here](./MAINNET-GUIDE.md). Below are lists of seed nodes and peers that you can use to connect your node.
 
 ### Seed nodes
-- tcp://05309c2cce2d163027a47c662066907e89cd6b99@14.243.91.37:16656
 - tcp://509f1e843cf881650a4151aa804ddd7a7188e88f@195.201.197.246:32656
 - tcp://75f923ea0a181a6ae917a00cfe81d780c3d1d11a@95.216.78.215:26656
 - tcp://eaa6bda69dc3281186b5f150c21e62e6e4325d34@152.53.104.210:26656
@@ -29,6 +28,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://2583e978c1d267a5a22975a3aa2b5f7a0e9f9b2a@0xcryptovestor.com:28656
 - tcp://eaa6bda69dc3281186b5f150c21e62e6e4325d34@152.53.104.210:26656
 - tcp://805ba1297ee4e4d64e2d5ec17423365b0489dafb@namada-mainnet-peer.itrocket.net:14656
+- tcp://1deac802af491449c6461a693b34bc8c1f0f2a12@45.63.2.161:26656
 
 ## Voting power distribution 
 
