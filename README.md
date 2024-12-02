@@ -6,16 +6,31 @@ If you have received an allocation, check the [docs on how to make a pre-genesis
 
 If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW3)!
 
+## Mainnet Genesis Guide
+The guide with instructions to join the network is located inside [here](./MAINNET-GUIDE.md). Below are lists of seed nodes and peers that you can use to connect your node.
+
+### Seed nodes
+- tcp://05309c2cce2d163027a47c662066907e89cd6b99@14.243.91.37:16656
+- tcp://509f1e843cf881650a4151aa804ddd7a7188e88f@195.201.197.246:32656
+
+### Peers
+- tcp://05309c2cce2d163027a47c662066907e89cd6b99@104.251.123.123:26656
+- tcp://54386c1252ecabe5ba1fae2f083b37ca5ebd57dc@192.64.82.62:26656
+- tcp://2bf5cdd25975c239e8feb68153d69c5eec004fdb@64.118.250.82:46656
+- tcp://509f1e843cf881650a4151aa804ddd7a7188e88f@195.201.197.246:32656
+- tcp://3879583b9c6b1ac29d38fefb5a14815dd79282d6@peer-mainnet-namada.grandvalleys.com:38656
+- tcp://96f7945f9470faacce66888d798bf1f131913b6c@namada-mainnet-peer.denodes.xyz:26656
+
 ## Voting power distribution 
 
 
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
 
 
-- Total pre-genesis transactions: `9228`
-- Total validators: `204`
-- Total delegations: `9024`
-- Staked tokens: `38181465.32672 (~3.82%)`
+- Total pre-genesis transactions: `9231`
+- Total validators: `205`
+- Total delegations: `9026`
+- Staked tokens: `38185570.32672 (~3.82%)`
 
 ## Validators
 
@@ -559,6 +574,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - website: `https://forbole.com`
     - total delegations: `38`
 
+- address: `tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595`
+    - alias: `POSTHUMAN`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `207616.499 (0.54% of total voting power)`
+    - percentage of total supply: `0.02%`
+    - email: `validator@posthuman.digital`
+    - discord: `posthuman_validator`
+    - website: `https://posthuman.digital`
+    - total delegations: `274`
+
 - address: `tnam1q8s9kj30dhsnw5kvtf0mq2exgyup64l28sxn953p`
     - alias: `namada-validator`
     - commission: `5.0%`
@@ -569,17 +595,6 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - discord: `Unknown discord handle`
     - website: `Unknown website`
     - total delegations: `25`
-
-- address: `tnam1q8azt2cpqmc6tr2gvg5v62e4jr0t9327yupaf595`
-    - alias: `POSTHUMAN`
-    - commission: `5.0%`
-    - max commission rate change: `1.0%`
-    - total voting power: `203616.499 (0.53% of total voting power)`
-    - percentage of total supply: `0.02%`
-    - email: `validator@posthuman.digital`
-    - discord: `posthuman_validator`
-    - website: `https://posthuman.digital`
-    - total delegations: `273`
 
 - address: `tnam1q8dtazgc7y9xx00lq4d2pnacvtz29p5mvcxwat74`
     - alias: `Staking4All`
@@ -2140,6 +2155,17 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
     - percentage of total supply: `0.0%`
     - email: `nodemeister@pm.me`
     - discord: `Unknown discord handle`
+    - website: `Unknown website`
+    - total delegations: `1`
+
+- address: `tnam1q8gzlxud46wtxmsn2e3hh3xgrnnjmu9fuq7yjhdz`
+    - alias: `BigBro`
+    - commission: `5.0%`
+    - max commission rate change: `1.0%`
+    - total voting power: `105.0 (0.0% of total voting power)`
+    - percentage of total supply: `0.0%`
+    - email: `flbigbro@gmail.com`
+    - discord: `michaelbigbro`
     - website: `Unknown website`
     - total delegations: `1`
 

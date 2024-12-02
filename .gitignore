@@ -338,7 +338,7 @@ pyrightconfig.json
 [Ll]ib
 [Ll]ib64
 [Ll]ocal
-[Ss]cripts
+#[Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
 
@@ -698,3 +698,5 @@ MigrationBackup/
 # End of https://www.toptal.com/developers/gitignore/api/osx,macos,vs,pycharm,python,venv
 
 *.pem
+
+namada.*.tar.gz
