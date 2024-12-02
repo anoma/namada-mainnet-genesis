@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpc4x5l9tvz84nnzfp028gjuas0h690n8p2r8tly53nqak8nxc6gkeafert"]
+
+[[validator_account]]
+address = "tnam1qyx7d7vm30tgf3fj4awa60syk9rhcjv8uulhkpq5"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "89.185.85.139:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrh9plfcc3e6qv3j72nz26fngsdsu6xrnj0kzu0l0nr099lusxuzwcpunma"
+authorization = "signam1qzlqmvmfq4l95yedzcphwvvz0vj9h7s0snuk20dpkxjlk7p5tvemh4nafgr7vlgm832ys9kn2jk2s6jr4eq4xmlvy99lyv6xskm0tzs8zkq0cy"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpfyppr8rxduc7plnqelfl742htg809jt8vfm3m74n3synmhdxd6ktfzkzx"
+authorization = "signam1qz72l2xq54e3xj7asqqn898dss2ft5dk9jt0ddkx7suyl9374ukar0xsmleshzdwj6hlvz88zxcl94jpv28y0tr62xy6zudqa8sqhzsfqalmz5"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpkgyu9qf35emwvv2nxjcr2yylumedcykmx477zl98s868nyvjvxyd82mce"
+authorization = "signam1qpmhx44d6k4aulg0cnkgw9kfagmgucwsd5fykfqr4e9pgdxytmyxt8wxj6sath0x06tqkp8pq02c8pzwqyf4n9yyjwjk3yxtlxvy3jcgn5ukrn"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypqa9e3rueexjsucv0wjvwyctaxfzy6vvymtr2w6r355tq5tqmllkcduug02"
+authorization = "signam1q8g9yqw0p6y2ullga3jew53nxu6ky92tlw3h92slxtttl086shrrc7qkz53resm85sclpcc4hpgqhtjappkepppkcc56r35re4vwaw20qysh5dcp"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypgwd3vz53q6ncvjmh2kcsdwu08q0j3e2qqlttyrjs3pq8pvvd76vs9paewp"
+authorization = "signam1qyajffdxgfuldy5yg5ar8vd0c07a9pyl3h6qvhmp2safasxww85u5cvly69wmxuc8xnfccuh5zqvxm5pzr3p63jqsezn0rwy37mz67npqq3nqquf"
+
+[validator_account.metadata]
+email = "ajianmeige@gmail.com"
+discord_handle = "jacky1998"
+name = "itudou"
+
+[validator_account.signatures]
+tpknam1qpc4x5l9tvz84nnzfp028gjuas0h690n8p2r8tly53nqak8nxc6gkeafert = "signam1qqc2pnh9uhv54hdyf2dc9f4usz8u6lrs65uaxmhz3egldkt0zyzzul52vhsz5dpt6tj73yv3fkdsdg2wxqaem93jaz0khyphl6cza2svwvslql"

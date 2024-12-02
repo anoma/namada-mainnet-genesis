@@ -1,0 +1,7 @@
+[[bond]]
+source = "tpknam1qzkxslwew8d9kr2d0k7h5y2nzuq0ac86hugvhr7cgad688mf5xr626xxu4c"
+validator = "tnam1qyx2vmne6th0nfk9lnwdz3mpwzslsaj5xc0x8ucu"
+amount = "1050000"
+
+[bond.signatures]
+tpknam1qzkxslwew8d9kr2d0k7h5y2nzuq0ac86hugvhr7cgad688mf5xr626xxu4c = "signam1qrrnq3wemme0n3kjcxs7dwc4tkfm0vaa9gr6sejyatyn2rfy9hhdn8r6rru46ggp8w0zsadmqjpnadye0cq7gu992yz36amxk6cyjagr5nqavp"
