@@ -10,6 +10,7 @@ If you need help, feel free to [reach out on discord](https://discord.gg/AsPCKgW
 The guide with instructions to join the network is located inside [here](./MAINNET-GUIDE.md). Below are lists of seed nodes and peers that you can use to connect your node.
 
 ### Seed nodes
+- ```tcp://05309c2cce2d163027a47c662066907e89cd6b99@14.243.91.37:16656```
 
 ### Peers
 
