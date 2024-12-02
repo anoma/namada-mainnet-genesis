@@ -2,7 +2,7 @@
 name = "scripts"
 version = "0.1.0"
 description = ""
-authors = ["Gianmarco Fraccaroli <gianmarco.fraccaroli@gmail.com>"]
+authors = ["Gianmarco Fraccaroli <gianmarco@heliax.dev>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrkty3nz0gt2e9pyg0pe0la79ka9khc7txyf36q5ncyn60vfkmctumvd7jw"]
+
+[[validator_account]]
+address = "tnam1qyx2vmne6th0nfk9lnwdz3mpwzslsaj5xc0x8ucu"
+vp = "vp_user"
+commission_rate = "0.07"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqrryysvn9lkwpy5qky9c70lpxagm0r5pjaj0c35ndcpjpa78hsg2wwfga4"
+authorization = "signam1qql67llylp4jjp3pyp0jp7amakj83lfv43appy9e2rezgmp3wuhx7p207ms5xqcwmq0y6m6cf4ppqkpv9n6th22yywk0rrss6ax598grq5p0md"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqmwsczde3hjxgw8caelse3c5kqqcqctrwnmvak3rjzmahw9cq9gujsyfed"
+authorization = "signam1qrer9eswqz6pkm9p7kac4s2m08rr8p76jecxuanewh2lk9xqxjh6acay2w6hxdse0kg3j98pgvu8kgsd7jtgrvs64qwfrlk40njmcfc8l6nq9g"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qryq5uf5r5crh5jwyzjfknm2c8ppjggr33czcujt8c8vrxsjwnafjhuhzqv"
+authorization = "signam1qpjzcuytj7f2lmcph7jpkwl3u7ng6uzudu6zwjtqzmc9fr7e8nj0ds8lwvr8mawsj2xsry79uv5056kkg5295shaqett39n2uh2p9hspueegsl"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyprz3j0kv9dn6gxrctsgfdv7s5p2f98gp50qxx526ze7cjz68gzakqa64qrc"
+authorization = "signam1qyrgwf73np3uhsughkcql75xu0crt342ph3u7mphx4pta04rcuthy6fkrp248wwwmwujn2aeayexq7r9n68a60d6rqjac20lerfecfy9qqddapqt"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypjl8vckxskw2d0qct7new5xalg0at08d6rex5t772cekuukxe0nlsh7840f"
+authorization = "signam1qyk8knq9wrz9w58543s2jr6s49k6hhdcxgetdy0wus0k0v5236xdz58y0q0fjn2az3lf9s0a0x6cjmzavmsvms0rtt0h7qutjvjntj9nqq9kfpvh"
+
+[validator_account.metadata]
+email = "infra@knowable.vc"
+description = "Secure transactions & secure data for all. Knowable supports anti-monopolistic, capture-resistant payment technology. We're invested in Namadas vision of a thriving digital world built on open, public, digital peer-to-peer payment infrastructure."
+website = "https://knowable.vc"
+avatar = "https://avatars.githubusercontent.com/u/99352068"
+name = "Knowable"
+
+[validator_account.signatures]
+tpknam1qrkty3nz0gt2e9pyg0pe0la79ka9khc7txyf36q5ncyn60vfkmctumvd7jw = "signam1qzwxhaatg6czr0qrpdj3a0eqq20ge2ep6d6ypnxmyy4sr69te62guhd0t9mvs584wnpcpx664qmfgf0zfy37gvzla8tdgzjpnudxpvstk382fs"
