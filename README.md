@@ -12,6 +12,9 @@ The guide with instructions to join the network is located inside [here](./MAINN
 ### Seed nodes
 
 ### Peers
+- tcp://05309c2cce2d163027a47c662066907e89cd6b99@104.251.123.123:26656
+- tcp://54386c1252ecabe5ba1fae2f083b37ca5ebd57dc@192.64.82.62:26656
+- tcp://2bf5cdd25975c239e8feb68153d69c5eec004fdb@64.118.250.82:46656
 
 ## Voting power distribution 
 
