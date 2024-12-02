@@ -27,6 +27,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://e75f49448703666b26eb6f414e044fdb6842dd9a@37.27.56.233:26656
 - tcp://2583e978c1d267a5a22975a3aa2b5f7a0e9f9b2a@0xcryptovestor.com:28656
 - tcp://eaa6bda69dc3281186b5f150c21e62e6e4325d34@152.53.104.210:26656
+- tcp://b7f19137e79ed78319f407c3e0fd6d86a98da5cf@namada-mainnet-ps.mellifera.network:26656
 
 ## Voting power distribution 
 
