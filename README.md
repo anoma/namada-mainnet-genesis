@@ -23,6 +23,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://96f7945f9470faacce66888d798bf1f131913b6c@namada-mainnet-peer.denodes.xyz:26656
 - tcp://ac1976c8d2b6fcd75643e0e17e44cb7b00b203d3@139.45.205.58:26656
 - tcp://e75f49448703666b26eb6f414e044fdb6842dd9a@37.27.56.233:26656
+- tcp://2583e978c1d267a5a22975a3aa2b5f7a0e9f9b2a@0xcryptovestor.com:28656
 
 ## Voting power distribution 
 
