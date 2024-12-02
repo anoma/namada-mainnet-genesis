@@ -12,6 +12,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 ### Seed nodes
 - tcp://05309c2cce2d163027a47c662066907e89cd6b99@14.243.91.37:16656
 - tcp://509f1e843cf881650a4151aa804ddd7a7188e88f@195.201.197.246:32656
+- tcp://75f923ea0a181a6ae917a00cfe81d780c3d1d11a@95.216.78.215:26656
 
 ### Peers
 - tcp://05309c2cce2d163027a47c662066907e89cd6b99@104.251.123.123:26656
