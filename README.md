@@ -12,6 +12,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 ### Seed nodes
 - tcp://05309c2cce2d163027a47c662066907e89cd6b99@14.243.91.37:16656
 - tcp://509f1e843cf881650a4151aa804ddd7a7188e88f@195.201.197.246:32656
+- tcp://75f923ea0a181a6ae917a00cfe81d780c3d1d11a@95.216.78.215:26656
 
 ### Peers
 - tcp://05309c2cce2d163027a47c662066907e89cd6b99@104.251.123.123:26656
@@ -20,6 +21,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://509f1e843cf881650a4151aa804ddd7a7188e88f@195.201.197.246:32656
 - tcp://3879583b9c6b1ac29d38fefb5a14815dd79282d6@peer-mainnet-namada.grandvalleys.com:38656
 - tcp://96f7945f9470faacce66888d798bf1f131913b6c@namada-mainnet-peer.denodes.xyz:26656
+- tcp://53b91a7a3929ced6d61c8ec3ca85502803a1f3e3@167.235.35.48:26656
 
 ## Voting power distribution 
 
