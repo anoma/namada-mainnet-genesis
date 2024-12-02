@@ -13,6 +13,8 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://05309c2cce2d163027a47c662066907e89cd6b99@14.243.91.37:16656
 - tcp://509f1e843cf881650a4151aa804ddd7a7188e88f@195.201.197.246:32656
 - tcp://75f923ea0a181a6ae917a00cfe81d780c3d1d11a@95.216.78.215:26656
+- eaa6bda69dc3281186b5f150c21e62e6e4325d34@152.53.104.210:26656
+
 
 ### Peers
 - tcp://05309c2cce2d163027a47c662066907e89cd6b99@104.251.123.123:26656
@@ -24,6 +26,8 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://ac1976c8d2b6fcd75643e0e17e44cb7b00b203d3@139.45.205.58:26656
 - tcp://e75f49448703666b26eb6f414e044fdb6842dd9a@37.27.56.233:26656
 - tcp://2583e978c1d267a5a22975a3aa2b5f7a0e9f9b2a@0xcryptovestor.com:28656
+- eaa6bda69dc3281186b5f150c21e62e6e4325d34@152.53.104.210:26656
+
 
 ## Voting power distribution 
 
