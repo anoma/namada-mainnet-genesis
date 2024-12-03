@@ -16,6 +16,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://eaa6bda69dc3281186b5f150c21e62e6e4325d34@152.53.104.210:26656
 - tcp://04affb50117ef548cbf7d1ddb1e6416dec0645ae@namada-mainnet-seed.itrocket.net:14656
 - tcp://4ea9acb8ef3b55147a38513829c20fc8681983af@namada-mainnet.seed.l0vd.com:26056
+- tcp://d882a10dec0da40b045aeb13175a6d4f97194888@62.3.101.89:26656
 
 ### Peers
 - tcp://05309c2cce2d163027a47c662066907e89cd6b99@104.251.123.123:26656
@@ -34,6 +35,11 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://d5a2383cdcdde08149f809e7e98ab37b03f5444d@namada-mainnet.peers.l0vd.com:26656
 - tcp://c1410f11db5522e176e69100816ea5bbe8c99e36@188.214.130.102:26670
 - tcp://2291abd220086ebe0fe104e899ebbe215d80478d@216.158.67.230:26656
+- tcp://56f1fbafe099e723ea4e37d02ea93413d836386c@64.140.171.42:26601
+- tcp://e30f970d6629582b9f63a2200efb3a9c2de985b0@157.245.200.161:26656
+- tcp://e558141bb8bdf6364a03bf591c580f98b7c344a7@157.245.206.61:26656
+- tcp://d882a10dec0da40b045aeb13175a6d4f97194888@62.3.101.89:26656
+- tcp://e81ec735fcb635ff4703ad3ae9348b5ce160189a@193.34.212.24:46656
 - tcp://f777450cf546a8a58574f76fd4c1f773ac0ad451@144.76.30.134:26656
 
 ## Voting power distribution 
