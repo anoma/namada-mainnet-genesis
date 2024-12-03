@@ -18,6 +18,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://4ea9acb8ef3b55147a38513829c20fc8681983af@namada-mainnet.seed.l0vd.com:26056
 - tcp://d882a10dec0da40b045aeb13175a6d4f97194888@62.3.101.89:26656
 - tcp://3b03b50708d334529888eb4ea35606dcb460c8cf@namada-seed.mandragora.io:21656
+- tcp://796ec24b09599dd38033e2a24390ec0cdee7ed26@34.88.25.91:26656
 
 ### Peers
 - tcp://05309c2cce2d163027a47c662066907e89cd6b99@104.251.123.123:26656
@@ -44,8 +45,9 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://f777450cf546a8a58574f76fd4c1f773ac0ad451@144.76.30.134:26656
 - tcp://e055101fc58397cd4e740403807e2250a60c9cb0@namada-peer.mandragora.io:26656
 - tcp://c8f1e8090686493e947c84e26ee124c6b1d855b0@peer-namada.5elementsnodes.com:26655
+- tcp://4c22830f5bd6784a52572ade7b035ce30f0a8bbf@35.246.167.255:26656
 
-## Pre-genesis voting power distribution 
+## Pre-genesis voting power distribution
 
 
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
