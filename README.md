@@ -18,6 +18,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://4ea9acb8ef3b55147a38513829c20fc8681983af@namada-mainnet.seed.l0vd.com:26056
 - tcp://d882a10dec0da40b045aeb13175a6d4f97194888@62.3.101.89:26656
 - tcp://3b03b50708d334529888eb4ea35606dcb460c8cf@namada-seed.mandragora.io:21656
+- tcp://6bba330e27fa5061588e443831994b6eb0981a0b@seed.namada.mainnet.dteam.tech:47656
 
 ### Peers
 - tcp://05309c2cce2d163027a47c662066907e89cd6b99@104.251.123.123:26656
