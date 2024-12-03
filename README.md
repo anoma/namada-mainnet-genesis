@@ -47,6 +47,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://c8f1e8090686493e947c84e26ee124c6b1d855b0@peer-namada.5elementsnodes.com:26655
 - tcp://4c22830f5bd6784a52572ade7b035ce30f0a8bbf@35.246.167.255:26656
 - tcp://36aca9d686f4e2278f04c8fe4d1985285b269064@namada-peer.originstake.com:12656
+- tcp://65882ea69f4146d8cc83564257252f4711d3e05e@peer-mainnet-namada2.grandvalleys.com:56656
 
 ## Pre-genesis voting power distribution
 
