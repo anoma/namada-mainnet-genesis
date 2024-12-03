@@ -17,6 +17,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://04affb50117ef548cbf7d1ddb1e6416dec0645ae@namada-mainnet-seed.itrocket.net:14656
 - tcp://4ea9acb8ef3b55147a38513829c20fc8681983af@namada-mainnet.seed.l0vd.com:26056
 - tcp://d882a10dec0da40b045aeb13175a6d4f97194888@62.3.101.89:26656
+- tcp://3b03b50708d334529888eb4ea35606dcb460c8cf@namada-seed.mandragora.io:21656
 
 ### Peers
 - tcp://05309c2cce2d163027a47c662066907e89cd6b99@104.251.123.123:26656
@@ -41,6 +42,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://d882a10dec0da40b045aeb13175a6d4f97194888@62.3.101.89:26656
 - tcp://e81ec735fcb635ff4703ad3ae9348b5ce160189a@193.34.212.24:46656
 - tcp://f777450cf546a8a58574f76fd4c1f773ac0ad451@144.76.30.134:26656
+- tcp://e055101fc58397cd4e740403807e2250a60c9cb0@namada-peer.mandragora.io:26656
 
 ## Voting power distribution 
 
