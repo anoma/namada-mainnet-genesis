@@ -1,0 +1,43 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrzzd5q4pgexdarsnh2ywdh437ef49dpd3f4pd5znwue6ulyx3l25j5pjcl"]
+
+[[validator_account]]
+address = "tnam1q82qwrq2g64a0ldvhrhqn4mdu9cw453phgfsny7q"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "209.145.59.33:22"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrj44jc3g45mehdpdfgnv26c64g8y8ws0mr95grw8vf5u78pygr4zn3eptl"
+authorization = "signam1qpssex8nu452ce865xvrjshzpd4ayucnhcvjts5hx05rzr09cn5074fvktjkpv278usj99re865ksqg8dp7u2xya6yhfue83jspu7jqxsv2kd6"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqfs9zuz0s2q8tnhquhdgyf7qmmsljk7hcwnlz2vr9trcczjce4fuamzzqa"
+authorization = "signam1qzx6antks9flv9gy4zxag5j6aukhw6ny37mdmzdd7m75ankr7g9hllhkcnzw6prt2dwfu7l5fw9u82r29adf7psglae8yn79s9rj7xgprvluq4"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpfank4pqaqhpu0g6ypqn44qe07ndzgczh4tga5qw7w8mdv6whn3qpafrna"
+authorization = "signam1qzmz8ng4lrvwj5p93ujlvrcujuvh5vyvn8sqnn25mph0l5n4ndstek5nc9hecv76rd6e7tuq5w4nqyhygvjs9fkde35qlhthswly23qt4ckjef"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypghagl2quz4xq8du8h8x9vss4w8zef6prdvcdzkzjllkjhlse5xqcv38dmt"
+authorization = "signam1q98zytdnlg99x5f5pwq6nlp6rt33pscnm04gwn42w2f25sxgz86e2m976mtaxxhkg49w4t4knrsrz0v6vsglmgnzhklu9k2697gm9nvzqyhdl0eq"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyptg8ant79zn9f6akx7r2rjzgtl20s82fezg5tuthagyud6egrs8hcunavps"
+authorization = "signam1q8vv69y25l4vmrzhzgsk3sdwgqekhrvemuxyy72jh4cyj36724p85cj8cducwclxc4ay6mcc5pxrz9vdlxvc3396alkejtm0m06579dvqqhsstff"
+
+[validator_account.metadata]
+email = "sixmiles127@gmail.com"
+description = "miles"
+website = "none"
+discord_handle = "@sixmiles"
+avatar = "none"
+name = "miles"
+
+[validator_account.signatures]
+tpknam1qrzzd5q4pgexdarsnh2ywdh437ef49dpd3f4pd5znwue6ulyx3l25j5pjcl = "signam1qqpcy07h5d670ztswljdwzk3pr4vlk04f3prsnhkjexle7uy6674s95tcmeh755798lku6hzp88efzmhf53szcey3mvcync6qvd0tusx3dyt5q"
+
