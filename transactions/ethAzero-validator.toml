@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr0wzjl3hv2zhc0r8u3g0zqtnknpx4sd4e6fjxccw6rdcwzckpstqwj60gk"]
+
+[[validator_account]]
+address = "tnam1q94p40xwx9ju2qygn43eysyrzpzr0l8rnyztm9k7"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "37.60.252.159:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrhm77dyxe47cyc5cdj6gtqmnz6efmplvqpr4pt8844qlara9f53xyxv7d7"
+authorization = "signam1qpuzeuydf9ruc095md0msjqvdzhxneht39esfsrsp3wrwfrxax6uxjrm5eq34t6qtqukef0xkt3t9frf3xlzg3ll5w3ncn8r6s4xetsw6k0rry"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzv8urja9uu8ezlds36zt8tfnsanvxkzpr8nstf2rs064aus6n9m7kxxk9v"
+authorization = "signam1qrg069467fdnqpjwqfqaeus5pq5y2u2gd8td24jyk29s8m6qys9quzut9e8hw7g9qrndapctau95nymgqnxf8ma5znvsfxd8fg7hw0gwgycxh0"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpk8v5f5n9hhq55dpyx2jlwldxx8uqlapt4m5yl43zf7z9u0led3krepjcg"
+authorization = "signam1qpwl3350a9yu7f2a430rv98rj26epa0wlcyejwk48wd9x70g90vmm48kl5jph2qu42t9crv6xx295x27ux5m4j3zn95vxa68hwrc6eqqe5nme4"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypare0axvcscnpctlxxvrcz3j45qup0uzyvcpd9lkye4x74x85293smunawu"
+authorization = "signam1qxkdyxysrs5k4jepue0hzgv28222an35lcg6uu2muvmmg3adqhtv5tc3tcd4djnmjc2ekh8uwqeytn5dajfjn60y5rak7qtlrpeursd7qy5pyu6d"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp33pa5kya5008vas5ylkghrmz96epsjsv7v8wvnvl5g084tmaxhtqns9zfp"
+authorization = "signam1qx8jvgxhxttz4lw22a60r92xrzuy6zlc7ed95pe7rv84f5e0tnecz952cj4qwnda9dc3543pq5np4fpldv6ll0u4zl2a2hvujv22xpfzqqsgpw7j"
+
+[validator_account.metadata]
+email = "kadieu4020@gmail.com"
+website = "https://github.com/ethAzero/"
+discord_handle = "kadieu"
+
+[validator_account.signatures]
+tpknam1qr0wzjl3hv2zhc0r8u3g0zqtnknpx4sd4e6fjxccw6rdcwzckpstqwj60gk = "signam1qqtgcf2vskkxg9rryvu7ggy3hm7cfwx996k55nycn3zrpd6mx99vfst0ym0u7vdx2ma6hqfnza39u7g6wm8dum2hqja66vhf8s2cm9c29x5l3p"

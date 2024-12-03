@@ -1,3 +1,8 @@
+# Building Mainnet genesis archive
+
+- Run `./scripts/make-mainnet-genesis.sh`
+- It will output the genesis files in an archive called `namada.a26cb3db6ea69843b6e86ce.tar.gz`.
+
 # Pregenesis flow validation scripts
 
 A set of scripts used by CI to validate the pre-genesis file submissions.

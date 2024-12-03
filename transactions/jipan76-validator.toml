@@ -1,0 +1,42 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz3eh8gfqgr2m44cfu3pg6sun4wgt75jwc8jvd85ax0wv24tfrrsc78gjet"]
+
+[[validator_account]]
+address = "tnam1qygxf2a3hr9r9vjehp3p3fe6c23hwyvvpucepht6"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "38.242.248.8:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz6sj0lum0rna2cqxmxzl6un567l76wvd6692mv6rj0ehq0umyr57lxr36w"
+authorization = "signam1qrukugex5pky58d208rrjrj6ejglzgt4aetv03nnedzwysggk9tfm9mskf7l6kt9tu5smapjshahqpkl3t0hsdyr98fhk7c5s9xjczsqw4du6t"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz0d690drrqms0ju8alx7vq0lcxew269ekmythxpr023vhs5a45syv7a3kh"
+authorization = "signam1qq82fe436yem44eecspzw59leeadu9rrg6q9k6ls99z5ca5w7v6c75gf83gnfg0m729dkmkwqgy5jnrazau22e7l8rrh8vxpnq8kh2c9krkzjx"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr5x2jqxd4auy85s76qx7w26dq2w2kzym7y5c59klwhw30w4m6glkaafsfk"
+authorization = "signam1qzrezqykznwjxay3426wfu5jdglxahj0jpad4k6pvxtq8kclsctsqdhrzysnw04ds5r7qkq4mw0ansgx4pevmd252w75cfxff07fdpg22f8trp"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyppjhq9e5nr7g6n3zj3jmsdyku552ec7u2zxfkjglt0pp7zyp4ht0q0hfr5p"
+authorization = "signam1qx9ncm8l566gtdxv5d3glv3ewnl6jxnpe9hre4pzwtzjv6668wl3kq7c33rxeuysdalgsy3l9pehd940z6hs2js2rgv7c8538fwd6al2qyague3f"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyplz7838qjukdmft8n0989hx7ttxcmd7sy9j7ekthuw9p2cj0j0umc63rz52"
+authorization = "signam1q94pma92qcwc0037c8sxymzzxnvcf8tmuhtc6zrpqwmmr5kqu9qm5djwsw8h5g3ntq8mkspeeewcm48fw0tf9u8cvg5s896j685rkkk9qyd2z79d"
+
+[validator_account.metadata]
+email = "dityaeth@gmail.com"
+description = "FamNodeValidator"
+website = "www.famnode.my.id"
+discord_handle = "ditya_eth"
+avatar = "i.imgur.com/qNVxYOt.jpeg"
+name = "famnode"
+
+[validator_account.signatures]
+tpknam1qz3eh8gfqgr2m44cfu3pg6sun4wgt75jwc8jvd85ax0wv24tfrrsc78gjet = "signam1qz646hun9uah2pvszhjvtukqa6nh70n3lmc333e7hmwvcegc87tdpf86s4gtghvvmvrhpqpf25vx9avn0lq9w3hmzaauwfeujczdczq0n3k0y2"
