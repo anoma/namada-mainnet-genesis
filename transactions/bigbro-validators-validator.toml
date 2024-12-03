@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq0sj5572ekuj0q3qpl7jru20wkjk2c8gjv07tzucty42v97fv6jjaffnqq"]
+
+[[validator_account]]
+address = "tnam1q8gzlxud46wtxmsn2e3hh3xgrnnjmu9fuq7yjhdz"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "147.78.131.115:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzhgyazwsp4hssnctmfvd97krtuf87fs8p5yatmwlmw7xzk9q3qeytsdlx2"
+authorization = "signam1qpryfvv29ahfe8e3llmvhptyttny23cfrsaq48xw7e0nr402nljzmz83v96g8pmj00s9eefjsdg0ptesl7frla9s96tdq2dty7egfug2y8uac5"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzuhmcfm7nuqssffv4e3ld3mptjr6fd5qskxc4wdttwuqsj0hjy3qc0jlg9"
+authorization = "signam1qzmhd80p9xj5wyg3jzx99vk793jzyvc7seayp7f94yxg80wzqvf03u039s3qasnc6jw5s5nn3lsdznw4p90rvxtu5qhm4ls8vvakvfcp8f0sa2"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpdqzycw6ruwx0eakyflwdkhjrh42ehn7t0j7nyj2ptztt5l9frruaa6zku"
+authorization = "signam1qzjypth82h8d0v0586zt3szvc5scehe77e8rgj36r8877xzfzh40ecm6d5fkp866n2h9m3hxr8fehtp4e43wdpst60ruvzlu8x95hecgavw495"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyph44m690qhv4zd6yvtn3tdxfjluq8k2vchjhxa6e60tke6rcwd9hsn030nc"
+authorization = "signam1qx4g3zynsa2gmszvg0gmg2cudltvkwyu99k764jcqpmvdcpuqw6hy8zvdwxht5s5ykfneh0z4u87amxh5v57nfrtx209ewj9qdksj8p4qq9hh8vj"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypmyrzyykpneg0s5uvx5yffnuz8pwdczdqh4fys7sa7f5aqksxnwsgml8rjx"
+authorization = "signam1q8aakce35mgt9vc5rkpsrhlgrllxqmkyrv36l4tdyqdqs6gkzteyyej50gek3xaxg3aljj704336jzydhcre8ewyec9jcjmjg5nzjjxnqylsf40n"
+
+[validator_account.metadata]
+email = "flbigbro@gmail.com"
+discord_handle = "michaelbigbro"
+name = "BigBro"
+
+[validator_account.signatures]
+tpknam1qq0sj5572ekuj0q3qpl7jru20wkjk2c8gjv07tzucty42v97fv6jjaffnqq = "signam1qph057s8agtqc3kgh3k5udqylxkcs9plev7ms426xtt34cf76kpa2w2zd7eeq6r9uza60nwn0l09tzvtuyrgckql8sllj6v3h83e7wgdf9mruf"

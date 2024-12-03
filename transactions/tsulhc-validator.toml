@@ -1,0 +1,41 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qra86qdrdgahdvaxsq0t7t4gy0lccf3t4lp6pzxslc0kxla9s58gyrzvefe"]
+
+[[validator_account]]
+address = "tnam1qyauvf4gmvtthknkrftu9jpjaqn6k0k6nu3jucey"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpjmdjrpauvpllt0p2x6ggv6glc4tt8ccmlupjlm32cmk0g8c5yz7nf3tqv"
+authorization = "signam1qzm2u0pjlfqzt8dh405jenk7th4nqxfq8mk6yvzmnglcz57hm2q6vm85r2pv6np5y5era4w7e6nz93w83guem82lq438ay9e8mw9g6g8jd2na4"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqwaytgfzmqrtjanpjnkrveawrle8trdfl9m4ca9cccczhc0vqrr5c6h7vk"
+authorization = "signam1qp59sj6stvvv62yt0f6atpxuv970wy62ecjxkhhhwhrdptm32xnjh9cml4exgc27afq6ut0f4qjhsqvy3hhafep0kj5tq6jd7jhzq6cx8hkkyd"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qphum242xm2mmm4ehn7j36z3lg0s4uyqj64zmsmavym4crs4scrkvkcmh2k"
+authorization = "signam1qr8xmxste0ngy6umqqe5aaqps24k4mwrtydvk89dgqqzg44xlsg3rk0d7dlllaq493untqlm78jedynv3mjzymsvqzpdy265zqjd74gdzfz0nl"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypyyce3z4y99e76c8dlj5tv90vf6yk92vnwzqg5es3ykmx5qmrz2esn3lxml"
+authorization = "signam1q8txax83hjjndvmwsmpm2frrk4qc3tsmt5kt2pvsqd9wj3k9x3c9kp6slu8v0msm99xfyh94w0j7chvguf8rxs0ssc3cquelk0ww78w8qykkxssz"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypmysrgp07tmayzx26hyh4jc7z37qxfd4mt7zcpr3p642mqnx657fq5hkx6w"
+authorization = "signam1qx9whwkgjyutfy2wzrk88l40py693aaacrj37hu5dwtn4smdj5yh5pu3hpgn755xjlenaxj3ye7z5wyd4cv0xg5quzvm4weetd53p65eqyfknpqf"
+
+[validator_account.metadata]
+email = "marco@kleomed.es"
+description = "Ping Dashboard is not just an explorer but also a wallet and more ... 🛠"
+website = "https://ping.pub"
+avatar = "https://raw.githubusercontent.com/ping-pub/explorer/refs/heads/master/public/logo.svg"
+name = "Ping"
+
+[validator_account.signatures]
+tpknam1qra86qdrdgahdvaxsq0t7t4gy0lccf3t4lp6pzxslc0kxla9s58gyrzvefe = "signam1qqph44mrydc4u342n9zc6vaucwxxludz6mk8vsxm0a9kjy45rj2322hz0etecl4ylaaxhuudzmvjqnynr3nh3slflvu3xp5vlvahpdqrg7tjt7"
