@@ -44,7 +44,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://f777450cf546a8a58574f76fd4c1f773ac0ad451@144.76.30.134:26656
 - tcp://e055101fc58397cd4e740403807e2250a60c9cb0@namada-peer.mandragora.io:26656
 
-## Voting power distribution 
+## Pre-genesis voting power distribution 
 
 
 ![Voting Power Distribution](images/validators.png "Voting Power Distribution")
