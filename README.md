@@ -34,6 +34,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://d5a2383cdcdde08149f809e7e98ab37b03f5444d@namada-mainnet.peers.l0vd.com:26656
 - tcp://c1410f11db5522e176e69100816ea5bbe8c99e36@188.214.130.102:26670
 - tcp://2291abd220086ebe0fe104e899ebbe215d80478d@216.158.67.230:26656
+- tcp://56f1fbafe099e723ea4e37d02ea93413d836386c@64.140.171.42:26601
 
 ## Voting power distribution 
 
