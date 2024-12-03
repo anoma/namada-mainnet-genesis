@@ -43,6 +43,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://e81ec735fcb635ff4703ad3ae9348b5ce160189a@193.34.212.24:46656
 - tcp://f777450cf546a8a58574f76fd4c1f773ac0ad451@144.76.30.134:26656
 - tcp://e055101fc58397cd4e740403807e2250a60c9cb0@namada-peer.mandragora.io:26656
+- tcp://c8f1e8090686493e947c84e26ee124c6b1d855b0@peer-namada.5elementsnodes.com:26655
 
 ## Pre-genesis voting power distribution 
 
