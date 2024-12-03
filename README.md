@@ -35,6 +35,8 @@ The guide with instructions to join the network is located inside [here](./MAINN
 - tcp://c1410f11db5522e176e69100816ea5bbe8c99e36@188.214.130.102:26670
 - tcp://2291abd220086ebe0fe104e899ebbe215d80478d@216.158.67.230:26656
 - tcp://56f1fbafe099e723ea4e37d02ea93413d836386c@64.140.171.42:26601
+- tcp://e30f970d6629582b9f63a2200efb3a9c2de985b0@157.245.200.161:26656
+- tcp://e558141bb8bdf6364a03bf591c580f98b7c344a7@157.245.206.61:26656
 
 ## Voting power distribution 
 
