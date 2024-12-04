@@ -12,7 +12,7 @@ The guide with instructions to join the network is located inside [here](./MAINN
 ### Seed nodes
 - tcp://72bed9ece709f2d4bc534629146592ef1cd0c459@14.243.91.37:16656
 - tcp://509f1e843cf881650a4151aa804ddd7a7188e88f@195.201.197.246:32656
-- tcp://75f923ea0a181a6ae917a00cfe81d780c3d1d11a@95.216.78.215:26656
+- tcp://1cb0c9813db48396b31976443a1cd88b73e0fb05@95.216.78.215:26656
 - tcp://eaa6bda69dc3281186b5f150c21e62e6e4325d34@152.53.104.210:26656
 - tcp://04affb50117ef548cbf7d1ddb1e6416dec0645ae@namada-mainnet-seed.itrocket.net:14656
 - tcp://4ea9acb8ef3b55147a38513829c20fc8681983af@namada-mainnet.seed.l0vd.com:26056
