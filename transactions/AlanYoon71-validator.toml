@@ -1,0 +1,39 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp8v8045pfyqxwqlzs9dr7szs00e53z8q366847quln30fjnst9asgr0yd3"]
+
+[[validator_account]]
+address = "tnam1qy35wddpxk6wcvj9huqnypts0tkf0sxayqr6a8kn"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "183.97.180.65:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqa5pz9efdyzhfugmumrg5qgajqercsmqtpkmqe5nyel8nm47jvz55qnnr9"
+authorization = "signam1qp4d9s9xqrkf20admhya44xa7elzt9w35x4xsjcj8axvd2mz7q9zruq5w978p2jc2sr7wpumym3g6ymqz200ne4klhesm837hh97h9sr597jrg"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqhpqnsfqee30ln60d46t24p6wveum2n7d48jxf9ajvl96y0hd60vh4klvr"
+authorization = "signam1qrqqrdwwmuvwzptufgucpsl5ex3zqz8hwwdsz78fvcufc63vvx64xyplncu0kw8zagmjpfhdmwqs46gt78avlk9pt6t830flkg6jghg9lhlzkj"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpgk0jgkdcxf59tmu4hycjdjjln4f3p3r389ks7kgpejv9kpesvk26mwc3u"
+authorization = "signam1qrcdmxgxkjx74e9za6mjjpgxjh5jec3zeqt49f0tgqatm7gnnlhvlvgu89fkeak6uhv2udwer0kel4p48kn8levsmpsm9wck5hgz78szwred3q"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypg4kcdxfj6pmlne0uk4ahhx2mgjq9tgxk3slrq8pmzmhz5nl5cuhq6wg5yy"
+authorization = "signam1q9msk7gdrk5e2annvjatzpnhkdyancdvzf24yqk5h27auez8kdlavrtgvweu992ay32zc2dhn3uv2e8gps7jztld7wenw7flrkqxngfmqyyra7lk"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp33clreat0fjspnklhxuez9uz5urgdq44aradyaaj6n233xllga6qg6trzm"
+authorization = "signam1qyv5tz9yzl7su09xzd4eluaz7g2aelxsmr7asq0n7nfd4wpuj3phjqgkz039dpgl747syq20xx7vy0fkrp9lj06m0lkmcy4cpk0sa4w5qqfsq99h"
+
+[validator_account.metadata]
+email = "shwan.yoon@hotmail.com"
+discord_handle = "alanyoon"
+name = "alanyoon"
+
+[validator_account.signatures]
+tpknam1qp8v8045pfyqxwqlzs9dr7szs00e53z8q366847quln30fjnst9asgr0yd3 = "signam1qp9uxxj6gwryz8f2nzst2xh0v66vrxmfl2vehuqy5k8suzcarxdv6qmlrcrp4l534uq5wam4zrt6nw6xdey3j56eq447rnrrsw72sjcvnyhsk5"
